@@ -1,3 +1,4 @@
 rag-env/
 .keys
 sources/
+.cursorignore

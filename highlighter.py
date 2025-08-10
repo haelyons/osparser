@@ -1,4 +1,4 @@
-# pip install PyMuPDF "sentence-transformers>=2.2.0" numpy torch nltk
+# pip install PyMuPDF "sentence-transformers>=2.2.0" numpy torch nltk argparse json 
 
 import fitz  # PyMuPDF
 from sentence_transformers import SentenceTransformer, CrossEncoder
@@ -15,6 +15,7 @@ try:
 except LookupError:
     print("Downloading NLTK's 'punkt' tokenizer...")
     nltk.download('punkt')
+    # nltk.download('punkt/tab')
 
 # For accuracy, we select top-tier models from the MTEB leaderboard.
 # NV-Embed-v2 and BAAI/bge-large-en-v1.5 are SOTA embedding models.
@@ -25,7 +26,6 @@ BI_ENCODER_MODEL = 'BAAI/bge-large-en-v1.5'
 # mixedbread-ai/mxbai-rerank-large-v1 is a top open-source performer.
 CROSS_ENCODER_MODEL = 'mixedbread-ai/mxbai-rerank-large-v1'
 
-# Check for CUDA availability for GPU acceleration
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(f"Using device: {device}")
 
@@ -147,35 +147,40 @@ def highlight_relevant_content_advanced(
     Performs an advanced RAG pipeline and returns a structured JSON
     with core sentences and their context windows.
     """
-    print("Step 1: Loading PDF and splitting into sentences...")
+    print("Loading PDF and splitting into sentences...")
     sentences = load_and_split_sentences(pdf_path)
     if not sentences:
         print("No text could be extracted from the PDF.")
         return []
 
     total_sentences = len(sentences)
-    top_n_final = max(3, min(25, int(np.log(total_sentences) * 6)))
+    # Scale selected sentences logarithmically with sensible bounds
+    top_n_final = int(np.clip(14 * np.log1p(total_sentences), 12, 200))
     print(f"Document has {total_sentences} sentences. Targeting top {top_n_final} relevant chunks.")
 
-    print(f"Step 2: Creating sentence nodes with a window size of {window_size}...")
+    # Ensure rerank headroom scales with final selection size
+    top_k_effective = max(top_k_initial, 3 * top_n_final)
+    print(f"Reranking headroom: considering top {top_k_effective} candidates before re-ranking")
+
+    print(f"Creating sentence nodes with a window size of {window_size}...")
     nodes = create_sentence_window_nodes(sentences, window_size)
     
-    print("Step 3: Embedding individual sentences for precise retrieval...")
+    print("Embedding individual sentences for precise retrieval")
     sentence_embeddings = bi_encoder.encode(
         [node['content'] for node in nodes],
         convert_to_tensor=True,
         show_progress_bar=True
     )
 
-    print("Step 4: Performing initial semantic search...")
+    print("Performing initial semantic search")
     query_embedding = bi_encoder.encode(question, convert_to_tensor=True)
     
     similarities = torch.nn.functional.cosine_similarity(query_embedding, sentence_embeddings)
     
-    top_k_indices = torch.topk(similarities, k=min(top_k_initial, len(nodes))).indices
+    top_k_indices = torch.topk(similarities, k=min(top_k_effective, len(nodes))).indices
     initial_candidates = [nodes[i] for i in top_k_indices.cpu()]
 
-    print(f"Step 5: Re-ranking top {len(initial_candidates)} candidates with a powerful cross-encoder...")
+    print(f"Re-ranking top {len(initial_candidates)} candidates")
     cross_encoder_inputs = [[question, candidate['content']] for candidate in initial_candidates]
     cross_encoder_scores = cross_encoder.predict(cross_encoder_inputs, show_progress_bar=True)
     
@@ -185,10 +190,9 @@ def highlight_relevant_content_advanced(
         reverse=True
     )
 
-    print(f"Step 6: Selecting final {top_n_final} contexts and preparing for highlighting...")
+    print(f"Selecting final {top_n_final} contexts and preparing for highlighting...")
     final_nodes = [candidate for candidate, score in reranked_candidates[:top_n_final]]
     
-    # NEW: Create the structured JSON output
     json_output = [
         {
             "core_sentence": node['content'],
@@ -198,7 +202,7 @@ def highlight_relevant_content_advanced(
         for node in final_nodes
     ]
 
-    print(f"Step 7: Highlighting the {len(final_nodes)} most relevant sentences and their context in the PDF...")
+    print(f"Highlighting the {len(final_nodes)} most relevant sentences and their context in the PDF...")
     highlight_pdf_dual_color(pdf_path, output_pdf_path, final_nodes, sentences, window_size)
 
     return json_output
@@ -216,19 +220,20 @@ if __name__ == '__main__':
     if not os.path.exists(pdf_file):
         print(f"Error: The specified PDF file was not found: {pdf_file}")
     else:
-        # Create a dynamic output file name
         base_name = os.path.splitext(os.path.basename(pdf_file))[0]
-        output_file = f"highlighted_{base_name}.pdf"
+        output_pdf_file = f"highlighted_{base_name}.pdf"
+        output_json_file = f"highlighted_{base_name}.json"
 
         relevant_chunks_json = highlight_relevant_content_advanced(
             pdf_path=pdf_file,
             question=user_question,
-            output_pdf_path=output_file
+            output_pdf_path=output_pdf_file
         )
 
-        print("\n--- Top Relevant Context Windows (JSON Output) ---")
         if relevant_chunks_json:
-            # Print the result as a nicely formatted JSON string
-            print(json.dumps(relevant_chunks_json, indent=2))
+            print(f"\nSaving structured output to {output_json_file}...")
+            with open(output_json_file, 'w', encoding='utf-8') as f:
+                json.dump(relevant_chunks_json, f, indent=2, ensure_ascii=False)
+            print("Output saved successfully.")
         else:
-            print("No relevant chunks were found or the PDF could not be processed.")
+            print("\nNo relevant chunks were found or the PDF could not be processed.")
