@@ -2,3 +2,4 @@ rag-env/
 .keys
 sources/
 .cursorignore
+__pycache__/
