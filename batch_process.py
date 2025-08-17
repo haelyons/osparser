@@ -3,7 +3,6 @@ import subprocess
 import sys
 import re
 
-# Define the 9 survey questions
 QUESTIONS = [
     "What do they say about climate change",
     "What do they say about threats or pressures related to climate change",
@@ -11,12 +10,11 @@ QUESTIONS = [
     "What do they say about gaps in relation to climate change",
     "What do they recommend in relation to climate change, including issues that require further investigation and/or research?",
     "What do they say about ocean acidification",
-    "How does Ocean Acidification impact species, habitats and ecosystems?",
-    "How does CC affect the pressures on the marine environment?",
-    "How does Ocean Acidification affect the pressures on the marine environment?"
+    "How does Ocean Acidification impact species, habitats and ecosystems?"
+    #"How does CC affect the pressures on the marine environment?",
+    #"How does Ocean Acidification affect the pressures on the marine environment?"
 ]
 
-# Define source and output directories
 SOURCE_DIR = 'sources'
 OUTPUT_DIR = 'new_outputs'
 

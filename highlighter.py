@@ -10,7 +10,8 @@ import argparse
 import json
 import re
 from rank_bm25 import BM25Okapi
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
+from collections import defaultdict
 
 try:
     nltk.data.find('tokenizers/punkt')
@@ -35,6 +36,12 @@ KEYWORDS = [
     "extreme weather", "marine heatwave", "hypoxia", "anoxia"
 ]
 
+# Sections to exclude from processing
+EXCLUDED_SECTIONS = [
+    "Key Message", "Executive Summary", "Conclusion", 
+    "Bibliography", "References"
+]
+
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(f"Using device: {device}")
 
@@ -44,26 +51,176 @@ bi_encoder = SentenceTransformer(BI_ENCODER_MODEL, device=device)
 cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL, device=device)
 print("Models initialized successfully.")
 
-def load_and_split_sentences(pdf_path: str) -> List[Dict[str, Any]]:
-    """
-    Loads a PDF and splits its text content into individual sentences,
-    keeping track of their page number and a unique ID.
-    """
+def extract_text_with_styles(pdf_path):
+    """Extract all text with complete style information"""
     doc = fitz.open(pdf_path)
-    all_sentences = []
+    styled_blocks = []
+    
     for page_num, page in enumerate(doc):
-        text = page.get_text("text")
-        sentences = nltk.sent_tokenize(text)
-        for sentence_text in sentences:
-            cleaned_sentence = sentence_text.replace('\n', ' ').strip()
-            if cleaned_sentence:
-                all_sentences.append({
-                    'page_num': page_num,
-                    'content': cleaned_sentence,
-                    'id': len(all_sentences)
-                })
+        blocks = page.get_text("dict")
+        
+        for block in blocks["blocks"]:
+            if block["type"] == 0:  # Text block
+                for line in block["lines"]:
+                    for span in line["spans"]:
+                        text = span["text"].strip()
+                        if not text:
+                            continue
+                        
+                        styled_blocks.append({
+                            'text': text,
+                            'page': page_num,
+                            'bbox': span["bbox"],
+                            'font_size': round(span["size"], 1),
+                            'font_name': span["font"],
+                            'flags': span["flags"],
+                            'is_bold': bool(span["flags"] & 2**4),
+                            'is_italic': bool(span["flags"] & 2**1),
+                            'style_signature': (
+                                round(span["size"], 1),
+                                span["font"],
+                                span["flags"]
+                            )
+                        })
+    
     doc.close()
-    return all_sentences
+    return styled_blocks
+
+def find_excluded_sections_by_style(pdf_path: str) -> Tuple[List[Tuple[int, int, str]], List[Dict]]:
+    """
+    Find excluded sections using style-based approach
+    Returns (excluded_sections, styled_blocks) where excluded_sections contains
+    (start_block_idx, end_block_idx, section_name) tuples
+    """
+    styled_blocks = extract_text_with_styles(pdf_path)
+    
+    # First, identify all potential headers by finding unique header styles
+    header_styles = set()
+    potential_headers = []
+    
+    # Look for text that could be headers (short, potentially capitalized, etc.)
+    for i, block in enumerate(styled_blocks):
+        text = block['text'].strip()
+        if (len(text) < 100 and  # Not too long
+            len(text) > 2 and    # Not too short
+            (text[0].isupper() or  # Starts with capital
+             any(keyword in text.lower() for keyword in ['conclusion', 'reference', 'key message', 'executive', 'summary', 'background', 'method', 'result', 'introduction', 'abstract']))):
+            potential_headers.append((i, block))
+            header_styles.add(block['style_signature'])
+    
+    excluded_sections = []
+    
+    for excluded_name in EXCLUDED_SECTIONS:
+        for i, block in enumerate(styled_blocks):
+            if excluded_name.lower() in block['text'].lower():
+                # Skip table of contents entries - look for bold headers
+                if block['is_bold'] or block['font_size'] >= 12:
+                    # Found an actual excluded section header (not TOC)
+                    section_start = i
+                    section_end = len(styled_blocks) - 1  # Default to end of document
+                    
+                    # Find the next header (any header, regardless of style) after this one
+                    for j in range(i + 1, len(styled_blocks)):
+                        candidate_block = styled_blocks[j]
+                        candidate_text = candidate_block['text'].strip()
+                        
+                        # Check if this looks like a header by comparing with our potential headers
+                        if candidate_block['style_signature'] in header_styles:
+                            # Additional check: is this text short enough to be a header?
+                            if (len(candidate_text) < 100 and 
+                                len(candidate_text) > 2 and
+                                candidate_text[0].isupper() and
+                                (candidate_block['is_bold'] or candidate_block['font_size'] >= 12)):
+                                section_end = j - 1
+                                break
+                    
+                    # Check for overlapping sections and avoid duplicates
+                    overlaps = False
+                    for existing_start, existing_end, _ in excluded_sections:
+                        if (section_start <= existing_end and section_end >= existing_start):
+                            overlaps = True
+                            break
+                    
+                    if not overlaps:
+                        excluded_sections.append((section_start, section_end, block['text']))
+    
+    return excluded_sections, styled_blocks
+
+def convert_styled_blocks_to_sentences(styled_blocks: List[Dict]) -> List[Dict[str, Any]]:
+    """Convert styled blocks back to sentence format for compatibility with existing code"""
+    sentences = []
+    
+    for i, block in enumerate(styled_blocks):
+        # Split text into sentences if it's long
+        if len(block['text']) > 100:
+            # Try to split into sentences
+            block_sentences = nltk.sent_tokenize(block['text'])
+            for sent in block_sentences:
+                if sent.strip():  # Only add non-empty sentences
+                    sentences.append({
+                        'page_num': block['page'],
+                        'content': sent.strip(),
+                        'id': len(sentences),
+                        'is_excluded': False,
+                        'original_block_idx': i,
+                        'bbox': block['bbox'],  # Preserve position info
+                        'styled_block': block  # Keep reference to original styled block
+                    })
+        else:
+            sentences.append({
+                'page_num': block['page'],
+                'content': block['text'],
+                'id': len(sentences),
+                'is_excluded': False,
+                'original_block_idx': i,
+                'bbox': block['bbox'],  # Preserve position info
+                'styled_block': block  # Keep reference to original styled block
+            })
+    
+    return sentences
+
+def mark_excluded_sentences(sentences: List[Dict], excluded_sections: List[Tuple[int, int, str]], styled_blocks: List[Dict]) -> List[Tuple[int, int, str]]:
+    """Mark sentences that fall within excluded sections and return sentence-level boundaries"""
+    sentence_excluded_sections = []
+    
+    for start_block, end_block, section_name in excluded_sections:
+        # Find sentence indices that correspond to these blocks
+        start_sent_idx = None
+        end_sent_idx = None
+        
+        for i, sent in enumerate(sentences):
+            block_idx = sent.get('original_block_idx', -1)
+            
+            # Only mark sentences that are actually within the excluded block range
+            if start_block <= block_idx <= end_block:
+                if start_sent_idx is None:
+                    start_sent_idx = i
+                end_sent_idx = i
+                sentences[i]['is_excluded'] = True
+                sentences[i]['excluded_section'] = section_name
+        
+        if start_sent_idx is not None and end_sent_idx is not None:
+            sentence_excluded_sections.append((start_sent_idx, end_sent_idx, section_name))
+    
+    return sentence_excluded_sections
+
+def load_and_split_sentences(pdf_path: str) -> Tuple[List[Dict[str, Any]], List[Tuple[int, int, str]]]:
+    """
+    Loads a PDF and splits its text content into individual sentences using style-based section detection.
+    
+    Returns:
+        Tuple of (all_sentences, excluded_sections)
+    """
+    # Use style-based approach to find excluded sections
+    excluded_sections, styled_blocks = find_excluded_sections_by_style(pdf_path)
+    
+    # Convert styled blocks to sentences for compatibility
+    all_sentences = convert_styled_blocks_to_sentences(styled_blocks)
+    
+    # Mark excluded sentences and get sentence-level boundaries
+    sentence_excluded_sections = mark_excluded_sentences(all_sentences, excluded_sections, styled_blocks)
+    
+    return all_sentences, sentence_excluded_sections
 
 def create_sentence_window_nodes(
     all_sentences: List[Dict[str, Any]],
@@ -71,17 +228,52 @@ def create_sentence_window_nodes(
 ) -> List[Dict[str, Any]]:
     """
     Creates nodes for each sentence and attaches a "window" of surrounding
-    sentences as metadata.
+    sentences as metadata. Filters out excluded sections and ensures 
+    windows don't contain excluded content.
     """
+    # Filter out excluded sentences for processing
+    included_sentences = [s for s in all_sentences if not s.get('is_excluded', False)]
+    
+    # Reassign sequential IDs to included sentences for proper indexing
+    for i, sentence in enumerate(included_sentences):
+        sentence['filtered_id'] = i
+    
     nodes = []
-    for i, sentence_data in enumerate(all_sentences):
-        start_index = max(0, i - window_size)
-        end_index = min(len(all_sentences), i + window_size + 1)
-        window_text = " ".join(
-            [all_sentences[j]['content'] for j in range(start_index, end_index)]
-        )
+    for i, sentence_data in enumerate(included_sentences):
+        # Build window carefully, respecting exclusion boundaries
+        window_sentences = []
+        original_id = sentence_data['id']
+        
+        # Look backwards for context, stopping at excluded content
+        for offset in range(window_size, 0, -1):
+            context_id = original_id - offset
+            if context_id >= 0 and context_id < len(all_sentences):
+                context_sentence = all_sentences[context_id]
+                if not context_sentence.get('is_excluded', False):
+                    window_sentences.append(context_sentence['content'])
+                else:
+                    # Stop if we hit excluded content
+                    break
+        
+        # Add the core sentence
+        window_sentences.append(sentence_data['content'])
+        
+        # Look forwards for context, stopping at excluded content
+        for offset in range(1, window_size + 1):
+            context_id = original_id + offset
+            if context_id < len(all_sentences):
+                context_sentence = all_sentences[context_id]
+                if not context_sentence.get('is_excluded', False):
+                    window_sentences.append(context_sentence['content'])
+                else:
+                    # Stop if we hit excluded content
+                    break
+        
+        window_text = " ".join(window_sentences)
+        
         nodes.append({
-            'id': sentence_data['id'],
+            'id': i,  # Use sequential ID for included sentences
+            'original_id': sentence_data['id'],  # Keep track of original ID
             'content': sentence_data['content'],
             'page_num': sentence_data['page_num'],
             'window': window_text
@@ -156,54 +348,75 @@ def highlight_pdf_dual_color(
     highlight_nodes: List[Dict[str, Any]],
     all_sentences: List[Dict[str, Any]],
     window_size: int,
-    keywords: List[str] = None
+    keywords: List[str] = None,
+    excluded_sections: List[Tuple[int, int, str]] = None
 ):
     """
     Opens a PDF, highlights core sentences (bright yellow) and their
-    context windows (light yellow), and optionally highlights keywords (green),
-    then saves the result.
+    context windows (light yellow), optionally highlights keywords (green),
+    and highlights excluded sections (red), then saves the result.
     """
     doc = fitz.open(pdf_path)
     CORE_HIGHLIGHT_COLOR = (1, 1, 0)  # Bright yellow
     CONTEXT_HIGHLIGHT_COLOR = (0.95, 0.95, 0.6)  # Light yellow
     KEYWORD_HIGHLIGHT_COLOR = (0.6, 1, 0.6)  # Light green
+    EXCLUDED_HIGHLIGHT_COLOR = (1, 0.6, 0.6)  # Light red
 
     processed_sentences = set()
     for node_data in highlight_nodes:
-        core_id = node_data['id']
-        start_idx = max(0, core_id - window_size)
-        end_idx = min(len(all_sentences), core_id + window_size + 1)
+        original_id = node_data.get('original_id', node_data['id'])
         
-        for i in range(start_idx, end_idx):
-            if i == core_id or i in processed_sentences:
-                continue
+        # Find the original sentence
+        target_sentence = None
+        for sent in all_sentences:
+            if sent['id'] == original_id:
+                target_sentence = sent
+                break
+        
+        if target_sentence and not target_sentence.get('is_excluded', False):
+            # Highlight context window
+            start_idx = max(0, original_id - window_size)
+            end_idx = min(len(all_sentences), original_id + window_size + 1)
             
-            sentence_data = all_sentences[i]
-            page_num = sentence_data['page_num']
-            text = sentence_data['content']
-            
+            for i in range(start_idx, end_idx):
+                if i == original_id or i in processed_sentences:
+                    continue
+                
+                if i < len(all_sentences) and not all_sentences[i].get('is_excluded', False):
+                    sentence_data = all_sentences[i]
+                    page_num = sentence_data['page_num']
+                    text = sentence_data['content']
+                    
+                    if page_num < len(doc):
+                        page = doc.load_page(page_num)
+                        areas = page.search_for(text, quads=True)
+                        if areas:
+                            annot = page.add_highlight_annot(areas)
+                            annot.set_colors(stroke=CONTEXT_HIGHLIGHT_COLOR)
+                            annot.update()
+                            processed_sentences.add(i)
+
+    for node_data in highlight_nodes:
+        original_id = node_data.get('original_id', node_data['id'])
+        
+        # Find the original sentence for core highlighting
+        target_sentence = None
+        for sent in all_sentences:
+            if sent['id'] == original_id:
+                target_sentence = sent
+                break
+        
+        if target_sentence and not target_sentence.get('is_excluded', False):
+            page_num = target_sentence['page_num']
+            text = target_sentence['content']
+
             if page_num < len(doc):
                 page = doc.load_page(page_num)
                 areas = page.search_for(text, quads=True)
                 if areas:
                     annot = page.add_highlight_annot(areas)
-                    annot.set_colors(stroke=CONTEXT_HIGHLIGHT_COLOR)
+                    annot.set_colors(stroke=CORE_HIGHLIGHT_COLOR)
                     annot.update()
-                    processed_sentences.add(i)
-
-    for node_data in highlight_nodes:
-        core_id = node_data['id']
-        sentence_data = all_sentences[core_id]
-        page_num = sentence_data['page_num']
-        text = sentence_data['content']
-
-        if page_num < len(doc):
-            page = doc.load_page(page_num)
-            areas = page.search_for(text, quads=True)
-            if areas:
-                annot = page.add_highlight_annot(areas)
-                annot.set_colors(stroke=CORE_HIGHLIGHT_COLOR)
-                annot.update()
 
     # Highlight keywords if provided
     if keywords:
@@ -222,6 +435,39 @@ def highlight_pdf_dual_color(
                     annot = page.add_highlight_annot(areas)
                     annot.set_colors(stroke=KEYWORD_HIGHLIGHT_COLOR)
                     annot.update()
+
+    # Highlight excluded sections in red using position-based highlighting
+    if excluded_sections:
+        print(f"Highlighting {len(excluded_sections)} excluded sections in red...")
+        highlighted_areas = set()  # Track highlighted areas to avoid duplicates
+        
+        for start_idx, end_idx, section_name in excluded_sections:
+            print(f"  Highlighting section '{section_name}' (sentences {start_idx}-{end_idx})")
+            excluded_highlights_count = 0
+            
+            for i in range(start_idx, min(end_idx + 1, len(all_sentences))):
+                sentence_data = all_sentences[i]
+                
+                # Only highlight if this sentence is actually marked as excluded
+                if sentence_data.get('is_excluded', False):
+                    page_num = sentence_data['page_num']
+                    
+                    if page_num < len(doc) and 'bbox' in sentence_data:
+                        bbox = sentence_data['bbox']
+                        # Create a unique identifier for this highlight area
+                        area_id = (page_num, tuple(bbox))
+                        
+                        if area_id not in highlighted_areas:
+                            page = doc.load_page(page_num)
+                            # Use the exact bounding box from the styled block
+                            rect = fitz.Rect(bbox)
+                            annot = page.add_highlight_annot(rect)
+                            annot.set_colors(stroke=EXCLUDED_HIGHLIGHT_COLOR)
+                            annot.update()
+                            highlighted_areas.add(area_id)
+                            excluded_highlights_count += 1
+            
+            print(f"    Applied {excluded_highlights_count} position-based highlights for '{section_name}'")
 
     doc.save(output_path, garbage=4, deflate=True, clean=True)
     doc.close()
@@ -247,7 +493,18 @@ def highlight_relevant_content_advanced(
                Higher values favor semantic similarity.
     """
     print("Loading PDF and splitting into sentences...")
-    sentences = load_and_split_sentences(pdf_path)
+    sentences, excluded_sections = load_and_split_sentences(pdf_path)
+    
+    if excluded_sections:
+        print(f"Found {len(excluded_sections)} excluded sections:")
+        for start_idx, end_idx, section_name in excluded_sections:
+            sentence_count = end_idx - start_idx + 1
+            print(f"  - '{section_name}': {sentence_count} sentences excluded")
+        total_excluded = sum(end_idx - start_idx + 1 for start_idx, end_idx, _ in excluded_sections)
+        print(f"Total excluded sentences: {total_excluded} out of {len(sentences)}")
+    else:
+        print("No excluded sections found.")
+    
     if not sentences:
         print("No text could be extracted from the PDF.")
         return {
@@ -339,7 +596,30 @@ def highlight_relevant_content_advanced(
     u_shaped_output = create_u_shaped_ranking(json_output.copy())
     
     print(f"Highlighting the {len(final_nodes)} most relevant sentences and their context in the PDF...")
-    highlight_pdf_dual_color(pdf_path, output_pdf_path, final_nodes, sentences, window_size, KEYWORDS)
+    highlight_pdf_dual_color(pdf_path, output_pdf_path, final_nodes, sentences, window_size, KEYWORDS, excluded_sections)
+
+    # Create excluded content debugging information
+    excluded_content_debug = []
+    for start_idx, end_idx, section_name in excluded_sections:
+        section_sentences = []
+        for i in range(start_idx, min(end_idx + 1, len(sentences))):
+            if sentences[i].get('is_excluded', False):
+                section_sentences.append({
+                    "sentence_id": i,
+                    "page_number": sentences[i]['page_num'],
+                    "content": sentences[i]['content'][:100] + "..." if len(sentences[i]['content']) > 100 else sentences[i]['content'],
+                    "full_length": len(sentences[i]['content'])
+                })
+        
+        excluded_content_debug.append({
+            "section_name": section_name,
+            "start_sentence": start_idx,
+            "end_sentence": end_idx,
+            "sentence_count": len(section_sentences),
+            "page_range": f"{min(s['page_number'] for s in section_sentences) if section_sentences else 'N/A'}-{max(s['page_number'] for s in section_sentences) if section_sentences else 'N/A'}",
+            "sentences": section_sentences[:5],  # Only show first 5 for brevity
+            "total_sentences_in_section": len(section_sentences)
+        })
 
     return {
         "standard_ranking": json_output,
@@ -348,12 +628,22 @@ def highlight_relevant_content_advanced(
             "total_keywords_found": len(document_keyword_hits),
             "keyword_counts": document_keyword_hits
         },
+        "excluded_content_debug": excluded_content_debug,
         "metadata": {
             "total_sentences": len(sentences),
             "chunks_selected": len(final_nodes),
             "window_size": window_size,
             "bm25_enabled": use_bm25,
-            "semantic_weight": alpha if use_bm25 else 1.0
+            "semantic_weight": alpha if use_bm25 else 1.0,
+            "excluded_sections": [
+                {
+                    "section_name": section_name,
+                    "start_sentence": start_idx,
+                    "end_sentence": end_idx,
+                    "sentence_count": end_idx - start_idx + 1
+                } for start_idx, end_idx, section_name in excluded_sections
+            ],
+            "total_excluded_sentences": sum(end_idx - start_idx + 1 for start_idx, end_idx, _ in excluded_sections)
         }
     }
 
@@ -381,9 +671,9 @@ if __name__ == '__main__':
         output_json_file = args.output_json if args.output_json else f"highlighted_{base_name}.json"
         
         # Create output directories if they don't exist
-        if output_pdf_file:
+        if output_pdf_file and os.path.dirname(output_pdf_file):
             os.makedirs(os.path.dirname(output_pdf_file), exist_ok=True)
-        if output_json_file:
+        if output_json_file and os.path.dirname(output_json_file):
             os.makedirs(os.path.dirname(output_json_file), exist_ok=True)
 
         result = highlight_relevant_content_advanced(
