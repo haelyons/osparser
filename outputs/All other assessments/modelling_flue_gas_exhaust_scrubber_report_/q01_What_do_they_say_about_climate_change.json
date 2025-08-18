@@ -1,0 +1,1525 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 64,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 64,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "values in parentheses indicate the share of emissions in relation to global 2020",
+      "context_window": "21 Table 2. Emission and discharge totals for the combined OSPAR regions (I-V). The values in parentheses indicate the share of emissions in relation to global 2020 modeling results. Species",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These four contributions all make ICCT estimates larger than what the corresponding STEAM totals",
+      "context_window": "It is likely that this effect alone will increase the ICCT estimates for 2020 by 10-20%. These four contributions all make ICCT estimates larger than what the corresponding STEAM totals would be. However, there is a significant balancing effect, which comes from the use of larger effluent discharge rate of STEAM.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Technology. The content represents the authors’ opinion and should not be interpreted to represent",
+      "context_window": "This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities (EIHA) by the Finnish Meteorological Institute in cooperation with Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA view.",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts",
+      "context_window": "These were treated as small vessels, so as not to overestimate their contribution to emission totals. Table 1 reports the emission totals for the combined OSPAR domain. Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. OSPAR Commission, 2022",
+      "page_number": 20,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "Assessment Model (STEAMv3.5) of the Finnish Meteorological Institute.",
+      "context_window": "OSPAR regions I-V, Exclusive Economic Zone (EEZ) and territorial water (12 nautical miles from the coastline) contributions. The modeling approach used in this work was the Ship Traffic Emission Assessment Model (STEAMv3.5) of the Finnish Meteorological Institute. 3 Description of OSPAR Regions",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These data are based on global",
+      "context_window": "Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. Global EGCS hotspots are concentrated along the main shipping lanes from China through the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tonnes en 2020.",
+      "context_window": "Le volume total des rejets d'effluents provenant des systèmes d'épuration des gaz d'échappement (EGCS) dans toutes les Régions OSPAR était d'environ 622 millions de tonnes en 2020. • Sur ce total, 99,9% provenaient de systèmes EGCS en boucle ouverte.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effluent modeling. This can be used to compare the ICCT results(Osipova et al., 2021) to our work.",
+      "context_window": "Regions. Table 4 includes a comparison to the recent work of the ICCT, a study which includes global EGCS effluent modeling. This can be used to compare the ICCT results(Osipova et al., 2021) to our work. There are some differences between the ICCT study setup and this one, which need to be considered, however.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities",
+      "context_window": "process. Disclaimer This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities (EIHA) by the Finnish Meteorological Institute in cooperation with Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMERGE: Evaluation, control and Mitigation",
+      "context_window": "Deliverable 2.1 - Database and analysis on waste stream pollutant concentrations, and emission factors. EMERGE: Evaluation, control and Mitigation of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No 74990.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For countries having",
+      "context_window": "Table 4. Open and closed loop EGCS discharges in each EEZ (200 NM) for OSPAR countries. For countries having areas inside and outside of the OSPAR region, both contributions are given. Asterisk (*) indicates the",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR domain (areas I-V). Considering the limited water area of the English Channel, and that about",
+      "context_window": "The North Sea and the English Channel are included in the OSPAR II domain. Effluent releases from EGCS are the highest of all OSPAR Regions and represent almost half of the discharge in the whole OSPAR domain (areas I-V). Considering the limited water area of the English Channel, and that about one third of the effluent discharges of the OSPAR II area occur there, the English Channel is probably the most heavily impacted sea area in Europe regarding the EGCS discharge.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains.",
+      "context_window": "totals. Table 1 reports the emission totals for the combined OSPAR domain. Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. OSPAR Commission, 2022 21",
+      "page_number": 20,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "uncertainty to EGCS releases very close to the coast. This will increase ICCT totals in",
+      "context_window": "whereas the ICCT study clearly includes some contributions from this traffic. The global coastline resolved in STEAM work uses a 1 km water mask, which may contribute small uncertainty to EGCS releases very close to the coast. This will increase ICCT totals in comparison to this work. ",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "will yield about 30 million m",
+      "context_window": "***German EEZ was assumed to be an open loop ban area. Multiplying closed loop totals with a factor 90/0.45 will yield about 30 million m 3 , which of similar magnitude as the ICCT estimate.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to",
+      "context_window": "Combined discharge from both open and closed loop EGCS in various sea regions. These sea regions are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to OSPAR Regions. The bleed off from closed loop systems is significantly smaller in volume than the total discharge",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Zinc loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA",
+      "context_window": "This report was prepared for OSPAR Environmental Impacts of Human Activities (EIHA) group by the Finnish Meteorological Institute in cooperation with the Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA view. Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emitted. About 60000",
+      "context_window": "the MMSI code. However, these vessels were responsible for 83% of the CO 2 emitted. About 60000 vessels transmitting only MMSI code could not be identified from the existing ship database of IHS Markit.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as proxy for PAH-concentrations (Linders et al., 2019, Schmolke et al., 2020). With respect to",
+      "context_window": "PAH PHE as proxy for PAH-concentrations (Linders et al., 2019, Schmolke et al., 2020). With respect to discrete sampling and chemical characterization of scrubber discharge water in lab, a recent study by Du et al. (2022) concludes that reported data on EPA 16 PAHs, not including alkylated PAHs, may",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a comparison with riverine input data (year 2019) from OSPAR RID were made with respect to",
+      "context_window": "Contaminant loads in OSPAR Regions Contaminant loads of metals and PAHs were calculated for OSPAR regions (Table 5 and Table 6) and a comparison with riverine input data (year 2019) from OSPAR RID were made with respect to cadmium, copper, lead, mercury and zinc, within OSPAR regions I-IV that were available in the RID- data (Table 7 and Table 8). Data from the following countries were available in the RID database:",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CO2 from ships sailing all the sea areas, not just OSPAR domains.",
+      "context_window": ".................................................................................................................................................... 17 Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. ...................................................... 20 Figure 12. Combined discharge from both open and closed loop EGCS in various sea regions. These",
+      "page_number": 4,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Copper loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Mercury loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Jalkanen et al., 2021a). About 38% of the 622 million m",
+      "context_window": "3 ) (Jalkanen et al., 2021a). About 38% of the 622 million m 3 EGCS discharge occurs in the sea areas",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In our previous work comparisons of modeled fuel consumption have been compared with fuel",
+      "context_window": "arise from overall power prediction (kilowatts) used by ships, discharge rates from open/closed loop systems, geospatial variation of discharges and completeness of ship fleet data. In our previous work comparisons of modeled fuel consumption have been compared with fuel reports required by the EU MRV mechanism (European Union, 2016). Although these comparisons do not directly provide information of air emissions or discharges, they provide a benchmark for",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental",
+      "context_window": "analysis of effluent composition and dispersion modeling to determine where the sea currents carry the discharge. This work will be carried out in the ongoing H2020/EMERGE project 2020-2024 (https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering relevant regulation. For the EU this necessitates the use of IMO MARPOL Annex 1, 4, 5 and 6 rules,",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Cadmium loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "do not directly provide information of air emissions or discharges, they provide a benchmark for",
+      "context_window": "In our previous work comparisons of modeled fuel consumption have been compared with fuel reports required by the EU MRV mechanism (European Union, 2016). Although these comparisons do not directly provide information of air emissions or discharges, they provide a benchmark for assessing the accuracy of predicted fuel consumption and vessel power use. The most recent MRV comparison can be found in the latest HELCOM Maritime emission report (Jalkanen et al., 2021b). In",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depending on the EGCS type. However, it is probable that large annual fuel consumption and",
+      "context_window": "Both economic and environmental aspects will have an impact on EGCS installations. National rules banning open loop discharge in various ports could make EGCS problematic in these areas, depending on the EGCS type. However, it is probable that large annual fuel consumption and significant price difference between high and low sulfur fuel grades make EGCS attractive (Reynolds and Caughlan, 2011). Indeed, based on global modeling of ship emissions, it seems that a larger",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based",
+      "context_window": "This graph is based on global scrubber modeling done with the STEAM model. ....................... 10 Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. .................................................................................................................. 11",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Acknowledgments",
+      "context_window": "The estimated total load of PAH:s is close to 7 times higher than the mass of EPA 16 PAH, suggesting that e.g. alkylated PAHs should also be considered. Acknowledgments We would like to thank the Swedish Agency for Marine and Water Management (SwAM) for an opportunity to contribute to this study. This study has been performed with financial contribution",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on global STEAM modeling.",
+      "context_window": "....................... 10 Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. .................................................................................................................. 11 Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of",
+      "context_window": "2021). .................................................................................................................................................... 17 Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. ...................................................... 20",
+      "page_number": 4,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "Both economic and environmental aspects will have an impact on EGCS installations. National rules",
+      "context_window": "OSPAR Commission, 2022 11 Both economic and environmental aspects will have an impact on EGCS installations. National rules banning open loop discharge in various ports could make EGCS problematic in these areas, depending on the EGCS type. However, it is probable that large annual fuel consumption and",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research",
+      "context_window": "waste stream pollutant concentrations, and emission factors. EMERGE: Evaluation, control and Mitigation of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No 74990. OSPAR Commission, 2022",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples",
+      "context_window": "OL ±95%CI # analyzed samples CL Average CL ±95%CI",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effluent release which occurs close to the coastlines (Figure 25). According to STEAM predictions,",
+      "context_window": "Results by 12 NM zones Discharges inside the 12 nautical mile zones were also investigated, to determine the share of EGCS effluent release which occurs close to the coastlines (Figure 25). According to STEAM predictions, about 21% of the effluent is released inside the 12 NM polygons. Totals for each country are given in",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global EGCS Open loop discharge on various sea regions during 2020.",
+      "context_window": "Area Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is relative to the discharge volume. Sea region definitions follow those from IHO.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enable improved comparison between the environmental impact following use of scrubbers versus",
+      "context_window": "OSPAR Commission, 2022 41 enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment (ICES 2020, Hassellöv et al., 2020 and references therein, Teuchies et al., 2020, Thor et",
+      "context_window": "and polycyclic aromatic hydrocarbons, are washed out from the exhausts and discharged to the sea. There is growing concern that discharges from wide-scale use of EGCS pose a threat for the marine environment (ICES 2020, Hassellöv et al., 2020 and references therein, Teuchies et al., 2020, Thor et al. 2021). In some ports, regions and countries restrictions apply with respect to discharge from EGCS, but there is no general harmonization of current restrictions",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering",
+      "context_window": "the discharge. This work will be carried out in the ongoing H2020/EMERGE project 2020-2024 (https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering relevant regulation. For the EU this necessitates the use of IMO MARPOL Annex 1, 4, 5 and 6 rules, EU Sulphur directive requirements as well as the Ballast Water Management Convention (BWMC)",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is",
+      "context_window": "on global STEAM modeling. .................................................................................................................. 11 Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is relative to the discharge volume. Sea region definitions follow those from IHO.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission",
+      "context_window": "and relevant emission regulation. Figure 9.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere (Lunde Hermansson et al. 2021). However, beside SO",
+      "context_window": "X ) emissions to the atmosphere (Lunde Hermansson et al. 2021). However, beside SO X , other contaminants, e.g. metals",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Lead loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Modelling of discharges to the marine environment from open",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2009, 2012, 2021; Johansson et al., 2017, 2013) to predict vessel power use and EGCS effluent",
+      "context_window": "Modeling approach In this work, the Ship Traffic Emissions Assessment Model (STEAMv3.5) was used (Jalkanen et al., 2009, 2012, 2021; Johansson et al., 2017, 2013) to predict vessel power use and EGCS effluent Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine Environment of the North-East Atlantic (the ‘OSPAR",
+      "context_window": "3 Description of OSPAR Regions The Convention for the Protection of the Marine Environment of the North-East Atlantic (the ‘OSPAR Convention') includes five (I-V) regions depicted in Figure 6. Area I extends from the southernmost tip of Greenland to Franz-Josef land, and includes the Faroe Islands in the south. OSPAR Region II",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "# analyzed",
+      "context_window": "CL Average CL ±95%CI # analyzed sampels (µg/L)",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "when compared to the share of CO",
+      "context_window": "0.1 (24.8%) It is noteworthy that the combined OSPAR domain has a relatively large share of methane emissions, when compared to the share of CO 2 . This reflects the increased use of Liquid Natural Gas (LNG) as",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") emissions to the",
+      "context_window": "alternative way to comply with current limits regarding sulphur oxide (SO X ) emissions to the atmosphere (Lunde Hermansson et al. 2021). However, beside SO X",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Conditions”",
+      "context_window": "better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions” 4 , this type of effort is initiated.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold",
+      "context_window": "low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions” 4",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current study.",
+      "context_window": "overseas territories are not considered in this study. This will increase the ICCT discharge totals because remote overseas territories outside the OSPAR Regions are not included in the current study. Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relevant",
+      "context_window": "area and relevant emission regulation.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Modelling of discharges to the",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(IMO) Fuel Availability Report (Faber et al., 2016), the predicted uptake of EGCS in the global fleet",
+      "context_window": ", 2020, was predicted to increase the number of EGCS significantly. According to the International Maritime Organization (IMO) Fuel Availability Report (Faber et al., 2016), the predicted uptake of EGCS in the global fleet would reach 3800 vessels by January 2020. According to IMO Global Integrated Shipping Information System (GISIS) notifications, over 1200 EGCS systems were installed by that time, but since then the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "apports fluviaux dans la région OSPAR montre que la contribution relative des",
+      "context_window": "La comparaison des charges modélisées de cadmium, cuivre, plomb, mercure et zinc provenant des rejets des EGCS avec les données de surveillance disponibles sur les apports fluviaux dans la région OSPAR montre que la contribution relative des épurateurs est principalement de l'ordre de 1000-quantiles, mais jusqu'à 5,2% (cuivre),",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Looking at the",
+      "context_window": "total share of contaminant load from open loop discharge, relative OSPAR-reported riverine load, in the entire OSPAR I-IV area, ranges between 0.5% (lead) to 1.9% (zinc) (Table 8 and 9). Looking at the respective OSPAR regions, OSPAR III is the only region where the open loop discharge for all five contaminants is below 0.6%, while OSPAR I, II and IV, show a relative cadmium contribution around",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea regions are defined by the International Hydrographic Organization (IHO) and they are not",
+      "context_window": "...................................................... 20 Figure 12. Combined discharge from both open and closed loop EGCS in various sea regions. These sea regions are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to OSPAR Regions. ............................................................................................... 22",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for",
+      "context_window": "41 enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "better understanding of the possible environmental impact resulting from all available fuel",
+      "context_window": "enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions”",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 890/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the global situation (Jalkanen et al., 2021a).",
+      "context_window": "fleet which operates on Baltic Sea area has a significantly higher share of hybrid systems (Figure 18). Most of the vessels with a hybrid EGCS operate in the Baltic Sea area, which is very different from the global situation (Jalkanen et al., 2021a). Figure 18. EGCS installations by equipment type, global fleet. Based on data collected from IMO GISIS on Aug 8th 2021.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "frequently reported (Ytreberg et al., 2020).",
+      "context_window": "Contaminants in EGCS discharge water EGCS discharge water is a complex chemical mixture, where metals and PAHs are the most frequently reported (Ytreberg et al., 2020). Open loop discharge water is also acidic, typically pH<3, while pH in closed loop process water is adjusted (to maintain sulphur removal capacity) by addition",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reporting (EMSA and EEA, 2021; Jalkanen et al., 2021b, 2021a). For ecotoxicological analysis and",
+      "context_window": "compounds. The modeling approach applied in this study has been used previously e.g in HELCOM and EMTER reporting (EMSA and EEA, 2021; Jalkanen et al., 2021b, 2021a). For ecotoxicological analysis and environmental impact assessments, this work needs to be combined with complementary laboratory analysis of effluent composition and dispersion modeling to determine where the sea currents carry",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020.",
+      "context_window": "Figure 3. Estimated propulsion fuel consumption of the global active scrubber fleet (2903 vessels) in 2020. This graph is based on global scrubber modeling done with the STEAM model. ....................... 10",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "# analyzed",
+      "context_window": "OL Average OL ±95%CI # analyzed samples CL Average",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "(kg) OSPAR’s Quality Status Report 2023 OSPAR Secretariat The Aspect",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effluent discharge rate used in the OSPAR study has about 50% uncertainty, which was given by",
+      "context_window": "conditions. On inventory level, for 1604 ships, a deviation of 7.8% (over prediction) was observed. Full analysis of model performance can be found elsewhere (Jalkanen et al., 2021b). The effluent discharge rate used in the OSPAR study has about 50% uncertainty, which was given by Teuchies et al (Teuchies et al., 2020) in their study of 51 vessels equipped with an EGCS. This, and the overall uncertainty of the instantaneous power prediction together, will probably lead to total",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "various pollutants to the sea.",
+      "context_window": "3 ) which need to be combined with water sampling and laboratory analysis to yield mass flux of various pollutants to the sea. The motivation for volumetric description of discharges is the complex chemical composition of EGCS effluents which would require tracking of potentially dozens of",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La Convention pour la protection du milieu marin",
+      "context_window": "United Kingdom. Convention OSPAR La Convention pour la protection du milieu marin de l´Atlantique du Nord-Est, dite Convention OSPAR, a été ouverte à la signature à la réunion",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shiffer and Liber 2017a and b; Watt et al. 2018), suggesting that water quality guidelines with",
+      "context_window": "closed loop discharge volumes for Germany calculated in Table 4. Although there are limited data on vanadium toxicity, there are an increasing number of studies (e.g. Shiffer and Liber 2017a and b; Watt et al. 2018), suggesting that water quality guidelines with respect to vanadium should be developed. Such development would also call for inclusion of vanadium in marine monitoring programs. Other elements that could be interesting to monitor are",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The use of 2020 global data",
+      "context_window": "the discharge totals. According to our previous work, fuel consumption from inland waterway shipping visible in AIS is in the order of few percent from global totals. The use of 2020 global data will include the effect of the Covid19 pandemic, which is not present in the 2019 data ICCT used. It is",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Image from Johansson et al",
+      "context_window": "Figure 9. Schematic summary of various modeling steps involved in STEAM work. Image from Johansson et al (2017). 4.1",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment from open",
+      "context_window": "2022 Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Benz(a)anthrancene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Benz(a)anthrancene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The introduction of global sulfur cap of 0.5% for marine fuels on Jan 1",
+      "context_window": "1.1 EGCS installation statistics The introduction of global sulfur cap of 0.5% for marine fuels on Jan 1 st , 2020, was predicted to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ytreberg et al.",
+      "context_window": "on riverine, atmospheric, and point sources, should be considered as crude estimates, yet the conclusion that scrubbers are a substantial source of contaminants to the Baltic Sea is indisputable. Ytreberg et al. (2022, preprint pending revision) conclude that switching to operation in closed loop mode, could reduce the loads of most PAHs and metals with up to 90%.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "port areas which have been introduced since January 2020. 7 Summary Discharges from open loop systems are over 99.9% from the total EGCS discharge, which were estimated to be 622 million cubic meters in 2020 inside the OSPAR overall domain (I-V). Of this",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Based on recent studies (Teuchies et al., 2020, and Ytreberg et al.,",
+      "context_window": "would be. However, there is a significant balancing effect, which comes from the use of larger effluent discharge rate of STEAM. Based on recent studies (Teuchies et al., 2020, and Ytreberg et al., 2020), discharge rates of 90 and 0.45 m 3",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Uncertainties",
+      "context_window": "43 6 Uncertainties There are several contributions to the overall uncertainty of modeled EGCS discharge totals. These arise from overall power prediction (kilowatts) used by ships, discharge rates from open/closed loop",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Benz(a)anthrancene 0.281",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are also large variations and uncertainties in the reported concentrations of contaminants in",
+      "context_window": "This study is less likely to be impacted, because EGCS data were obtained over seven months after the end of the year 2020. There are also large variations and uncertainties in the reported concentrations of contaminants in scrubber discharge water; originating both from sampling procedures (including time from sampling to analysis, particle removal etc) and the expected natural variations of the scrubber water due to",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.000601 0.00136 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ytreberg et al., (2022 preprint, pending revision), made a comparison for the Baltic Sea. Following",
+      "context_window": "analysis (Yim et al. 2011). To put the contaminant load to the environment from scrubbers in context to other sources, Ytreberg et al., (2022 preprint, pending revision), made a comparison for the Baltic Sea. Following the use of copper based antifouling paints (509 tonnes Cu/yr), operation of scrubbers in open loop mode (7 tonnes Cu/yr) made shipping the single most dominant identified sources of hazardous",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Benz(a)anthrancene 0.210",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "Belgium 1 900 0.0 3 078 Denmark",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Anthracene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Anthracene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "8.09",
+      "context_window": "55.8 14.1 8.09 2.04 46.7",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.00136 0.0 0.0 Dibenzo(a,h)anthracene 0.764",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "31.9 10.5 0.0 0.0 0.0",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "incomplete AIS coverage, uncertainties in modeling specific fuel oil consumption and ambient",
+      "context_window": "short, the average absolute deviation involved in predicted STEAM fuel consumption for any vessel was 20%, which covers all sources of uncertainty concerning gaps in vessel technical data, incomplete AIS coverage, uncertainties in modeling specific fuel oil consumption and ambient conditions. On inventory level, for 1604 ships, a deviation of 7.8% (over prediction) was observed. Full analysis of model performance can be found elsewhere (Jalkanen et al., 2021b).",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.09",
+      "context_window": "0.0296 26 2.09 5.28 6",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.09",
+      "context_window": "2.29 5.74 1.09 2.75 0.205",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Anthracene 0.201",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "10.5 0.0 0.0 0.0 0.0",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Anthracene 0.150",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Dibenzo(a,h)anthracene 0.0326",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "291 98.4 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.09",
+      "context_window": "24.2 22.5 6.09 0.0311 0.0415",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "8.51 3.43 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "3.21 0.870 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 64,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "values in parentheses indicate the share of emissions in relation to global 2020",
+      "context_window": "21 Table 2. Emission and discharge totals for the combined OSPAR regions (I-V). The values in parentheses indicate the share of emissions in relation to global 2020 modeling results. Species",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Technology. The content represents the authors’ opinion and should not be interpreted to represent",
+      "context_window": "This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities (EIHA) by the Finnish Meteorological Institute in cooperation with Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA view.",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Model (STEAMv3.5) of the Finnish Meteorological Institute.",
+      "context_window": "OSPAR regions I-V, Exclusive Economic Zone (EEZ) and territorial water (12 nautical miles from the coastline) contributions. The modeling approach used in this work was the Ship Traffic Emission Assessment Model (STEAMv3.5) of the Finnish Meteorological Institute. 3 Description of OSPAR Regions",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tonnes en 2020.",
+      "context_window": "Le volume total des rejets d'effluents provenant des systèmes d'épuration des gaz d'échappement (EGCS) dans toutes les Régions OSPAR était d'environ 622 millions de tonnes en 2020. • Sur ce total, 99,9% provenaient de systèmes EGCS en boucle ouverte.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities",
+      "context_window": "process. Disclaimer This report was prepared for the OSPAR committee on Environmental Impacts of Human Activities (EIHA) by the Finnish Meteorological Institute in cooperation with Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For countries having",
+      "context_window": "Table 4. Open and closed loop EGCS discharges in each EEZ (200 NM) for OSPAR countries. For countries having areas inside and outside of the OSPAR region, both contributions are given. Asterisk (*) indicates the",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains.",
+      "context_window": "totals. Table 1 reports the emission totals for the combined OSPAR domain. Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. OSPAR Commission, 2022 21",
+      "page_number": 20,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "will yield about 30 million m",
+      "context_window": "***German EEZ was assumed to be an open loop ban area. Multiplying closed loop totals with a factor 90/0.45 will yield about 30 million m 3 , which of similar magnitude as the ICCT estimate.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Zinc loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emitted. About 60000",
+      "context_window": "the MMSI code. However, these vessels were responsible for 83% of the CO 2 emitted. About 60000 vessels transmitting only MMSI code could not be identified from the existing ship database of IHS Markit.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a comparison with riverine input data (year 2019) from OSPAR RID were made with respect to",
+      "context_window": "Contaminant loads in OSPAR Regions Contaminant loads of metals and PAHs were calculated for OSPAR regions (Table 5 and Table 6) and a comparison with riverine input data (year 2019) from OSPAR RID were made with respect to cadmium, copper, lead, mercury and zinc, within OSPAR regions I-IV that were available in the RID- data (Table 7 and Table 8). Data from the following countries were available in the RID database:",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Copper loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Jalkanen et al., 2021a). About 38% of the 622 million m",
+      "context_window": "3 ) (Jalkanen et al., 2021a). About 38% of the 622 million m 3 EGCS discharge occurs in the sea areas",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental",
+      "context_window": "analysis of effluent composition and dispersion modeling to determine where the sea currents carry the discharge. This work will be carried out in the ongoing H2020/EMERGE project 2020-2024 (https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering relevant regulation. For the EU this necessitates the use of IMO MARPOL Annex 1, 4, 5 and 6 rules,",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "do not directly provide information of air emissions or discharges, they provide a benchmark for",
+      "context_window": "In our previous work comparisons of modeled fuel consumption have been compared with fuel reports required by the EU MRV mechanism (European Union, 2016). Although these comparisons do not directly provide information of air emissions or discharges, they provide a benchmark for assessing the accuracy of predicted fuel consumption and vessel power use. The most recent MRV comparison can be found in the latest HELCOM Maritime emission report (Jalkanen et al., 2021b). In",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based",
+      "context_window": "This graph is based on global scrubber modeling done with the STEAM model. ....................... 10 Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. .................................................................................................................. 11",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on global STEAM modeling.",
+      "context_window": "....................... 10 Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. .................................................................................................................. 11 Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Both economic and environmental aspects will have an impact on EGCS installations. National rules",
+      "context_window": "OSPAR Commission, 2022 11 Both economic and environmental aspects will have an impact on EGCS installations. National rules banning open loop discharge in various ports could make EGCS problematic in these areas, depending on the EGCS type. However, it is probable that large annual fuel consumption and",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples",
+      "context_window": "OL ±95%CI # analyzed samples CL Average CL ±95%CI",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global EGCS Open loop discharge on various sea regions during 2020.",
+      "context_window": "Area Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is relative to the discharge volume. Sea region definitions follow those from IHO.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment (ICES 2020, Hassellöv et al., 2020 and references therein, Teuchies et al., 2020, Thor et",
+      "context_window": "and polycyclic aromatic hydrocarbons, are washed out from the exhausts and discharged to the sea. There is growing concern that discharges from wide-scale use of EGCS pose a threat for the marine environment (ICES 2020, Hassellöv et al., 2020 and references therein, Teuchies et al., 2020, Thor et al. 2021). In some ports, regions and countries restrictions apply with respect to discharge from EGCS, but there is no general harmonization of current restrictions",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is",
+      "context_window": "on global STEAM modeling. .................................................................................................................. 11 Figure 5. Global EGCS Open loop discharge on various sea regions during 2020. Size of the circle is relative to the discharge volume. Sea region definitions follow those from IHO.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere (Lunde Hermansson et al. 2021). However, beside SO",
+      "context_window": "X ) emissions to the atmosphere (Lunde Hermansson et al. 2021). However, beside SO X , other contaminants, e.g. metals",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Modelling of discharges to the marine environment from open",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine Environment of the North-East Atlantic (the ‘OSPAR",
+      "context_window": "3 Description of OSPAR Regions The Convention for the Protection of the Marine Environment of the North-East Atlantic (the ‘OSPAR Convention') includes five (I-V) regions depicted in Figure 6. Area I extends from the southernmost tip of Greenland to Franz-Josef land, and includes the Faroe Islands in the south. OSPAR Region II",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "when compared to the share of CO",
+      "context_window": "0.1 (24.8%) It is noteworthy that the combined OSPAR domain has a relatively large share of methane emissions, when compared to the share of CO 2 . This reflects the increased use of Liquid Natural Gas (LNG) as",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Conditions”",
+      "context_window": "better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions” 4 , this type of effort is initiated.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current study.",
+      "context_window": "overseas territories are not considered in this study. This will increase the ICCT discharge totals because remote overseas territories outside the OSPAR Regions are not included in the current study. Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(IMO) Fuel Availability Report (Faber et al., 2016), the predicted uptake of EGCS in the global fleet",
+      "context_window": ", 2020, was predicted to increase the number of EGCS significantly. According to the International Maritime Organization (IMO) Fuel Availability Report (Faber et al., 2016), the predicted uptake of EGCS in the global fleet would reach 3800 vessels by January 2020. According to IMO Global Integrated Shipping Information System (GISIS) notifications, over 1200 EGCS systems were installed by that time, but since then the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Looking at the",
+      "context_window": "total share of contaminant load from open loop discharge, relative OSPAR-reported riverine load, in the entire OSPAR I-IV area, ranges between 0.5% (lead) to 1.9% (zinc) (Table 8 and 9). Looking at the respective OSPAR regions, OSPAR III is the only region where the open loop discharge for all five contaminants is below 0.6%, while OSPAR I, II and IV, show a relative cadmium contribution around",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for",
+      "context_window": "41 enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 890/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "frequently reported (Ytreberg et al., 2020).",
+      "context_window": "Contaminants in EGCS discharge water EGCS discharge water is a complex chemical mixture, where metals and PAHs are the most frequently reported (Ytreberg et al., 2020). Open loop discharge water is also acidic, typically pH<3, while pH in closed loop process water is adjusted (to maintain sulphur removal capacity) by addition",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020.",
+      "context_window": "Figure 3. Estimated propulsion fuel consumption of the global active scrubber fleet (2903 vessels) in 2020. This graph is based on global scrubber modeling done with the STEAM model. ....................... 10",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "(kg) OSPAR’s Quality Status Report 2023 OSPAR Secretariat The Aspect",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "various pollutants to the sea.",
+      "context_window": "3 ) which need to be combined with water sampling and laboratory analysis to yield mass flux of various pollutants to the sea. The motivation for volumetric description of discharges is the complex chemical composition of EGCS effluents which would require tracking of potentially dozens of",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shiffer and Liber 2017a and b; Watt et al. 2018), suggesting that water quality guidelines with",
+      "context_window": "closed loop discharge volumes for Germany calculated in Table 4. Although there are limited data on vanadium toxicity, there are an increasing number of studies (e.g. Shiffer and Liber 2017a and b; Watt et al. 2018), suggesting that water quality guidelines with respect to vanadium should be developed. Such development would also call for inclusion of vanadium in marine monitoring programs. Other elements that could be interesting to monitor are",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Image from Johansson et al",
+      "context_window": "Figure 9. Schematic summary of various modeling steps involved in STEAM work. Image from Johansson et al (2017). 4.1",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Benz(a)anthrancene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The introduction of global sulfur cap of 0.5% for marine fuels on Jan 1",
+      "context_window": "1.1 EGCS installation statistics The introduction of global sulfur cap of 0.5% for marine fuels on Jan 1 st , 2020, was predicted to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "port areas which have been introduced since January 2020. 7 Summary Discharges from open loop systems are over 99.9% from the total EGCS discharge, which were estimated to be 622 million cubic meters in 2020 inside the OSPAR overall domain (I-V). Of this",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Uncertainties",
+      "context_window": "43 6 Uncertainties There are several contributions to the overall uncertainty of modeled EGCS discharge totals. These arise from overall power prediction (kilowatts) used by ships, discharge rates from open/closed loop",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are also large variations and uncertainties in the reported concentrations of contaminants in",
+      "context_window": "This study is less likely to be impacted, because EGCS data were obtained over seven months after the end of the year 2020. There are also large variations and uncertainties in the reported concentrations of contaminants in scrubber discharge water; originating both from sampling procedures (including time from sampling to analysis, particle removal etc) and the expected natural variations of the scrubber water due to",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ytreberg et al., (2022 preprint, pending revision), made a comparison for the Baltic Sea. Following",
+      "context_window": "analysis (Yim et al. 2011). To put the contaminant load to the environment from scrubbers in context to other sources, Ytreberg et al., (2022 preprint, pending revision), made a comparison for the Baltic Sea. Following the use of copper based antifouling paints (509 tonnes Cu/yr), operation of scrubbers in open loop mode (7 tonnes Cu/yr) made shipping the single most dominant identified sources of hazardous",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "Belgium 1 900 0.0 3 078 Denmark",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Anthracene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.00136 0.0 0.0 Dibenzo(a,h)anthracene 0.764",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "incomplete AIS coverage, uncertainties in modeling specific fuel oil consumption and ambient",
+      "context_window": "short, the average absolute deviation involved in predicted STEAM fuel consumption for any vessel was 20%, which covers all sources of uncertainty concerning gaps in vessel technical data, incomplete AIS coverage, uncertainties in modeling specific fuel oil consumption and ambient conditions. On inventory level, for 1604 ships, a deviation of 7.8% (over prediction) was observed. Full analysis of model performance can be found elsewhere (Jalkanen et al., 2021b).",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.09",
+      "context_window": "2.29 5.74 1.09 2.75 0.205",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "10.5 0.0 0.0 0.0 0.0",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Dibenzo(a,h)anthracene 0.0326",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.09",
+      "context_window": "24.2 22.5 6.09 0.0311 0.0415",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "3.21 0.870 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "8.51 3.43 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "291 98.4 0.0 0.0 0.0",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Anthracene 0.150",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Anthracene 0.201",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.09",
+      "context_window": "0.0296 26 2.09 5.28 6",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "31.9 10.5 0.0 0.0 0.0",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "8.09",
+      "context_window": "55.8 14.1 8.09 2.04 46.7",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Anthracene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Benz(a)anthrancene 0.210",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.000601 0.00136 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 Benz(a)anthrancene 0.281",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Based on recent studies (Teuchies et al., 2020, and Ytreberg et al.,",
+      "context_window": "would be. However, there is a significant balancing effect, which comes from the use of larger effluent discharge rate of STEAM. Based on recent studies (Teuchies et al., 2020, and Ytreberg et al., 2020), discharge rates of 90 and 0.45 m 3",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ytreberg et al.",
+      "context_window": "on riverine, atmospheric, and point sources, should be considered as crude estimates, yet the conclusion that scrubbers are a substantial source of contaminants to the Baltic Sea is indisputable. Ytreberg et al. (2022, preprint pending revision) conclude that switching to operation in closed loop mode, could reduce the loads of most PAHs and metals with up to 90%.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Dibenzo(a,h)anthracene",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "0.0",
+      "context_window": "0.0 0.0 0.0 0.0 Benz(a)anthrancene",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment from open",
+      "context_window": "2022 Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The use of 2020 global data",
+      "context_window": "the discharge totals. According to our previous work, fuel consumption from inland waterway shipping visible in AIS is in the order of few percent from global totals. The use of 2020 global data will include the effect of the Covid19 pandemic, which is not present in the 2019 data ICCT used. It is",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La Convention pour la protection du milieu marin",
+      "context_window": "United Kingdom. Convention OSPAR La Convention pour la protection du milieu marin de l´Atlantique du Nord-Est, dite Convention OSPAR, a été ouverte à la signature à la réunion",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effluent discharge rate used in the OSPAR study has about 50% uncertainty, which was given by",
+      "context_window": "conditions. On inventory level, for 1604 ships, a deviation of 7.8% (over prediction) was observed. Full analysis of model performance can be found elsewhere (Jalkanen et al., 2021b). The effluent discharge rate used in the OSPAR study has about 50% uncertainty, which was given by Teuchies et al (Teuchies et al., 2020) in their study of 51 vessels equipped with an EGCS. This, and the overall uncertainty of the instantaneous power prediction together, will probably lead to total",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "# analyzed",
+      "context_window": "OL Average OL ±95%CI # analyzed samples CL Average",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reporting (EMSA and EEA, 2021; Jalkanen et al., 2021b, 2021a). For ecotoxicological analysis and",
+      "context_window": "compounds. The modeling approach applied in this study has been used previously e.g in HELCOM and EMTER reporting (EMSA and EEA, 2021; Jalkanen et al., 2021b, 2021a). For ecotoxicological analysis and environmental impact assessments, this work needs to be combined with complementary laboratory analysis of effluent composition and dispersion modeling to determine where the sea currents carry",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the global situation (Jalkanen et al., 2021a).",
+      "context_window": "fleet which operates on Baltic Sea area has a significantly higher share of hybrid systems (Figure 18). Most of the vessels with a hybrid EGCS operate in the Baltic Sea area, which is very different from the global situation (Jalkanen et al., 2021a). Figure 18. EGCS installations by equipment type, global fleet. Based on data collected from IMO GISIS on Aug 8th 2021.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "better understanding of the possible environmental impact resulting from all available fuel",
+      "context_window": "enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions”",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea regions are defined by the International Hydrographic Organization (IHO) and they are not",
+      "context_window": "...................................................... 20 Figure 12. Combined discharge from both open and closed loop EGCS in various sea regions. These sea regions are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to OSPAR Regions. ............................................................................................... 22",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "apports fluviaux dans la région OSPAR montre que la contribution relative des",
+      "context_window": "La comparaison des charges modélisées de cadmium, cuivre, plomb, mercure et zinc provenant des rejets des EGCS avec les données de surveillance disponibles sur les apports fluviaux dans la région OSPAR montre que la contribution relative des épurateurs est principalement de l'ordre de 1000-quantiles, mais jusqu'à 5,2% (cuivre),",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Modelling of discharges to the",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relevant",
+      "context_window": "area and relevant emission regulation.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold",
+      "context_window": "low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel alternatives. In the ongoing PAME EPPR project “New Low Sulphur Fuels, Fate, and Behavior in Cold Water Conditions” 4",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") emissions to the",
+      "context_window": "alternative way to comply with current limits regarding sulphur oxide (SO X ) emissions to the atmosphere (Lunde Hermansson et al. 2021). However, beside SO X",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "# analyzed",
+      "context_window": "CL Average CL ±95%CI # analyzed sampels (µg/L)",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2009, 2012, 2021; Johansson et al., 2017, 2013) to predict vessel power use and EGCS effluent",
+      "context_window": "Modeling approach In this work, the Ship Traffic Emissions Assessment Model (STEAMv3.5) was used (Jalkanen et al., 2009, 2012, 2021; Johansson et al., 2017, 2013) to predict vessel power use and EGCS effluent Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime Area",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Lead loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission",
+      "context_window": "and relevant emission regulation. Figure 9.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering",
+      "context_window": "the discharge. This work will be carried out in the ongoing H2020/EMERGE project 2020-2024 (https://emerge-h2020.eu/), which includes updates to the modeling tools used in environmental impact assessments, STEAM included. In STEAM, emissions and discharges are modeled considering relevant regulation. For the EU this necessitates the use of IMO MARPOL Annex 1, 4, 5 and 6 rules, EU Sulphur directive requirements as well as the Ballast Water Management Convention (BWMC)",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enable improved comparison between the environmental impact following use of scrubbers versus",
+      "context_window": "OSPAR Commission, 2022 41 enable improved comparison between the environmental impact following use of scrubbers versus low sulphur fuel oils, in line with the work by Lunde Hermansson et al. (2021), there is a need for better understanding of the possible environmental impact resulting from all available fuel",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effluent release which occurs close to the coastlines (Figure 25). According to STEAM predictions,",
+      "context_window": "Results by 12 NM zones Discharges inside the 12 nautical mile zones were also investigated, to determine the share of EGCS effluent release which occurs close to the coastlines (Figure 25). According to STEAM predictions, about 21% of the effluent is released inside the 12 NM polygons. Totals for each country are given in",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research",
+      "context_window": "waste stream pollutant concentrations, and emission factors. EMERGE: Evaluation, control and Mitigation of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No 74990. OSPAR Commission, 2022",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of",
+      "context_window": "2021). .................................................................................................................................................... 17 Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. ...................................................... 20",
+      "page_number": 4,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "Acknowledgments",
+      "context_window": "The estimated total load of PAH:s is close to 7 times higher than the mass of EPA 16 PAH, suggesting that e.g. alkylated PAHs should also be considered. Acknowledgments We would like to thank the Swedish Agency for Marine and Water Management (SwAM) for an opportunity to contribute to this study. This study has been performed with financial contribution",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depending on the EGCS type. However, it is probable that large annual fuel consumption and",
+      "context_window": "Both economic and environmental aspects will have an impact on EGCS installations. National rules banning open loop discharge in various ports could make EGCS problematic in these areas, depending on the EGCS type. However, it is probable that large annual fuel consumption and significant price difference between high and low sulfur fuel grades make EGCS attractive (Reynolds and Caughlan, 2011). Indeed, based on global modeling of ship emissions, it seems that a larger",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Cadmium loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In our previous work comparisons of modeled fuel consumption have been compared with fuel",
+      "context_window": "arise from overall power prediction (kilowatts) used by ships, discharge rates from open/closed loop systems, geospatial variation of discharges and completeness of ship fleet data. In our previous work comparisons of modeled fuel consumption have been compared with fuel reports required by the EU MRV mechanism (European Union, 2016). Although these comparisons do not directly provide information of air emissions or discharges, they provide a benchmark for",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other sources",
+      "context_window": "Mercury loads (t/yr) from EGCS open and closed loop discharge in OSPAR member states territorial waters 12 NM, compared with available data on riverine input extracted from OSPAR RID. Other sources RID Open loop Closed loop Tot EGCS",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CO2 from ships sailing all the sea areas, not just OSPAR domains.",
+      "context_window": ".................................................................................................................................................... 17 Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. ...................................................... 20 Figure 12. Combined discharge from both open and closed loop EGCS in various sea regions. These",
+      "page_number": 4,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "as proxy for PAH-concentrations (Linders et al., 2019, Schmolke et al., 2020). With respect to",
+      "context_window": "PAH PHE as proxy for PAH-concentrations (Linders et al., 2019, Schmolke et al., 2020). With respect to discrete sampling and chemical characterization of scrubber discharge water in lab, a recent study by Du et al. (2022) concludes that reported data on EPA 16 PAHs, not including alkylated PAHs, may",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA",
+      "context_window": "This report was prepared for OSPAR Environmental Impacts of Human Activities (EIHA) group by the Finnish Meteorological Institute in cooperation with the Chalmers University of Technology. The content represents the authors’ opinion and should not be interpreted to represent OSPAR EIHA view. Modelling of discharges to the marine environment from open circuit flue gas scrubbers on ships in the OSPAR Maritime",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to",
+      "context_window": "Combined discharge from both open and closed loop EGCS in various sea regions. These sea regions are defined by the International Hydrographic Organization (IHO) and they are not directly comparable to OSPAR Regions. The bleed off from closed loop systems is significantly smaller in volume than the total discharge",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "uncertainty to EGCS releases very close to the coast. This will increase ICCT totals in",
+      "context_window": "whereas the ICCT study clearly includes some contributions from this traffic. The global coastline resolved in STEAM work uses a 1 km water mask, which may contribute small uncertainty to EGCS releases very close to the coast. This will increase ICCT totals in comparison to this work. ",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR domain (areas I-V). Considering the limited water area of the English Channel, and that about",
+      "context_window": "The North Sea and the English Channel are included in the OSPAR II domain. Effluent releases from EGCS are the highest of all OSPAR Regions and represent almost half of the discharge in the whole OSPAR domain (areas I-V). Considering the limited water area of the English Channel, and that about one third of the effluent discharges of the OSPAR II area occur there, the English Channel is probably the most heavily impacted sea area in Europe regarding the EGCS discharge.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMERGE: Evaluation, control and Mitigation",
+      "context_window": "Deliverable 2.1 - Database and analysis on waste stream pollutant concentrations, and emission factors. EMERGE: Evaluation, control and Mitigation of the EnviRonmental impacts of shippinG Emissions, funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No 74990.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effluent modeling. This can be used to compare the ICCT results(Osipova et al., 2021) to our work.",
+      "context_window": "Regions. Table 4 includes a comparison to the recent work of the ICCT, a study which includes global EGCS effluent modeling. This can be used to compare the ICCT results(Osipova et al., 2021) to our work. There are some differences between the ICCT study setup and this one, which need to be considered, however.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These data are based on global",
+      "context_window": "Figure 4. Global distribution of estimated Open Loop EGCS discharge in 2020. These data are based on global STEAM modeling. Global EGCS hotspots are concentrated along the main shipping lanes from China through the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts",
+      "context_window": "These were treated as small vessels, so as not to overestimate their contribution to emission totals. Table 1 reports the emission totals for the combined OSPAR domain. Figure 11. Ship emitted CO2 in the EU domain during the year 2020. This image depicts emissions of CO2 from ships sailing all the sea areas, not just OSPAR domains. OSPAR Commission, 2022",
+      "page_number": 20,
+      "keyword_hits": {
+        "co2": 2
+      }
+    },
+    {
+      "core_sentence": "These four contributions all make ICCT estimates larger than what the corresponding STEAM totals",
+      "context_window": "It is likely that this effect alone will increase the ICCT estimates for 2020 by 10-20%. These four contributions all make ICCT estimates larger than what the corresponding STEAM totals would be. However, there is a significant balancing effect, which comes from the use of larger effluent discharge rate of STEAM.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 64,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 4,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1,
+      "carbon dioxide": 1,
+      "co2": 4
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "EXECUTIVE SUMMARY ................................................................................................................. 7",
+      "start_sentence": 62,
+      "end_sentence": 110,
+      "sentence_count": 49,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 62,
+          "page_number": 3,
+          "content": "EXECUTIVE SUMMARY .....................................................................................",
+          "full_length": 133
+        },
+        {
+          "sentence_id": 63,
+          "page_number": 3,
+          "content": "1",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 64,
+          "page_number": 3,
+          "content": "INTRODUCTION ..........................................................................................",
+          "full_length": 131
+        },
+        {
+          "sentence_id": 65,
+          "page_number": 3,
+          "content": "1.1",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 66,
+          "page_number": 3,
+          "content": "EGCS installation statistics ..........................................................................",
+          "full_length": 128
+        }
+      ],
+      "total_sentences_in_section": 49
+    },
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 240,
+      "end_sentence": 292,
+      "sentence_count": 53,
+      "page_range": "7-8",
+      "sentences": [
+        {
+          "sentence_id": 240,
+          "page_number": 7,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 241,
+          "page_number": 7,
+          "content": "•",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 242,
+          "page_number": 7,
+          "content": "The total effluent release volume from Exhaust Gas Cleaning Systems (EGCS) in all",
+          "full_length": 81
+        },
+        {
+          "sentence_id": 243,
+          "page_number": 7,
+          "content": "OSPAR Regions was about 622 million tonnes in 2020.",
+          "full_length": 51
+        },
+        {
+          "sentence_id": 244,
+          "page_number": 7,
+          "content": "•",
+          "full_length": 1
+        }
+      ],
+      "total_sentences_in_section": 53
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3004,
+      "end_sentence": 3174,
+      "sentence_count": 171,
+      "page_range": "45-49",
+      "sentences": [
+        {
+          "sentence_id": 3004,
+          "page_number": 45,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3005,
+          "page_number": 45,
+          "content": "de Buck, A. (2011). Blending and bunkering. Admixture of hazardous material to bunker fuels for",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 3006,
+          "page_number": 45,
+          "content": "maritime shipping - risks and strategies. English summary. CE Delft. 1-8 pp. https://cedelft.eu/wp-",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 3007,
+          "page_number": 45,
+          "content": "content/uploads/sites/2/2021/04/BlendingAndBunkering.pdf",
+          "full_length": 56
+        },
+        {
+          "sentence_id": 3008,
+          "page_number": 45,
+          "content": "Du, L., Zhang, L., Liu, R., & Gu, Y. (2022). Is polycyclic aromatic hydrocarbon concentration",
+          "full_length": 93
+        }
+      ],
+      "total_sentences_in_section": 171
+    }
+  ],
+  "metadata": {
+    "total_sentences": 7392,
+    "chunks_selected": 111,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "EXECUTIVE SUMMARY ................................................................................................................. 7",
+        "start_sentence": 62,
+        "end_sentence": 110,
+        "sentence_count": 49
+      },
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 240,
+        "end_sentence": 292,
+        "sentence_count": 53
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3004,
+        "end_sentence": 3174,
+        "sentence_count": 171
+      }
+    ],
+    "total_excluded_sentences": 273
+  }
+}

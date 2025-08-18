@@ -1,0 +1,2425 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "the availability of ice habitats are driving changes in habitat",
+      "context_window": "of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effects of climate change on benthic populations are",
+      "context_window": "surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom- water temperature, sea-ice dynamics, coastal erosion,",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "distribution as the climate warms, or because chemical",
+      "context_window": "with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical or biological reactions and pathways are likely to change. Furthermore, the various stressors will interact among",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "use patterns. Changes in habitat allow the northward",
+      "context_window": "temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive and predator-prey interactions. For example, the northward",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "constrained by prey availability and predator pressure, which can be influenced by climate change",
+      "context_window": "• Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are constrained by prey availability and predator pressure, which can be influenced by climate change • The ecologically important polar cod declined in the Barents Sea from 2004 to 2015, potentially because",
+      "page_number": 111,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "associated with the changing environment and additional",
+      "context_window": "faced with changing physical and ecological conditions. The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional competition as temperate species move northward may become significant challenges for ice-dependent marine",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures and altered stratification, wave action and",
+      "context_window": "Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characteristics of habitats for seabird and coastal birds; less",
+      "context_window": "eliminate these protected and important feeding areas. Indirectly, changes in sea ice affects the physical characteristics of habitats for seabird and coastal birds; less sea ice leads to coastlines being more exposed to erosion from wave impacts, and compounded by sea level rise.",
+      "page_number": 138,
+      "keyword_hits": {
+        "sea level rise": 1
+      }
+    },
+    {
+      "core_sentence": "have significant impact on regional or local scales.",
+      "context_window": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "biota, are expected to lose habitat and contract their",
+      "context_window": "Reduction in sea ice Species tightly linked to sea ice, often referred to as sympagic biota, are expected to lose habitat and contract their distributional ranges. As an example, polar cod and ice cod (",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(e.g., increased water and air temperatures) alter the forage",
+      "context_window": "In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecological levels (species, populations, and ecosystems).",
+      "context_window": "Benthic fauna are generally sensitive to variations in the surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom-",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious",
+      "context_window": "• Some seabird species have adapted their feeding behaviours because of shifts in their food supply due to climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious species. The consequences vary, but have resulted in lower breeding success for some species, including black",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "faced with changing physical and ecological conditions.",
+      "context_window": "move into the area with shifting ice and warming conditions. Their arrival may further stress Arctic endemic species already faced with changing physical and ecological conditions. The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "visible and dramatic impact of climate change. Changes",
+      "context_window": "3.6.1 Introduction Sea ice declines across the circumpolar Arctic are the most visible and dramatic impact of climate change. Changes to this defining aspect of the environment will have transformative impacts on ice-associated Arctic marine",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "temperatures increase, the distributions of zoogeographical",
+      "context_window": "Most of the drivers affecting marine fishes in the Arctic are linked, directly or indirectly, to climate change. As ocean temperatures increase, the distributions of zoogeographical groups can change both south to north (Wassmann et al. 2011, Hollowed et al. 2013) and across Pacific and Atlantic",
+      "page_number": 123,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "habitat change",
+      "context_window": "In a warmer Arctic, endemic marine mammal species are already facing and will continue to face extreme levels of habitat change , most notably a dramatic reduction in sea ice (Laidre et al. 2015, Stern and Laidre 2016). The pattern",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic marine species and ecosystems are undergoing",
+      "context_window": "Key Findings 5 Arctic marine species and ecosystems are undergoing pressure from cumulative changes in their physical, chemical and biological environment.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how long species can accomplish activities that are vital to",
+      "context_window": "migration patterns, so the timing and duration of sea ice retreat and ice-free ocean determine when, where and for how long species can accomplish activities that are vital to survival. The food web extends well beyond just the transfer of",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The consequences vary, but have resulted in lower breeding success for some species, including black",
+      "context_window": "climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious species. The consequences vary, but have resulted in lower breeding success for some species, including black guillemots. •",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic",
+      "context_window": "and Chukchi Sea. • Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "1) changes in prey species abundance and distribution; 2)",
+      "context_window": "transformative impacts on ice-associated Arctic marine mammals through direct habitat loss; and indirectly through 1) changes in prey species abundance and distribution; 2) increased levels of ocean noise due to increased ship traffic and industrial activities; 3) increased risks of disease; and, 4)",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters.",
+      "context_window": "have significant impact on regional or local scales. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters. These species will outcompete, prey on or offer less nutritious value as prey for Arctic species.",
+      "page_number": 87,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hunt et al. 2016). Such changes in temperature can affect any",
+      "context_window": "Ocean, which is expected to have direct and indirect impacts on marine biodiversity (Müller et al. 2009, Meltofte 2013, Hunt et al. 2016). Such changes in temperature can affect any and/or all aspects of species life cycles, including breeding, rearing, feeding, predator-prey relations, population cycles,",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species are changing in some areas.",
+      "context_window": "open water fishes and less clams, indicating that the distribution and availability of benthic resource species are changing in some areas. Some Arctic species are shifting their ranges northwards to seek more favourable conditions as the Arctic warms.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "northern communities. As an ice dependent species, ringed",
+      "context_window": "This is the most numerous of the endemic Arctic pinnipeds and a key food resource for polar bear and people in many northern communities. As an ice dependent species, ringed seal are threatened by global warming. Specifically, loss of and changes to sea ice have caused structural changes",
+      "page_number": 168,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "have direct and indirect effects on the ecosystem, further",
+      "context_window": "pressures may have either synergistic or antagonistic effects on particular ecosystem components. Drivers may also have direct and indirect effects on the ecosystem, further complicating relationships between drivers and change. Worldwide there is an increasing awareness of cumulative",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the ice habitat, therefore making them very susceptible to climate change.",
+      "context_window": "• Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature of the ice habitat, therefore making them very susceptible to climate change. • Sea ice biota monitoring has occurred most frequently in the central Arctic, Svalbard, Barrow (Alaska) and the",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species, such as polar cod use sea ice as a critical habitat and",
+      "context_window": "The geographic extent, temporal extent and thickness of sea ice all have influence on Arctic marine fishes. Sympagic species, such as polar cod use sea ice as a critical habitat and reductions in sea ice cover and concentration, or changes in the timing of freeze-up and break-up, represent a loss of",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature",
+      "context_window": "natural variability, and there has been a lack of consistent sea ice biota monitoring. • Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature of the ice habitat, therefore making them very susceptible to climate change. •",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "shifts that can affect how the ecosystem functions. It is hard",
+      "context_window": "Some changes may be gradual, but there may also be large and sudden shifts that can affect how the ecosystem functions. It is hard to determine where and when these “tipping points” exist because the Arctic marine environment experiences a variety",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expansion of bordering species, often altering competitive",
+      "context_window": "the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive and predator-prey interactions. For example, the northward movement of capelin (a complex of",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the loss of polar bear habitat (Chapter 3.6). This has been",
+      "context_window": "(Chapter 3.6). A well-known consequence of reductions in sea ice cover is the loss of polar bear habitat (Chapter 3.6). This has been demonstrated to have negative consequences for the bears, because they rely on ice as hunting grounds to access seals,",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linked, directly or indirectly, to climate change. As ocean",
+      "context_window": "extent. Most of the drivers affecting marine fishes in the Arctic are linked, directly or indirectly, to climate change. As ocean temperatures increase, the distributions of zoogeographical groups can change both south to north (Wassmann et al.",
+      "page_number": 123,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "in varied impacts by region and by species. For example,",
+      "context_window": "ice (Laidre et al. 2015, Stern and Laidre 2016). The pattern and timing of sea ice loss is important and will likely result in varied impacts by region and by species. For example, early spring sea ice retreat reduces suitable breeding and pup rearing habitat for ringed seals. Polar bear breeding",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reveal species plasticity in response to climate change and",
+      "context_window": "Changing ice conditions affect the diet of seabirds and reveal species plasticity in response to climate change and sea ice conditions (Grémillet et al. 2012, 2015). Changes in ice coverage might have positive or negative impacts on",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes on endemic Arctic species. Using a simple tally,",
+      "context_window": "Marine mammal biodiversity— if described as a simple tally of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species move into the area with shifting ice and warming conditions.",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "biodiversity in the Arctic may increase as temperate species",
+      "context_window": "of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species move into the area with shifting ice and warming conditions. Their arrival may further stress Arctic endemic species already",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are",
+      "context_window": "interactions such as predation and competition. • Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are constrained by prey availability and predator pressure, which can be influenced by climate change •",
+      "page_number": 111,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "as carrying capacity changes due to changing climatic",
+      "context_window": "inherent in interpreting Arctic marine mammal population status underscores the need for long-term monitoring as carrying capacity changes due to changing climatic conditions. Distributional changes within polar bear populations have",
+      "page_number": 158,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean ecosystems (Meltofte 2013).",
+      "context_window": "nutrient supply related to changes in physical parameters, such as sea ice and current alteration, could dramatically alter ocean ecosystems (Meltofte 2013). Timing, distribution and characteristics of sea-ice cover",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities with cascading effects on the ice-associated ecosystem.",
+      "context_window": "• Multi-year sea ice is disappearing and will be replaced by first-year sea ice, which will cause shifts in ice algal communities with cascading effects on the ice-associated ecosystem. • Seasonal duration of first-year sea ice is expected to become shorter, with more snow on the ice, which may",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with climate change, either because the associated human",
+      "context_window": "4.2.2 Other major anthropogenic stressors Many of the drivers and threats listed in this section interact with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on key differences in life history characteristics and habitat associations (reviewed",
+      "context_window": "Box 3.4.2: Polar cod and capelin Polar cod and capelin are expected to respond differently to climate change based on key differences in life history characteristics and habitat associations (reviewed in Hop and Gjøsæter 2013). Reductions in sea ice will likely alter the reproductive success of polar cod due to loss of sea ice habitat for spawning (Bouchard and",
+      "page_number": 116,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": ", seabird communities are likely to change. In",
+      "context_window": "As the Arctic has longer seasonal ice-free periods due to climate change , seabird communities are likely to change. In the Chukchi Sea of the Pacific Arctic, decadal shifts in seabird species composition and abundance at-sea have been",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "a consequence of changes in sea ice and water temperature.",
+      "context_window": "it difficult to detect trends in abundance, but the recent environmentally-driven northward displacement of capelin is a consequence of changes in sea ice and water temperature. Greenland halibut has undergone declines and subsequent recovery over the last two decades in the northeast Arctic.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "other parameters with changing environmental situations.",
+      "context_window": "useful for comparisons of changes in distribution over time and for comparisons of changes in activity budgets and other parameters with changing environmental situations. An example is the telemetry studies of ringed seals in Svalbard, which show how changes in ice conditions have",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical environmental changes",
+      "context_window": "feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing numbers of species are moving into, or",
+      "context_window": "changes in Arctic benthic communities. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters. These species will outcompete, prey on or offer less",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current trends indicate that species reliant on sea ice for",
+      "context_window": "Arctic waters and may compete with other apex predators for nutritious seals. Current trends indicate that species reliant on sea ice for reproduction, resting or foraging will experience range reductions as sea ice retreat occurs earlier and the open",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with unpredictable consequences for resident species and",
+      "context_window": "coverage, is also likely to allow movements of organisms (e.g., fish) between the north Atlantic and Pacific Oceans, with unpredictable consequences for resident species and ecosystems (Mecklenburg et al. 2014, Wisz et al. 2015). Likewise, establishment and spread of non-native species",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on many other species and on productivity (Meltofte",
+      "context_window": "Together with more extreme weather events, such as storms, changes in sea ices are also likely to have direct or indirect effects on many other species and on productivity (Meltofte 2013). Polynyas and leads",
+      "page_number": 25,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "(Jenssen et al. 2015), or because of climate-related changes",
+      "context_window": "physical environment may lead to increased exposure to contaminants, e.g. polar bears affected by reduction in sea ice (Jenssen et al. 2015), or because of climate-related changes in pollutant pathways, e.g. increased biomagnification of pollutants through food webs as sub-Arctic prey species",
+      "page_number": 186,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as shifts in the density and distribution of prey species, and",
+      "context_window": "(e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and potentially loss of some fat-rich prey species (Moore et al. 2014).",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Polar cod and capelin are expected to respond differently to climate change based",
+      "context_window": "(Vilhjálmsson et al. 2005). Box 3.4.2: Polar cod and capelin Polar cod and capelin are expected to respond differently to climate change based on key differences in life history characteristics and habitat associations (reviewed in Hop and Gjøsæter 2013). Reductions in sea ice will likely alter the reproductive",
+      "page_number": 116,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species will be able to adapt their patterns of breeding and",
+      "context_window": "historic sea ice and climatic patterns are expected to decline in abundance. It is not certain to what, if any extent such species will be able to adapt their patterns of breeding and habitat use on decadal time scales. Extirpation of some stocks is likely.",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts in Arctic species, and many such shifts have already",
+      "context_window": "turbidity affecting foraging for visual predators (Chapter 3.5). Indirectly, increasing temperatures are likely to lead to range shifts in Arctic species, and many such shifts have already been observed. An important example concerns the boreal copepod",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic marine fish communities are changing as the result",
+      "context_window": "northeast Atlantic. 3.4.1 Introduction Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "feeding habitats reduce foraging efficiency of walrus.",
+      "context_window": "may detrimentally affect walrus and in general, changes in the seasonal occurrence and the quality of sea ice in key feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect Arctic biodiversity in many different ways. Fish species",
+      "context_window": "At the same time, new species are entering the Arctic from more southern areas as temperatures increase, and this may affect Arctic biodiversity in many different ways. Fish species from warmer waters have been documented in many areas (Chapter 3.4). Pelagic fish predators such as Atlantic mackerel",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "context_window": "can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and reproduction, impacting the resilience of marine mammal populations with concomitant effects on the people who rely on them for subsistence, economic and cultural purposes.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plankton are strongly affected by climate and differ between open water and ice-cover conditions, current",
+      "context_window": "of large copepods. • Plankton are strongly affected by climate and differ between open water and ice-cover conditions, current patterns and salinity. Increased open water and less saline surface water could lead to range shifts so that",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and",
+      "context_window": "Extirpations of some marine mammal stocks are likely. • The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and production, marine mining, commercial fisheries, tourism, pollution, noise and shipping, which in combination can profoundly impact marine mammal populations and disrupt complex ecological relationships.",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change",
+      "context_window": "Arctic marine biodiversity 4.2.1 Observed and expected impacts of climate change Several reviews have assessed the evidence for observed climate-driven changes in Arctic marine biodiversity",
+      "page_number": 184,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In a warmer Arctic, endemic marine mammal species face extreme levels of habitat change, which is expected",
+      "context_window": "traditional and local communities • In a warmer Arctic, endemic marine mammal species face extreme levels of habitat change, which is expected to result in dramatic reductions in sea ice dependent species. •",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affecting seasonal cycles of light availability, water",
+      "context_window": "define and drive the conditions in many Arctic marine ecosystems, affecting seasonal cycles of light availability, water temperature, nutrients and the flow of energy through the food web. Some of the features of the sea ice environment",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increased predation on Arctic species, higher competition for",
+      "context_window": "larger-bodied boreal species are shifting northwards at a faster rate than Arctic species are retreating. This can cause increased predation on Arctic species, higher competition for food and possibly elevated risk of disease (Harvell et al. 1999, Bradley et al. 2005). As a consequence, food web structure",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by climate-driven change and species data would",
+      "context_window": "available for single-celled plankton, especially phytoplankton and heterotrophic protists, indicate that they too are influenced by climate-driven change and species data would contribute to the understanding of ecosystem status. It can be argued that changes at the base of the food web would",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Northward advance of valuable boreal species, retreat of",
+      "context_window": "and ecologically important bottom features such as corals and sponge beds (Garcia et al. 2006). Northward advance of valuable boreal species, retreat of Arctic species and increased accessibility due to less ice cover will increase the total fishing pressure and open new areas",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of rapid changes in sea ice are on species that depend on",
+      "context_window": "the high productivity surface water historically in Northern Baffin Bay moving north. The most obvious negative impacts of rapid changes in sea ice are on species that depend on the ice as habitat, such as polar cod ( Boreogadus saida",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "generally, the decline in multi-year ice will affect species",
+      "context_window": "which include many species of marine mammals and seabirds (Chapters 3.6 and 3.5). Among sea ice biota more generally, the decline in multi-year ice will affect species composition (Chapter 3.1). This implies that specialist species strictly linked to ice are disfavoured, while more generalist",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the most important habitat feature. Declines in seasonal ice",
+      "context_window": "3.6). For most species of marine mammal, seasonal pack ice is the most important habitat feature. Declines in seasonal ice cover may thus lead to reductions in breeding sites for seals and to a loss of haul-out sites for walrus that may affect their",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "competition as temperate species move northward may",
+      "context_window": "The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional competition as temperate species move northward may become significant challenges for ice-dependent marine mammal species (Moore et al. 2014). The selection of ice-",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of environmental changes to ice-affiliated marine mammals",
+      "context_window": "populations and tracking responses to changes in ice conditions will be important in determining the significance of environmental changes to ice-affiliated marine mammals and to the human communities. Population dynamics of many Arctic marine mammal species",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic species are replaced by non-Arctic species, again with unknown consequences for the Arctic marine",
+      "context_window": "patterns and salinity. Increased open water and less saline surface water could lead to range shifts so that Arctic species are replaced by non-Arctic species, again with unknown consequences for the Arctic marine food web. •",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to changing ecological conditions, e.g., increasing",
+      "context_window": "interpretation of temporal trends. Specifically, an increasing population may be the result of a positive reaction by the species to changing ecological conditions, e.g., increasing primary production resulting in increased prey abundance. Alternatively, and most commonly among Arctic marine",
+      "page_number": 157,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions, individual species ecological requirements, and",
+      "context_window": "These species are associated with sea ice and will be affected by sea ice loss to various degrees depending on regional conditions, individual species ecological requirements, and individual species or stocks historic status. These 11 species, and the aspects related to them, are discussed in this chapter.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have cascading effects on zooplankton communities, where",
+      "context_window": "affect the composition of phytoplankton communities, with flagellates favoured over diatoms (Chapter 3.2). This may have cascading effects on zooplankton communities, where different species and groups are adapted to feed on specific types of algae. In turn, these changes in zooplankton species",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impact to affected seabirds could result in lower",
+      "context_window": "Thus, a warming climate affects polar bear hunting behaviour, which then results in predation pressure on local seabirds during the nesting season. The impact to affected seabirds could result in lower reproductive success and eventual population decline, as well as changes in the bird’s choice of nesting sites. Polar bear searching for eggs on murre cliff in Novaya Zemlya, Russia.",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "The cumulative effect of changes in Arctic ecosystems on",
+      "context_window": "at key sites across the ringed seal’s range. To date, this plan has not been fully implemented. The cumulative effect of changes in Arctic ecosystems on marine mammals is a key knowledge gap. Arctic ecosystems are undergoing increasing pressure from a variety of major",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause many concurrent ecosystem changes, including",
+      "context_window": "size, and annual changes in mid-winter ice extent and prey abundance. The changes in ice extent likely reflect or even cause many concurrent ecosystem changes, including changes in food availability, notably for capelin the main forage fish in the area (Buren et al. 2014). In Barents Sea harp",
+      "page_number": 158,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems. 3.6.5 Knowledge and monitoring gaps The Conservation of Arctic Flora and Fauna (CAFF) has",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "possibly also from climate-initiated ecosystem changes",
+      "context_window": "is likely driven by a decline in their amphipod prey, perhaps in part from overexploitation from gray whale feeding but possibly also from climate-initiated ecosystem changes including shifts in currents causing changes in sediment grain size (Coyle et al. 2007, Grebmeier 2012). Another",
+      "page_number": 99,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to determine how these changes might impact Arctic",
+      "context_window": "al. 2010). It is important to monitor temporal and spatial changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems. 3.6.5 Knowledge and monitoring gaps",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expansion of boreal species, such as Atlantic cod, which",
+      "context_window": "122 pressure, polar cod is being affected by the northward expansion of boreal species, such as Atlantic cod, which impose new predatory or competitive pressures, and changes in sea ice, which provides important habitat for spawning",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in human populations, and climate change. By integrating",
+      "context_window": "anthropogenic stressors, including increasing shipping activity and resource development, continued increases in human populations, and climate change. By integrating long-term monitoring studies of Arctic marine mammals into research on Arctic change, there is an opportunity to gain",
+      "page_number": 168,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "relationships between sea ice loss and climate",
+      "context_window": "sizes, densities, and distributions of marine mammal populations in order to understand the relationships between sea ice loss and climate change and to manage Arctic marine mammal populations in an appropriate manner.",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "negatively influenced by climate related changes with",
+      "context_window": "waters may exert additional pressure through intraspecific competition on populations of polar cod that are already negatively influenced by climate related changes with regards to habitat availability (Box 3.4.2). In the northeast Atlantic, capelin and Atlantic cod are linked",
+      "page_number": 120,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity change, and to identify important trends (Fig.",
+      "context_window": "question-driven and integrated ecosystem-based approach to long-term monitoring to describe ecosystem and biodiversity change, and to identify important trends (Fig. 1.1). It does this by:",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circumpolar-level analysis of the impacts of climate on murre",
+      "context_window": "temperatures on upper trophic levels. For example, a circumpolar-level analysis of the impacts of climate on murre populations showed that murres respond negatively to large (0.5-1ºC) changes in sea surface temperature, in either",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change",
+      "context_window": "3.5.4. Drivers of observed trends As the Arctic has longer seasonal ice-free periods due to climate change , seabird communities are likely to change. In the Chukchi Sea of the Pacific Arctic, decadal shifts in seabird",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in these species can have cascading effects throughout the ecosystem and can represent",
+      "context_window": "base of the pelagic Arctic marine food web, feeding large-sized zooplankton, fishes, seabirds and marine mammals. Changes in these species can have cascading effects throughout the ecosystem and can represent the first sign of overall ecosystem shifts. Despite their importance, elements of this taxonomic group are",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "northward shifts in primary productivity and changes in",
+      "context_window": "Sea (Cochrane et al. 2009) and a complex suite of changes in the northern Bering and Chukchi Seas highlighted by northward shifts in primary productivity and changes in benthic species composition (Grebmeier 2012). Marine mammal responses to changing ice conditions similarly differ",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic is changes in the climate system, which has a major",
+      "context_window": "3.2.4 Drivers of observed trends By far the most relevant driver influencing plankton in the Arctic is changes in the climate system, which has a major influence on currents in the Arctic, with impacts on the plankton community. Climate also affects the duration",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts in the seasonal timing (phenology) of species life-",
+      "context_window": "and more spatially extensive ice-free summer could be expected to enhance zooplankton productivity. Concurrently, shifts in the seasonal timing (phenology) of species life- history traits can be anticipated. Such enhanced secondary productivity has been shown to operate in the North Water",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations and tracking responses to changes in ice",
+      "context_window": "prey, but may be affected by other factors. Understanding characteristics of sea ice use by individual species and populations and tracking responses to changes in ice conditions will be important in determining the significance of environmental changes to ice-affiliated marine mammals",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to previously unsurveyed habitats. Decreases in sea ice",
+      "context_window": "period permits fisheries to operate for longer periods within a year and reductions in sea ice extent allow access to previously unsurveyed habitats. Decreases in sea ice concentration and thickness allow smaller vessels to fish commercially without risking ice damage. Sea ice cover can",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "autumn in the Arctic, could have an influence on the species",
+      "context_window": "The interconnections between the Arctic and the Atlantic suggest that factors selecting for species in late summer and autumn in the Arctic, could have an influence on the species composition, timing and extent of phytoplankton production well outside of the Arctic. A list of 36 potentially harmful/",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2008). Sea surface temperatures and climate can also affect",
+      "context_window": "large (0.5-1ºC) changes in sea surface temperature, in either direction, resulting from large-scale climatic shifts (Irons et al. 2008). Sea surface temperatures and climate can also affect species that nest on tundra, such as common eiders (Jónsson et al. 2013).",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "boundaries and their responses to environmental change,",
+      "context_window": "species, population and region (Moore and Huntington 2008). Endemic Arctic species range across jurisdictional boundaries and their responses to environmental change, whether in distribution, behaviour, abundance, or other factors, will result in new conservation and management",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected with climate change. Higher ambient temperatures",
+      "context_window": "Barents Sea, there is also evidence of warming bottom temperatures (Jørgensen et al. 2015), a second driver expected with climate change. Higher ambient temperatures modify the environmental conditions experienced by benthic organisms, exceeding the temperature limits of some",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "plankton community. Climate also affects the duration",
+      "context_window": "Arctic is changes in the climate system, which has a major influence on currents in the Arctic, with impacts on the plankton community. Climate also affects the duration of open water versus seasonal sea ice and the extent of seasonal ice cover. Deeper wind-driven mixing during an",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "advection of planktonic algae. These links are likely to change",
+      "context_window": "diatoms in the Canadian Arctic were similar to those in the North Atlantic in the following spring, suggesting large-scale advection of planktonic algae. These links are likely to change in response to further global warming. 4.3 The state of Arctic marine",
+      "page_number": 188,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "of species present—masks the impact of climate driven",
+      "context_window": "). Marine mammal biodiversity— if described as a simple tally of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "under the influence of a warming climate a number of",
+      "context_window": "as difficult or impossible to clean up. In addition to the ice-dependent species considered here, under the influence of a warming climate a number of temperate species have extended their distribution range northward and increased the amount of time they spend",
+      "page_number": 166,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Svalbard, which show how changes in ice conditions have",
+      "context_window": "other parameters with changing environmental situations. An example is the telemetry studies of ringed seals in Svalbard, which show how changes in ice conditions have influenced foraging behaviour of a strongly ice-associated seal (Hamilton et al. 2015, 2016). Further examples include",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential to expand spatially following changes in species",
+      "context_window": "Reinhardtius hippoglossoides ), have the potential to expand spatially following changes in species distributions or as previously inaccessible areas become ice- free for extended periods.",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "into the Arctic Basin with climate change, but",
+      "context_window": "► Greenland halibut have the potential to expand into the Arctic Basin with climate change, but only given the availability of suitable prey and topography.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to taxa that require warmer conditions for growth and",
+      "context_window": "benthic organisms, exceeding the temperature limits of some stenothermal (e.g., Arctic) species but opening these regions to taxa that require warmer conditions for growth and reproduction (e.g., boreal species). This factor is especially expected in inflow regions of the North Atlantic and North",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can profoundly impact marine mammal populations and disrupt complex ecological relationships.",
+      "context_window": "The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and production, marine mining, commercial fisheries, tourism, pollution, noise and shipping, which in combination can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicators of climate variability and impacts in Arctic marine ecosystems.",
+      "context_window": "et al. 1992). Ongoing monitoring and collection of new baseline data are needed to report on patterns in polar cod and capelin distributions and abundances as key indicators of climate variability and impacts in Arctic marine ecosystems. Polar cod. Photo: Shawn Harper,",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures increase, this may not be the case for species",
+      "context_window": "Hop and Gjøsæter 2013). While pelagic and deep-water species are able to spread northward into the Arctic Ocean as temperatures increase, this may not be the case for species linked to shelf regions, including benthos, fishes and seabirds (Chapters 3.3, 3.4, 3.5).",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species, population and region (Moore and Huntington",
+      "context_window": "capacity inferred from demographic parameters and/or condition indices (Gill et al. 2011). Responses will vary by species, population and region (Moore and Huntington 2008). Endemic Arctic species range across jurisdictional boundaries and their responses to environmental change,",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "insights into their responses to ecosystem changes and,",
+      "context_window": "The efforts to track and understand trends in population status in each of the marine mammal FECs will provide insights into their responses to ecosystem changes and, ultimately changes in Arctic biodiversity. Population status may be defined as both population abundance measured",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the distribution and seasonal abundance of these",
+      "context_window": "increasingly important predator in the Arctic (Ferguson et al. 2010). It is important to monitor temporal and spatial changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems.",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to a shift in copepod prey species, with the larger, lipid-",
+      "context_window": "of the decline in Svalbard’s thick-billed murre population (Descamps et al. 2013). The warming of the Atlantic has led to a shift in copepod prey species, with the larger, lipid- rich Calanus glacialis",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "al. 2015). Contaminant burdens can interact with climate",
+      "context_window": "consequences for predators such as the glaucous gull (Erikstad et al. 2013) and black-legged kittiwake (Goutte et al. 2015). Contaminant burdens can interact with climate change in different ways, either because changes in the physical environment may lead to increased exposure to",
+      "page_number": 186,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and to manage Arctic marine mammal",
+      "context_window": "mammal populations in order to understand the relationships between sea ice loss and climate change and to manage Arctic marine mammal populations in an appropriate manner. ►",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "that experience a change in their prey field and consequently",
+      "context_window": "change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently their diet and nutritional status. The effects of acidification on Arctic fishes are still unclear,",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These species are associated with sea ice and will be affected",
+      "context_window": "Cystophora cristata ) in the North Atlantic area. These species are associated with sea ice and will be affected by sea ice loss to various degrees depending on regional conditions, individual species ecological requirements, and",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Northward range expansions are underway and pose unknown consequences for Arctic species and their",
+      "context_window": "predators such as seabirds, marine mammals, as well as people. • Northward range expansions are underway and pose unknown consequences for Arctic species and their interactions such as predation and competition. •",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on species e.g. rising temperatures in the",
+      "context_window": "► Warming can have surprising and contradictory effects on species e.g. rising temperatures in the Chukchi Sea have been associated with an increase in nutritious copepods with high fat content",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "biota are highly variable in space and time. This variability",
+      "context_window": "3.1.4 Drivers of observed trends Abundance and biomass, diversity and distribution of sea ice biota are highly variable in space and time. This variability can largely be attributed to the physical and chemical conditions in and under the sea ice. Light availability,",
+      "page_number": 47,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "the availability of ice habitats are driving changes in habitat",
+      "context_window": "of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution as the climate warms, or because chemical",
+      "context_window": "with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical or biological reactions and pathways are likely to change. Furthermore, the various stressors will interact among",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "constrained by prey availability and predator pressure, which can be influenced by climate change",
+      "context_window": "• Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are constrained by prey availability and predator pressure, which can be influenced by climate change • The ecologically important polar cod declined in the Barents Sea from 2004 to 2015, potentially because",
+      "page_number": 111,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "temperatures and altered stratification, wave action and",
+      "context_window": "Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have significant impact on regional or local scales.",
+      "context_window": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "(e.g., increased water and air temperatures) alter the forage",
+      "context_window": "In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious",
+      "context_window": "• Some seabird species have adapted their feeding behaviours because of shifts in their food supply due to climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious species. The consequences vary, but have resulted in lower breeding success for some species, including black",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "visible and dramatic impact of climate change. Changes",
+      "context_window": "3.6.1 Introduction Sea ice declines across the circumpolar Arctic are the most visible and dramatic impact of climate change. Changes to this defining aspect of the environment will have transformative impacts on ice-associated Arctic marine",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "habitat change",
+      "context_window": "In a warmer Arctic, endemic marine mammal species are already facing and will continue to face extreme levels of habitat change , most notably a dramatic reduction in sea ice (Laidre et al. 2015, Stern and Laidre 2016). The pattern",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how long species can accomplish activities that are vital to",
+      "context_window": "migration patterns, so the timing and duration of sea ice retreat and ice-free ocean determine when, where and for how long species can accomplish activities that are vital to survival. The food web extends well beyond just the transfer of",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic",
+      "context_window": "and Chukchi Sea. • Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters.",
+      "context_window": "have significant impact on regional or local scales. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters. These species will outcompete, prey on or offer less nutritious value as prey for Arctic species.",
+      "page_number": 87,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species are changing in some areas.",
+      "context_window": "open water fishes and less clams, indicating that the distribution and availability of benthic resource species are changing in some areas. Some Arctic species are shifting their ranges northwards to seek more favourable conditions as the Arctic warms.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have direct and indirect effects on the ecosystem, further",
+      "context_window": "pressures may have either synergistic or antagonistic effects on particular ecosystem components. Drivers may also have direct and indirect effects on the ecosystem, further complicating relationships between drivers and change. Worldwide there is an increasing awareness of cumulative",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species, such as polar cod use sea ice as a critical habitat and",
+      "context_window": "The geographic extent, temporal extent and thickness of sea ice all have influence on Arctic marine fishes. Sympagic species, such as polar cod use sea ice as a critical habitat and reductions in sea ice cover and concentration, or changes in the timing of freeze-up and break-up, represent a loss of",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts that can affect how the ecosystem functions. It is hard",
+      "context_window": "Some changes may be gradual, but there may also be large and sudden shifts that can affect how the ecosystem functions. It is hard to determine where and when these “tipping points” exist because the Arctic marine environment experiences a variety",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the loss of polar bear habitat (Chapter 3.6). This has been",
+      "context_window": "(Chapter 3.6). A well-known consequence of reductions in sea ice cover is the loss of polar bear habitat (Chapter 3.6). This has been demonstrated to have negative consequences for the bears, because they rely on ice as hunting grounds to access seals,",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in varied impacts by region and by species. For example,",
+      "context_window": "ice (Laidre et al. 2015, Stern and Laidre 2016). The pattern and timing of sea ice loss is important and will likely result in varied impacts by region and by species. For example, early spring sea ice retreat reduces suitable breeding and pup rearing habitat for ringed seals. Polar bear breeding",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes on endemic Arctic species. Using a simple tally,",
+      "context_window": "Marine mammal biodiversity— if described as a simple tally of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species move into the area with shifting ice and warming conditions.",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are",
+      "context_window": "interactions such as predation and competition. • Fishes are affected by environmental conditions such as temperature, sea ice availability and salinity, and are constrained by prey availability and predator pressure, which can be influenced by climate change •",
+      "page_number": 111,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ocean ecosystems (Meltofte 2013).",
+      "context_window": "nutrient supply related to changes in physical parameters, such as sea ice and current alteration, could dramatically alter ocean ecosystems (Meltofte 2013). Timing, distribution and characteristics of sea-ice cover",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with climate change, either because the associated human",
+      "context_window": "4.2.2 Other major anthropogenic stressors Many of the drivers and threats listed in this section interact with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": ", seabird communities are likely to change. In",
+      "context_window": "As the Arctic has longer seasonal ice-free periods due to climate change , seabird communities are likely to change. In the Chukchi Sea of the Pacific Arctic, decadal shifts in seabird species composition and abundance at-sea have been",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "other parameters with changing environmental situations.",
+      "context_window": "useful for comparisons of changes in distribution over time and for comparisons of changes in activity budgets and other parameters with changing environmental situations. An example is the telemetry studies of ringed seals in Svalbard, which show how changes in ice conditions have",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing numbers of species are moving into, or",
+      "context_window": "changes in Arctic benthic communities. • Increasing numbers of species are moving into, or shifting, their distributions in Arctic waters. These species will outcompete, prey on or offer less",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with unpredictable consequences for resident species and",
+      "context_window": "coverage, is also likely to allow movements of organisms (e.g., fish) between the north Atlantic and Pacific Oceans, with unpredictable consequences for resident species and ecosystems (Mecklenburg et al. 2014, Wisz et al. 2015). Likewise, establishment and spread of non-native species",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Jenssen et al. 2015), or because of climate-related changes",
+      "context_window": "physical environment may lead to increased exposure to contaminants, e.g. polar bears affected by reduction in sea ice (Jenssen et al. 2015), or because of climate-related changes in pollutant pathways, e.g. increased biomagnification of pollutants through food webs as sub-Arctic prey species",
+      "page_number": 186,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Polar cod and capelin are expected to respond differently to climate change based",
+      "context_window": "(Vilhjálmsson et al. 2005). Box 3.4.2: Polar cod and capelin Polar cod and capelin are expected to respond differently to climate change based on key differences in life history characteristics and habitat associations (reviewed in Hop and Gjøsæter 2013). Reductions in sea ice will likely alter the reproductive",
+      "page_number": 116,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "shifts in Arctic species, and many such shifts have already",
+      "context_window": "turbidity affecting foraging for visual predators (Chapter 3.5). Indirectly, increasing temperatures are likely to lead to range shifts in Arctic species, and many such shifts have already been observed. An important example concerns the boreal copepod",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "feeding habitats reduce foraging efficiency of walrus.",
+      "context_window": "may detrimentally affect walrus and in general, changes in the seasonal occurrence and the quality of sea ice in key feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "context_window": "can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and reproduction, impacting the resilience of marine mammal populations with concomitant effects on the people who rely on them for subsistence, economic and cultural purposes.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and",
+      "context_window": "Extirpations of some marine mammal stocks are likely. • The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and production, marine mining, commercial fisheries, tourism, pollution, noise and shipping, which in combination can profoundly impact marine mammal populations and disrupt complex ecological relationships.",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In a warmer Arctic, endemic marine mammal species face extreme levels of habitat change, which is expected",
+      "context_window": "traditional and local communities • In a warmer Arctic, endemic marine mammal species face extreme levels of habitat change, which is expected to result in dramatic reductions in sea ice dependent species. •",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increased predation on Arctic species, higher competition for",
+      "context_window": "larger-bodied boreal species are shifting northwards at a faster rate than Arctic species are retreating. This can cause increased predation on Arctic species, higher competition for food and possibly elevated risk of disease (Harvell et al. 1999, Bradley et al. 2005). As a consequence, food web structure",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Northward advance of valuable boreal species, retreat of",
+      "context_window": "and ecologically important bottom features such as corals and sponge beds (Garcia et al. 2006). Northward advance of valuable boreal species, retreat of Arctic species and increased accessibility due to less ice cover will increase the total fishing pressure and open new areas",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "generally, the decline in multi-year ice will affect species",
+      "context_window": "which include many species of marine mammals and seabirds (Chapters 3.6 and 3.5). Among sea ice biota more generally, the decline in multi-year ice will affect species composition (Chapter 3.1). This implies that specialist species strictly linked to ice are disfavoured, while more generalist",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "competition as temperate species move northward may",
+      "context_window": "The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional competition as temperate species move northward may become significant challenges for ice-dependent marine mammal species (Moore et al. 2014). The selection of ice-",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic species are replaced by non-Arctic species, again with unknown consequences for the Arctic marine",
+      "context_window": "patterns and salinity. Increased open water and less saline surface water could lead to range shifts so that Arctic species are replaced by non-Arctic species, again with unknown consequences for the Arctic marine food web. •",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions, individual species ecological requirements, and",
+      "context_window": "These species are associated with sea ice and will be affected by sea ice loss to various degrees depending on regional conditions, individual species ecological requirements, and individual species or stocks historic status. These 11 species, and the aspects related to them, are discussed in this chapter.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impact to affected seabirds could result in lower",
+      "context_window": "Thus, a warming climate affects polar bear hunting behaviour, which then results in predation pressure on local seabirds during the nesting season. The impact to affected seabirds could result in lower reproductive success and eventual population decline, as well as changes in the bird’s choice of nesting sites. Polar bear searching for eggs on murre cliff in Novaya Zemlya, Russia.",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "cause many concurrent ecosystem changes, including",
+      "context_window": "size, and annual changes in mid-winter ice extent and prey abundance. The changes in ice extent likely reflect or even cause many concurrent ecosystem changes, including changes in food availability, notably for capelin the main forage fish in the area (Buren et al. 2014). In Barents Sea harp",
+      "page_number": 158,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "possibly also from climate-initiated ecosystem changes",
+      "context_window": "is likely driven by a decline in their amphipod prey, perhaps in part from overexploitation from gray whale feeding but possibly also from climate-initiated ecosystem changes including shifts in currents causing changes in sediment grain size (Coyle et al. 2007, Grebmeier 2012). Another",
+      "page_number": 99,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expansion of boreal species, such as Atlantic cod, which",
+      "context_window": "122 pressure, polar cod is being affected by the northward expansion of boreal species, such as Atlantic cod, which impose new predatory or competitive pressures, and changes in sea ice, which provides important habitat for spawning",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationships between sea ice loss and climate",
+      "context_window": "sizes, densities, and distributions of marine mammal populations in order to understand the relationships between sea ice loss and climate change and to manage Arctic marine mammal populations in an appropriate manner.",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "biodiversity change, and to identify important trends (Fig.",
+      "context_window": "question-driven and integrated ecosystem-based approach to long-term monitoring to describe ecosystem and biodiversity change, and to identify important trends (Fig. 1.1). It does this by:",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change",
+      "context_window": "3.5.4. Drivers of observed trends As the Arctic has longer seasonal ice-free periods due to climate change , seabird communities are likely to change. In the Chukchi Sea of the Pacific Arctic, decadal shifts in seabird",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "northward shifts in primary productivity and changes in",
+      "context_window": "Sea (Cochrane et al. 2009) and a complex suite of changes in the northern Bering and Chukchi Seas highlighted by northward shifts in primary productivity and changes in benthic species composition (Grebmeier 2012). Marine mammal responses to changing ice conditions similarly differ",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts in the seasonal timing (phenology) of species life-",
+      "context_window": "and more spatially extensive ice-free summer could be expected to enhance zooplankton productivity. Concurrently, shifts in the seasonal timing (phenology) of species life- history traits can be anticipated. Such enhanced secondary productivity has been shown to operate in the North Water",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to previously unsurveyed habitats. Decreases in sea ice",
+      "context_window": "period permits fisheries to operate for longer periods within a year and reductions in sea ice extent allow access to previously unsurveyed habitats. Decreases in sea ice concentration and thickness allow smaller vessels to fish commercially without risking ice damage. Sea ice cover can",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2008). Sea surface temperatures and climate can also affect",
+      "context_window": "large (0.5-1ºC) changes in sea surface temperature, in either direction, resulting from large-scale climatic shifts (Irons et al. 2008). Sea surface temperatures and climate can also affect species that nest on tundra, such as common eiders (Jónsson et al. 2013).",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected with climate change. Higher ambient temperatures",
+      "context_window": "Barents Sea, there is also evidence of warming bottom temperatures (Jørgensen et al. 2015), a second driver expected with climate change. Higher ambient temperatures modify the environmental conditions experienced by benthic organisms, exceeding the temperature limits of some",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "advection of planktonic algae. These links are likely to change",
+      "context_window": "diatoms in the Canadian Arctic were similar to those in the North Atlantic in the following spring, suggesting large-scale advection of planktonic algae. These links are likely to change in response to further global warming. 4.3 The state of Arctic marine",
+      "page_number": 188,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "under the influence of a warming climate a number of",
+      "context_window": "as difficult or impossible to clean up. In addition to the ice-dependent species considered here, under the influence of a warming climate a number of temperate species have extended their distribution range northward and increased the amount of time they spend",
+      "page_number": 166,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "potential to expand spatially following changes in species",
+      "context_window": "Reinhardtius hippoglossoides ), have the potential to expand spatially following changes in species distributions or as previously inaccessible areas become ice- free for extended periods.",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to taxa that require warmer conditions for growth and",
+      "context_window": "benthic organisms, exceeding the temperature limits of some stenothermal (e.g., Arctic) species but opening these regions to taxa that require warmer conditions for growth and reproduction (e.g., boreal species). This factor is especially expected in inflow regions of the North Atlantic and North",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators of climate variability and impacts in Arctic marine ecosystems.",
+      "context_window": "et al. 1992). Ongoing monitoring and collection of new baseline data are needed to report on patterns in polar cod and capelin distributions and abundances as key indicators of climate variability and impacts in Arctic marine ecosystems. Polar cod. Photo: Shawn Harper,",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species, population and region (Moore and Huntington",
+      "context_window": "capacity inferred from demographic parameters and/or condition indices (Gill et al. 2011). Responses will vary by species, population and region (Moore and Huntington 2008). Endemic Arctic species range across jurisdictional boundaries and their responses to environmental change,",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the distribution and seasonal abundance of these",
+      "context_window": "increasingly important predator in the Arctic (Ferguson et al. 2010). It is important to monitor temporal and spatial changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems.",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "al. 2015). Contaminant burdens can interact with climate",
+      "context_window": "consequences for predators such as the glaucous gull (Erikstad et al. 2013) and black-legged kittiwake (Goutte et al. 2015). Contaminant burdens can interact with climate change in different ways, either because changes in the physical environment may lead to increased exposure to",
+      "page_number": 186,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "that experience a change in their prey field and consequently",
+      "context_window": "change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently their diet and nutritional status. The effects of acidification on Arctic fishes are still unclear,",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Northward range expansions are underway and pose unknown consequences for Arctic species and their",
+      "context_window": "predators such as seabirds, marine mammals, as well as people. • Northward range expansions are underway and pose unknown consequences for Arctic species and their interactions such as predation and competition. •",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biota are highly variable in space and time. This variability",
+      "context_window": "3.1.4 Drivers of observed trends Abundance and biomass, diversity and distribution of sea ice biota are highly variable in space and time. This variability can largely be attributed to the physical and chemical conditions in and under the sea ice. Light availability,",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on species e.g. rising temperatures in the",
+      "context_window": "► Warming can have surprising and contradictory effects on species e.g. rising temperatures in the Chukchi Sea have been associated with an increase in nutritious copepods with high fat content",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "These species are associated with sea ice and will be affected",
+      "context_window": "Cystophora cristata ) in the North Atlantic area. These species are associated with sea ice and will be affected by sea ice loss to various degrees depending on regional conditions, individual species ecological requirements, and",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and to manage Arctic marine mammal",
+      "context_window": "mammal populations in order to understand the relationships between sea ice loss and climate change and to manage Arctic marine mammal populations in an appropriate manner. ►",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to a shift in copepod prey species, with the larger, lipid-",
+      "context_window": "of the decline in Svalbard’s thick-billed murre population (Descamps et al. 2013). The warming of the Atlantic has led to a shift in copepod prey species, with the larger, lipid- rich Calanus glacialis",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "insights into their responses to ecosystem changes and,",
+      "context_window": "The efforts to track and understand trends in population status in each of the marine mammal FECs will provide insights into their responses to ecosystem changes and, ultimately changes in Arctic biodiversity. Population status may be defined as both population abundance measured",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures increase, this may not be the case for species",
+      "context_window": "Hop and Gjøsæter 2013). While pelagic and deep-water species are able to spread northward into the Arctic Ocean as temperatures increase, this may not be the case for species linked to shelf regions, including benthos, fishes and seabirds (Chapters 3.3, 3.4, 3.5).",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can profoundly impact marine mammal populations and disrupt complex ecological relationships.",
+      "context_window": "The effects of climate change are expected to be exacerbated by increasing oil and gas exploration and production, marine mining, commercial fisheries, tourism, pollution, noise and shipping, which in combination can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "page_number": 151,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "into the Arctic Basin with climate change, but",
+      "context_window": "► Greenland halibut have the potential to expand into the Arctic Basin with climate change, but only given the availability of suitable prey and topography.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Svalbard, which show how changes in ice conditions have",
+      "context_window": "other parameters with changing environmental situations. An example is the telemetry studies of ringed seals in Svalbard, which show how changes in ice conditions have influenced foraging behaviour of a strongly ice-associated seal (Hamilton et al. 2015, 2016). Further examples include",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of species present—masks the impact of climate driven",
+      "context_window": "). Marine mammal biodiversity— if described as a simple tally of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plankton community. Climate also affects the duration",
+      "context_window": "Arctic is changes in the climate system, which has a major influence on currents in the Arctic, with impacts on the plankton community. Climate also affects the duration of open water versus seasonal sea ice and the extent of seasonal ice cover. Deeper wind-driven mixing during an",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "boundaries and their responses to environmental change,",
+      "context_window": "species, population and region (Moore and Huntington 2008). Endemic Arctic species range across jurisdictional boundaries and their responses to environmental change, whether in distribution, behaviour, abundance, or other factors, will result in new conservation and management",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "autumn in the Arctic, could have an influence on the species",
+      "context_window": "The interconnections between the Arctic and the Atlantic suggest that factors selecting for species in late summer and autumn in the Arctic, could have an influence on the species composition, timing and extent of phytoplankton production well outside of the Arctic. A list of 36 potentially harmful/",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations and tracking responses to changes in ice",
+      "context_window": "prey, but may be affected by other factors. Understanding characteristics of sea ice use by individual species and populations and tracking responses to changes in ice conditions will be important in determining the significance of environmental changes to ice-affiliated marine mammals",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic is changes in the climate system, which has a major",
+      "context_window": "3.2.4 Drivers of observed trends By far the most relevant driver influencing plankton in the Arctic is changes in the climate system, which has a major influence on currents in the Arctic, with impacts on the plankton community. Climate also affects the duration",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in these species can have cascading effects throughout the ecosystem and can represent",
+      "context_window": "base of the pelagic Arctic marine food web, feeding large-sized zooplankton, fishes, seabirds and marine mammals. Changes in these species can have cascading effects throughout the ecosystem and can represent the first sign of overall ecosystem shifts. Despite their importance, elements of this taxonomic group are",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circumpolar-level analysis of the impacts of climate on murre",
+      "context_window": "temperatures on upper trophic levels. For example, a circumpolar-level analysis of the impacts of climate on murre populations showed that murres respond negatively to large (0.5-1ºC) changes in sea surface temperature, in either",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "negatively influenced by climate related changes with",
+      "context_window": "waters may exert additional pressure through intraspecific competition on populations of polar cod that are already negatively influenced by climate related changes with regards to habitat availability (Box 3.4.2). In the northeast Atlantic, capelin and Atlantic cod are linked",
+      "page_number": 120,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in human populations, and climate change. By integrating",
+      "context_window": "anthropogenic stressors, including increasing shipping activity and resource development, continued increases in human populations, and climate change. By integrating long-term monitoring studies of Arctic marine mammals into research on Arctic change, there is an opportunity to gain",
+      "page_number": 168,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species to determine how these changes might impact Arctic",
+      "context_window": "al. 2010). It is important to monitor temporal and spatial changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems. 3.6.5 Knowledge and monitoring gaps",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "changes in the distribution and seasonal abundance of these species to determine how these changes might impact Arctic ecosystems. 3.6.5 Knowledge and monitoring gaps The Conservation of Arctic Flora and Fauna (CAFF) has",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The cumulative effect of changes in Arctic ecosystems on",
+      "context_window": "at key sites across the ringed seal’s range. To date, this plan has not been fully implemented. The cumulative effect of changes in Arctic ecosystems on marine mammals is a key knowledge gap. Arctic ecosystems are undergoing increasing pressure from a variety of major",
+      "page_number": 168,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have cascading effects on zooplankton communities, where",
+      "context_window": "affect the composition of phytoplankton communities, with flagellates favoured over diatoms (Chapter 3.2). This may have cascading effects on zooplankton communities, where different species and groups are adapted to feed on specific types of algae. In turn, these changes in zooplankton species",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to changing ecological conditions, e.g., increasing",
+      "context_window": "interpretation of temporal trends. Specifically, an increasing population may be the result of a positive reaction by the species to changing ecological conditions, e.g., increasing primary production resulting in increased prey abundance. Alternatively, and most commonly among Arctic marine",
+      "page_number": 157,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of environmental changes to ice-affiliated marine mammals",
+      "context_window": "populations and tracking responses to changes in ice conditions will be important in determining the significance of environmental changes to ice-affiliated marine mammals and to the human communities. Population dynamics of many Arctic marine mammal species",
+      "page_number": 153,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the most important habitat feature. Declines in seasonal ice",
+      "context_window": "3.6). For most species of marine mammal, seasonal pack ice is the most important habitat feature. Declines in seasonal ice cover may thus lead to reductions in breeding sites for seals and to a loss of haul-out sites for walrus that may affect their",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of rapid changes in sea ice are on species that depend on",
+      "context_window": "the high productivity surface water historically in Northern Baffin Bay moving north. The most obvious negative impacts of rapid changes in sea ice are on species that depend on the ice as habitat, such as polar cod ( Boreogadus saida",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by climate-driven change and species data would",
+      "context_window": "available for single-celled plankton, especially phytoplankton and heterotrophic protists, indicate that they too are influenced by climate-driven change and species data would contribute to the understanding of ecosystem status. It can be argued that changes at the base of the food web would",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affecting seasonal cycles of light availability, water",
+      "context_window": "define and drive the conditions in many Arctic marine ecosystems, affecting seasonal cycles of light availability, water temperature, nutrients and the flow of energy through the food web. Some of the features of the sea ice environment",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change",
+      "context_window": "Arctic marine biodiversity 4.2.1 Observed and expected impacts of climate change Several reviews have assessed the evidence for observed climate-driven changes in Arctic marine biodiversity",
+      "page_number": 184,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Plankton are strongly affected by climate and differ between open water and ice-cover conditions, current",
+      "context_window": "of large copepods. • Plankton are strongly affected by climate and differ between open water and ice-cover conditions, current patterns and salinity. Increased open water and less saline surface water could lead to range shifts so that",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect Arctic biodiversity in many different ways. Fish species",
+      "context_window": "At the same time, new species are entering the Arctic from more southern areas as temperatures increase, and this may affect Arctic biodiversity in many different ways. Fish species from warmer waters have been documented in many areas (Chapter 3.4). Pelagic fish predators such as Atlantic mackerel",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic marine fish communities are changing as the result",
+      "context_window": "northeast Atlantic. 3.4.1 Introduction Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species will be able to adapt their patterns of breeding and",
+      "context_window": "historic sea ice and climatic patterns are expected to decline in abundance. It is not certain to what, if any extent such species will be able to adapt their patterns of breeding and habitat use on decadal time scales. Extirpation of some stocks is likely.",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as shifts in the density and distribution of prey species, and",
+      "context_window": "(e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and potentially loss of some fat-rich prey species (Moore et al. 2014).",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on many other species and on productivity (Meltofte",
+      "context_window": "Together with more extreme weather events, such as storms, changes in sea ices are also likely to have direct or indirect effects on many other species and on productivity (Meltofte 2013). Polynyas and leads",
+      "page_number": 25,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "Current trends indicate that species reliant on sea ice for",
+      "context_window": "Arctic waters and may compete with other apex predators for nutritious seals. Current trends indicate that species reliant on sea ice for reproduction, resting or foraging will experience range reductions as sea ice retreat occurs earlier and the open",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical environmental changes",
+      "context_window": "feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a consequence of changes in sea ice and water temperature.",
+      "context_window": "it difficult to detect trends in abundance, but the recent environmentally-driven northward displacement of capelin is a consequence of changes in sea ice and water temperature. Greenland halibut has undergone declines and subsequent recovery over the last two decades in the northeast Arctic.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on key differences in life history characteristics and habitat associations (reviewed",
+      "context_window": "Box 3.4.2: Polar cod and capelin Polar cod and capelin are expected to respond differently to climate change based on key differences in life history characteristics and habitat associations (reviewed in Hop and Gjøsæter 2013). Reductions in sea ice will likely alter the reproductive success of polar cod due to loss of sea ice habitat for spawning (Bouchard and",
+      "page_number": 116,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "communities with cascading effects on the ice-associated ecosystem.",
+      "context_window": "• Multi-year sea ice is disappearing and will be replaced by first-year sea ice, which will cause shifts in ice algal communities with cascading effects on the ice-associated ecosystem. • Seasonal duration of first-year sea ice is expected to become shorter, with more snow on the ice, which may",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as carrying capacity changes due to changing climatic",
+      "context_window": "inherent in interpreting Arctic marine mammal population status underscores the need for long-term monitoring as carrying capacity changes due to changing climatic conditions. Distributional changes within polar bear populations have",
+      "page_number": 158,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity in the Arctic may increase as temperate species",
+      "context_window": "of species present—masks the impact of climate driven changes on endemic Arctic species. Using a simple tally, biodiversity in the Arctic may increase as temperate species move into the area with shifting ice and warming conditions. Their arrival may further stress Arctic endemic species already",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "reveal species plasticity in response to climate change and",
+      "context_window": "Changing ice conditions affect the diet of seabirds and reveal species plasticity in response to climate change and sea ice conditions (Grémillet et al. 2012, 2015). Changes in ice coverage might have positive or negative impacts on",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "linked, directly or indirectly, to climate change. As ocean",
+      "context_window": "extent. Most of the drivers affecting marine fishes in the Arctic are linked, directly or indirectly, to climate change. As ocean temperatures increase, the distributions of zoogeographical groups can change both south to north (Wassmann et al.",
+      "page_number": 123,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "expansion of bordering species, often altering competitive",
+      "context_window": "the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive and predator-prey interactions. For example, the northward movement of capelin (a complex of",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature",
+      "context_window": "natural variability, and there has been a lack of consistent sea ice biota monitoring. • Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature of the ice habitat, therefore making them very susceptible to climate change. •",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "of the ice habitat, therefore making them very susceptible to climate change.",
+      "context_window": "• Sea ice biota are affected by temperature and salinity, nutrient and space limitations and the ephemeral nature of the ice habitat, therefore making them very susceptible to climate change. • Sea ice biota monitoring has occurred most frequently in the central Arctic, Svalbard, Barrow (Alaska) and the",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "northern communities. As an ice dependent species, ringed",
+      "context_window": "This is the most numerous of the endemic Arctic pinnipeds and a key food resource for polar bear and people in many northern communities. As an ice dependent species, ringed seal are threatened by global warming. Specifically, loss of and changes to sea ice have caused structural changes",
+      "page_number": 168,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Hunt et al. 2016). Such changes in temperature can affect any",
+      "context_window": "Ocean, which is expected to have direct and indirect impacts on marine biodiversity (Müller et al. 2009, Meltofte 2013, Hunt et al. 2016). Such changes in temperature can affect any and/or all aspects of species life cycles, including breeding, rearing, feeding, predator-prey relations, population cycles,",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1) changes in prey species abundance and distribution; 2)",
+      "context_window": "transformative impacts on ice-associated Arctic marine mammals through direct habitat loss; and indirectly through 1) changes in prey species abundance and distribution; 2) increased levels of ocean noise due to increased ship traffic and industrial activities; 3) increased risks of disease; and, 4)",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The consequences vary, but have resulted in lower breeding success for some species, including black",
+      "context_window": "climate change and reduced ice-cover—in some cases travelling farther for food or foraging on less nutritious species. The consequences vary, but have resulted in lower breeding success for some species, including black guillemots. •",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Arctic marine species and ecosystems are undergoing",
+      "context_window": "Key Findings 5 Arctic marine species and ecosystems are undergoing pressure from cumulative changes in their physical, chemical and biological environment.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures increase, the distributions of zoogeographical",
+      "context_window": "Most of the drivers affecting marine fishes in the Arctic are linked, directly or indirectly, to climate change. As ocean temperatures increase, the distributions of zoogeographical groups can change both south to north (Wassmann et al. 2011, Hollowed et al. 2013) and across Pacific and Atlantic",
+      "page_number": 123,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "faced with changing physical and ecological conditions.",
+      "context_window": "move into the area with shifting ice and warming conditions. Their arrival may further stress Arctic endemic species already faced with changing physical and ecological conditions. The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional",
+      "page_number": 154,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "ecological levels (species, populations, and ecosystems).",
+      "context_window": "Benthic fauna are generally sensitive to variations in the surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom-",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "biota, are expected to lose habitat and contract their",
+      "context_window": "Reduction in sea ice Species tightly linked to sea ice, often referred to as sympagic biota, are expected to lose habitat and contract their distributional ranges. As an example, polar cod and ice cod (",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characteristics of habitats for seabird and coastal birds; less",
+      "context_window": "eliminate these protected and important feeding areas. Indirectly, changes in sea ice affects the physical characteristics of habitats for seabird and coastal birds; less sea ice leads to coastlines being more exposed to erosion from wave impacts, and compounded by sea level rise.",
+      "page_number": 138,
+      "keyword_hits": {
+        "sea level rise": 1
+      }
+    },
+    {
+      "core_sentence": "associated with the changing environment and additional",
+      "context_window": "faced with changing physical and ecological conditions. The cumulative and synergistic effects of multiple stressors associated with the changing environment and additional competition as temperate species move northward may become significant challenges for ice-dependent marine",
+      "page_number": 154,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "use patterns. Changes in habitat allow the northward",
+      "context_window": "temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat use patterns. Changes in habitat allow the northward expansion of bordering species, often altering competitive and predator-prey interactions. For example, the northward",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effects of climate change on benthic populations are",
+      "context_window": "surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom- water temperature, sea-ice dynamics, coastal erosion,",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 8,
+    "keyword_counts": {
+      "climate change": 93,
+      "ocean acidification": 23,
+      "sea level rise": 1,
+      "warming": 58,
+      "temperature increase": 1,
+      "carbon dioxide": 2,
+      "co2": 1,
+      "extreme weather": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "3.1.6 Conclusions and key findings",
+      "start_sentence": 3748,
+      "end_sentence": 3765,
+      "sentence_count": 18,
+      "page_range": "51-51",
+      "sentences": [
+        {
+          "sentence_id": 3748,
+          "page_number": 51,
+          "content": "3.1.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 3749,
+          "page_number": 51,
+          "content": "Temporal trends in sea ice biota diversity and/or abundance/",
+          "full_length": 60
+        },
+        {
+          "sentence_id": 3750,
+          "page_number": 51,
+          "content": "biomass are very challenging to detect for two main reasons:",
+          "full_length": 60
+        },
+        {
+          "sentence_id": 3751,
+          "page_number": 51,
+          "content": "the large natural variability within the sea ice system and the",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 3752,
+          "page_number": 51,
+          "content": "lack of systematic and consistent sea ice biota monitoring.",
+          "full_length": 59
+        }
+      ],
+      "total_sentences_in_section": 18
+    },
+    {
+      "section_name": "3.2.6 Conclusions and key findings",
+      "start_sentence": 6878,
+      "end_sentence": 6912,
+      "sentence_count": 35,
+      "page_range": "80-81",
+      "sentences": [
+        {
+          "sentence_id": 6878,
+          "page_number": 80,
+          "content": "3.2.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 6879,
+          "page_number": 80,
+          "content": "The functional and taxonomic diversity of microbes in the",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 6880,
+          "page_number": 80,
+          "content": "Arctic is vast and a scientifically underappreciated source of",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 6881,
+          "page_number": 80,
+          "content": "biodiversity.",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 6882,
+          "page_number": 80,
+          "content": "Phytoplankton are a species-rich domain of the Arctic marine",
+          "full_length": 60
+        }
+      ],
+      "total_sentences_in_section": 35
+    },
+    {
+      "section_name": "3.3.6 Conclusions and key findings",
+      "start_sentence": 8983,
+      "end_sentence": 8983,
+      "sentence_count": 1,
+      "page_range": "104-104",
+      "sentences": [
+        {
+          "sentence_id": 8983,
+          "page_number": 104,
+          "content": "3.3.6 Conclusions and key findings",
+          "full_length": 34
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "3.4.6 Conclusions and key findings",
+      "start_sentence": 10637,
+      "end_sentence": 10696,
+      "sentence_count": 60,
+      "page_range": "124-125",
+      "sentences": [
+        {
+          "sentence_id": 10637,
+          "page_number": 124,
+          "content": "3.4.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 10638,
+          "page_number": 124,
+          "content": "•",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 10639,
+          "page_number": 124,
+          "content": "Conduct pan-Arctic taxonomic analyses to clarify",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 10640,
+          "page_number": 124,
+          "content": "zoogeographic patterns that are important for",
+          "full_length": 45
+        },
+        {
+          "sentence_id": 10641,
+          "page_number": 124,
+          "content": "detecting and understanding change.",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 60
+    },
+    {
+      "section_name": "3.5.6 Conclusions and key findings",
+      "start_sentence": 12998,
+      "end_sentence": 13133,
+      "sentence_count": 136,
+      "page_range": "144-145",
+      "sentences": [
+        {
+          "sentence_id": 12998,
+          "page_number": 144,
+          "content": "3.5.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 12999,
+          "page_number": 144,
+          "content": "To summarize by AMA ecoregions, based on recent trends at",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 13000,
+          "page_number": 144,
+          "content": "CSMP key sites (Table 3.5.2), the Pacific Arctic and Beaufort",
+          "full_length": 61
+        },
+        {
+          "sentence_id": 13001,
+          "page_number": 144,
+          "content": "have shown increasing or stable populations of six of eight",
+          "full_length": 59
+        },
+        {
+          "sentence_id": 13002,
+          "page_number": 144,
+          "content": "priority (including FEC) species (with exception of common",
+          "full_length": 58
+        }
+      ],
+      "total_sentences_in_section": 136
+    },
+    {
+      "section_name": "3.6.6 Conclusions and key findings",
+      "start_sentence": 16040,
+      "end_sentence": 16148,
+      "sentence_count": 109,
+      "page_range": "170-171",
+      "sentences": [
+        {
+          "sentence_id": 16040,
+          "page_number": 170,
+          "content": "3.6.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 16041,
+          "page_number": 170,
+          "content": "Climate-induced changes are amplified in the Arctic",
+          "full_length": 51
+        },
+        {
+          "sentence_id": 16042,
+          "page_number": 170,
+          "content": "compared to other areas of the globe. As a result, Arctic",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 16043,
+          "page_number": 170,
+          "content": "marine ecosystems are rapidly changing due to atmospheric",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 16044,
+          "page_number": 170,
+          "content": "and oceanic warming and its impacts on sea ice and",
+          "full_length": 50
+        }
+      ],
+      "total_sentences_in_section": 109
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1155,
+      "end_sentence": 1306,
+      "sentence_count": 152,
+      "page_range": "18-21",
+      "sentences": [
+        {
+          "sentence_id": 1155,
+          "page_number": 18,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1156,
+          "page_number": 18,
+          "content": "AMAP, CAFF, SDWG. 2013.",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 1157,
+          "page_number": 18,
+          "content": "Identification of Arctic marine areas of",
+          "full_length": 40
+        },
+        {
+          "sentence_id": 1158,
+          "page_number": 18,
+          "content": "heightened ecological and cultural significance: Arctic Marine",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 1159,
+          "page_number": 18,
+          "content": "Shipping Assessment (AMSA) IIC",
+          "full_length": 30
+        }
+      ],
+      "total_sentences_in_section": 152
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1982,
+      "end_sentence": 2515,
+      "sentence_count": 534,
+      "page_range": "31-35",
+      "sentences": [
+        {
+          "sentence_id": 1982,
+          "page_number": 31,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1983,
+          "page_number": 31,
+          "content": "Arctic Council. 2013.",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1984,
+          "page_number": 31,
+          "content": "Ecosystem Based Management in the Arctic:",
+          "full_length": 41
+        },
+        {
+          "sentence_id": 1985,
+          "page_number": 31,
+          "content": "Report submitted to Senior Arctic Officials by the Expert Group",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 1986,
+          "page_number": 31,
+          "content": "on Ecosystem-Based Management",
+          "full_length": 29
+        }
+      ],
+      "total_sentences_in_section": 534
+    },
+    {
+      "section_name": "Key references",
+      "start_sentence": 2696,
+      "end_sentence": 2741,
+      "sentence_count": 46,
+      "page_range": "38-39",
+      "sentences": [
+        {
+          "sentence_id": 2696,
+          "page_number": 38,
+          "content": "Key references",
+          "full_length": 14
+        },
+        {
+          "sentence_id": 2697,
+          "page_number": 38,
+          "content": "Bacteria and Archaea",
+          "full_length": 20
+        },
+        {
+          "sentence_id": 2698,
+          "page_number": 38,
+          "content": "> 120 at 95% similarity",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 2699,
+          "page_number": 38,
+          "content": "> 210 cells m",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 2700,
+          "page_number": 38,
+          "content": "-2",
+          "full_length": 2
+        }
+      ],
+      "total_sentences_in_section": 46
+    },
+    {
+      "section_name": "Appendix 3.1.1: Meiofauna References",
+      "start_sentence": 3822,
+      "end_sentence": 3822,
+      "sentence_count": 1,
+      "page_range": "52-52",
+      "sentences": [
+        {
+          "sentence_id": 3822,
+          "page_number": 52,
+          "content": "Appendix 3.1.1: Meiofauna References",
+          "full_length": 36
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "Appendix 3.1.2: Macrofauna References",
+      "start_sentence": 4085,
+      "end_sentence": 4085,
+      "sentence_count": 1,
+      "page_range": "54-54",
+      "sentences": [
+        {
+          "sentence_id": 4085,
+          "page_number": 54,
+          "content": "Appendix 3.1.2: Macrofauna References",
+          "full_length": 37
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 4925,
+      "end_sentence": 5862,
+      "sentence_count": 938,
+      "page_range": "58-65",
+      "sentences": [
+        {
+          "sentence_id": 4925,
+          "page_number": 58,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4926,
+          "page_number": 58,
+          "content": "Aarset, A.V. and Aunaas, T. 1987.",
+          "full_length": 33
+        },
+        {
+          "sentence_id": 4927,
+          "page_number": 58,
+          "content": "Osmotic responses to hyposmotic",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 4928,
+          "page_number": 58,
+          "content": "stress in the amphipods",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 4929,
+          "page_number": 58,
+          "content": "Gammarus wilkitzkii",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 938
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 6913,
+      "end_sentence": 7713,
+      "sentence_count": 801,
+      "page_range": "81-87",
+      "sentences": [
+        {
+          "sentence_id": 6913,
+          "page_number": 81,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 6914,
+          "page_number": 81,
+          "content": "Abelmann, A. 1992.",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 6915,
+          "page_number": 81,
+          "content": "Diatom assemblages in Arctic sea ice - indicator",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 6916,
+          "page_number": 81,
+          "content": "for ice drift pathways",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 6917,
+          "page_number": 81,
+          "content": ". Deep-Sea Research Part A, 39(2): 525-",
+          "full_length": 39
+        }
+      ],
+      "total_sentences_in_section": 801
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 9067,
+      "end_sentence": 9634,
+      "sentence_count": 568,
+      "page_range": "105-111",
+      "sentences": [
+        {
+          "sentence_id": 9067,
+          "page_number": 105,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 9068,
+          "page_number": 105,
+          "content": "Anisimova, N.A., Jørgensen, L.L., Lubin, P. and Manushin, I. 2010.",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 9069,
+          "page_number": 105,
+          "content": "Mapping and monitoring of benthos in the Barents Sea and",
+          "full_length": 56
+        },
+        {
+          "sentence_id": 9070,
+          "page_number": 105,
+          "content": "Svalbard waters: Results of the join Russian Norwegian Benthic",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 9071,
+          "page_number": 105,
+          "content": "program 2006-2008",
+          "full_length": 17
+        }
+      ],
+      "total_sentences_in_section": 568
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 10697,
+      "end_sentence": 11571,
+      "sentence_count": 875,
+      "page_range": "125-131",
+      "sentences": [
+        {
+          "sentence_id": 10697,
+          "page_number": 125,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 10698,
+          "page_number": 125,
+          "content": "Ajiad, A., Oganin, I.A. and Gjøsæter, H. 2011. Polar cod.",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 10699,
+          "page_number": 125,
+          "content": "In:",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 10700,
+          "page_number": 125,
+          "content": "T.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 10701,
+          "page_number": 125,
+          "content": "Jakobsen and V.K. Ozhigin (eds.).",
+          "full_length": 33
+        }
+      ],
+      "total_sentences_in_section": 875
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 13134,
+      "end_sentence": 13800,
+      "sentence_count": 667,
+      "page_range": "145-148",
+      "sentences": [
+        {
+          "sentence_id": 13134,
+          "page_number": 145,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 13135,
+          "page_number": 145,
+          "content": "Anker-Nilssen, T., Barrett, R.T., Lorentsen, S.-H., Strøm, H., Bustnes,",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 13136,
+          "page_number": 145,
+          "content": "J.O., Christensen-Dalsgaard, S., Descamps, S., Erikstad, K.E.,",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 13137,
+          "page_number": 145,
+          "content": "Fauchald, P., Hanssen, S.A., Lorentzen, E., Moe, B., Reiertsen,",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 13138,
+          "page_number": 145,
+          "content": "T.K. and Systad, G.H. 2015.",
+          "full_length": 27
+        }
+      ],
+      "total_sentences_in_section": 667
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 16149,
+      "end_sentence": 17351,
+      "sentence_count": 1203,
+      "page_range": "171-184",
+      "sentences": [
+        {
+          "sentence_id": 16149,
+          "page_number": 171,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 16150,
+          "page_number": 171,
+          "content": "Allen, B.M., and Angliss, R.P. 2011.",
+          "full_length": 36
+        },
+        {
+          "sentence_id": 16151,
+          "page_number": 171,
+          "content": "Alaska marine mammal stock",
+          "full_length": 26
+        },
+        {
+          "sentence_id": 16152,
+          "page_number": 171,
+          "content": "assessments, 2010",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 16153,
+          "page_number": 171,
+          "content": ". U.S. Department of Commerce, NOAA",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 1203
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 18311,
+      "end_sentence": 18846,
+      "sentence_count": 536,
+      "page_range": "192-195",
+      "sentences": [
+        {
+          "sentence_id": 18311,
+          "page_number": 192,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 18312,
+          "page_number": 192,
+          "content": "Aarvak, T., Øien, I.J., Krasnov, Y.V., Gavrilo, M.V. and Shavykin, A.A.",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 18313,
+          "page_number": 192,
+          "content": "2013.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 18314,
+          "page_number": 192,
+          "content": "The European wintering population of Steller’s Eider",
+          "full_length": 52
+        },
+        {
+          "sentence_id": 18315,
+          "page_number": 192,
+          "content": "Polysticta stelleri",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 536
+    }
+  ],
+  "metadata": {
+    "total_sentences": 19079,
+    "chunks_selected": 123,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "3.1.6 Conclusions and key findings",
+        "start_sentence": 3748,
+        "end_sentence": 3765,
+        "sentence_count": 18
+      },
+      {
+        "section_name": "3.2.6 Conclusions and key findings",
+        "start_sentence": 6878,
+        "end_sentence": 6912,
+        "sentence_count": 35
+      },
+      {
+        "section_name": "3.3.6 Conclusions and key findings",
+        "start_sentence": 8983,
+        "end_sentence": 8983,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "3.4.6 Conclusions and key findings",
+        "start_sentence": 10637,
+        "end_sentence": 10696,
+        "sentence_count": 60
+      },
+      {
+        "section_name": "3.5.6 Conclusions and key findings",
+        "start_sentence": 12998,
+        "end_sentence": 13133,
+        "sentence_count": 136
+      },
+      {
+        "section_name": "3.6.6 Conclusions and key findings",
+        "start_sentence": 16040,
+        "end_sentence": 16148,
+        "sentence_count": 109
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1155,
+        "end_sentence": 1306,
+        "sentence_count": 152
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1982,
+        "end_sentence": 2515,
+        "sentence_count": 534
+      },
+      {
+        "section_name": "Key references",
+        "start_sentence": 2696,
+        "end_sentence": 2741,
+        "sentence_count": 46
+      },
+      {
+        "section_name": "Appendix 3.1.1: Meiofauna References",
+        "start_sentence": 3822,
+        "end_sentence": 3822,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "Appendix 3.1.2: Macrofauna References",
+        "start_sentence": 4085,
+        "end_sentence": 4085,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 4925,
+        "end_sentence": 5862,
+        "sentence_count": 938
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 6913,
+        "end_sentence": 7713,
+        "sentence_count": 801
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 9067,
+        "end_sentence": 9634,
+        "sentence_count": 568
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 10697,
+        "end_sentence": 11571,
+        "sentence_count": 875
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 13134,
+        "end_sentence": 13800,
+        "sentence_count": 667
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 16149,
+        "end_sentence": 17351,
+        "sentence_count": 1203
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 18311,
+        "end_sentence": 18846,
+        "sentence_count": 536
+      }
+    ],
+    "total_excluded_sentences": 6681
+  }
+}

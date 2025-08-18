@@ -1,0 +1,1296 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "context_window": "Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs Background Assessment Concentrations (BACs) were developed by OSPAR for testing whether measured",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish",
+      "context_window": "As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria et al",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms.",
+      "context_window": "organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms. The ERL value is defined as the lower tenth percentile of the data set of concentrations in sediments, which were associated with biological effects. Adverse effects on organisms are rarely observed when",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects",
+      "context_window": "very different trends as they have different sources and are metabolised differently. Thus, the fixed effects measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects measure variation in trends: •",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "context_window": "seafood (fish and shellfish) were used by OSPAR as proxy Environmental Assessment Criteria (EACs), but in this assessment, these are only used as thresholds for human health. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of trace metal concentrations in sediment and biota, “corresponds to the achievement, or failure to achieve, statutory targets or policy objectives for",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic inputs (except from long-range transport).",
+      "context_window": "To assess if levels are close to this background, background assessment concentrations (BAC) have been developed, taking into account the levels from remote regions considered to be without anthropogenic inputs (except from long-range transport). OSPAR uses the Environmental Quality Standards for secondary poisoning (QS",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for",
+      "context_window": "Other metals are monitored under OSPAR’s Coordinated Environmental Monitoring Programme (CEMP), and the results are generally similar to the three prioritised trace metals, with regard to the Southern North Sea, Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions (",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or lithium concentration of the sediment samples.",
+      "context_window": "This is taken into account by normalising (Loring, 1991; Kersten & Smedes, 2002; OSPAR, 2018), to the aluminium or lithium concentration of the sediment samples. For the OSPAR QSR 2023 assessment, “normal” sediment is obtained by recalculating to 5% aluminium contents in all areas, except the most southern subregions of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background",
+      "context_window": "geological or biological processes release them, at which point they may affect biota. There are natural concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background concentrations. To assess if levels are close to this background, background assessment concentrations (BAC)",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "very different trends as they have different sources and are metabolised differently.",
+      "context_window": "~ monitoring site + metal: monitoring site [biota only] + residual variation The choice of fixed and random effects was motivated by the assumption that the trace metals could have very different trends as they have different sources and are metabolised differently. Thus, the fixed effects measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they can be used for",
+      "context_window": "OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trace metal inputs indicator assessment",
+      "context_window": "They enter the marine environment via long-range transport by air, riverine input, or run-off from land (covered in the trace metal inputs indicator assessment ). In some cases, direct input occurs. For example, some metals used as antifouling chemicals (mainly copper) and corrosion anodes (mainly zinc) are",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects.",
+      "context_window": "the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanic and Atmospheric Administration (NOAA, 1999) for assessing the ecological significance of",
+      "context_window": "means of assessment has been used. ‘Effects range’ values were developed by the United States National Oceanic and Atmospheric Administration (NOAA, 1999) for assessing the ecological significance of 9 of 22 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Monitoring and Assessment Programme",
+      "context_window": "Instead, a set of risk-based levels have been established for use in the Arctic Monitoring and Assessment Programme . There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the OSPAR QSR 2023 assessment, “normal” sediment",
+      "context_window": "is taken into account by normalising (Loring, 1991; Kersten & Smedes, 2002; OSPAR, 2018), to the aluminium or lithium concentration of the sediment samples. For the OSPAR QSR 2023 assessment, “normal” sediment is obtained by recalculating to 5% aluminium contents in all areas, except the most southern subregions of 6 of 22",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime",
+      "context_window": "Sea were below the ERL, all other subregions were above. As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime area. 13 of 22",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thresholds for trace metals in sediments, fish and shellfish should be developed or",
+      "context_window": "Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the current ERL criteria. Thresholds for trace metals in sediments, fish and shellfish should be developed or updated. The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations of trace metals are monitored in the CEMP monitoring programme for 603 to 647 biota",
+      "context_window": "OSPAR Commission Results (extended) Concentrations of trace metals are monitored in the CEMP monitoring programme for 603 to 647 biota monitoring sites of each trace metal, accessible in the OHAT web tool. The assessment in QSR 2023 focused",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting",
+      "context_window": "term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals. Similar analyses explored status at the assessment area scale.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time",
+      "context_window": "Mercury, zinc, cadmium and lead are increasing in 3 subregions, and zinc and cadmium are decreasing in one subregion, whereas lead is decreasing in three subregions. As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast",
+      "context_window": "relate to the background values referred to in the OSPAR Hazardous Substances Strategy 2010-2020. It is recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast may lead to significant variations in background concentrations of contaminants, for example, trace metals. The natural variability of background concentrations should be taken into account in the interpretation of",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms.",
+      "context_window": "OSPAR Commission contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underlying the OSPAR EACs and the Environmental Quality Standards (EQSs) of the European Union Water",
+      "context_window": "were associated with biological effects. Adverse effects on organisms are rarely observed when concentrations fall below the ERL value, and the ERL therefore has some parallels with the philosophy underlying the OSPAR EACs and the Environmental Quality Standards (EQSs) of the European Union Water Framework Directive. The procedure by which ERL criteria are derived is very different from the methods",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "~ trace metal: OSPAR contaminants assessment areas",
+      "context_window": "The annual change in log concentration was then modelled by a linear mixed model with fixed effects: ~ trace metal: OSPAR contaminants assessment areas and random effects: ~ monitoring site + metal: monitoring site [biota only] + residual variation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure e: Time trend evaluation for all available metals in fish and shellfish.",
+      "context_window": "17 of 22 OSPAR Commission Figure e: Time trend evaluation for all available metals in fish and shellfish. The trend direction is shown as a triangle upwards or downwards, a circle indicates no trend. The trend is shown as a % yearly change since 2010.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "for trends and status using the methods described in the contaminant’s online assessment tool ( https://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and shellfish due to higher temperatures (Kibria",
+      "context_window": "trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria et al ., 2021).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment, and for sediments.",
+      "context_window": "the results are generally similar to the three prioritised trace metals, with regard to the Southern North Sea, Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions ( Figure c",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The annual change in log concentration was then modelled",
+      "context_window": "The trend in each metal at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled by a linear mixed model with fixed effects: ~ trace metal: OSPAR contaminants assessment areas",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contaminant concentrations in sediment, to protect against the potential for adverse biological effects on",
+      "context_window": "9 of 22 OSPAR Commission contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and",
+      "context_window": "Arctic Monitoring and Assessment Programme . There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and a Low-Risk Concentration (LRC) below which the concentration is unlikely to harm the species, could be taken as the upper threshold for good environmental status, but the link to the EQS for mercury (QS",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine",
+      "context_window": "Contributors Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC). Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The natural variability of background concentrations should be taken into account in the interpretation of",
+      "context_window": "recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast may lead to significant variations in background concentrations of contaminants, for example, trace metals. The natural variability of background concentrations should be taken into account in the interpretation of CEMP data, and local conditions should be taken into account when assessing the significance of any exceedance.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "methylmercury production in anoxic sediments, releasing it into the water column.",
+      "context_window": "increased precipitation can lead to higher depositions generally. More oxygen depletion can lead to higher methylmercury production in anoxic sediments, releasing it into the water column. Higher temperatures can also increase the uptake rate in food-webs, and ice-free arctic regions can change food-webs, all leading to",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BAC for sediment is normalised to 5% aluminium except for subregions Iberian Sea and Gulf of",
+      "context_window": "notes: • BAC for sediment is normalised to 5% aluminium except for subregions Iberian Sea and Gulf of Cadiz. •",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcome is that, on the basis of what is known about",
+      "context_window": "BACs are calculated according to the method set out in Section 4 of the CEMP Assessment Manual (OSPAR, 2008) and updated in OSPAR (MIME 2020, 2021). The outcome is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine",
+      "context_window": "contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms. The ERL value is defined as the lower tenth percentile of the data set of concentrations in sediments, which",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data for marine mammals and birds are presented",
+      "context_window": "Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023. OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three metals and individual fish and shellfish species.",
+      "context_window": ". The human health assessment is based on thresholds by the European Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann",
+      "context_window": "la Suisse et l’Union européenne. Contributors Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in",
+      "context_window": "Metals were measured in fish, shellfish, and sediment, collected between 1979 and 2020 from monitoring sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in the Greater North Sea (Figure 1)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, trends in trace metal concentrations in biota are presented.",
+      "context_window": "These criteria have also been used in the annually recurring CEMP assessments since 2010. For the QSR 2023, trends in trace metal concentrations in biota are presented. Two assessment criteria are used to assess the status of trace metal concentrations in biota: For background, Background Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the findings in the IA 2017, where only cadmium in the Southern North Sea indicated an increasing trend,",
+      "context_window": "Figure f ). This is markedly different from the findings in the IA 2017, where only cadmium in the Southern North Sea indicated an increasing trend, whereas it was decreasing in the Norwegian Trench, the Irish Sea, Celtic Sea and Northern Bay of Biscay. For",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly",
+      "context_window": "OSPAR Commission Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly change between the modelled 2000 (or later if monitoring at region started after 2000) and 2020 concentration, if more than 5 years of data were available.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dots indicate below environmental criteria and red dots indicate above environmental criteria.",
+      "context_window": "Figure 5: Mean metal concentration in fish and shellfish for sediment relative to ERL. Blue dots indicate below background, green dots indicate below environmental criteria and red dots indicate above environmental criteria. 14 of 22 OSPAR Commission",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations and confounding factors like the size of shellfish and fish, the condition of the species",
+      "context_window": "and Channel need to be investigated to identify the sources or environmental processes. Links between metal concentrations and confounding factors like the size of shellfish and fish, the condition of the species analysed, trophic level and dry weight/lipid concentrations should be investigated further. Knowledge Gaps (extended)",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More oxygen depletion can lead to higher",
+      "context_window": "to changes in deposition patterns, more forest fires increase the release of mercury from terrestrial soils, and increased precipitation can lead to higher depositions generally. More oxygen depletion can lead to higher methylmercury production in anoxic sediments, releasing it into the water column. Higher temperatures can",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Union Marine Strategy Framework Directive (MSFD) criteria threshold values.",
+      "context_window": "where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023. OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and temporal trend at the assessment area level.",
+      "context_window": "2017) For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC). Citation Larsen, M. and Hjermann, D. 2022. Status and Trend for Heavy Metals (Mercury, Cadmium and Lead) in Fish,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea",
+      "context_window": "Thresholds for trace metals in sediments, fish and shellfish should be developed or updated. The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea and Channel need to be investigated to identify the sources or environmental processes. Links between metal",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels that do not give rise to adverse effects on human health or the marine environment with the ultimate",
+      "context_window": "from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate aim of achieving and maintaining concentrations in the marine environment at near background values for naturally occurring hazardous substances and close to zero for human made hazardous substances",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA",
+      "context_window": "Development of a better understanding of why concentrations of metals in fish and shellfish are increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA 2017 seems now to have spread to the Northern North Sea and Channel subregions, and lead and mercury are also showing more upward than downward trends than previously, and for more",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations.",
+      "context_window": "There are natural concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background concentrations. To assess if levels are close to this background, background assessment concentrations (BAC) have been developed, taking into account the levels from remote regions considered to be without",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the",
+      "context_window": "14 of 22 OSPAR Commission Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly change between the modelled 2000 (or later if monitoring at region started after 2000) and 2020",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background",
+      "context_window": "Table a ) Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background Assessment Concentrations developed by OSPAR, QS sp",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact of sediment concentrations on the marine environment, to replace the current ERL",
+      "context_window": "sediment criteria based on the WFD/MSFD principles for reliable assessment of the impact of sediment concentrations on the marine environment, to replace the current ERL thresholds. •",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ranking the metals in fish and shellfish according to the number of subregions with increasing",
+      "context_window": "The trend direction is shown as a triangle upwards or downwards, a circle indicates no trend. The trend is shown as a % yearly change since 2010. Ranking the metals in fish and shellfish according to the number of subregions with increasing concentrations, copper is clearly the worst – increasing in five of the 13 subregions, and no subregions show decreasing trends.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In this way, they",
+      "context_window": "historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences. For sediments, dated sediment cores have also been used to establish pre-industrial levels. In this way, they relate to the background values referred to in the OSPAR Hazardous Substances Strategy 2010-2020. It is",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or",
+      "context_window": "expected in the North-East Atlantic if certain industrial developments had not happened. They represent the concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences. For sediments, dated sediment cores have also been used to establish pre-industrial levels.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends",
+      "context_window": "Trends Status Trends Status Arctic Waters",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal",
+      "context_window": "subregion, whereas lead is decreasing in three subregions. As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends",
+      "context_window": "• Development of a better understanding of why concentrations of metals in fish and shellfish are increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA 2017 seems now to have spread to the Northern North Sea and Channel subregions, and lead and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to",
+      "context_window": "Background (brief) OSPAR’s strategic objective from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish and shellfish",
+      "context_window": "OSPAR Subregion Sediment Fish and shellfish Trends Status",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends are also observed for the Northern North Sea, whereas arsenic is increasing in the Northern North",
+      "context_window": "of nickel, zinc, copper, arsenic, and chromium for the Southern North Sea. For zinc and copper, decreasing trends are also observed for the Northern North Sea, whereas arsenic is increasing in the Northern North Sea. Copper is also decreasing in the Irish Sea sediments ( Figure e",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by",
+      "context_window": "whereas for mercury and lead, only the Northern North Sea, Irish and Scottish West Coast and the Iberian Sea were below the ERL, all other subregions were above. As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime area.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "(Mercury, Cadmium, and Lead) in Fish, Shellfish and Sediment Common Indicator Assessment 1 of 22 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Modelled metal concentration and their 95% confidence limit in fish and shellfish mercury, zinc, cadmium, copper and",
+      "context_window": "16 of 22 OSPAR Commission Figure c: Modelled metal concentration and their 95% confidence limit in fish and shellfish mercury, zinc, cadmium, copper and lead relative to BAC. Figure d: Modelled metal concentration for zinc, copper, lead, mercury, cadmium, and chromium in sediment relative to ERL.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aim of achieving and maintaining concentrations in the marine environment at near background values for",
+      "context_window": "prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate aim of achieving and maintaining concentrations in the marine environment at near background values for naturally occurring hazardous substances and close to zero for human made hazardous substances .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions ( Figure c ), whereas for sediments, assessments based on BAC and ERL values for zinc, copper and chromium were also",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trace metals can be trapped in deeper levels",
+      "context_window": "Mercury has the potential to evaporate and be transported as a gas through the air; other trace metals are mainly transported as fine particles or bound to other particles. Trace metals can be trapped in deeper levels of sediment until mining, geological or biological processes release them, at which point they may affect biota.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the primary assessment value used in the assessment of trace metal concentrations in sediment and biota,",
+      "context_window": "(EACs), but in this assessment, these are only used as thresholds for human health. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of trace metal concentrations in sediment and biota, “corresponds to the achievement, or failure to achieve, statutory targets or policy objectives for contaminants in these matrices” (OSPAR, 2009).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They represent the",
+      "context_window": "Background concentrations (BCs) represent the concentrations of hazardous substances that would be expected in the North-East Atlantic if certain industrial developments had not happened. They represent the concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the",
+      "context_window": "Knowledge Gaps (brief) There is a lack of ecotoxicological data for developing new assessment criteria based on the European Union Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the current ERL criteria. Thresholds for trace metals in sediments, fish and shellfish should be developed or",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The trend in each metal at each monitoring site was summarised by the estimated annual change in log",
+      "context_window": "to assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend in each metal at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In fish and shellfish, increasing trends are found in the Channel and Southern North Sea for zinc, selenium",
+      "context_window": "18 of 22 OSPAR Commission In fish and shellfish, increasing trends are found in the Channel and Southern North Sea for zinc, selenium copper, arsenic, but only in the Channel for nickel and chromium. Also, the Northern Bay of Biscay shows",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and",
+      "context_window": "Results (brief) Metals were measured in fish, shellfish, and sediment, collected between 1979 and 2020 from monitoring sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in the Greater North Sea",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Concentrations developed by OSPAR, QS",
+      "context_window": ") Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background Assessment Concentrations developed by OSPAR, QS sp are Environmental Quality Standards for secondary",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all",
+      "context_window": "sp . The human health assessment is based on thresholds by the European Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They enter the marine environment via long-range transport by air, riverine input, or run-off from land",
+      "context_window": "see Duffus (2002). Mercury, cadmium, and lead are emitted through a number of natural, agricultural, and industrial processes. They enter the marine environment via long-range transport by air, riverine input, or run-off from land (covered in the trace metal inputs indicator assessment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Direct inputs of metals used as antifouling chemicals (mainly copper) and corrosion",
+      "context_window": "Heavy metal inputs indicator assessment) . Direct inputs of metals used as antifouling chemicals (mainly copper) and corrosion anodes (mainly zinc) cause hot spots in metal concentrations in and around harbours, marine installations and along shipping routes. Zinc anodes usually also contain traces of lead and cadmium.",
+      "page_number": 3,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish",
+      "context_window": "As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria et al",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects",
+      "context_window": "very different trends as they have different sources and are metabolised differently. Thus, the fixed effects measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects measure variation in trends: •",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic inputs (except from long-range transport).",
+      "context_window": "To assess if levels are close to this background, background assessment concentrations (BAC) have been developed, taking into account the levels from remote regions considered to be without anthropogenic inputs (except from long-range transport). OSPAR uses the Environmental Quality Standards for secondary poisoning (QS",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or lithium concentration of the sediment samples.",
+      "context_window": "This is taken into account by normalising (Loring, 1991; Kersten & Smedes, 2002; OSPAR, 2018), to the aluminium or lithium concentration of the sediment samples. For the OSPAR QSR 2023 assessment, “normal” sediment is obtained by recalculating to 5% aluminium contents in all areas, except the most southern subregions of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "very different trends as they have different sources and are metabolised differently.",
+      "context_window": "~ monitoring site + metal: monitoring site [biota only] + residual variation The choice of fixed and random effects was motivated by the assumption that the trace metals could have very different trends as they have different sources and are metabolised differently. Thus, the fixed effects measure the trend in each trace metal in each OSPAR contaminants assessment area and the random effects",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trace metal inputs indicator assessment",
+      "context_window": "They enter the marine environment via long-range transport by air, riverine input, or run-off from land (covered in the trace metal inputs indicator assessment ). In some cases, direct input occurs. For example, some metals used as antifouling chemicals (mainly copper) and corrosion anodes (mainly zinc) are",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanic and Atmospheric Administration (NOAA, 1999) for assessing the ecological significance of",
+      "context_window": "means of assessment has been used. ‘Effects range’ values were developed by the United States National Oceanic and Atmospheric Administration (NOAA, 1999) for assessing the ecological significance of 9 of 22 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the OSPAR QSR 2023 assessment, “normal” sediment",
+      "context_window": "is taken into account by normalising (Loring, 1991; Kersten & Smedes, 2002; OSPAR, 2018), to the aluminium or lithium concentration of the sediment samples. For the OSPAR QSR 2023 assessment, “normal” sediment is obtained by recalculating to 5% aluminium contents in all areas, except the most southern subregions of 6 of 22",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thresholds for trace metals in sediments, fish and shellfish should be developed or",
+      "context_window": "Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the current ERL criteria. Thresholds for trace metals in sediments, fish and shellfish should be developed or updated. The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting",
+      "context_window": "term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals. Similar analyses explored status at the assessment area scale.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast",
+      "context_window": "relate to the background values referred to in the OSPAR Hazardous Substances Strategy 2010-2020. It is recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast may lead to significant variations in background concentrations of contaminants, for example, trace metals. The natural variability of background concentrations should be taken into account in the interpretation of",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underlying the OSPAR EACs and the Environmental Quality Standards (EQSs) of the European Union Water",
+      "context_window": "were associated with biological effects. Adverse effects on organisms are rarely observed when concentrations fall below the ERL value, and the ERL therefore has some parallels with the philosophy underlying the OSPAR EACs and the Environmental Quality Standards (EQSs) of the European Union Water Framework Directive. The procedure by which ERL criteria are derived is very different from the methods",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "~ trace metal: OSPAR contaminants assessment areas",
+      "context_window": "The annual change in log concentration was then modelled by a linear mixed model with fixed effects: ~ trace metal: OSPAR contaminants assessment areas and random effects: ~ monitoring site + metal: monitoring site [biota only] + residual variation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "for trends and status using the methods described in the contaminant’s online assessment tool ( https://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment, and for sediments.",
+      "context_window": "the results are generally similar to the three prioritised trace metals, with regard to the Southern North Sea, Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions ( Figure c",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contaminant concentrations in sediment, to protect against the potential for adverse biological effects on",
+      "context_window": "9 of 22 OSPAR Commission contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine",
+      "context_window": "Contributors Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC). Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "methylmercury production in anoxic sediments, releasing it into the water column.",
+      "context_window": "increased precipitation can lead to higher depositions generally. More oxygen depletion can lead to higher methylmercury production in anoxic sediments, releasing it into the water column. Higher temperatures can also increase the uptake rate in food-webs, and ice-free arctic regions can change food-webs, all leading to",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine",
+      "context_window": "contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms. The ERL value is defined as the lower tenth percentile of the data set of concentrations in sediments, which",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three metals and individual fish and shellfish species.",
+      "context_window": ". The human health assessment is based on thresholds by the European Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in",
+      "context_window": "Metals were measured in fish, shellfish, and sediment, collected between 1979 and 2020 from monitoring sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in the Greater North Sea (Figure 1)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the findings in the IA 2017, where only cadmium in the Southern North Sea indicated an increasing trend,",
+      "context_window": "Figure f ). This is markedly different from the findings in the IA 2017, where only cadmium in the Southern North Sea indicated an increasing trend, whereas it was decreasing in the Norwegian Trench, the Irish Sea, Celtic Sea and Northern Bay of Biscay. For",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dots indicate below environmental criteria and red dots indicate above environmental criteria.",
+      "context_window": "Figure 5: Mean metal concentration in fish and shellfish for sediment relative to ERL. Blue dots indicate below background, green dots indicate below environmental criteria and red dots indicate above environmental criteria. 14 of 22 OSPAR Commission",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More oxygen depletion can lead to higher",
+      "context_window": "to changes in deposition patterns, more forest fires increase the release of mercury from terrestrial soils, and increased precipitation can lead to higher depositions generally. More oxygen depletion can lead to higher methylmercury production in anoxic sediments, releasing it into the water column. Higher temperatures can",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and temporal trend at the assessment area level.",
+      "context_window": "2017) For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea",
+      "context_window": "Thresholds for trace metals in sediments, fish and shellfish should be developed or updated. The reasons for the increasing concentrations of trace metals in biota, particularly in the Southern North Sea and Channel need to be investigated to identify the sources or environmental processes. Links between metal",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA",
+      "context_window": "Development of a better understanding of why concentrations of metals in fish and shellfish are increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA 2017 seems now to have spread to the Northern North Sea and Channel subregions, and lead and mercury are also showing more upward than downward trends than previously, and for more",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations.",
+      "context_window": "There are natural concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background concentrations. To assess if levels are close to this background, background assessment concentrations (BAC) have been developed, taking into account the levels from remote regions considered to be without",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background",
+      "context_window": "Table a ) Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background Assessment Concentrations developed by OSPAR, QS sp",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ranking the metals in fish and shellfish according to the number of subregions with increasing",
+      "context_window": "The trend direction is shown as a triangle upwards or downwards, a circle indicates no trend. The trend is shown as a % yearly change since 2010. Ranking the metals in fish and shellfish according to the number of subregions with increasing concentrations, copper is clearly the worst – increasing in five of the 13 subregions, and no subregions show decreasing trends.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or",
+      "context_window": "expected in the North-East Atlantic if certain industrial developments had not happened. They represent the concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences. For sediments, dated sediment cores have also been used to establish pre-industrial levels.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal",
+      "context_window": "subregion, whereas lead is decreasing in three subregions. As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to",
+      "context_window": "Background (brief) OSPAR’s strategic objective from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends are also observed for the Northern North Sea, whereas arsenic is increasing in the Northern North",
+      "context_window": "of nickel, zinc, copper, arsenic, and chromium for the Southern North Sea. For zinc and copper, decreasing trends are also observed for the Northern North Sea, whereas arsenic is increasing in the Northern North Sea. Copper is also decreasing in the Irish Sea sediments ( Figure e",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "(Mercury, Cadmium, and Lead) in Fish, Shellfish and Sediment Common Indicator Assessment 1 of 22 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aim of achieving and maintaining concentrations in the marine environment at near background values for",
+      "context_window": "prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate aim of achieving and maintaining concentrations in the marine environment at near background values for naturally occurring hazardous substances and close to zero for human made hazardous substances .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trace metals can be trapped in deeper levels",
+      "context_window": "Mercury has the potential to evaporate and be transported as a gas through the air; other trace metals are mainly transported as fine particles or bound to other particles. Trace metals can be trapped in deeper levels of sediment until mining, geological or biological processes release them, at which point they may affect biota.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They represent the",
+      "context_window": "Background concentrations (BCs) represent the concentrations of hazardous substances that would be expected in the North-East Atlantic if certain industrial developments had not happened. They represent the concentrations of those substances at ‘remote’ sites, or in ‘pristine’ conditions based on contemporary or historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The trend in each metal at each monitoring site was summarised by the estimated annual change in log",
+      "context_window": "to assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend in each metal at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and",
+      "context_window": "Results (brief) Metals were measured in fish, shellfish, and sediment, collected between 1979 and 2020 from monitoring sites of fish and shellfish throughout Arctic Waters, Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, with additional data from marine mammals and birds in the Arctic Waters, and some bird in the Greater North Sea",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all",
+      "context_window": "sp . The human health assessment is based on thresholds by the European Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Direct inputs of metals used as antifouling chemicals (mainly copper) and corrosion",
+      "context_window": "Heavy metal inputs indicator assessment) . Direct inputs of metals used as antifouling chemicals (mainly copper) and corrosion anodes (mainly zinc) cause hot spots in metal concentrations in and around harbours, marine installations and along shipping routes. Zinc anodes usually also contain traces of lead and cadmium.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They enter the marine environment via long-range transport by air, riverine input, or run-off from land",
+      "context_window": "see Duffus (2002). Mercury, cadmium, and lead are emitted through a number of natural, agricultural, and industrial processes. They enter the marine environment via long-range transport by air, riverine input, or run-off from land (covered in the trace metal inputs indicator assessment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Concentrations developed by OSPAR, QS",
+      "context_window": ") Table a: Assessment criteria used in for trace metals in sediment, fish, and shellfish: BAC is Background Assessment Concentrations developed by OSPAR, QS sp are Environmental Quality Standards for secondary",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In fish and shellfish, increasing trends are found in the Channel and Southern North Sea for zinc, selenium",
+      "context_window": "18 of 22 OSPAR Commission In fish and shellfish, increasing trends are found in the Channel and Southern North Sea for zinc, selenium copper, arsenic, but only in the Channel for nickel and chromium. Also, the Northern Bay of Biscay shows",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the",
+      "context_window": "Knowledge Gaps (brief) There is a lack of ecotoxicological data for developing new assessment criteria based on the European Union Water Framework Directive or OSPAR Environmental Assessment Criteria (EAC) principles, to replace the current ERL criteria. Thresholds for trace metals in sediments, fish and shellfish should be developed or",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the primary assessment value used in the assessment of trace metal concentrations in sediment and biota,",
+      "context_window": "(EACs), but in this assessment, these are only used as thresholds for human health. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of trace metal concentrations in sediment and biota, “corresponds to the achievement, or failure to achieve, statutory targets or policy objectives for contaminants in these matrices” (OSPAR, 2009).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions ( Figure c ), whereas for sediments, assessments based on BAC and ERL values for zinc, copper and chromium were also",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Modelled metal concentration and their 95% confidence limit in fish and shellfish mercury, zinc, cadmium, copper and",
+      "context_window": "16 of 22 OSPAR Commission Figure c: Modelled metal concentration and their 95% confidence limit in fish and shellfish mercury, zinc, cadmium, copper and lead relative to BAC. Figure d: Modelled metal concentration for zinc, copper, lead, mercury, cadmium, and chromium in sediment relative to ERL.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by",
+      "context_window": "whereas for mercury and lead, only the Northern North Sea, Irish and Scottish West Coast and the Iberian Sea were below the ERL, all other subregions were above. As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime area.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish and shellfish",
+      "context_window": "OSPAR Subregion Sediment Fish and shellfish Trends Status",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends",
+      "context_window": "• Development of a better understanding of why concentrations of metals in fish and shellfish are increasing, despite perceived decreasing inputs to the marine environment, and decreasing trends in sediments. The increasing concentrations of cadmium in the Southern North Sea found in the IA 2017 seems now to have spread to the Northern North Sea and Channel subregions, and lead and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends",
+      "context_window": "Trends Status Trends Status Arctic Waters",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In this way, they",
+      "context_window": "historical data, respectively, in the absence of significant mineralisation and/or oceanographic influences. For sediments, dated sediment cores have also been used to establish pre-industrial levels. In this way, they relate to the background values referred to in the OSPAR Hazardous Substances Strategy 2010-2020. It is",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact of sediment concentrations on the marine environment, to replace the current ERL",
+      "context_window": "sediment criteria based on the WFD/MSFD principles for reliable assessment of the impact of sediment concentrations on the marine environment, to replace the current ERL thresholds. •",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the",
+      "context_window": "14 of 22 OSPAR Commission Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly change between the modelled 2000 (or later if monitoring at region started after 2000) and 2020",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels that do not give rise to adverse effects on human health or the marine environment with the ultimate",
+      "context_window": "from the North-East Atlantic Environment Strategy 2030 (NEAES 2030) is to prevent pollution by hazardous substances, by eliminating their emissions, discharges and losses, to achieve levels that do not give rise to adverse effects on human health or the marine environment with the ultimate aim of achieving and maintaining concentrations in the marine environment at near background values for naturally occurring hazardous substances and close to zero for human made hazardous substances",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC). Citation Larsen, M. and Hjermann, D. 2022. Status and Trend for Heavy Metals (Mercury, Cadmium and Lead) in Fish,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Union Marine Strategy Framework Directive (MSFD) criteria threshold values.",
+      "context_window": "where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023. OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations and confounding factors like the size of shellfish and fish, the condition of the species",
+      "context_window": "and Channel need to be investigated to identify the sources or environmental processes. Links between metal concentrations and confounding factors like the size of shellfish and fish, the condition of the species analysed, trophic level and dry weight/lipid concentrations should be investigated further. Knowledge Gaps (extended)",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly",
+      "context_window": "OSPAR Commission Temporal trends for the metal concentrations in fish, shellfish and sediments were modelled between the earliest monitoring dates (1979 or later) and 2020, and the change in concentration calculated as the yearly change between the modelled 2000 (or later if monitoring at region started after 2000) and 2020 concentration, if more than 5 years of data were available.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, trends in trace metal concentrations in biota are presented.",
+      "context_window": "These criteria have also been used in the annually recurring CEMP assessments since 2010. For the QSR 2023, trends in trace metal concentrations in biota are presented. Two assessment criteria are used to assess the status of trace metal concentrations in biota: For background, Background Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann",
+      "context_window": "la Suisse et l’Union européenne. Contributors Lead authors: Martin Mørk Larsen and Dag Øystein Hjermann Supported by: OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) and Hazardous Substances and Eutrophication Committee (HASEC).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data for marine mammals and birds are presented",
+      "context_window": "Commission maximum permissible concentrations (MPC) for fish and seafood (EC, 2006), available for all three metals and individual fish and shellfish species. Data for marine mammals and birds are presented where available (mainly the Arctic Waters Region), but not included in the status assessment in the QSR 2023. OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcome is that, on the basis of what is known about",
+      "context_window": "BACs are calculated according to the method set out in Section 4 of the CEMP Assessment Manual (OSPAR, 2008) and updated in OSPAR (MIME 2020, 2021). The outcome is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BAC for sediment is normalised to 5% aluminium except for subregions Iberian Sea and Gulf of",
+      "context_window": "notes: • BAC for sediment is normalised to 5% aluminium except for subregions Iberian Sea and Gulf of Cadiz. •",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The natural variability of background concentrations should be taken into account in the interpretation of",
+      "context_window": "recognised that natural processes such as geological variability or upwelling of oceanic waters near the coast may lead to significant variations in background concentrations of contaminants, for example, trace metals. The natural variability of background concentrations should be taken into account in the interpretation of CEMP data, and local conditions should be taken into account when assessing the significance of any exceedance.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and",
+      "context_window": "Arctic Monitoring and Assessment Programme . There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and a Low-Risk Concentration (LRC) below which the concentration is unlikely to harm the species, could be taken as the upper threshold for good environmental status, but the link to the EQS for mercury (QS",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The annual change in log concentration was then modelled",
+      "context_window": "The trend in each metal at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled by a linear mixed model with fixed effects: ~ trace metal: OSPAR contaminants assessment areas",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and shellfish due to higher temperatures (Kibria",
+      "context_window": "trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish and shellfish due to higher temperatures (Kibria et al ., 2021).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure e: Time trend evaluation for all available metals in fish and shellfish.",
+      "context_window": "17 of 22 OSPAR Commission Figure e: Time trend evaluation for all available metals in fish and shellfish. The trend direction is shown as a triangle upwards or downwards, a circle indicates no trend. The trend is shown as a % yearly change since 2010.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms.",
+      "context_window": "OSPAR Commission contaminant concentrations in sediment, to protect against the potential for adverse biological effects on organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time",
+      "context_window": "Mercury, zinc, cadmium and lead are increasing in 3 subregions, and zinc and cadmium are decreasing in one subregion, whereas lead is decreasing in three subregions. As the expectations are that inputs are decreasing from air and rivers, the general sediment downward time trends make sense, whereas the generally upward time trends for fish and shellfish point to an internal release from the sediment to the water and marine organisms, or a change in the uptake of metals in fish",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations of trace metals are monitored in the CEMP monitoring programme for 603 to 647 biota",
+      "context_window": "OSPAR Commission Results (extended) Concentrations of trace metals are monitored in the CEMP monitoring programme for 603 to 647 biota monitoring sites of each trace metal, accessible in the OHAT web tool. The assessment in QSR 2023 focused",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime",
+      "context_window": "Sea were below the ERL, all other subregions were above. As a consequence, in the Channel and Southern North Sea adverse biological effects on marine organisms by trace metals cannot be ruled out, but effects are lower toward the more remote areas of the OSPAR maritime area. 13 of 22",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Monitoring and Assessment Programme",
+      "context_window": "Instead, a set of risk-based levels have been established for use in the Arctic Monitoring and Assessment Programme . There is no direct translation of No Risk Concentration (NRC), to “BAC” for marine mammals and birds, and",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects.",
+      "context_window": "the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of trends in trace metal concentrations at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they can be used for",
+      "context_window": "OSPAR’s QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background",
+      "context_window": "geological or biological processes release them, at which point they may affect biota. There are natural concentrations of trace metals in all waters, sediments, shellfish, and fish, referred to as background concentrations. To assess if levels are close to this background, background assessment concentrations (BAC)",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for",
+      "context_window": "Other metals are monitored under OSPAR’s Coordinated Environmental Monitoring Programme (CEMP), and the results are generally similar to the three prioritised trace metals, with regard to the Southern North Sea, Channel and Northern Bay of Biscay. For biota, zinc and copper were also evaluated using BAC for assessment, and for sediments. The status for biota samples of zinc and copper are both above background levels in all Regions (",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "context_window": "seafood (fish and shellfish) were used by OSPAR as proxy Environmental Assessment Criteria (EACs), but in this assessment, these are only used as thresholds for human health. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of trace metal concentrations in sediment and biota, “corresponds to the achievement, or failure to achieve, statutory targets or policy objectives for",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms.",
+      "context_window": "organisms. Concentrations below the Effects Range-Low (ERL) level rarely cause adverse effects in marine organisms. The ERL value is defined as the lower tenth percentile of the data set of concentrations in sediments, which were associated with biological effects. Adverse effects on organisms are rarely observed when",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "context_window": "Union Marine Strategy Framework Directive (MSFD) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs Background Assessment Concentrations (BACs) were developed by OSPAR for testing whether measured",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 4,
+      "ocean acidification": 1,
+      "warming": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 90,
+      "end_sentence": 97,
+      "sentence_count": 8,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "In most areas, concentrations of lead in fish and shellfish are above background levels, and mercury...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "the environmental threshold.",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "Cadmium was above background levels in northern and eastern areas.",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "Despite",
+          "full_length": 7
+        }
+      ],
+      "total_sentences_in_section": 8
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 907,
+      "end_sentence": 927,
+      "sentence_count": 21,
+      "page_range": "18-19",
+      "sentences": [
+        {
+          "sentence_id": 907,
+          "page_number": 18,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 908,
+          "page_number": 18,
+          "content": "Mercury was found to be problematic in all areas for shellfish and fish, being above both the BAC fo...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 909,
+          "page_number": 18,
+          "content": "and the QS",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 910,
+          "page_number": 18,
+          "content": "sp",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 911,
+          "page_number": 18,
+          "content": "assessment criteria. Lead and cadmium were above background levels for shellfish and fish in",
+          "full_length": 92
+        }
+      ],
+      "total_sentences_in_section": 21
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 928,
+      "end_sentence": 992,
+      "sentence_count": 65,
+      "page_range": "19-20",
+      "sentences": [
+        {
+          "sentence_id": 928,
+          "page_number": 19,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 929,
+          "page_number": 19,
+          "content": "Mercury was found to be problematic in all areas for shellfish and fish, being above both the BAC fo...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 930,
+          "page_number": 19,
+          "content": "and the QS",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 931,
+          "page_number": 19,
+          "content": "sp",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 932,
+          "page_number": 19,
+          "content": "assessment criteria. Mercury is the only metal with a defined EQS value for biota in the EU Water",
+          "full_length": 97
+        }
+      ],
+      "total_sentences_in_section": 65
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1030,
+      "end_sentence": 1164,
+      "sentence_count": 135,
+      "page_range": "20-22",
+      "sentences": [
+        {
+          "sentence_id": 1030,
+          "page_number": 20,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1031,
+          "page_number": 20,
+          "content": "Ackerman JT, Eagles-Smith CA, Herzog MP, Hartman CA.",
+          "full_length": 52
+        },
+        {
+          "sentence_id": 1032,
+          "page_number": 20,
+          "content": "(2006) Maternal transfer of contaminants in birds:",
+          "full_length": 50
+        },
+        {
+          "sentence_id": 1033,
+          "page_number": 20,
+          "content": "mercury and selenium concentrations in parents and their eggs. Environ Poll. 2016;210:145–154",
+          "full_length": 93
+        },
+        {
+          "sentence_id": 1034,
+          "page_number": 20,
+          "content": "AMAP, 2021. AMAP Assessment 2021: Mercury in the Arctic. Arctic Monitoring and Assessment Programme",
+          "full_length": 99
+        }
+      ],
+      "total_sentences_in_section": 135
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1238,
+    "chunks_selected": 89,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 90,
+        "end_sentence": 97,
+        "sentence_count": 8
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 907,
+        "end_sentence": 927,
+        "sentence_count": 21
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 928,
+        "end_sentence": 992,
+        "sentence_count": 65
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1030,
+        "end_sentence": 1164,
+        "sentence_count": 135
+      }
+    ],
+    "total_excluded_sentences": 229
+  }
+}

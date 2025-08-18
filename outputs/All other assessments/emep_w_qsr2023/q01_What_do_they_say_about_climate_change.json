@@ -1,0 +1,1567 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières",
+      "context_window": "Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années). EMEP MSC-W a également calculé les dépôts d'azote pour les 67 unités d'évaluation du COMP4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les",
+      "context_window": "cette ZEE. Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "They are provided on an",
+      "context_window": "3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an annual basis by the EMEP Centre on Emission Inventories and Projects (CEIP) and are publicly available (",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "because they are less influenced by meteorological year-to-year variability and thus are a better measure for",
+      "context_window": "Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source apportionment, normalized results are considered more relevant than actual (non-normalized) depositions because they are less influenced by meteorological year-to-year variability and thus are a better measure for the influence of the various emitters (emitting countries or areas). The next two sections are thus based on",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More details about the emission data used in our model calculations are given in Chapter 3 of this report.",
+      "context_window": "New emission data for 2000-2019 were obtained in June 2021 from the EMEP Centre CEIP and listed in the EMEP Status Report 1/2021 (EMEP, 2021) and were used in the model runs covering the 2000-2019 period. More details about the emission data used in our model calculations are given in Chapter 3 of this report. EMEP MSC-W model version rv4.42 (documented and evaluated in EMEP Status report 1/2021) was run for the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen",
+      "context_window": "oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Normalized (‘weather-averaged’) depositions follow the changes in emissions better than actual depositions",
+      "context_window": "four EEZs, the twenty-five partial EEZs, and the COMP4 Assessment Units, for each year of the period 1990- 2019. Normalized (‘weather-averaged’) depositions follow the changes in emissions better than actual depositions and thus illustrate the effect of policy measures on nitrogen emissions. In the normalization, only the years",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they",
+      "context_window": "Trends in total nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they are statistically significant at the 5% confidence level. Further analysis shows that oxidized nitrogen",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "year with respect to those in one reference year (1995 in this case) can change considerably from year to",
+      "context_window": "the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions in all COMP4 Assessment Units. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon",
+      "context_window": "More details about the emission data used in our model calculations are given in Chapter 3 of this report. EMEP MSC-W model version rv4.42 (documented and evaluated in EMEP Status report 1/2021) was run for the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon x 0.1°lat resolution and within the longitude-latitude domain outlined in green in Figure 1. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on",
+      "context_window": "ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important). Emission data for the 1990-1999 period were obtained in June 2019 from the EMEP Centre CEIP and listed in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this case) can change considerably from year to year.",
+      "context_window": "Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the 1990s.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The deposition of reduced nitrogen was larger in 2019",
+      "context_window": "There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "We aim to investigate this possible climate change signal",
+      "context_window": "It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal further. Tables 11 and 12 contain the normalized values for the five OSPAR Regions, i.e.",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "All calculations for this report were done on the new official EMEP domain. 3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmosphere",
+      "context_window": "the Copernicus Atmosphere Monitoring Service",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emissions data by Contracting Parties (from national reports to EMEP) and by sector",
+      "context_window": "Deliverables were listed in these contracts (all deliverables relate to nitrogen): 1. Emissions data by Contracting Parties (from national reports to EMEP) and by sector 2. Actual atmospheric deposition to each OSPAR Region",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition than the meteorology of the 1990s.",
+      "context_window": "Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal further.",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As in every model, deviations between model and observations do occur and are highly variable both in space",
+      "context_window": "MSC-W model simulation (for 2019) can be viewed at the new AeroVal evaluation interface at https://aeroval.met.no/evaluation.php?project=emep&exp_name=2021-reporting As in every model, deviations between model and observations do occur and are highly variable both in space and time, and these are subject of continuous investigation and model development. Nevertheless, the performance of the EMEP MSC-W model can be considered as state-of-the-art over a large range of both",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization has been done with meteorological data for the years",
+      "context_window": "Figure 15 summarizes the results by showing the Top-10 contributors to total normalized nitrogen deposition in each of the 5 OSPAR Regions. The normalization has been done with meteorological data for the years 2016 to 2019. The two largest OSPAR Regions (I and V) receive the largest contributions from the boundary (abbreviated",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). The version change for 2019 was inevitable because",
+      "context_window": "cy46r1 for 2019 (see ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://www.regional.atmosphere.copernicus.eu/",
+      "context_window": "(CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and quarterly evaluation reports are issued online on a quarterly basis.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ECMWF model documentation",
+      "context_window": "Meteorological data have been generated by the ECMWF IFS model cy40r1 for the period 1990 to 2018 and cy46r1 for 2019 (see ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nevertheless, it is safe to say that (actual) oxidized nitrogen",
+      "context_window": "The numbers for this assessment area (and areas of similar size) should thus be considered as an indication only. Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "model results (changes in the chemistry transport model as well as the emission data are more important).",
+      "context_window": "). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important). Emission data for the 1990-1999 period were obtained in June 2019 from the EMEP Centre CEIP and listed in the EMEP Status Report 1/2019 (EMEP, 2019).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon x 0.1°lat resolution and within the longitude-latitude domain outlined in green in Figure 1. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 9 Figure 1:",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are based on 2019 emissions and 2016-2019 average meteorology.",
+      "context_window": "The numbers on top of each bar indicate the percentage of the total deposition to the respective Region. All numbers are based on 2019 emissions and 2016-2019 average meteorology. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions",
+      "page_number": 84,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Statements about long-term trends and the relative differences",
+      "context_window": ", and even smaller (if they are not too thin and elongated), can be considered as reasonably certain. Statements about long-term trends and the relative differences between depositions to COMP Assessment Units are in any case more certain than the absolute numbers. Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are based on 2019 emissions and 2016-2019 average meteorology. For example, France contributes 41.4",
+      "context_window": "The numbers on top of each bar indicate the percentage of the total deposition to the respective Region. All numbers are based on 2019 emissions and 2016-2019 average meteorology. For example, France contributes 41.4 ktonnes(N)/year to OSPAR Region V, corresponding to about 11% of the total nitrogen deposition to that Region. All",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to the large inter-annual variability in meteorological conditions, differences between depositions in one",
+      "context_window": ", while Table 20 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions in all COMP4 Assessment Units. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year.",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recent reports.",
+      "context_window": "Some countries had not updated their emission data for PM (particulate matter) for the 1990s, which is why EMEP MSC-W had not calculated trends back to 1990 in recent reports. In the case of nitrogen deposition the importance of PM emissions is rather minor, so this year we decided to calculate nitrogen deposition all the way back to 1990 and to include these data in the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in emissions provided by the EMEP Centre CEIP for modelling, based on official data submissions by",
+      "context_window": "13 Figure 2: Change in emissions provided by the EMEP Centre CEIP for modelling, based on official data submissions by Contracting Parties. Blue: Oxidized nitrogen (NOx); red: reduced nitrogen (NH 3",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are concerned, they are entirely oxidized as ships do not emit reduced nitrogen in any significant amounts.",
+      "context_window": "is due to oxidized nitrogen and how much is reduced nitrogen. As far as international shipping contributions are concerned, they are entirely oxidized as ships do not emit reduced nitrogen in any significant amounts. The sum of total nitrogen deposition is usually dominated by (the longer-lived) oxidized nitrogen species, but individual contributions",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization is based on meteorological data from 4 years (2016,",
+      "context_window": "year for which model calculations have been made. Figure 10 shows normalized results. The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In earlier reports, more meteorological years had been used,",
+      "context_window": "In the normalization, only the years 2016-2019 have been used this year for OSPAR. In earlier reports, more meteorological years had been used, but now, as more (and smaller) receptors are considered, it appeared safest to rely only on those years for which transfer coefficients are calculated on a higher resolution than in earlier years (i.e.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for Emission Inventories and Projections).",
+      "context_window": "research) and is not subject of this report. Emission data (item 1) is provided annually by EMEP CEIP (Centre for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "context_window": "Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased slightly, depending on the Area. Figure 14 shows",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Results are shown",
+      "context_window": "(non-normalized) atmospheric nitrogen depositions have been computed for each of the twenty-five partial Exclusive Economic Zones listed in Table 7, for each year of the period 1990-2019. Results are shown for total nitrogen depositions during the 1995-2019 period in Figure 12. Table 17 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Acknowledgements",
+      "context_window": "Meteorological Synthesising Centre-West Norwegian Meteorological Institute Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "context_window": "As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent",
+      "context_window": "Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Actual atmospheric deposition to each COMP4 Assessment Unit",
+      "context_window": "Actual atmospheric deposition divided up as EEZ within each OSPAR Region 5. Actual atmospheric deposition to each COMP4 Assessment Unit 6. Normalised nitrogen deposition to each OSPAR Region",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization has been done with meteorological data for the",
+      "context_window": "Figure 16 summarizes the results for a selection of large EEZs by showing the Top-10 contributors to total normalized nitrogen deposition. The normalization has been done with meteorological data for the years 2016 to 2019. Table 23 lists the numbers Figure 16 is based upon, but also includes all other EEZs.",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "context_window": "The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen the decreases are much smaller. Nevertheless, the trends in",
+      "context_window": "OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced nitrogen the decreases are much smaller. Nevertheless, the trends in total (oxidized+reduced) nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring",
+      "context_window": "Copernicus Atmosphere Monitoring Service (CAMS,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions",
+      "context_window": "Statements about long-term trends and the relative differences between depositions to COMP Assessment Units are in any case more certain than the absolute numbers. Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions have been computed in this contract for all the sixty-seven COMP4 Assessment Units (as defined in a table provided by OSPAR in May 2021), and for each year of the period 1990-2019.",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR",
+      "context_window": "OSPAR Commission 2022 EMEP MSC-W Report for OSPAR Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 Michael Gauss and Heiko Klein",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "see",
+      "context_window": "Service (CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019",
+      "context_window": "For NOx, emissions from international shipping are listed as well. For completeness, emissions of total nitrogen are listed in Table 3. The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019 time series for NOx and NH 3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more robust result for the changes since the 1990s.",
+      "context_window": "this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the 1990s. Table 10 lists actual and",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all",
+      "context_window": "and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The model takes into account processes of emissions, advection,",
+      "context_window": "The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection, turbulent diffusion, chemical transformations, wet and dry depositions and inflow/outflow of pollutants into/out of the model domain.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(non-normalized) atmospheric nitrogen depositions to each of the twenty-four Exclusive Economic",
+      "context_window": "5.2 Depositions to Exclusive Economic Zones Actual (non-normalized) atmospheric nitrogen depositions to each of the twenty-four Exclusive Economic Zones during the period 1995-2019 are shown in Figure 11. There is a clear decline in the deposition of",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "National annual emissions of total nitrogen from OSPAR Contracting Parties, international shipping (NOS: North",
+      "context_window": "Table 3 . National annual emissions of total nitrogen from OSPAR Contracting Parties, international shipping (NOS: North Sea, and BAS: Baltic Sea), and from other sources within the EMEP MSC-W model domain in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Continued COMP4 Assessment Unit Oxidised N",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends",
+      "context_window": "2 . The normalization is based on meteorological data of 4 years (2016-2019). Trends in total nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") indicated in the",
+      "context_window": "oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 ) indicated in the figure. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of actual (non-normalized) results the requirement is much less strict because they are based on",
+      "context_window": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 69 In the case of actual (non-normalized) results the requirement is much less strict because they are based on our 0.1° x 0.1° trend simulations and do not make use of any transfer coefficients. Actual depositions for",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the most recent year for which model calculations have been made.",
+      "context_window": "normalized depositions in the 24 EEZs for the year 2019, i.e. the most recent year for which model calculations have been made. Tables 15 and 16 contain normalized",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions is large due to meteorological conditions (e.g.",
+      "context_window": "than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these depositions is large due to meteorological conditions (e.g. in last year’s report - for 2018 - many more EEZs showed an increase with respect to 1995).",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 10. Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016, 2017, 2018 and",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ASS / Atlantic Seasonally Stratified",
+      "context_window": "Figure 8: Continued. ASS / Atlantic Seasonally Stratified CUK1 / Coastal UK 1 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to the large inter-annual variability in meteorological",
+      "context_window": "Table 9 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 2: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 15 Figure 2:",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "most recent year for which model calculations have been made.",
+      "context_window": "Table 21 lists actual and normalized depositions in all 67 COMP4 Assessment Units for the year 2019, i.e. the most recent year for which model calculations have been made. OSPAR Commission 2022 Figure 13:",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are",
+      "context_window": "Figure 13 shows actual total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are larger than 10 000 km 2",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 3: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 21 Figure 3:",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Meteorological Synthesising Centre-West – EMEP-W Norwegian Meteorological Institute Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 3 Contents",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Continued. COMP4 Assessment Unit Oxidised N",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase",
+      "context_window": "decrease (33%) is modelled for SCHPM1 (“Scheldt plume 1”) while the largest increase (4%) is in SHPM (“Shannon plume”). Strictly speaking, SHPM is too small to be properly represented by the model grid used for the normalization procedure, so that the 4% number should only be taken as an",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Annual emissions of ammonia from OSPAR Contracting Parties in the period 1995 – 2019, as used in the EMEP",
+      "context_window": "Table 2 . Annual emissions of ammonia from OSPAR Contracting Parties in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition. Unit: ktonnes(N)/year. Year",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions. All NOx emission trends from 2000 are negative and significant at the",
+      "context_window": "time series for NOx and NH 3 emissions. All NOx emission trends from 2000 are negative and significant at the 5% level. All NH 3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 14: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 81 Figure 14:",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "country has large emissions of agriculture and/or is close to the receptor region.",
+      "context_window": "can be dominated by (the shorter-lived) reduced nitrogen, especially if the emitting country has large emissions of agriculture and/or is close to the receptor region. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 83",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 12: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 63 Figure 12:",
+      "page_number": 63,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 13: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 73 Figure 13:",
+      "page_number": 73,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continues on the next page. The last column shows the total of all emissions.",
+      "context_window": "2019 is based on data submissions in 2021, while data for 1995-1999 are based on data submissions of 2019. The table continues on the next page. The last column shows the total of all emissions. Year BE",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are larger than 10 000 km",
+      "context_window": "normalized total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are larger than 10 000 km 2 . The normalization is based on meteorological data of 4 years (2016-2019).",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the",
+      "context_window": "2023 2022 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-39 % -36 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 55 Table 14.",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Norwegian Meteorological Institute",
+      "context_window": "Michael Gauss and Heiko Klein Meteorological Synthesising Centre-West – EMEP-W Norwegian Meteorological Institute Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 3",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Normalized results are listed for oxidized and reduced nitrogen in Tables 18 and 19, respectively, and for the whole period from 1995 to 2019. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 61 Figure 12:",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-49 % -40 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 65 Table 18.",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Parties. The black line in each plot shows total annual emissions of NH",
+      "context_window": "Transport (grey), Agriculture (yellow), and ‘Other’ (light blue) are sums of several GNFR sectors, as described in Table 4. As obvious from the figure, agriculture largely dominates the emissions of reduced nitrogen in all OSPAR Contracting Parties. The black line in each plot shows total annual emissions of NH 3 (right axis, unit: ktonnes(N)/year). The figure",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Les relations source-récepteur (\"répartition par source\") ont été calculées pour évaluer les contributions des Parties contractantes aux dépôts d'azote dans la zone maritime OSPAR au cours de la période 1995-2019. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 7 1 Introduction",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-42 % -27 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 75 Table 20.",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 11: (continued) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 53 Figure 11:",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 5c: As Figure 5b, but for OSPAR Region III. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 27 Figure 5d:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 11: (continued) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 51 Figure 11:",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "year for which model calculations have been made.",
+      "context_window": "and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results. The normalization is based on meteorological data from 4 years (2016,",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 6: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 33 4.3 Partial EEZs",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "2.2 Experimental setup 8 3 Emission data by Contracting Parties and by sector 9 4 OSPAR receptor areas",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus",
+      "context_window": "réduit ont diminué (jusqu'à 26 %). OSPAR Commission 2022 Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "415 ES Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 37 ATL / Atlantic",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For NOx, emissions from international",
+      "context_window": "Data for the European Union (EU) are not tabulated because the number of members has changed several times during the considered period. For NOx, emissions from international shipping are listed as well. For completeness, emissions of total nitrogen are listed in Table 3. The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 8: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 41 5 Actual and normalized depositions of nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions and 2016-2019 average meteorology.",
+      "context_window": "About half of this contribution is reduced nitrogen, and the other half oxidized. All numbers are based on 2019 emissions and 2016-2019 average meteorology. ‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘MED’: Mediterranean shipping, ‘Others’: All",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "2 ), are indicated in the figure. (Figure continues on the next 3 pages.) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 71 Figure 13:",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 4: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 25 4 OSPAR receptor areas",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "About half of this contribution is reduced nitrogen, and the other half oxidized.",
+      "context_window": "Germany contributes 20.3 ktonnes(N)/year to EEZ216, corresponding to about 12% of the total nitrogen deposition to that EEZ. About half of this contribution is reduced nitrogen, and the other half oxidized. All numbers are based on 2019 emissions and 2016-2019 average meteorology.",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "be dominated by (the shorter-lived) reduced nitrogen, especially if the emitting country has large emissions of agriculture and/or is close to the receptor region. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 83 Figure 15.",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "86.2 233 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 47 Table 12.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "2 ), are indicated in the figure. (Figure continues on the next 3 pages.) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 79 Figure 14:",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allongée, la normalisation a été effectuée avec des données météorologiques pour 2016-2019, pour",
+      "context_window": "Étant donné que de nombreuses unités d'évaluation du COMP4 sont plutôt petites et/ou ont une forme très mince et allongée, la normalisation a été effectuée avec des données météorologiques pour 2016-2019, pour lesquelles les coefficients de transfert de l’EMEP MSC-W (nécessaires pour la normalisation) sont disponibles avec une résolution suffisamment fine.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "224 2099 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 13 Figure 2:",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The results are",
+      "context_window": "We have calculated this percentage for each EMEP grid square covered by each OSPAR Region. The results are illustrated in Figure 5 for the 0.1°lon x 0.1°lat grid. Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "early years before the grid change to the later years in the period.",
+      "context_window": "receptors, both in shape and in area. This would lead to artificial changes in the transfer coefficients from early years before the grid change to the later years in the period. All results have been submitted to OSPAR in separate data files (see Chapter 8). In this report we show plots",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen emissions.",
+      "context_window": "There are clear differences between countries, but Transport is the single-most important sector in all countries for oxidized nitrogen emissions, while Agriculture is the dominant sector in all countries for reduced nitrogen emissions. Table 4. Aggregation of GNFR sectors to ‘HELCOM sectors’, also used for the figures produced for OSPAR below.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "172 213 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 77 Table 21.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea",
+      "context_window": "All numbers are listed in Table 22. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions that are not among the Top-10.) OSPAR Commission 2022",
+      "page_number": 83,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières",
+      "context_window": "Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années). EMEP MSC-W a également calculé les dépôts d'azote pour les 67 unités d'évaluation du COMP4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "because they are less influenced by meteorological year-to-year variability and thus are a better measure for",
+      "context_window": "Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source apportionment, normalized results are considered more relevant than actual (non-normalized) depositions because they are less influenced by meteorological year-to-year variability and thus are a better measure for the influence of the various emitters (emitting countries or areas). The next two sections are thus based on",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen",
+      "context_window": "oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they",
+      "context_window": "Trends in total nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they are statistically significant at the 5% confidence level. Further analysis shows that oxidized nitrogen",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon",
+      "context_window": "More details about the emission data used in our model calculations are given in Chapter 3 of this report. EMEP MSC-W model version rv4.42 (documented and evaluated in EMEP Status report 1/2021) was run for the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon x 0.1°lat resolution and within the longitude-latitude domain outlined in green in Figure 1. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this case) can change considerably from year to year.",
+      "context_window": "Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the 1990s.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "All calculations for this report were done on the new official EMEP domain. 3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emissions data by Contracting Parties (from national reports to EMEP) and by sector",
+      "context_window": "Deliverables were listed in these contracts (all deliverables relate to nitrogen): 1. Emissions data by Contracting Parties (from national reports to EMEP) and by sector 2. Actual atmospheric deposition to each OSPAR Region",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As in every model, deviations between model and observations do occur and are highly variable both in space",
+      "context_window": "MSC-W model simulation (for 2019) can be viewed at the new AeroVal evaluation interface at https://aeroval.met.no/evaluation.php?project=emep&exp_name=2021-reporting As in every model, deviations between model and observations do occur and are highly variable both in space and time, and these are subject of continuous investigation and model development. Nevertheless, the performance of the EMEP MSC-W model can be considered as state-of-the-art over a large range of both",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). The version change for 2019 was inevitable because",
+      "context_window": "cy46r1 for 2019 (see ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ECMWF model documentation",
+      "context_window": "Meteorological data have been generated by the ECMWF IFS model cy40r1 for the period 1990 to 2018 and cy46r1 for 2019 (see ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "model results (changes in the chemistry transport model as well as the emission data are more important).",
+      "context_window": "). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important). Emission data for the 1990-1999 period were obtained in June 2019 from the EMEP Centre CEIP and listed in the EMEP Status Report 1/2019 (EMEP, 2019).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are based on 2019 emissions and 2016-2019 average meteorology.",
+      "context_window": "The numbers on top of each bar indicate the percentage of the total deposition to the respective Region. All numbers are based on 2019 emissions and 2016-2019 average meteorology. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions",
+      "page_number": 84,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are based on 2019 emissions and 2016-2019 average meteorology. For example, France contributes 41.4",
+      "context_window": "The numbers on top of each bar indicate the percentage of the total deposition to the respective Region. All numbers are based on 2019 emissions and 2016-2019 average meteorology. For example, France contributes 41.4 ktonnes(N)/year to OSPAR Region V, corresponding to about 11% of the total nitrogen deposition to that Region. All",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recent reports.",
+      "context_window": "Some countries had not updated their emission data for PM (particulate matter) for the 1990s, which is why EMEP MSC-W had not calculated trends back to 1990 in recent reports. In the case of nitrogen deposition the importance of PM emissions is rather minor, so this year we decided to calculate nitrogen deposition all the way back to 1990 and to include these data in the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are concerned, they are entirely oxidized as ships do not emit reduced nitrogen in any significant amounts.",
+      "context_window": "is due to oxidized nitrogen and how much is reduced nitrogen. As far as international shipping contributions are concerned, they are entirely oxidized as ships do not emit reduced nitrogen in any significant amounts. The sum of total nitrogen deposition is usually dominated by (the longer-lived) oxidized nitrogen species, but individual contributions",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In earlier reports, more meteorological years had been used,",
+      "context_window": "In the normalization, only the years 2016-2019 have been used this year for OSPAR. In earlier reports, more meteorological years had been used, but now, as more (and smaller) receptors are considered, it appeared safest to rely only on those years for which transfer coefficients are calculated on a higher resolution than in earlier years (i.e.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "context_window": "Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased slightly, depending on the Area. Figure 14 shows",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Acknowledgements",
+      "context_window": "Meteorological Synthesising Centre-West Norwegian Meteorological Institute Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent",
+      "context_window": "Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization has been done with meteorological data for the",
+      "context_window": "Figure 16 summarizes the results for a selection of large EEZs by showing the Top-10 contributors to total normalized nitrogen deposition. The normalization has been done with meteorological data for the years 2016 to 2019. Table 23 lists the numbers Figure 16 is based upon, but also includes all other EEZs.",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen the decreases are much smaller. Nevertheless, the trends in",
+      "context_window": "OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced nitrogen the decreases are much smaller. Nevertheless, the trends in total (oxidized+reduced) nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions",
+      "context_window": "Statements about long-term trends and the relative differences between depositions to COMP Assessment Units are in any case more certain than the absolute numbers. Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions have been computed in this contract for all the sixty-seven COMP4 Assessment Units (as defined in a table provided by OSPAR in May 2021), and for each year of the period 1990-2019.",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "see",
+      "context_window": "Service (CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more robust result for the changes since the 1990s.",
+      "context_window": "this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the 1990s. Table 10 lists actual and",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The model takes into account processes of emissions, advection,",
+      "context_window": "The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection, turbulent diffusion, chemical transformations, wet and dry depositions and inflow/outflow of pollutants into/out of the model domain.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "National annual emissions of total nitrogen from OSPAR Contracting Parties, international shipping (NOS: North",
+      "context_window": "Table 3 . National annual emissions of total nitrogen from OSPAR Contracting Parties, international shipping (NOS: North Sea, and BAS: Baltic Sea), and from other sources within the EMEP MSC-W model domain in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends",
+      "context_window": "2 . The normalization is based on meteorological data of 4 years (2016-2019). Trends in total nitrogen deposition are decreasing in all COMP4 Assessment Units shown in Figure 8 and they",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of actual (non-normalized) results the requirement is much less strict because they are based on",
+      "context_window": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 69 In the case of actual (non-normalized) results the requirement is much less strict because they are based on our 0.1° x 0.1° trend simulations and do not make use of any transfer coefficients. Actual depositions for",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions is large due to meteorological conditions (e.g.",
+      "context_window": "than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these depositions is large due to meteorological conditions (e.g. in last year’s report - for 2018 - many more EEZs showed an increase with respect to 1995).",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ASS / Atlantic Seasonally Stratified",
+      "context_window": "Figure 8: Continued. ASS / Atlantic Seasonally Stratified CUK1 / Coastal UK 1 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 2: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 15 Figure 2:",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are",
+      "context_window": "Figure 13 shows actual total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are larger than 10 000 km 2",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Meteorological Synthesising Centre-West – EMEP-W Norwegian Meteorological Institute Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 3 Contents",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase",
+      "context_window": "decrease (33%) is modelled for SCHPM1 (“Scheldt plume 1”) while the largest increase (4%) is in SHPM (“Shannon plume”). Strictly speaking, SHPM is too small to be properly represented by the model grid used for the normalization procedure, so that the 4% number should only be taken as an",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions. All NOx emission trends from 2000 are negative and significant at the",
+      "context_window": "time series for NOx and NH 3 emissions. All NOx emission trends from 2000 are negative and significant at the 5% level. All NH 3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 12: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 63 Figure 12:",
+      "page_number": 63,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continues on the next page. The last column shows the total of all emissions.",
+      "context_window": "2019 is based on data submissions in 2021, while data for 1995-1999 are based on data submissions of 2019. The table continues on the next page. The last column shows the total of all emissions. Year BE",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the",
+      "context_window": "2023 2022 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Norwegian Meteorological Institute",
+      "context_window": "Michael Gauss and Heiko Klein Meteorological Synthesising Centre-West – EMEP-W Norwegian Meteorological Institute Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 3",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-49 % -40 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 65 Table 18.",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Les relations source-récepteur (\"répartition par source\") ont été calculées pour évaluer les contributions des Parties contractantes aux dépôts d'azote dans la zone maritime OSPAR au cours de la période 1995-2019. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 7 1 Introduction",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 11: (continued) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 53 Figure 11:",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 11: (continued) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 51 Figure 11:",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 6: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 33 4.3 Partial EEZs",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus",
+      "context_window": "réduit ont diminué (jusqu'à 26 %). OSPAR Commission 2022 Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For NOx, emissions from international",
+      "context_window": "Data for the European Union (EU) are not tabulated because the number of members has changed several times during the considered period. For NOx, emissions from international shipping are listed as well. For completeness, emissions of total nitrogen are listed in Table 3. The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "2 ), are indicated in the figure. (Figure continues on the next 3 pages.) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 71 Figure 13:",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "About half of this contribution is reduced nitrogen, and the other half oxidized.",
+      "context_window": "Germany contributes 20.3 ktonnes(N)/year to EEZ216, corresponding to about 12% of the total nitrogen deposition to that EEZ. About half of this contribution is reduced nitrogen, and the other half oxidized. All numbers are based on 2019 emissions and 2016-2019 average meteorology.",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "86.2 233 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 47 Table 12.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allongée, la normalisation a été effectuée avec des données météorologiques pour 2016-2019, pour",
+      "context_window": "Étant donné que de nombreuses unités d'évaluation du COMP4 sont plutôt petites et/ou ont une forme très mince et allongée, la normalisation a été effectuée avec des données météorologiques pour 2016-2019, pour lesquelles les coefficients de transfert de l’EMEP MSC-W (nécessaires pour la normalisation) sont disponibles avec une résolution suffisamment fine.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The results are",
+      "context_window": "We have calculated this percentage for each EMEP grid square covered by each OSPAR Region. The results are illustrated in Figure 5 for the 0.1°lon x 0.1°lat grid. Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen emissions.",
+      "context_window": "There are clear differences between countries, but Transport is the single-most important sector in all countries for oxidized nitrogen emissions, while Agriculture is the dominant sector in all countries for reduced nitrogen emissions. Table 4. Aggregation of GNFR sectors to ‘HELCOM sectors’, also used for the figures produced for OSPAR below.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea",
+      "context_window": "All numbers are listed in Table 22. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions that are not among the Top-10.) OSPAR Commission 2022",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "172 213 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 77 Table 21.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "early years before the grid change to the later years in the period.",
+      "context_window": "receptors, both in shape and in area. This would lead to artificial changes in the transfer coefficients from early years before the grid change to the later years in the period. All results have been submitted to OSPAR in separate data files (see Chapter 8). In this report we show plots",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "224 2099 Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 13 Figure 2:",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "2 ), are indicated in the figure. (Figure continues on the next 3 pages.) Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 79 Figure 14:",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "be dominated by (the shorter-lived) reduced nitrogen, especially if the emitting country has large emissions of agriculture and/or is close to the receptor region. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 83 Figure 15.",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 4: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 25 4 OSPAR receptor areas",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions and 2016-2019 average meteorology.",
+      "context_window": "About half of this contribution is reduced nitrogen, and the other half oxidized. All numbers are based on 2019 emissions and 2016-2019 average meteorology. ‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘MED’: Mediterranean shipping, ‘Others’: All",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 8: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 41 5 Actual and normalized depositions of nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "415 ES Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 37 ATL / Atlantic",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "2.2 Experimental setup 8 3 Emission data by Contracting Parties and by sector 9 4 OSPAR receptor areas",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "year for which model calculations have been made.",
+      "context_window": "and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results. The normalization is based on meteorological data from 4 years (2016,",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 5c: As Figure 5b, but for OSPAR Region III. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 27 Figure 5d:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-42 % -27 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 75 Table 20.",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Parties. The black line in each plot shows total annual emissions of NH",
+      "context_window": "Transport (grey), Agriculture (yellow), and ‘Other’ (light blue) are sums of several GNFR sectors, as described in Table 4. As obvious from the figure, agriculture largely dominates the emissions of reduced nitrogen in all OSPAR Contracting Parties. The black line in each plot shows total annual emissions of NH 3 (right axis, unit: ktonnes(N)/year). The figure",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Normalized results are listed for oxidized and reduced nitrogen in Tables 18 and 19, respectively, and for the whole period from 1995 to 2019. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 61 Figure 12:",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "-39 % -36 % Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 55 Table 14.",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are larger than 10 000 km",
+      "context_window": "normalized total nitrogen deposition from 1995 to 2019 for COMP4 Assessment Units that are larger than 10 000 km 2 . The normalization is based on meteorological data of 4 years (2016-2019).",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 13: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 73 Figure 13:",
+      "page_number": 73,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "country has large emissions of agriculture and/or is close to the receptor region.",
+      "context_window": "can be dominated by (the shorter-lived) reduced nitrogen, especially if the emitting country has large emissions of agriculture and/or is close to the receptor region. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 83",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 14: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 81 Figure 14:",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Annual emissions of ammonia from OSPAR Contracting Parties in the period 1995 – 2019, as used in the EMEP",
+      "context_window": "Table 2 . Annual emissions of ammonia from OSPAR Contracting Parties in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition. Unit: ktonnes(N)/year. Year",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Continued. COMP4 Assessment Unit Oxidised N",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "Figure 3: Continued. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 21 Figure 3:",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "most recent year for which model calculations have been made.",
+      "context_window": "Table 21 lists actual and normalized depositions in all 67 COMP4 Assessment Units for the year 2019, i.e. the most recent year for which model calculations have been made. OSPAR Commission 2022 Figure 13:",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to the large inter-annual variability in meteorological",
+      "context_window": "Table 9 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 10. Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016, 2017, 2018 and",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the most recent year for which model calculations have been made.",
+      "context_window": "normalized depositions in the 24 EEZs for the year 2019, i.e. the most recent year for which model calculations have been made. Tables 15 and 16 contain normalized",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") indicated in the",
+      "context_window": "oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 ) indicated in the figure. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Continued COMP4 Assessment Unit Oxidised N",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(non-normalized) atmospheric nitrogen depositions to each of the twenty-four Exclusive Economic",
+      "context_window": "5.2 Depositions to Exclusive Economic Zones Actual (non-normalized) atmospheric nitrogen depositions to each of the twenty-four Exclusive Economic Zones during the period 1995-2019 are shown in Figure 11. There is a clear decline in the deposition of",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all",
+      "context_window": "and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019",
+      "context_window": "For NOx, emissions from international shipping are listed as well. For completeness, emissions of total nitrogen are listed in Table 3. The Mann-Kendall test has been used to test the hypothesis of there being negative trends in the 2000-2019 time series for NOx and NH 3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR",
+      "context_window": "OSPAR Commission 2022 EMEP MSC-W Report for OSPAR Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 Michael Gauss and Heiko Klein",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring",
+      "context_window": "Copernicus Atmosphere Monitoring Service (CAMS,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "context_window": "The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Actual atmospheric deposition to each COMP4 Assessment Unit",
+      "context_window": "Actual atmospheric deposition divided up as EEZ within each OSPAR Region 5. Actual atmospheric deposition to each COMP4 Assessment Unit 6. Normalised nitrogen deposition to each OSPAR Region",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "context_window": "As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Results are shown",
+      "context_window": "(non-normalized) atmospheric nitrogen depositions have been computed for each of the twenty-five partial Exclusive Economic Zones listed in Table 7, for each year of the period 1990-2019. Results are shown for total nitrogen depositions during the 1995-2019 period in Figure 12. Table 17 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for Emission Inventories and Projections).",
+      "context_window": "research) and is not subject of this report. Emission data (item 1) is provided annually by EMEP CEIP (Centre for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization is based on meteorological data from 4 years (2016,",
+      "context_window": "year for which model calculations have been made. Figure 10 shows normalized results. The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in emissions provided by the EMEP Centre CEIP for modelling, based on official data submissions by",
+      "context_window": "13 Figure 2: Change in emissions provided by the EMEP Centre CEIP for modelling, based on official data submissions by Contracting Parties. Blue: Oxidized nitrogen (NOx); red: reduced nitrogen (NH 3",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to the large inter-annual variability in meteorological conditions, differences between depositions in one",
+      "context_window": ", while Table 20 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions in all COMP4 Assessment Units. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year.",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Statements about long-term trends and the relative differences",
+      "context_window": ", and even smaller (if they are not too thin and elongated), can be considered as reasonably certain. Statements about long-term trends and the relative differences between depositions to COMP Assessment Units are in any case more certain than the absolute numbers. Independently of these uncertainty considerations, normalized and actual atmospheric nitrogen depositions",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019",
+      "context_window": "the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon x 0.1°lat resolution and within the longitude-latitude domain outlined in green in Figure 1. Atmospheric Deposition of Nitrogen to the OSPAR Maritime Area in the period 1995-2019 9 Figure 1:",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nevertheless, it is safe to say that (actual) oxidized nitrogen",
+      "context_window": "The numbers for this assessment area (and areas of similar size) should thus be considered as an indication only. Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://www.regional.atmosphere.copernicus.eu/",
+      "context_window": "(CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and quarterly evaluation reports are issued online on a quarterly basis.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The normalization has been done with meteorological data for the years",
+      "context_window": "Figure 15 summarizes the results by showing the Top-10 contributors to total normalized nitrogen deposition in each of the 5 OSPAR Regions. The normalization has been done with meteorological data for the years 2016 to 2019. The two largest OSPAR Regions (I and V) receive the largest contributions from the boundary (abbreviated",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition than the meteorology of the 1990s.",
+      "context_window": "Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal further.",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Atmosphere",
+      "context_window": "the Copernicus Atmosphere Monitoring Service",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "We aim to investigate this possible climate change signal",
+      "context_window": "It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen deposition than the meteorology of the 1990s. We aim to investigate this possible climate change signal further. Tables 11 and 12 contain the normalized values for the five OSPAR Regions, i.e.",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The deposition of reduced nitrogen was larger in 2019",
+      "context_window": "There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on",
+      "context_window": "ECMWF model documentation ). The version change for 2019 was inevitable because cy40r1 is not supported anymore, but changes in the meteorological driver have a relatively small effect on model results (changes in the chemistry transport model as well as the emission data are more important). Emission data for the 1990-1999 period were obtained in June 2019 from the EMEP Centre CEIP and listed in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "year with respect to those in one reference year (1995 in this case) can change considerably from year to",
+      "context_window": "the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions in all COMP4 Assessment Units. Due to the large inter-annual variability in meteorological conditions, differences between depositions in one year with respect to those in one reference year (1995 in this case) can change considerably from year to year. Therefore, 5-year averages are calculated to provide a more robust result for the changes since the",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized (‘weather-averaged’) depositions follow the changes in emissions better than actual depositions",
+      "context_window": "four EEZs, the twenty-five partial EEZs, and the COMP4 Assessment Units, for each year of the period 1990- 2019. Normalized (‘weather-averaged’) depositions follow the changes in emissions better than actual depositions and thus illustrate the effect of policy measures on nitrogen emissions. In the normalization, only the years",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More details about the emission data used in our model calculations are given in Chapter 3 of this report.",
+      "context_window": "New emission data for 2000-2019 were obtained in June 2021 from the EMEP Centre CEIP and listed in the EMEP Status Report 1/2021 (EMEP, 2021) and were used in the model runs covering the 2000-2019 period. More details about the emission data used in our model calculations are given in Chapter 3 of this report. EMEP MSC-W model version rv4.42 (documented and evaluated in EMEP Status report 1/2021) was run for the entire trend period 1990-2019, using the meteorological and emission data described above, on 0.1°lon",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They are provided on an",
+      "context_window": "3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an annual basis by the EMEP Centre on Emission Inventories and Projects (CEIP) and are publicly available (",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les",
+      "context_window": "cette ZEE. Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années).",
+      "page_number": 6,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 93,
+      "end_sentence": 209,
+      "sentence_count": 117,
+      "page_range": "4-5",
+      "sentences": [
+        {
+          "sentence_id": 93,
+          "page_number": 4,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 4,
+          "content": "Airborne nitrogen deposition to the OSPAR Maritime Area for the 30-year period 1990-2019 has been",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 4,
+          "content": "calculated with the EMEP MSC-W Chemistry Transport Model on a horizontal resolution of 0.1°lon x 0.1...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 96,
+          "page_number": 4,
+          "content": "Emission data for the 2000-2019 period were updated by the EMEP Centre on Emission Inventories and",
+          "full_length": 98
+        },
+        {
+          "sentence_id": 97,
+          "page_number": 4,
+          "content": "Projections in 2021.",
+          "full_length": 20
+        }
+      ],
+      "total_sentences_in_section": 117
+    },
+    {
+      "section_name": "7 Conclusions",
+      "start_sentence": 10247,
+      "end_sentence": 10394,
+      "sentence_count": 148,
+      "page_range": "89-91",
+      "sentences": [
+        {
+          "sentence_id": 10247,
+          "page_number": 89,
+          "content": "7 Conclusions",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 10248,
+          "page_number": 89,
+          "content": "The main outcome from this work can be summarised as follows:",
+          "full_length": 61
+        },
+        {
+          "sentence_id": 10249,
+          "page_number": 89,
+          "content": "•",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 10250,
+          "page_number": 89,
+          "content": "Emission data have been provided by the EMEP Centre for Emission Inventories and Projections (CEIP)",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 10251,
+          "page_number": 89,
+          "content": "for the 1990s (based on 2019 data submissions from Contracting Parties) and for the 2000 to 2019",
+          "full_length": 96
+        }
+      ],
+      "total_sentences_in_section": 148
+    },
+    {
+      "section_name": "9 References",
+      "start_sentence": 10403,
+      "end_sentence": 10471,
+      "sentence_count": 69,
+      "page_range": "92-92",
+      "sentences": [
+        {
+          "sentence_id": 10403,
+          "page_number": 92,
+          "content": "9 References",
+          "full_length": 12
+        },
+        {
+          "sentence_id": 10404,
+          "page_number": 92,
+          "content": "Bartnicki, J. and H. Fagerli (2003): Atmospheric supply of nitrogen to OSPAR Convention Waters.",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 10405,
+          "page_number": 92,
+          "content": "Summary",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 10406,
+          "page_number": 92,
+          "content": "Report for UBA. EMEP Technical Report MSC-W 4/2003, Norwegian Meteorological Institute, Oslo,",
+          "full_length": 93
+        },
+        {
+          "sentence_id": 10407,
+          "page_number": 92,
+          "content": "Norway.",
+          "full_length": 7
+        }
+      ],
+      "total_sentences_in_section": 69
+    }
+  ],
+  "metadata": {
+    "total_sentences": 10493,
+    "chunks_selected": 115,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 93,
+        "end_sentence": 209,
+        "sentence_count": 117
+      },
+      {
+        "section_name": "7 Conclusions",
+        "start_sentence": 10247,
+        "end_sentence": 10394,
+        "sentence_count": 148
+      },
+      {
+        "section_name": "9 References",
+        "start_sentence": 10403,
+        "end_sentence": 10471,
+        "sentence_count": 69
+      }
+    ],
+    "total_excluded_sentences": 334
+  }
+}

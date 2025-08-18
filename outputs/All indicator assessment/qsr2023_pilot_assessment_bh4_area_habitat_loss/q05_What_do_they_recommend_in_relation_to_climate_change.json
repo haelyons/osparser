@@ -1,0 +1,1413 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment.",
+      "context_window": "Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "run an assessment of historic biogenic loss shall also be explored.",
+      "context_window": "North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps regarding information on the distribution and intensity of activities and habitat types.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The possibility to",
+      "context_window": "For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More detailed evidence on substrate changes may also enable to",
+      "context_window": "that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to include further factors like depth in the assessment method and allow for a more specific assessment. Evidence on broad habitat types relied on the broad-scale predictive map, EUSeaMap (Vasquez",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and more accurate data on habitat types and activities.",
+      "context_window": "developed for this indicator. The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the distribution of broad and protected habitats could ensure that future assessments are reliable.",
+      "context_window": "this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable. Threshold values have not yet been proposed for this indicator. The maximum allowable extent of loss should",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extent of loss in km² may also be discussed. Proposals on threshold values should reflect the",
+      "context_window": "For small-scale and particularly sensitive habitat types such as biogenic habitats, a stricter threshold value should be applied and a maximum extent of loss in km² may also be discussed. Proposals on threshold values should reflect the recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD).",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regarding information on the distribution and intensity of activities and habitat types.",
+      "context_window": "Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps regarding information on the distribution and intensity of activities and habitat types. Particularly for aggregate extraction, the accessible data is currently not sufficient to produce a risk assessment.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcomes rely on the available information and could improve with newer",
+      "context_window": "whereas the method for estimating the risk of habitat loss due to sediment changes has been newly developed for this indicator. The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended)",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge",
+      "context_window": "Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable. Threshold values have not yet been proposed for this indicator.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment is",
+      "context_window": "The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region. The assessment is largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources and it is not dependent on monitoring data.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include further factors like depth in the assessment method and allow for a more specific assessment.",
+      "context_window": "estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to include further factors like depth in the assessment method and allow for a more specific assessment. Evidence on broad habitat types relied on the broad-scale predictive map, EUSeaMap (Vasquez et al",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This may also lead to changes in the classification for probability of loss by bottom",
+      "context_window": "clear definitions of EUNIS habitats and a harmonisation of the broad habitat classification at least throughout the Greater North Sea. This may also lead to changes in the classification for probability of loss by bottom trawling and aggregate extraction. Pilot Assessment of Area of Habitat Loss",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine",
+      "context_window": "sensitive habitat types such as biogenic habitats, a stricter threshold value should be applied and a maximum extent of loss in km² may also be discussed. Proposals on threshold values should reflect the recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data product is considered to",
+      "context_window": "Threatened and / or declining habitats: Spatial data on the distribution of threatened and / or declining habitats are submitted by Contracting Parties as polygons or points. The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "susceptibility of the habitat type to sediment changes. Oberle",
+      "context_window": "habitat loss. At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the susceptibility of the habitat type to sediment changes. Oberle et al ., (2016) and Mengual",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap",
+      "context_window": "of sparse sediment observations over long distances (for the substrate types). Furthermore, there is a knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades. Further work on a regional level should focus on",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this data product is a compilation of data spanning many decades, meaning that changes over time cannot",
+      "context_window": "even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further work on a regional level should focus on",
+      "context_window": "knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades. Further work on a regional level should focus on clear definitions of EUNIS habitats and a harmonisation of the broad habitat classification at least throughout the Greater North Sea.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "improved by further evaluations in different regions and for a wider range of habitat types.",
+      "context_window": "et al ., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on extraction activities are currently not sufficient for a detailed risk assessment.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the",
+      "context_window": "alterations can become apparent and especially for biogenic habitats, mechanical destruction can lead to habitat loss. At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the susceptibility of the habitat type to sediment changes. Oberle et al",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, access to data on the spatial extent and intensity of",
+      "context_window": "largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources and it is not dependent on monitoring data. However, access to data on the spatial extent and intensity of licensed and other activities causing physical loss is a necessary prerequisite to ensure the spatial footprint of activities is accurately assessed.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "require different assessment approaches (",
+      "context_window": "anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss, require different assessment approaches ( Figure a ). The components of the analysis for sealed loss are the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection and conservation of species, habitats and ecosystem",
+      "context_window": "List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes Relevant",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2016), however, the evidence could be",
+      "context_window": "., 2016, Oberle et al ., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data on",
+      "context_window": "., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on extraction activities are currently not sufficient for a detailed risk assessment. For future assessments with",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "context_window": "Pilot Assessment of Area of Habitat Loss. In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/area- habitat-loss-pilot",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regarded yet.",
+      "context_window": "Other activities, such as capital dredging, disposal of sediments, coastal defence structures or shipping infrastructure, that may be an important factor in coastal areas, have not been regarded yet. The method for the assessment of sealed loss has been applied before in similar analyses, whereas the method for estimating the risk of habitat loss due to sediment changes has been newly",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applicable to broad- and small-scale habitat types across the North-East Atlantic region.",
+      "context_window": "extent of habitat area can be based on survey data or on predictive habitat modelling. The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region. The assessment is largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alterations in the Greater North Sea.",
+      "context_window": "Knowledge Gaps (brief) This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures, trawling and aggregate extraction.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA",
+      "context_window": "Delivered by This work was co-funded by the European Maritime and Fisheries Fund through the project: “North-east Atlantic project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater",
+      "context_window": "recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment",
+      "context_window": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures,",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Currently, the assessment is limited to some offshore structures,",
+      "context_window": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures, trawling and aggregate extraction. Other activities, such as capital dredging, disposal of sediments, coastal",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2. Citation Schmitt, P., Vina-Herbon, C. and Matear, L. 2023. Pilot Assessment of Area of Habitat Loss.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the risk of",
+      "context_window": "The assessment of unsealed loss includes further information on the intensity of the activity, as only activities with a very high intensity and / or duration may cause severe sediment changes. In addition, the risk of habitat loss depends on the susceptibility of the habitat type to sediment alterations. The extent and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2012) or by climate change in changing the distribution of species forming biogenic habitats (Morato",
+      "context_window": "., 2000, Strain et al ., 2012) or by climate change in changing the distribution of species forming biogenic habitats (Morato et al ., 2020). Small-scale boulder reefs may  also be endangered by bottom trawling in some areas, as",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the",
+      "context_window": "evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of historic biogenic habitat may be considered in a future assessment.",
+      "context_window": "the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio- engineering species such as reefs of cold-water corals, horse mussels (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "various factors in order to highlight areas where a habitat may have already changed or is subject to a higher",
+      "context_window": "sediment changes. For these unsealed loss pressures, a risk assessment is carried out taking into account various factors in order to highlight areas where a habitat may have already changed or is subject to a higher risk of alteration. The assessment of human activities includes all offshore structures that are currently present in the Greater",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment is limited to",
+      "context_window": "historical records and / or the development of appropriate habitat suitability models in order to estimate historic distribution and the extent of biogenic habitats (ICES 2019a). The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evaluation of sediment changes due to different intensities of fishing or extraction.",
+      "context_window": "intensities. This process could be supported by ground truthing of sites with estimated high risk or the evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "types, including biogenic habitats.",
+      "context_window": "The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio-",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similarly to the sediment data in EUSeaMap,",
+      "context_window": "point observations than polygons within the data product too, meaning that the spatial extent of the habitats, even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "risk of alteration.",
+      "context_window": "For these unsealed loss pressures, a risk assessment is carried out taking into account various factors in order to highlight areas where a habitat may have already changed or is subject to a higher risk of alteration. The assessment of human activities includes all offshore structures that are currently present in the Greater North Sea.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The results for broadscale habitat types used in the assessment are defined according to the EUNIS 2019",
+      "context_window": "of habitat loss is calculated per region and assessment unit. 3.1 Broad habitat types The results for broadscale habitat types used in the assessment are defined according to the EUNIS 2019 habitat classification at level 3 ( Figure b",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Greater North Sea",
+      "context_window": "0,6 Figure f: Change in extent (km²) of risk of loss categories in the Greater North Sea from the assessment period 2009- 2014 to 2015-2020.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio-",
+      "context_window": "types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio- engineering species such as reefs of cold-water corals, horse mussels ( Modiolus modiolus",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measurement of the exact area that has been subject to changes.",
+      "context_window": "used in the indicator assessment are quite precise. Still, it is an estimation of the impact and not a measurement of the exact area that has been subject to changes. The confidence for the assessment method of sealed loss is therefore considered as moderate.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, most studies included also changes that were observed in benthic communities (e.g., reduced",
+      "context_window": "et al ., 2007). However, most studies included also changes that were observed in benthic communities (e.g., reduced abundance or diversity) and not in sediment characteristics. According to Foden et al",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "according to OSPAR (2020a, b).",
+      "context_window": "OSPAR Commission Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities The spatial extent of sealed loss caused by offshore installations (offshore wind farms, oil and gas platforms",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4 Assessment of human activities",
+      "context_window": "Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities The spatial extent of sealed loss caused by offshore installations (offshore wind farms, oil and gas platforms and pipelines) is assessed with the actual extent of the structure and / or a buffer that gives an estimate of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure f: Change in extent (km²) of risk of loss categories",
+      "context_window": "3 958 0,6 Figure f: Change in extent (km²) of risk of loss categories in the Greater North Sea from the assessment period 2009-",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment (e.g., foundations of wind turbines, platforms) and also from the introduction of substrates that",
+      "context_window": "loss of biogenic habitat (ICES 2019a). Sealed loss results from the placement of structures in the marine environment (e.g., foundations of wind turbines, platforms) and also from the introduction of substrates that seal off the seabed (e.g., dredge disposal). Unsealed loss results from permanent changes in physical habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "required for the assessment of EUNIS and MSFD broad habitat types.",
+      "context_window": "(e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types. • Threatened and / or declining habitats: Spatial data on the distribution of threatened and / or declining",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat",
+      "context_window": "historic distribution and the extent of biogenic habitats (ICES 2019a). The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extent of habitat area can be based on survey data or on predictive habitat modelling.",
+      "context_window": "habitat data with information on the impact of those pressures on the habitats. The spatial distribution and extent of habitat area can be based on survey data or on predictive habitat modelling. The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, there is a",
+      "context_window": "which is mostly a result of a combination of predictive modelling (for the biological zones) and interpolation of sparse sediment observations over long distances (for the substrate types). Furthermore, there is a knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This process could be supported by ground truthing of sites with estimated high risk or the",
+      "context_window": "Methodological improvements could include the calibration of categories proposed for trawling and dredging intensities. This process could be supported by ground truthing of sites with estimated high risk or the evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is",
+      "context_window": "data layers such as placement of structures. The underlying EUNIS data reveals that several habitats (e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types. •",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment",
+      "context_window": "9 of 37 OSPAR Commission Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic activities per assessment unit.",
+      "context_window": "1 General methodology The metric of this indicator is the area of a given habitat that is predicted to have been lost due to anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss, require different assessment approaches (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The metric of this indicator is the area of a given habitat that is predicted to have been lost due to",
+      "context_window": "Assessment Method 1 General methodology The metric of this indicator is the area of a given habitat that is predicted to have been lost due to anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be incomplete because it only includes data from surveys, and is therefore limited to those areas that",
+      "context_window": "habitats are submitted by Contracting Parties as polygons or points. The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The area that is assumed to have no or a low risk of loss",
+      "context_window": "In comparison with the preceding assessment period of 2009-2014, the overall proportion of the area in the different categories has only slightly changed. The area that is assumed to have no or a low risk of loss decreased by 600 km² (0,1%), while there is an increase of 530 km² in the area with a moderate risk ( Figure",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed high or very high sediment alterations at SAR values > 16.",
+      "context_window": "et al ., (2016) observed high or very high sediment alterations at SAR values > 16. Based on these findings, a matrix has been produced that determines four categories for risk of habitat loss (none, low, moderate and high) by",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Point data indicate the presence of a specific habitat, but do not allow for a spatial",
+      "context_window": "have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons. Point data indicate the presence of a specific habitat, but do not allow for a spatial assessment of the extent of loss. The total extent of the listed habitats assessed in the Greater North",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developments (2020)",
+      "context_window": "ODIMS Offshore renewable energy developments (2020) EMODnet Wind farms (2021)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gaps caused by a lack of survey data.",
+      "context_window": "OSPAR Commission Likewise for the threatened and/or declining habitats data product (OSPAR 2020 a,b), there are large spatial gaps caused by a lack of survey data. Additionally, unlike EUSeaMap, there is no attempt to fill the gaps with predictions so there is likely to be an underestimate of the extent and distribution.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "data. Where only point data were available, the presence of points near offshore structures was assessed. In order to estimate the impact, an arbitrary buffer around the structures with a radius of 2 km was applied and Pilot Assessment of Area of Habitat Loss",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat types along the Belgian, Dutch, German and Danish coasts seem to be in general subject to a lower",
+      "context_window": "Risk is assumed to be increased in the Channel and along the southwest coast of England, where coarse sediments and moderate current energy prevail and sediment recovery times may be elongated. Habitat types along the Belgian, Dutch, German and Danish coasts seem to be in general subject to a lower risk, as the predominant sandy sediments in a high energy environment are characterised by a high recoverability. The risk may increase due to the use of dredging techniques like screening and deep",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was observed to last 1 to 3 years.",
+      "context_window": "2012). The fastest restoration occurs in sandy deposits with strong tidal streams, where physical recovery was observed to last 1 to 3 years. Reported recovery rates for coarser deposits which are mainly targeted for Pilot Assessment of Area of Habitat Loss",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "particles in a short time span",
+      "context_window": "processes Low: Disturbed sandy areas may be refilled by similar particles in a short time span Sediment particle size distribution may shift to finer particle sizes but a permanent change of sediment classification is",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "establishment of an aggregate database by ICES WGEXT may support future assessments. The risk",
+      "context_window": "aggregate extraction, the accessible data is currently not sufficient to produce a risk assessment. The further establishment of an aggregate database by ICES WGEXT may support future assessments. The risk assessment of bottom trawling may likewise improve when smaller fishing vessels are included in the data and with an increased spatial resolution.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by",
+      "context_window": "generally low, spatial resolution that does not always match the fine resolution of some of the activity data layers such as placement of structures. The underlying EUNIS data reveals that several habitats (e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different components of the analysis.",
+      "context_window": "OSPAR Commission proportion of loss or risk of loss per habitat type and assessment unit is obtained by spatially combining the different components of the analysis. Figure a: Assessment method for sealed and unsealed loss. 2 Assessment area",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "according to",
+      "context_window": "OSPAR Commission Figure b: Benthic broad habitat types at EUNIS classification (2019) level 3 in the Greater North Sea according to EUSeaMap 2021 (Vasquez et al",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be noted, however,",
+      "context_window": "For Circalittoral biogenic habitat (MC22) pressure seems to have been reduced in the current assessment period. It should be noted, however, that due to the low resolution of VMS data there is less confidence in the assessment of biogenic habitats, which have a relatively small extent.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included, as some data entries date back to the year 1900. Confidence in the habitat information is",
+      "context_window": "different years for the same habitat types available that make it difficult to show the current extent of these habitat types. Also, historic data on biogenic habitats that may have disappeared by now are included, as some data entries date back to the year 1900. Confidence in the habitat information is therefore assessed as low. Pilot Assessment of Area of Habitat Loss",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points",
+      "context_window": "The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons. Point data indicate the presence of a specific habitat, but do not allow for a spatial",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological and hydrological pressures, this pilot assessment is restricted to habitat loss by physical pressures",
+      "context_window": "trawling, aggregate extraction or the placement of structures. While habitat loss can also be caused by biological and hydrological pressures, this pilot assessment is restricted to habitat loss by physical pressures (physical loss). Figure 1: Conceptual overview of the indicator methodology showing the components for the assessment of habitat",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 953/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change to the seabed from which it can recover if the activity causing the disturbance pressure ceases",
+      "context_window": "Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or is expected to last for 12 years or more, whereas physical disturbance (assessed by BH3) is understood as a change to the seabed from which it can recover if the activity causing the disturbance pressure ceases (Commission Decision 848/2017). The definition of physical loss includes the loss of marine habitat area by",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The indicator aims to estimate the extent and proportion of benthic habitat types that is lost due to human",
+      "context_window": "fond. Toutes les structures et activités contribuant à la perte ne sont pas couvertes. Background (brief) The indicator aims to estimate the extent and proportion of benthic habitat types that is lost due to human activities. Habitat loss may be caused by placement of offshore structures like foundations of wind turbines",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance or diversity) and not in sediment characteristics. According to Foden",
+      "context_window": "., 2007). However, most studies included also changes that were observed in benthic communities (e.g., reduced abundance or diversity) and not in sediment characteristics. According to Foden et al ., (2011), the drill",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or",
+      "context_window": "4 of 37 OSPAR Commission Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or is expected to last for 12 years or more, whereas physical disturbance (assessed by BH3) is understood as a change to the seabed from which it can recover if the activity causing the disturbance pressure ceases",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Estimating loss of historic biogenic habitats relies on the availability of relevant",
+      "context_window": "community, but these biological alterations are assessed with the indicator ‘Extent of physical disturbance to benthic habitats’ (BH3). Estimating loss of historic biogenic habitats relies on the availability of relevant historical records and / or the development of appropriate habitat suitability models in order to estimate historic distribution and the extent of biogenic habitats (ICES 2019a).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat and activities data are associated with considerable uncertainties (see Confidence section).",
+      "context_window": "there was not yet any data on their extent or distribution in the data product. The impact of unsealed loss on threatened and / or declining habitat types has not yet been assessed, as both habitat and activities data are associated with considerable uncertainties (see Confidence section). Table b: Data availability for OSPAR Threatened and / or declining habitats present in the Greater North Sea. Habitat type",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "point observations than polygons within the data product too, meaning that the spatial extent of the habitats,",
+      "context_window": "predictions so there is likely to be an underestimate of the extent and distribution. There are many more point observations than polygons within the data product too, meaning that the spatial extent of the habitats, even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap,",
+      "page_number": 34,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "run an assessment of historic biogenic loss shall also be explored.",
+      "context_window": "North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps regarding information on the distribution and intensity of activities and habitat types.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More detailed evidence on substrate changes may also enable to",
+      "context_window": "that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to include further factors like depth in the assessment method and allow for a more specific assessment. Evidence on broad habitat types relied on the broad-scale predictive map, EUSeaMap (Vasquez",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the distribution of broad and protected habitats could ensure that future assessments are reliable.",
+      "context_window": "this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable. Threshold values have not yet been proposed for this indicator. The maximum allowable extent of loss should",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regarding information on the distribution and intensity of activities and habitat types.",
+      "context_window": "Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps regarding information on the distribution and intensity of activities and habitat types. Particularly for aggregate extraction, the accessible data is currently not sufficient to produce a risk assessment.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge",
+      "context_window": "Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable. Threshold values have not yet been proposed for this indicator.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include further factors like depth in the assessment method and allow for a more specific assessment.",
+      "context_window": "estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to include further factors like depth in the assessment method and allow for a more specific assessment. Evidence on broad habitat types relied on the broad-scale predictive map, EUSeaMap (Vasquez et al",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine",
+      "context_window": "sensitive habitat types such as biogenic habitats, a stricter threshold value should be applied and a maximum extent of loss in km² may also be discussed. Proposals on threshold values should reflect the recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data product is considered to",
+      "context_window": "Threatened and / or declining habitats: Spatial data on the distribution of threatened and / or declining habitats are submitted by Contracting Parties as polygons or points. The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap",
+      "context_window": "of sparse sediment observations over long distances (for the substrate types). Furthermore, there is a knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades. Further work on a regional level should focus on",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further work on a regional level should focus on",
+      "context_window": "knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades. Further work on a regional level should focus on clear definitions of EUNIS habitats and a harmonisation of the broad habitat classification at least throughout the Greater North Sea.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "improved by further evaluations in different regions and for a wider range of habitat types.",
+      "context_window": "et al ., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on extraction activities are currently not sufficient for a detailed risk assessment.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, access to data on the spatial extent and intensity of",
+      "context_window": "largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources and it is not dependent on monitoring data. However, access to data on the spatial extent and intensity of licensed and other activities causing physical loss is a necessary prerequisite to ensure the spatial footprint of activities is accurately assessed.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection and conservation of species, habitats and ecosystem",
+      "context_window": "List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes Relevant",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data on",
+      "context_window": "., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on extraction activities are currently not sufficient for a detailed risk assessment. For future assessments with",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regarded yet.",
+      "context_window": "Other activities, such as capital dredging, disposal of sediments, coastal defence structures or shipping infrastructure, that may be an important factor in coastal areas, have not been regarded yet. The method for the assessment of sealed loss has been applied before in similar analyses, whereas the method for estimating the risk of habitat loss due to sediment changes has been newly",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alterations in the Greater North Sea.",
+      "context_window": "Knowledge Gaps (brief) This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures, trawling and aggregate extraction.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater",
+      "context_window": "recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Currently, the assessment is limited to some offshore structures,",
+      "context_window": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures, trawling and aggregate extraction. Other activities, such as capital dredging, disposal of sediments, coastal",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the risk of",
+      "context_window": "The assessment of unsealed loss includes further information on the intensity of the activity, as only activities with a very high intensity and / or duration may cause severe sediment changes. In addition, the risk of habitat loss depends on the susceptibility of the habitat type to sediment alterations. The extent and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the",
+      "context_window": "evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the estimation of loss by offshore structures. More detailed evidence on substrate changes may also enable to",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "various factors in order to highlight areas where a habitat may have already changed or is subject to a higher",
+      "context_window": "sediment changes. For these unsealed loss pressures, a risk assessment is carried out taking into account various factors in order to highlight areas where a habitat may have already changed or is subject to a higher risk of alteration. The assessment of human activities includes all offshore structures that are currently present in the Greater",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evaluation of sediment changes due to different intensities of fishing or extraction.",
+      "context_window": "intensities. This process could be supported by ground truthing of sites with estimated high risk or the evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models that account for severe sediment alterations may be useful to improve the accuracy of buffers used for the",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similarly to the sediment data in EUSeaMap,",
+      "context_window": "point observations than polygons within the data product too, meaning that the spatial extent of the habitats, even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "risk of alteration.",
+      "context_window": "For these unsealed loss pressures, a risk assessment is carried out taking into account various factors in order to highlight areas where a habitat may have already changed or is subject to a higher risk of alteration. The assessment of human activities includes all offshore structures that are currently present in the Greater North Sea.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Greater North Sea",
+      "context_window": "0,6 Figure f: Change in extent (km²) of risk of loss categories in the Greater North Sea from the assessment period 2009- 2014 to 2015-2020.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measurement of the exact area that has been subject to changes.",
+      "context_window": "used in the indicator assessment are quite precise. Still, it is an estimation of the impact and not a measurement of the exact area that has been subject to changes. The confidence for the assessment method of sealed loss is therefore considered as moderate.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "according to OSPAR (2020a, b).",
+      "context_window": "OSPAR Commission Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities The spatial extent of sealed loss caused by offshore installations (offshore wind farms, oil and gas platforms",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure f: Change in extent (km²) of risk of loss categories",
+      "context_window": "3 958 0,6 Figure f: Change in extent (km²) of risk of loss categories in the Greater North Sea from the assessment period 2009-",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "required for the assessment of EUNIS and MSFD broad habitat types.",
+      "context_window": "(e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types. • Threatened and / or declining habitats: Spatial data on the distribution of threatened and / or declining",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extent of habitat area can be based on survey data or on predictive habitat modelling.",
+      "context_window": "habitat data with information on the impact of those pressures on the habitats. The spatial distribution and extent of habitat area can be based on survey data or on predictive habitat modelling. The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This process could be supported by ground truthing of sites with estimated high risk or the",
+      "context_window": "Methodological improvements could include the calibration of categories proposed for trawling and dredging intensities. This process could be supported by ground truthing of sites with estimated high risk or the evaluation of sediment changes due to different intensities of fishing or extraction. Hydrographical models",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment",
+      "context_window": "9 of 37 OSPAR Commission Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The metric of this indicator is the area of a given habitat that is predicted to have been lost due to",
+      "context_window": "Assessment Method 1 General methodology The metric of this indicator is the area of a given habitat that is predicted to have been lost due to anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The area that is assumed to have no or a low risk of loss",
+      "context_window": "In comparison with the preceding assessment period of 2009-2014, the overall proportion of the area in the different categories has only slightly changed. The area that is assumed to have no or a low risk of loss decreased by 600 km² (0,1%), while there is an increase of 530 km² in the area with a moderate risk ( Figure",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Point data indicate the presence of a specific habitat, but do not allow for a spatial",
+      "context_window": "have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons. Point data indicate the presence of a specific habitat, but do not allow for a spatial assessment of the extent of loss. The total extent of the listed habitats assessed in the Greater North",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gaps caused by a lack of survey data.",
+      "context_window": "OSPAR Commission Likewise for the threatened and/or declining habitats data product (OSPAR 2020 a,b), there are large spatial gaps caused by a lack of survey data. Additionally, unlike EUSeaMap, there is no attempt to fill the gaps with predictions so there is likely to be an underestimate of the extent and distribution.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat types along the Belgian, Dutch, German and Danish coasts seem to be in general subject to a lower",
+      "context_window": "Risk is assumed to be increased in the Channel and along the southwest coast of England, where coarse sediments and moderate current energy prevail and sediment recovery times may be elongated. Habitat types along the Belgian, Dutch, German and Danish coasts seem to be in general subject to a lower risk, as the predominant sandy sediments in a high energy environment are characterised by a high recoverability. The risk may increase due to the use of dredging techniques like screening and deep",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "particles in a short time span",
+      "context_window": "processes Low: Disturbed sandy areas may be refilled by similar particles in a short time span Sediment particle size distribution may shift to finer particle sizes but a permanent change of sediment classification is",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by",
+      "context_window": "generally low, spatial resolution that does not always match the fine resolution of some of the activity data layers such as placement of structures. The underlying EUNIS data reveals that several habitats (e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "according to",
+      "context_window": "OSPAR Commission Figure b: Benthic broad habitat types at EUNIS classification (2019) level 3 in the Greater North Sea according to EUSeaMap 2021 (Vasquez et al",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included, as some data entries date back to the year 1900. Confidence in the habitat information is",
+      "context_window": "different years for the same habitat types available that make it difficult to show the current extent of these habitat types. Also, historic data on biogenic habitats that may have disappeared by now are included, as some data entries date back to the year 1900. Confidence in the habitat information is therefore assessed as low. Pilot Assessment of Area of Habitat Loss",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological and hydrological pressures, this pilot assessment is restricted to habitat loss by physical pressures",
+      "context_window": "trawling, aggregate extraction or the placement of structures. While habitat loss can also be caused by biological and hydrological pressures, this pilot assessment is restricted to habitat loss by physical pressures (physical loss). Figure 1: Conceptual overview of the indicator methodology showing the components for the assessment of habitat",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change to the seabed from which it can recover if the activity causing the disturbance pressure ceases",
+      "context_window": "Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or is expected to last for 12 years or more, whereas physical disturbance (assessed by BH3) is understood as a change to the seabed from which it can recover if the activity causing the disturbance pressure ceases (Commission Decision 848/2017). The definition of physical loss includes the loss of marine habitat area by",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance or diversity) and not in sediment characteristics. According to Foden",
+      "context_window": "., 2007). However, most studies included also changes that were observed in benthic communities (e.g., reduced abundance or diversity) and not in sediment characteristics. According to Foden et al ., (2011), the drill",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Estimating loss of historic biogenic habitats relies on the availability of relevant",
+      "context_window": "community, but these biological alterations are assessed with the indicator ‘Extent of physical disturbance to benthic habitats’ (BH3). Estimating loss of historic biogenic habitats relies on the availability of relevant historical records and / or the development of appropriate habitat suitability models in order to estimate historic distribution and the extent of biogenic habitats (ICES 2019a).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "point observations than polygons within the data product too, meaning that the spatial extent of the habitats,",
+      "context_window": "predictions so there is likely to be an underestimate of the extent and distribution. There are many more point observations than polygons within the data product too, meaning that the spatial extent of the habitats, even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap,",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat and activities data are associated with considerable uncertainties (see Confidence section).",
+      "context_window": "there was not yet any data on their extent or distribution in the data product. The impact of unsealed loss on threatened and / or declining habitat types has not yet been assessed, as both habitat and activities data are associated with considerable uncertainties (see Confidence section). Table b: Data availability for OSPAR Threatened and / or declining habitats present in the Greater North Sea. Habitat type",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or",
+      "context_window": "4 of 37 OSPAR Commission Physical loss is defined as a permanent change of the seabed that is defined as a change which has lasted or is expected to last for 12 years or more, whereas physical disturbance (assessed by BH3) is understood as a change to the seabed from which it can recover if the activity causing the disturbance pressure ceases",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The indicator aims to estimate the extent and proportion of benthic habitat types that is lost due to human",
+      "context_window": "fond. Toutes les structures et activités contribuant à la perte ne sont pas couvertes. Background (brief) The indicator aims to estimate the extent and proportion of benthic habitat types that is lost due to human activities. Habitat loss may be caused by placement of offshore structures like foundations of wind turbines",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 953/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points",
+      "context_window": "The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons. Point data indicate the presence of a specific habitat, but do not allow for a spatial",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be noted, however,",
+      "context_window": "For Circalittoral biogenic habitat (MC22) pressure seems to have been reduced in the current assessment period. It should be noted, however, that due to the low resolution of VMS data there is less confidence in the assessment of biogenic habitats, which have a relatively small extent.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different components of the analysis.",
+      "context_window": "OSPAR Commission proportion of loss or risk of loss per habitat type and assessment unit is obtained by spatially combining the different components of the analysis. Figure a: Assessment method for sealed and unsealed loss. 2 Assessment area",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "establishment of an aggregate database by ICES WGEXT may support future assessments. The risk",
+      "context_window": "aggregate extraction, the accessible data is currently not sufficient to produce a risk assessment. The further establishment of an aggregate database by ICES WGEXT may support future assessments. The risk assessment of bottom trawling may likewise improve when smaller fishing vessels are included in the data and with an increased spatial resolution.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was observed to last 1 to 3 years.",
+      "context_window": "2012). The fastest restoration occurs in sandy deposits with strong tidal streams, where physical recovery was observed to last 1 to 3 years. Reported recovery rates for coarser deposits which are mainly targeted for Pilot Assessment of Area of Habitat Loss",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "data. Where only point data were available, the presence of points near offshore structures was assessed. In order to estimate the impact, an arbitrary buffer around the structures with a radius of 2 km was applied and Pilot Assessment of Area of Habitat Loss",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developments (2020)",
+      "context_window": "ODIMS Offshore renewable energy developments (2020) EMODnet Wind farms (2021)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed high or very high sediment alterations at SAR values > 16.",
+      "context_window": "et al ., (2016) observed high or very high sediment alterations at SAR values > 16. Based on these findings, a matrix has been produced that determines four categories for risk of habitat loss (none, low, moderate and high) by",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be incomplete because it only includes data from surveys, and is therefore limited to those areas that",
+      "context_window": "habitats are submitted by Contracting Parties as polygons or points. The data product is considered to be incomplete because it only includes data from surveys, and is therefore limited to those areas that have been surveyed. The version used in this assessment (OSPAR 2020a,b) contains far more points than polygons.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic activities per assessment unit.",
+      "context_window": "1 General methodology The metric of this indicator is the area of a given habitat that is predicted to have been lost due to anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss, require different assessment approaches (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is",
+      "context_window": "data layers such as placement of structures. The underlying EUNIS data reveals that several habitats (e.g., sandy mud, rock, mixed, biogenic) have been defined differently in different areas and by different scientific groups. Therefore, a comprehensive revision and alignment of the habitat is required for the assessment of EUNIS and MSFD broad habitat types. •",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, there is a",
+      "context_window": "which is mostly a result of a combination of predictive modelling (for the biological zones) and interpolation of sparse sediment observations over long distances (for the substrate types). Furthermore, there is a knowledge gap about how the broad habitats have changed over time, with the substrate data in EUSeaMap being a compilation of data collected over many decades.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat",
+      "context_window": "historic distribution and the extent of biogenic habitats (ICES 2019a). The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment (e.g., foundations of wind turbines, platforms) and also from the introduction of substrates that",
+      "context_window": "loss of biogenic habitat (ICES 2019a). Sealed loss results from the placement of structures in the marine environment (e.g., foundations of wind turbines, platforms) and also from the introduction of substrates that seal off the seabed (e.g., dredge disposal). Unsealed loss results from permanent changes in physical habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4 Assessment of human activities",
+      "context_window": "Figure c: OSPAR Threatened and / or declining habitats in the Greater North Sea as used in the BH4 assessment according to OSPAR (2020a, b). 4 Assessment of human activities The spatial extent of sealed loss caused by offshore installations (offshore wind farms, oil and gas platforms and pipelines) is assessed with the actual extent of the structure and / or a buffer that gives an estimate of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, most studies included also changes that were observed in benthic communities (e.g., reduced",
+      "context_window": "et al ., 2007). However, most studies included also changes that were observed in benthic communities (e.g., reduced abundance or diversity) and not in sediment characteristics. According to Foden et al",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio-",
+      "context_window": "types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio- engineering species such as reefs of cold-water corals, horse mussels ( Modiolus modiolus",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The results for broadscale habitat types used in the assessment are defined according to the EUNIS 2019",
+      "context_window": "of habitat loss is calculated per region and assessment unit. 3.1 Broad habitat types The results for broadscale habitat types used in the assessment are defined according to the EUNIS 2019 habitat classification at level 3 ( Figure b",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "types, including biogenic habitats.",
+      "context_window": "The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio-",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment is limited to",
+      "context_window": "historical records and / or the development of appropriate habitat suitability models in order to estimate historic distribution and the extent of biogenic habitats (ICES 2019a). The present assessment is limited to the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of historic biogenic habitat may be considered in a future assessment.",
+      "context_window": "the assessment of selected activities causing sealed and unsealed loss on the present distribution of habitat types, including biogenic habitats. Loss of historic biogenic habitat may be considered in a future assessment. Loss of habitat is of most concern for habitats of special interest, often defined by long-lived and bio- engineering species such as reefs of cold-water corals, horse mussels (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2012) or by climate change in changing the distribution of species forming biogenic habitats (Morato",
+      "context_window": "., 2000, Strain et al ., 2012) or by climate change in changing the distribution of species forming biogenic habitats (Morato et al ., 2020). Small-scale boulder reefs may  also be endangered by bottom trawling in some areas, as",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2. Citation Schmitt, P., Vina-Herbon, C. and Matear, L. 2023. Pilot Assessment of Area of Habitat Loss.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment",
+      "context_window": "This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea. Currently, the assessment is limited to some offshore structures,",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA",
+      "context_window": "Delivered by This work was co-funded by the European Maritime and Fisheries Fund through the project: “North-east Atlantic project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applicable to broad- and small-scale habitat types across the North-East Atlantic region.",
+      "context_window": "extent of habitat area can be based on survey data or on predictive habitat modelling. The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region. The assessment is largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "context_window": "Pilot Assessment of Area of Habitat Loss. In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/area- habitat-loss-pilot",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2016), however, the evidence could be",
+      "context_window": "., 2016, Oberle et al ., 2016), however, the evidence could be improved by further evaluations in different regions and for a wider range of habitat types. The data on",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "require different assessment approaches (",
+      "context_window": "anthropogenic activities per assessment unit. The two mechanisms leading to loss, sealed and unsealed loss, require different assessment approaches ( Figure a ). The components of the analysis for sealed loss are the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the",
+      "context_window": "alterations can become apparent and especially for biogenic habitats, mechanical destruction can lead to habitat loss. At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the susceptibility of the habitat type to sediment changes. Oberle et al",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) This pilot assessment presents the first attempt to estimate risk of habitat loss by sealing and sediment alterations in the Greater North Sea.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this data product is a compilation of data spanning many decades, meaning that changes over time cannot",
+      "context_window": "even where they are known to be present, is not always known. Similarly to the sediment data in EUSeaMap, this data product is a compilation of data spanning many decades, meaning that changes over time cannot be determined. With further survey effort and dedicated monitoring programmes, an improved knowledge on the distribution of broad and protected habitats could ensure that future assessments are reliable.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "susceptibility of the habitat type to sediment changes. Oberle",
+      "context_window": "habitat loss. At SAR > 16 the risk of habitat loss is assumed to be further increasing, depending on the susceptibility of the habitat type to sediment changes. Oberle et al ., (2016) and Mengual",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This may also lead to changes in the classification for probability of loss by bottom",
+      "context_window": "clear definitions of EUNIS habitats and a harmonisation of the broad habitat classification at least throughout the Greater North Sea. This may also lead to changes in the classification for probability of loss by bottom trawling and aggregate extraction. Pilot Assessment of Area of Habitat Loss",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment is",
+      "context_window": "The indicator is applicable to broad- and small-scale habitat types across the North-East Atlantic region. The assessment is largely built on a modelling approach; this is cost-efficient as it maximises the use of data from several sources and it is not dependent on monitoring data.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcomes rely on the available information and could improve with newer",
+      "context_window": "whereas the method for estimating the risk of habitat loss due to sediment changes has been newly developed for this indicator. The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended)",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extent of loss in km² may also be discussed. Proposals on threshold values should reflect the",
+      "context_window": "For small-scale and particularly sensitive habitat types such as biogenic habitats, a stricter threshold value should be applied and a maximum extent of loss in km² may also be discussed. Proposals on threshold values should reflect the recommendations developed in TG Seabed for the corresponding criterion D6C4 ‘Extent of loss’ of the Marine Strategy Framework Directive (MSFD).",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and more accurate data on habitat types and activities.",
+      "context_window": "developed for this indicator. The outcomes rely on the available information and could improve with newer and more accurate data on habitat types and activities. Knowledge Gaps (extended) The risk indicator pilot assessment has been based on the best available data, however, there are still gaps",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The possibility to",
+      "context_window": "For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment.",
+      "context_window": "Strategy Framework Directive (MSFD). For future assessments, data availability on further activities causing sealed and unsealed loss in the Greater North Sea and other OSPAR Regions shall be evaluated in order to extend the assessment. The possibility to run an assessment of historic biogenic loss shall also be explored.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 36,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 83,
+      "end_sentence": 89,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 83,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "Habitat loss is caused by sealing and by other activities leading to substrate changes.",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 85,
+          "page_number": 3,
+          "content": "92 km² were lost to",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "offshore structures assessed in the Greater North Sea.",
+          "full_length": 54
+        },
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "A risk assessment highlights areas and habitat types",
+          "full_length": 52
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 2438,
+      "end_sentence": 2459,
+      "sentence_count": 22,
+      "page_range": "32-33",
+      "sentences": [
+        {
+          "sentence_id": 2438,
+          "page_number": 32,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2439,
+          "page_number": 32,
+          "content": "Activities for energy production that cause sealing of the seabed are concentrated in the Southern N...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 2440,
+          "page_number": 32,
+          "content": "The Central North Sea is another focus area for oil and gas production.",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 2441,
+          "page_number": 32,
+          "content": "In the past years, the area sealed has",
+          "full_length": 38
+        },
+        {
+          "sentence_id": 2442,
+          "page_number": 32,
+          "content": "slightly increased due to the construction of offshore wind farms for renewable energy production.",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 22
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 2460,
+      "end_sentence": 2476,
+      "sentence_count": 17,
+      "page_range": "33-33",
+      "sentences": [
+        {
+          "sentence_id": 2460,
+          "page_number": 33,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2461,
+          "page_number": 33,
+          "content": "Although the proportion of area estimated as sealed by offshore structures is still quite small, the...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 2462,
+          "page_number": 33,
+          "content": "increasing concern about future developments in the Greater North Sea, particularly with regard to t...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 2463,
+          "page_number": 33,
+          "content": "expansion of renewable energies.",
+          "full_length": 32
+        },
+        {
+          "sentence_id": 2464,
+          "page_number": 33,
+          "content": "While this assessment focuses on physical changes to the seabed, soft",
+          "full_length": 69
+        }
+      ],
+      "total_sentences_in_section": 17
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2547,
+      "end_sentence": 2744,
+      "sentence_count": 198,
+      "page_range": "34-36",
+      "sentences": [
+        {
+          "sentence_id": 2547,
+          "page_number": 34,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2548,
+          "page_number": 34,
+          "content": "BfN (2022): Sand- und Kiesabbau – Minimierung der Belastungen.",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 2549,
+          "page_number": 34,
+          "content": "https://www.bfn.de/minimierung-der-",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 2550,
+          "page_number": 34,
+          "content": "belastungen-1",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 2551,
+          "page_number": 34,
+          "content": "De Jong M. (2016): The ecological effects of deep sand extraction on the Dutch continental shelf.",
+          "full_length": 97
+        }
+      ],
+      "total_sentences_in_section": 198
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2809,
+    "chunks_selected": 99,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 83,
+        "end_sentence": 89,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 2438,
+        "end_sentence": 2459,
+        "sentence_count": 22
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 2460,
+        "end_sentence": 2476,
+        "sentence_count": 17
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2547,
+        "end_sentence": 2744,
+        "sentence_count": 198
+      }
+    ],
+    "total_excluded_sentences": 244
+  }
+}

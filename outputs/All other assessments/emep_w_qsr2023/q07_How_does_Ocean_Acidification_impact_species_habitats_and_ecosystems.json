@@ -1,0 +1,1561 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein).",
+      "context_window": "It was documented in detail in Simpson et al. (2012) and in the annual chapters on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein). The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention (e.g.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5",
+      "context_window": "considered in this report. After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5 (depositions) and 6 (source apportionment). In Chapter 7, conclusions are listed, while Chapter 8 describes",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Gauss et al., 2019; 2020), but also in a large number of international research projects and operational",
+      "context_window": "The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention (e.g. Gauss et al., 2019; 2020), but also in a large number of international research projects and operational services, for",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the",
+      "context_window": "For consistency normalization is done with these years also in the results for all other receptor areas considered in this report. After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5 (depositions) and 6 (source apportionment).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much smaller. For oxidized nitrogen, the largest decrease (55%) is in ECPM2 (“East Coast (permanently mixed) 2”), while the smallest decrease (20%) is modelled for SAAOC (“Sudatlantic Area SUD-OCEAN(D5)”).",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As Figure 9a, but for OSPAR Regions I and IV.",
+      "context_window": "43 Figure 9b: As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt",
+      "context_window": "Région V et la plus faible dans la Région II. Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt annuel d'azote réduit était plus élevé en 2019 qu'en 1995 dans 7 ZEE. Dans les autres ZEE, les dépôts d'azote",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red)",
+      "context_window": "OSPAR Commission 2022 Figure 11: Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2012) and in the annual chapters",
+      "context_window": "into/out of the model domain. It was documented in detail in Simpson et al. (2012) and in the annual chapters on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein). The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP",
+      "context_window": "Norwegian Meteorological Institute Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this report. The OSPAR Commission is acknowledged for supporting the work presented in this report.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the",
+      "context_window": "Figure 11: Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m 2",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "les plus fortes baisses des dépôts d'azote oxydé (environ 50%) ont eu lieu dans la Région II d’OSPAR et dans",
+      "context_window": "faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR, les plus fortes baisses des dépôts d'azote oxydé (environ 50%) ont eu lieu dans la Région II d’OSPAR et dans la ZEE 189-NL. Les plus fortes diminutions de l'azote réduit sont modélisées pour la ZEE188-BE (29%).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe",
+      "context_window": "une baisse entre 1995 et 2019 dans toutes les régions d’OSPAR, la baisse la plus importante étant dans la Région V et la plus faible dans la Région II. Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt annuel d'azote réduit était plus élevé en 2019 qu'en 1995 dans 7 ZEE.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus",
+      "context_window": "réduit ont diminué (jusqu'à 26 %). OSPAR Commission 2022 Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this",
+      "context_window": "Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this report. The OSPAR Commission is acknowledged for supporting the work presented in this report. OSPAR Commission 2022",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NT / Norwegian Trench",
+      "context_window": "ATL / Atlantic DB / Dogger Bank NT / Norwegian Trench SNS / Southern North Sea GBSW / Gulf of Biscay shelf waters",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "more robust result for the changes since the 1990s. Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Portugal, Spain, Sweden, Switzerland and the United",
+      "context_window": "European Union, Finland, France, Germany, Iceland, Ireland, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom. Convention OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the sixty-seven",
+      "context_window": "OSPAR Commission 2022 Table 20. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the sixty-seven COMP4 Assessment Units listed in Table 8. Also shown are the percentage differences in the 5-year period 2015-2019",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and total nitrogen, in the five OSPAR Regions.",
+      "context_window": "Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods of 2015-2019 and 1995-1999.",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period",
+      "context_window": "Figure 9a: Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m 2",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Screenshot of the source-receptor data table provided along with this report, containing contributions from",
+      "context_window": "Screenshot of the source-receptor data table provided along with this report, containing contributions from all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial EEZs.",
+      "page_number": 91,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidised nitrogen between 1995 and 2019 in all EEZs.",
+      "context_window": "Zones during the period 1995-2019 are shown in Figure 11. There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019.",
+      "context_window": "Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "context_window": "As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R",
+      "context_window": "2 /year (right axis). Right panels: Linear regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 ) indicated in the",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-five",
+      "context_window": "OSPAR Commission 2022 Table 17. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-five partial Exclusive Economic Zones listed in Table 7. Also shown are the percentage differences in the 5-year period 2015-",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-",
+      "context_window": "OSPAR Commission 2022 Table 13. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty- four Exclusive Economic Zones listed in Table 6. Also shown are the percentage differences in the 5-year period 2015-",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent",
+      "context_window": "Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized nitrogen deposition (49%) and for",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The deposition of reduced nitrogen was larger in 2019",
+      "context_window": "There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 10a:",
+      "context_window": "Results for other years are provided separately in Excel format (see Chapter 8). Unit: tonnes(N)/year. Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "En ce qui concerne les dépôts effectifs d'azote oxydé, on observe une diminution entre 1995 et 2019 dans",
+      "context_window": "Les résultats concernant les dépôts réels sont plus sûrs car ils peuvent être dérivés directement des calculs du modèle 0,1°lon x 0,1°lat de l'EMEP. En ce qui concerne les dépôts effectifs d'azote oxydé, on observe une diminution entre 1995 et 2019 dans les 67 unités d'évaluation du COMP4. Pour l'azote réduit, on observe des diminutions dans la plupart des",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for",
+      "context_window": "2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was",
+      "context_window": "OSPAR, is that some of the receptors considered (e.g. EEZ048) are not fully covered by the EMEP model domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was changed in 2017 (for reporting the status of 2015), the parts included in the domain changed for these receptors, both in shape and in area.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "Also shown are the percentage differences between the 5-year periods of 2015-2019 and 1995-1999. OSPAR Region Oxidised N",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.1 The EMEP MSC-W model",
+      "context_window": "OSPAR Commission 2022 2 Modeling 2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://www.regional.atmosphere.copernicus.eu/",
+      "context_window": "(CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and quarterly evaluation reports are issued online on a quarterly basis.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tables 15 and 16 contain",
+      "context_window": "the 24 EEZs for the year 2019, i.e. the most recent year for which model calculations have been made. Tables 15 and 16 contain normalized depositions of oxidized and reduction nitrogen to the twenty-four EEZs.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R",
+      "context_window": "2 /year (right axis). Right panel: Linear regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 )",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "2 ) indicated in the figure. OSPAR Region Oxidised N",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1 Depositions to OSPAR Regions",
+      "context_window": "In this report we show plots and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum",
+      "context_window": "Unit: tonnes(N)/year. Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit:",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4",
+      "context_window": "Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given in the Reporting Guidelines of CEIP (CEIP, 2019), and in particular their Annex 1. The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4 visualize percentage shares only for the following 5 aggregated sectors: •",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.2 Depositions to Exclusive Economic Zones",
+      "context_window": "5.1 Depositions to OSPAR Regions 41 5.2 Depositions to Exclusive Economic Zones 47 5.3 Depositions to partial EEZs",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "Table 13 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions, while Table 14 lists actual and normalized depositions in the 24 EEZs for the year 2019, i.e.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine",
+      "context_window": "1995-2019 OSPAR Convention The Convention for the Protection of the Marine Environment of the North‐East Atlantic (the “OSPAR Convention”) was opened for signature at the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OWBO / Ocean Waters BO (D5)",
+      "context_window": "OWCO / Ocean Waters CO (D5) OWAO / Ocean Waters AO (D5) OWBO / Ocean Waters BO (D5) Figure 8: Continued.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "1990s. In regard to actual depositions of oxidized nitrogen, there has been an decrease from 1995 to 2019 in all 67 COMP4 Assessment Units. The largest decrease (58%) is modelled in NAAC1B (“Noratlantic Area NOR-",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Executive Summary",
+      "context_window": "3 Contents Executive Summary 4 Récapitulatif",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "context_window": "The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Publication Number: 896/2022",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 896/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions of nitrogen have been computed for the five OSPAR Regions, the twenty-",
+      "context_window": "and normalized depositions of nitrogen have been computed for the five OSPAR Regions, the twenty- four EEZs, the twenty-five partial EEZs, and the COMP4 Assessment Units, for each year of the period 1990- 2019.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions of oxidized and reduction nitrogen to the twenty-four EEZs.",
+      "context_window": "Tables 15 and 16 contain normalized depositions of oxidized and reduction nitrogen to the twenty-four EEZs. OSPAR Commission 2022 Figure 11:",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x",
+      "context_window": "The results are illustrated in Figure 5 for the 0.1°lon x 0.1°lat grid. Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x 0.1°lat grid. Table 5.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen",
+      "context_window": "OSPAR Commission 2022 Figure 9a: Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given",
+      "context_window": "been in use in EMEP since 2017 and has many advantages over the older SNAP system, in particular a larger level of detail. Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given in the Reporting Guidelines of CEIP (CEIP, 2019), and in particular their Annex 1. The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North‐East Atlantic (the “OSPAR",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North‐East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and Paris",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit",
+      "context_window": "avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes. Selon les résultats du modèle, les dépôts réels (non normalisés) d'azote oxydé étaient clairement inférieurs",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.1 The EMEP MSC-W model",
+      "context_window": "2 Modeling 8 2.1 The EMEP MSC-W model 8 2.2 Experimental setup",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2010 0.1 2.4 39 26",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 896/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all",
+      "context_window": "and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les",
+      "context_window": "cette ZEE. Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying",
+      "context_window": "reduced nitrogen deposition (18%). An interesting feature is that normalized oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, to the sixty-seven COMP4 Assessment Units in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 21. Deposition of oxidised, reduced and total nitrogen, to the sixty-seven COMP4 Assessment Units in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016,",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2009 0.1 2.4 39 26",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières",
+      "context_window": "Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années). EMEP MSC-W a également calculé les dépôts d'azote pour les 67 unités d'évaluation du COMP4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR delivered by Bartnicki and Fagerli (2003).",
+      "context_window": "Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W (Meteorological Synthesizing Centre – West) and OSPAR since 2003, starting with the first EMEP report for OSPAR delivered by Bartnicki and Fagerli (2003). This cooperation has been continued and documented in numerous reports until the present day.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As in every model, deviations between model and observations do occur and are highly variable both in space",
+      "context_window": "MSC-W model simulation (for 2019) can be viewed at the new AeroVal evaluation interface at https://aeroval.met.no/evaluation.php?project=emep&exp_name=2021-reporting As in every model, deviations between model and observations do occur and are highly variable both in space and time, and these are subject of continuous investigation and model development. Nevertheless, the performance of the EMEP MSC-W model can be considered as state-of-the-art over a large range of both",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized deposition of oxidized nitrogen to the 24 EEZs in the OSPAR Maritime Area in the period 1995 to",
+      "context_window": "OSPAR Commission 2022 Table 15. Normalized deposition of oxidized nitrogen to the 24 EEZs in the OSPAR Maritime Area in the period 1995 to 2019. In the headers, only the numbers of the EEZs are given.",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OWAO / Ocean Waters AO (D5)",
+      "context_window": "ENS / Eastern North Sea OWCO / Ocean Waters CO (D5) OWAO / Ocean Waters AO (D5) OWBO / Ocean Waters BO (D5) Figure 8:",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.6 0.6 2.4 19 5.0",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.2 Source apportionment to EEZs and partial EEZs",
+      "context_window": "6.1 Source apportionment to OSPAR Regions 82 6.2 Source apportionment to EEZs and partial EEZs 85 7 Conclusions",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source",
+      "context_window": "OSPAR Commission 2022 6 Source apportionment by Contracting Parties Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source apportionment, normalized results are considered more relevant than actual (non-normalized) depositions because they are less influenced by meteorological year-to-year variability and thus are a better measure for",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea,",
+      "context_window": "Table 1 . Annual emissions of nitrogen oxides from OSPAR Contracting Parties, international shipping (NOS: North Sea, and ATL: Part of the Atlantic Ocean included in the EMEP MSC-W model domain, but not part of NOS) in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Region II",
+      "context_window": "2 ) OSPAR Region II 761 897 km 2",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CO / Coastal Offshore",
+      "context_window": "OSPAR Commission 2022 IS2 / Intermittently Stratified 2 CO / Coastal Offshore ENS / Eastern North Sea OWCO / Ocean Waters CO (D5)",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "l'Atlantique du Nord‐Est, dite Convention OSPAR, a été",
+      "context_window": "Convention OSPAR La Convention pour la protection du milieu marin de l'Atlantique du Nord‐Est, dite Convention OSPAR, a été ouverte à la signature à la réunion ministérielle des anciennes Commissions d'Oslo et de Paris, à Paris le 22",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2001 0.1 2.4 31 24",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "context_window": "Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased slightly, depending on the Area. Figure 14 shows",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition in EEZs and partial EEZs have been provided to OSPAR in a separate file in ASCII format (see",
+      "context_window": "6.2 Source apportionment to EEZs and partial EEZs Contributions from OSPAR Contracting Parties (and all other sources) to oxidized and reduced nitrogen deposition in EEZs and partial EEZs have been provided to OSPAR in a separate file in ASCII format (see Chapter 8). Figure 16 summarizes the results for a selection of large EEZs by showing the Top-10 contributors",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen computations presented here.",
+      "context_window": "2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection, turbulent diffusion, chemical transformations, wet and dry depositions and inflow/outflow of pollutants",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmosphere",
+      "context_window": "the Copernicus Atmosphere Monitoring Service",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all",
+      "context_window": "2 Modeling 2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "GBCW / Gulf of Biscay coastal waters",
+      "context_window": "CWM / Channel well mixed SS / Scottish Sea GBCW / Gulf of Biscay coastal waters NAAO1 / Noratlantic Area NOR-NorO1(D5) NAAPF / Noratlantic Area NOR-Plataforma",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial",
+      "context_window": "Figure 17: Screenshot of the source-receptor data table provided along with this report, containing contributions from all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial EEZs. The example shows SI (Slovenia) and SK (Slovakia) contributions to OSPAR Region IV (OR4).",
+      "page_number": 91,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "All calculations for this report were done on the new official EMEP domain. 3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2000 0.1 2.4 31 24",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for Emission Inventories and Projections).",
+      "context_window": "research) and is not subject of this report. Emission data (item 1) is provided annually by EMEP CEIP (Centre for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SNS / Southern North Sea",
+      "context_window": "DB / Dogger Bank NT / Norwegian Trench SNS / Southern North Sea GBSW / Gulf of Biscay shelf waters CWMTI / Channel well mixed tidal influenced",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR and to present tables and analyses of trends and sector contributions.",
+      "context_window": "for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions. For the first time this year, nitrogen depositions had to be calculated for “partial EEZs” (items 4 and 9), i.e. parts of those EEZs that fall within more than one OSPAR Region.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the data Figure 10 is based",
+      "context_window": "further. Tables 11 and 12 contain the normalized values for the five OSPAR Regions, i.e. the data Figure 10 is based upon. OSPAR Commission 2022",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4.1 OSPAR Regions",
+      "context_window": "This year, for the first time, we calculate nitrogen depositions also for ‘partial EEZs’ (pieces of EEZs belonging to different OSPAR Regions) and for the COMP4 Assessment Units. 4.1 OSPAR Regions All OSPAR Regions cover a certain number of grid cells in the EMEP grid system, either in full or in part. We",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.1 Source apportionment to OSPAR Regions",
+      "context_window": "results for 2019. The accompanying data tables provide results also for earlier years (see Chapter 8). 6.1 Source apportionment to OSPAR Regions Contributions from OSPAR Contracting Parties (and all other sources) to oxidized and reduced nitrogen deposition in OSPAR Regions have been provided to OSPAR in a separate file in ASCII format (see Chapter 8).",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 10. Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016, 2017, 2018 and",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much",
+      "context_window": "are statistically significant at the 5% confidence level. Further analysis shows that oxidized nitrogen deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much smaller. For oxidized",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W",
+      "context_window": "7 1 Introduction Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W (Meteorological Synthesizing Centre – West) and OSPAR since 2003, starting with the first EMEP report for OSPAR delivered by Bartnicki and Fagerli (2003).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "4.5 3.8 2.4 1.8 1.2",
+      "page_number": 86,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘BIC’ in EMEP MSC-W terminology, originally meaning ‘Boundary and Initial Conditions’), while OSPAR",
+      "context_window": "2016 to 2019. The two largest OSPAR Regions (I and V) receive the largest contributions from the boundary (abbreviated ‘BIC’ in EMEP MSC-W terminology, originally meaning ‘Boundary and Initial Conditions’), while OSPAR Regions II, III and IV receive their largest contributions from the United Kingdom (II and III) and Spain (IV). Other important contributions are made by international shipping and other large countries such as Russia,",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Region II",
+      "context_window": "Joint regime area United Kingdom / Denmark (Faeroe Islands) OSPAR Region II 94 EEZ_V_100",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "5 Actual and normalized depositions of nitrogen Actual and normalized depositions of nitrogen have been computed for the five OSPAR Regions, the twenty-",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Waters AO (D5)",
+      "context_window": "PT OWAO Ocean Waters AO (D5) 98378 PT",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by sector",
+      "context_window": "OSPAR Commission 2022 The contract with OSPAR also asked for emissions by sector . All data are summarized separately for oxidized and reduced nitrogen in two Excel sheets, submitted along with this report (see Chapter 8).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea",
+      "context_window": "All numbers are listed in Table 22. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions that are not among the Top-10.) OSPAR Commission 2022",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "receptors, both in shape and in area.",
+      "context_window": "domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was changed in 2017 (for reporting the status of 2015), the parts included in the domain changed for these receptors, both in shape and in area. This would lead to artificial changes in the transfer coefficients from early years before the grid change to the later years in the period.",
+      "page_number": 41,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5",
+      "context_window": "considered in this report. After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5 (depositions) and 6 (source apportionment). In Chapter 7, conclusions are listed, while Chapter 8 describes",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the",
+      "context_window": "For consistency normalization is done with these years also in the results for all other receptor areas considered in this report. After the description of the model setup in Chapter 2, we present the emission data (Chapter 3) and the definitions of receptor areas considered for OSPAR (Chapter 4), followed by the model results in Chapters 5 (depositions) and 6 (source apportionment).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As Figure 9a, but for OSPAR Regions I and IV.",
+      "context_window": "43 Figure 9b: As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red)",
+      "context_window": "OSPAR Commission 2022 Figure 11: Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP",
+      "context_window": "Norwegian Meteorological Institute Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this report. The OSPAR Commission is acknowledged for supporting the work presented in this report.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "les plus fortes baisses des dépôts d'azote oxydé (environ 50%) ont eu lieu dans la Région II d’OSPAR et dans",
+      "context_window": "faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR, les plus fortes baisses des dépôts d'azote oxydé (environ 50%) ont eu lieu dans la Région II d’OSPAR et dans la ZEE 189-NL. Les plus fortes diminutions de l'azote réduit sont modélisées pour la ZEE188-BE (29%).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus",
+      "context_window": "réduit ont diminué (jusqu'à 26 %). OSPAR Commission 2022 Les dépôts normalisés (en fonction des conditions météorologiques) d'azote oxydé et réduit étaient plus faibles en 2019 qu'en 1995 dans toutes les régions d’OSPAR et dans toutes les ZEE. Parmi les régions d’OSPAR,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NT / Norwegian Trench",
+      "context_window": "ATL / Atlantic DB / Dogger Bank NT / Norwegian Trench SNS / Southern North Sea GBSW / Gulf of Biscay shelf waters",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Portugal, Spain, Sweden, Switzerland and the United",
+      "context_window": "European Union, Finland, France, Germany, Iceland, Ireland, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom. Convention OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and total nitrogen, in the five OSPAR Regions.",
+      "context_window": "Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods of 2015-2019 and 1995-1999.",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Screenshot of the source-receptor data table provided along with this report, containing contributions from",
+      "context_window": "Screenshot of the source-receptor data table provided along with this report, containing contributions from all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial EEZs.",
+      "page_number": 91,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced",
+      "context_window": "As Figure 9a, but for OSPAR Regions I and IV. Table 9. Percentage differences in actual (non-normalized) depositions between 2019 and 1995 for oxidised, reduced and total nitrogen, in the five OSPAR Regions. Also shown are the percentage differences between the 5-year periods",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-five",
+      "context_window": "OSPAR Commission 2022 Table 17. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-five partial Exclusive Economic Zones listed in Table 7. Also shown are the percentage differences in the 5-year period 2015-",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent",
+      "context_window": "Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made. Figure 10 shows normalized results.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The deposition of reduced nitrogen was larger in 2019",
+      "context_window": "There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs. Again, one has to keep in mind that the inter-annual variability in these",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "En ce qui concerne les dépôts effectifs d'azote oxydé, on observe une diminution entre 1995 et 2019 dans",
+      "context_window": "Les résultats concernant les dépôts réels sont plus sûrs car ils peuvent être dérivés directement des calculs du modèle 0,1°lon x 0,1°lat de l'EMEP. En ce qui concerne les dépôts effectifs d'azote oxydé, on observe une diminution entre 1995 et 2019 dans les 67 unités d'évaluation du COMP4. Pour l'azote réduit, on observe des diminutions dans la plupart des",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was",
+      "context_window": "OSPAR, is that some of the receptors considered (e.g. EEZ048) are not fully covered by the EMEP model domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was changed in 2017 (for reporting the status of 2015), the parts included in the domain changed for these receptors, both in shape and in area.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.1 The EMEP MSC-W model",
+      "context_window": "OSPAR Commission 2022 2 Modeling 2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tables 15 and 16 contain",
+      "context_window": "the 24 EEZs for the year 2019, i.e. the most recent year for which model calculations have been made. Tables 15 and 16 contain normalized depositions of oxidized and reduction nitrogen to the twenty-four EEZs.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "2 ) indicated in the figure. OSPAR Region Oxidised N",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum",
+      "context_window": "Unit: tonnes(N)/year. Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit:",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.2 Depositions to Exclusive Economic Zones",
+      "context_window": "5.1 Depositions to OSPAR Regions 41 5.2 Depositions to Exclusive Economic Zones 47 5.3 Depositions to partial EEZs",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine",
+      "context_window": "1995-2019 OSPAR Convention The Convention for the Protection of the Marine Environment of the North‐East Atlantic (the “OSPAR Convention”) was opened for signature at the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "1990s. In regard to actual depositions of oxidized nitrogen, there has been an decrease from 1995 to 2019 in all 67 COMP4 Assessment Units. The largest decrease (58%) is modelled in NAAC1B (“Noratlantic Area NOR-",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in",
+      "context_window": "The normalization is based on meteorological data from 4 years (2016, 2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions of oxidized and reduction nitrogen to the twenty-four EEZs.",
+      "context_window": "Tables 15 and 16 contain normalized depositions of oxidized and reduction nitrogen to the twenty-four EEZs. OSPAR Commission 2022 Figure 11:",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen",
+      "context_window": "OSPAR Commission 2022 Figure 9a: Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North‐East Atlantic (the “OSPAR",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North‐East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and Paris",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.1 The EMEP MSC-W model",
+      "context_window": "2 Modeling 8 2.1 The EMEP MSC-W model 8 2.2 Experimental setup",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 896/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les",
+      "context_window": "cette ZEE. Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2009 0.1 2.4 39 26",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR delivered by Bartnicki and Fagerli (2003).",
+      "context_window": "Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W (Meteorological Synthesizing Centre – West) and OSPAR since 2003, starting with the first EMEP report for OSPAR delivered by Bartnicki and Fagerli (2003). This cooperation has been continued and documented in numerous reports until the present day.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Normalized deposition of oxidized nitrogen to the 24 EEZs in the OSPAR Maritime Area in the period 1995 to",
+      "context_window": "OSPAR Commission 2022 Table 15. Normalized deposition of oxidized nitrogen to the 24 EEZs in the OSPAR Maritime Area in the period 1995 to 2019. In the headers, only the numbers of the EEZs are given.",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.6 0.6 2.4 19 5.0",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source",
+      "context_window": "OSPAR Commission 2022 6 Source apportionment by Contracting Parties Source apportionment has been calculated for OSPAR Regions, EEZs and partial EEZs. For source apportionment, normalized results are considered more relevant than actual (non-normalized) depositions because they are less influenced by meteorological year-to-year variability and thus are a better measure for",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Region II",
+      "context_window": "2 ) OSPAR Region II 761 897 km 2",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "l'Atlantique du Nord‐Est, dite Convention OSPAR, a été",
+      "context_window": "Convention OSPAR La Convention pour la protection du milieu marin de l'Atlantique du Nord‐Est, dite Convention OSPAR, a été ouverte à la signature à la réunion ministérielle des anciennes Commissions d'Oslo et de Paris, à Paris le 22",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced nitrogen the trends are less significant, with depositions having both decreased and increased",
+      "context_window": "Nevertheless, it is safe to say that (actual) oxidized nitrogen depositions have decreased in all COMP4 Assessment Units (and statistically significantly so), while for reduced nitrogen the trends are less significant, with depositions having both decreased and increased slightly, depending on the Area. Figure 14 shows",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen computations presented here.",
+      "context_window": "2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection, turbulent diffusion, chemical transformations, wet and dry depositions and inflow/outflow of pollutants",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all",
+      "context_window": "2 Modeling 2.1 The EMEP MSC-W model The EMEP MSC-W model, a multi-pollutant 3D Eulerian Chemical Transport Model, has been used for all nitrogen computations presented here. The model takes into account processes of emissions, advection,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial",
+      "context_window": "Figure 17: Screenshot of the source-receptor data table provided along with this report, containing contributions from all OSPAR Contracting Parties and other sources in the EMEP model domain to the OSPAR Regions, EEZs and partial EEZs. The example shows SI (Slovenia) and SK (Slovakia) contributions to OSPAR Region IV (OR4).",
+      "page_number": 91,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2000 0.1 2.4 31 24",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés",
+      "context_window": "Les dépôts atmosphériques d'azote dans la zone maritime OSPAR pour la période 1990-2019 ont été calculés avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR and to present tables and analyses of trends and sector contributions.",
+      "context_window": "for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions. For the first time this year, nitrogen depositions had to be calculated for “partial EEZs” (items 4 and 9), i.e. parts of those EEZs that fall within more than one OSPAR Region.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4.1 OSPAR Regions",
+      "context_window": "This year, for the first time, we calculate nitrogen depositions also for ‘partial EEZs’ (pieces of EEZs belonging to different OSPAR Regions) and for the COMP4 Assessment Units. 4.1 OSPAR Regions All OSPAR Regions cover a certain number of grid cells in the EMEP grid system, either in full or in part. We",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 10. Deposition of oxidised, reduced and total nitrogen, in the five OSPAR Regions in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016, 2017, 2018 and",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W",
+      "context_window": "7 1 Introduction Nitrogen deposition to OSPAR Convention Waters has been a subject of cooperation between EMEP MSC-W (Meteorological Synthesizing Centre – West) and OSPAR since 2003, starting with the first EMEP report for OSPAR delivered by Bartnicki and Fagerli (2003).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘BIC’ in EMEP MSC-W terminology, originally meaning ‘Boundary and Initial Conditions’), while OSPAR",
+      "context_window": "2016 to 2019. The two largest OSPAR Regions (I and V) receive the largest contributions from the boundary (abbreviated ‘BIC’ in EMEP MSC-W terminology, originally meaning ‘Boundary and Initial Conditions’), while OSPAR Regions II, III and IV receive their largest contributions from the United Kingdom (II and III) and Spain (IV). Other important contributions are made by international shipping and other large countries such as Russia,",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "5 Actual and normalized depositions of nitrogen Actual and normalized depositions of nitrogen have been computed for the five OSPAR Regions, the twenty-",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by sector",
+      "context_window": "OSPAR Commission 2022 The contract with OSPAR also asked for emissions by sector . All data are summarized separately for oxidized and reduced nitrogen in two Excel sheets, submitted along with this report (see Chapter 8).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "receptors, both in shape and in area.",
+      "context_window": "domain (see Sections 4.1 and 4.2 and in particular Figures 5 and 6). When the EMEP model domain was changed in 2017 (for reporting the status of 2015), the parts included in the domain changed for these receptors, both in shape and in area. This would lead to artificial changes in the transfer coefficients from early years before the grid change to the later years in the period.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea",
+      "context_window": "All numbers are listed in Table 22. (‘BIC’: Influence from sources outside the EMEP model domain, ‘NOS’: North Sea shipping, ‘ATL’: North Atlantic shipping except North Sea, ‘Others’: All contributions that are not among the Top-10.) OSPAR Commission 2022",
+      "page_number": 83,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Waters AO (D5)",
+      "context_window": "PT OWAO Ocean Waters AO (D5) 98378 PT",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Region II",
+      "context_window": "Joint regime area United Kingdom / Denmark (Faeroe Islands) OSPAR Region II 94 EEZ_V_100",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "4.5 3.8 2.4 1.8 1.2",
+      "page_number": 86,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much",
+      "context_window": "are statistically significant at the 5% confidence level. Further analysis shows that oxidized nitrogen deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much smaller. For oxidized",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.1 Source apportionment to OSPAR Regions",
+      "context_window": "results for 2019. The accompanying data tables provide results also for earlier years (see Chapter 8). 6.1 Source apportionment to OSPAR Regions Contributions from OSPAR Contracting Parties (and all other sources) to oxidized and reduced nitrogen deposition in OSPAR Regions have been provided to OSPAR in a separate file in ASCII format (see Chapter 8).",
+      "page_number": 82,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the data Figure 10 is based",
+      "context_window": "further. Tables 11 and 12 contain the normalized values for the five OSPAR Regions, i.e. the data Figure 10 is based upon. OSPAR Commission 2022",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SNS / Southern North Sea",
+      "context_window": "DB / Dogger Bank NT / Norwegian Trench SNS / Southern North Sea GBSW / Gulf of Biscay shelf waters CWMTI / Channel well mixed tidal influenced",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for Emission Inventories and Projections).",
+      "context_window": "research) and is not subject of this report. Emission data (item 1) is provided annually by EMEP CEIP (Centre for Emission Inventories and Projections). EMEP MSC-W’s work consisted of extracting data relevant for OSPAR and to present tables and analyses of trends and sector contributions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3 Emission data by Contracting Parties and by sector",
+      "context_window": "All calculations for this report were done on the new official EMEP domain. 3 Emission data by Contracting Parties and by sector In this chapter we present the emission data used for modelling at EMEP MSC-W. They are provided on an",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "GBCW / Gulf of Biscay coastal waters",
+      "context_window": "CWM / Channel well mixed SS / Scottish Sea GBCW / Gulf of Biscay coastal waters NAAO1 / Noratlantic Area NOR-NorO1(D5) NAAPF / Noratlantic Area NOR-Plataforma",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmosphere",
+      "context_window": "the Copernicus Atmosphere Monitoring Service",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition in EEZs and partial EEZs have been provided to OSPAR in a separate file in ASCII format (see",
+      "context_window": "6.2 Source apportionment to EEZs and partial EEZs Contributions from OSPAR Contracting Parties (and all other sources) to oxidized and reduced nitrogen deposition in EEZs and partial EEZs have been provided to OSPAR in a separate file in ASCII format (see Chapter 8). Figure 16 summarizes the results for a selection of large EEZs by showing the Top-10 contributors",
+      "page_number": 85,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2001 0.1 2.4 31 24",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CO / Coastal Offshore",
+      "context_window": "OSPAR Commission 2022 IS2 / Intermittently Stratified 2 CO / Coastal Offshore ENS / Eastern North Sea OWCO / Ocean Waters CO (D5)",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea,",
+      "context_window": "Table 1 . Annual emissions of nitrogen oxides from OSPAR Contracting Parties, international shipping (NOS: North Sea, and ATL: Part of the Atlantic Ocean included in the EMEP MSC-W model domain, but not part of NOS) in the period 1995 – 2019, as used in the EMEP MSC-W model calculations of nitrogen deposition.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.2 Source apportionment to EEZs and partial EEZs",
+      "context_window": "6.1 Source apportionment to OSPAR Regions 82 6.2 Source apportionment to EEZs and partial EEZs 85 7 Conclusions",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OWAO / Ocean Waters AO (D5)",
+      "context_window": "ENS / Eastern North Sea OWCO / Ocean Waters CO (D5) OWAO / Ocean Waters AO (D5) OWBO / Ocean Waters BO (D5) Figure 8:",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As in every model, deviations between model and observations do occur and are highly variable both in space",
+      "context_window": "MSC-W model simulation (for 2019) can be viewed at the new AeroVal evaluation interface at https://aeroval.met.no/evaluation.php?project=emep&exp_name=2021-reporting As in every model, deviations between model and observations do occur and are highly variable both in space and time, and these are subject of continuous investigation and model development. Nevertheless, the performance of the EMEP MSC-W model can be considered as state-of-the-art over a large range of both",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières",
+      "context_window": "Alors que les contributions réelles (c’est-à-dire non normalisées) présentent une forte variabilité interannuelle due aux changements météorologiques, les contributions normalisées reflètent mieux les changements dans les émissions (c’est-à-dire l'effet des mesures politiques au cours des 25 dernières années). EMEP MSC-W a également calculé les dépôts d'azote pour les 67 unités d'évaluation du COMP4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of oxidised, reduced and total nitrogen, to the sixty-seven COMP4 Assessment Units in 2019.",
+      "context_window": "OSPAR Commission 2022 Table 21. Deposition of oxidised, reduced and total nitrogen, to the sixty-seven COMP4 Assessment Units in 2019. Both actual numbers (based on 2019 meteorology) and weather-normalized values (based on meteorological data of 2016,",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "8.7 0.6 2.4 19 5.1",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying",
+      "context_window": "reduced nitrogen deposition (18%). An interesting feature is that normalized oxidized deposition to OSPAR Region V in the 1990s is much smaller than the actual values (see accompanying Excel sheet). It seems that recent meteorology (2016-2019) has been less favourable for oxidized nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all",
+      "context_window": "and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions. Depositions of oxidised nitrogen have clearly decreased since the 1990s, while for reduced",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.4",
+      "context_window": "2010 0.1 2.4 39 26",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit",
+      "context_window": "avec le modèle de transport de la chimie du EMEP MSC-W à une résolution de 0,1°lon x 0,1°lat. Les émissions des Parties contractantes d’OSPAR montrent des tendances à la baisse statistiquement significatives dans le cas de l'azote oxydé, tandis que les tendances à la baisse des émissions d'azote réduit sont moins significatives ou inexistantes. Selon les résultats du modèle, les dépôts réels (non normalisés) d'azote oxydé étaient clairement inférieurs",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given",
+      "context_window": "been in use in EMEP since 2017 and has many advantages over the older SNAP system, in particular a larger level of detail. Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given in the Reporting Guidelines of CEIP (CEIP, 2019), and in particular their Annex 1. The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x",
+      "context_window": "The results are illustrated in Figure 5 for the 0.1°lon x 0.1°lat grid. Table 5 lists the OSPAR Regions and their areas within the EMEP model domain, calculated on the 0.1°lon x 0.1°lat grid. Table 5.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depositions of nitrogen have been computed for the five OSPAR Regions, the twenty-",
+      "context_window": "and normalized depositions of nitrogen have been computed for the five OSPAR Regions, the twenty- four EEZs, the twenty-five partial EEZs, and the COMP4 Assessment Units, for each year of the period 1990- 2019.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Publication Number: 896/2022",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 896/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Executive Summary",
+      "context_window": "3 Contents Executive Summary 4 Récapitulatif",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OWBO / Ocean Waters BO (D5)",
+      "context_window": "OWCO / Ocean Waters CO (D5) OWAO / Ocean Waters AO (D5) OWBO / Ocean Waters BO (D5) Figure 8: Continued.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "Table 13 lists the percentage differences between 1995 and 2019, and between the two 5-year periods of 1995-1999 and 2015-2019 for actual depositions, while Table 14 lists actual and normalized depositions in the 24 EEZs for the year 2019, i.e.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4",
+      "context_window": "Documentation on how GNFR (and the underlying NFR sector emissions) are grouped is given in the Reporting Guidelines of CEIP (CEIP, 2019), and in particular their Annex 1. The Excel files submitted with this report to OSPAR contain data for all GNFR sectors, while Figures 3 and 4 visualize percentage shares only for the following 5 aggregated sectors: •",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1 Depositions to OSPAR Regions",
+      "context_window": "In this report we show plots and tables with results back to 1995. 5.1 Depositions to OSPAR Regions Figure 9 shows actual (non-normalized) oxidized and reduced nitrogen depositions from 1995 to 2019 for all OSPAR Regions.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R",
+      "context_window": "2 /year (right axis). Right panel: Linear regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 )",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://www.regional.atmosphere.copernicus.eu/",
+      "context_window": "(CAMS, see http://www.regional.atmosphere.copernicus.eu/ ), where evaluation graphs are updated every day and quarterly evaluation reports are issued online on a quarterly basis.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "Also shown are the percentage differences between the 5-year periods of 2015-2019 and 1995-1999. OSPAR Region Oxidised N",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for",
+      "context_window": "2017, 2018 and 2019). Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized nitrogen",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 10a:",
+      "context_window": "Results for other years are provided separately in Excel format (see Chapter 8). Unit: tonnes(N)/year. Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "Normalized depositions of oxidized and reduced nitrogen were lower in 2019 than in 1995 in all OSPAR Regions. The largest decreases occurred in OSPAR Region II, both for oxidized nitrogen deposition (49%) and for",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty-",
+      "context_window": "OSPAR Commission 2022 Table 13. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the twenty- four Exclusive Economic Zones listed in Table 6. Also shown are the percentage differences in the 5-year period 2015-",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R",
+      "context_window": "2 /year (right axis). Right panels: Linear regression for oxidised (blue) and reduced (red) nitrogen deposition, with coefficients of determination (R 2 ) indicated in the",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019.",
+      "context_window": "Figure 10a: Left panels: Time series of normalized depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions I and V, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidised nitrogen between 1995 and 2019 in all EEZs.",
+      "context_window": "Zones during the period 1995-2019 are shown in Figure 11. There is a clear decline in the deposition of oxidised nitrogen between 1995 and 2019 in all EEZs. The deposition of reduced nitrogen was larger in 2019 than in 1995 in seven of the EEZs.",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period",
+      "context_window": "Figure 9a: Left panels: Time series of annual depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to OSPAR Regions II, III and IV, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m 2",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the sixty-seven",
+      "context_window": "OSPAR Commission 2022 Table 20. Percentage differences in 2019 compared to 1995 for oxidised, reduced and total nitrogen, in the sixty-seven COMP4 Assessment Units listed in Table 8. Also shown are the percentage differences in the 5-year period 2015-2019",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and",
+      "context_window": "more robust result for the changes since the 1990s. Table 10 lists actual and normalized depositions in the 5 OSPAR regions for the year 2019, i.e. the most recent year for which model calculations have been made.",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this",
+      "context_window": "Acknowledgements The authors Michael Gauss and Heiko Klein are indebted to the scientific teams at EMEP MSC-W and EMEP CEIP for their help in providing the necessary input data for the model runs and analyses conducted for this report. The OSPAR Commission is acknowledged for supporting the work presented in this report. OSPAR Commission 2022",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe",
+      "context_window": "une baisse entre 1995 et 2019 dans toutes les régions d’OSPAR, la baisse la plus importante étant dans la Région V et la plus faible dans la Région II. Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt annuel d'azote réduit était plus élevé en 2019 qu'en 1995 dans 7 ZEE.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the",
+      "context_window": "Figure 11: Left panels: Time series of actual (non-normalized) depositions of oxidised (blue), reduced (red) and total nitrogen (sum of blue and red) to selected EEZs, as calculated by the EMEP MSC-W model for the period 1995-2019. Unit: ktonnes(N)/year (left axis) or mg(N)/m 2",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2012) and in the annual chapters",
+      "context_window": "into/out of the model domain. It was documented in detail in Simpson et al. (2012) and in the annual chapters on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein). The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt",
+      "context_window": "Région V et la plus faible dans la Région II. Dans toutes les zones économiques exclusives (ZEE) considérées de la zone maritime d’OSPAR, on observe une baisse des dépôts réels d'azote oxydé entre 1995 et 2019 (de l'ordre de 19% - 61%), tandis que le dépôt annuel d'azote réduit était plus élevé en 2019 qu'en 1995 dans 7 ZEE. Dans les autres ZEE, les dépôts d'azote",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxidized",
+      "context_window": "deposition has decreased significantly since the 1990s, while for reduced nitrogen the decreases are much smaller. For oxidized nitrogen, the largest decrease (55%) is in ECPM2 (“East Coast (permanently mixed) 2”), while the smallest decrease (20%) is modelled for SAAOC (“Sudatlantic Area SUD-OCEAN(D5)”).",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Gauss et al., 2019; 2020), but also in a large number of international research projects and operational",
+      "context_window": "The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention (e.g. Gauss et al., 2019; 2020), but also in a large number of international research projects and operational services, for",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein).",
+      "context_window": "It was documented in detail in Simpson et al. (2012) and in the annual chapters on model updates in subsequent EMEP status reports (see Simpson et al., 2021, and references therein). The model is regularly evaluated against measurements from the EMEP network under the LRTAP convention (e.g.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 93,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 93,
+      "end_sentence": 209,
+      "sentence_count": 117,
+      "page_range": "4-5",
+      "sentences": [
+        {
+          "sentence_id": 93,
+          "page_number": 4,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 4,
+          "content": "Airborne nitrogen deposition to the OSPAR Maritime Area for the 30-year period 1990-2019 has been",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 4,
+          "content": "calculated with the EMEP MSC-W Chemistry Transport Model on a horizontal resolution of 0.1°lon x 0.1...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 96,
+          "page_number": 4,
+          "content": "Emission data for the 2000-2019 period were updated by the EMEP Centre on Emission Inventories and",
+          "full_length": 98
+        },
+        {
+          "sentence_id": 97,
+          "page_number": 4,
+          "content": "Projections in 2021.",
+          "full_length": 20
+        }
+      ],
+      "total_sentences_in_section": 117
+    },
+    {
+      "section_name": "7 Conclusions",
+      "start_sentence": 10247,
+      "end_sentence": 10394,
+      "sentence_count": 148,
+      "page_range": "89-91",
+      "sentences": [
+        {
+          "sentence_id": 10247,
+          "page_number": 89,
+          "content": "7 Conclusions",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 10248,
+          "page_number": 89,
+          "content": "The main outcome from this work can be summarised as follows:",
+          "full_length": 61
+        },
+        {
+          "sentence_id": 10249,
+          "page_number": 89,
+          "content": "•",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 10250,
+          "page_number": 89,
+          "content": "Emission data have been provided by the EMEP Centre for Emission Inventories and Projections (CEIP)",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 10251,
+          "page_number": 89,
+          "content": "for the 1990s (based on 2019 data submissions from Contracting Parties) and for the 2000 to 2019",
+          "full_length": 96
+        }
+      ],
+      "total_sentences_in_section": 148
+    },
+    {
+      "section_name": "9 References",
+      "start_sentence": 10403,
+      "end_sentence": 10471,
+      "sentence_count": 69,
+      "page_range": "92-92",
+      "sentences": [
+        {
+          "sentence_id": 10403,
+          "page_number": 92,
+          "content": "9 References",
+          "full_length": 12
+        },
+        {
+          "sentence_id": 10404,
+          "page_number": 92,
+          "content": "Bartnicki, J. and H. Fagerli (2003): Atmospheric supply of nitrogen to OSPAR Convention Waters.",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 10405,
+          "page_number": 92,
+          "content": "Summary",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 10406,
+          "page_number": 92,
+          "content": "Report for UBA. EMEP Technical Report MSC-W 4/2003, Norwegian Meteorological Institute, Oslo,",
+          "full_length": 93
+        },
+        {
+          "sentence_id": 10407,
+          "page_number": 92,
+          "content": "Norway.",
+          "full_length": 7
+        }
+      ],
+      "total_sentences_in_section": 69
+    }
+  ],
+  "metadata": {
+    "total_sentences": 10493,
+    "chunks_selected": 115,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 93,
+        "end_sentence": 209,
+        "sentence_count": 117
+      },
+      {
+        "section_name": "7 Conclusions",
+        "start_sentence": 10247,
+        "end_sentence": 10394,
+        "sentence_count": 148
+      },
+      {
+        "section_name": "9 References",
+        "start_sentence": 10403,
+        "end_sentence": 10471,
+        "sentence_count": 69
+      }
+    ],
+    "total_excluded_sentences": 334
+  }
+}

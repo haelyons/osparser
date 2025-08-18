@@ -1,0 +1,1463 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians",
+      "context_window": "At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians obtained for each survey site and trends were assessed by calculating the medians of slopes obtained for each survey site and the p-value of aggregated survey sites.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At survey site scale, abundances were assessed by calculating the median of survey data for a single site and",
+      "context_window": "This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "context_window": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "context_window": "is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians obtained for each survey site and trends were assessed by calculating the medians of slopes obtained for",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is for example the case for trend results in the Arctic Waters Region.",
+      "context_window": "available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Weather phenomena can also influence litter deposition.",
+      "context_window": "were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5",
+      "context_window": "16% Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions: Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5 items/100 m per year ( Table e",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions:",
+      "context_window": "18 16% Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions: Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5 items/100 m per year (",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale",
+      "context_window": "in Table d . Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale and in all Regions except Arctic Waters (not enough data). Decreases in total counts range from 9 to 12",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015",
+      "context_window": "the calculation of median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Arctic Waters Region where data are limited, especially for trends assessment.",
+      "context_window": "Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sites and surveys",
+      "context_window": "In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea",
+      "context_window": "OSPAR Area Arctic Waters Greater North Sea Celtic Seas Bay of Biscay and Iberian Coast",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and OSPAR Region scales.",
+      "context_window": "OSPAR Commission To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area and OSPAR Region scales. Specific factsheets were also prepared for MSFD-country sub-regions to support European Union (EU) Member States in their MSFD reporting.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Higher scales (OSPAR Area",
+      "context_window": "Beach litter indicator Survey site scale Higher scales (OSPAR Area and Regions) Abundance",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allows to include more data for the Arctic Waters Region.",
+      "context_window": "In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends in the beach litter data set.",
+      "context_window": "In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "↓ -2 Arctic Waters 30 -4",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "total count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Regions)",
+      "context_window": "Survey site scale Higher scales (OSPAR Area and Regions) Abundance Median of survey site data for",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "context_window": "the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland, Ireland, the Netherlands, Norway, Portugal, Spain, Sweden, and the United Kingdom (",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "28 OSPAR Commission Arctic Waters 252 -6",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Area and Regions in",
+      "context_window": "Figure g ). The details of their median counts are presented for the OSPAR Area and Regions in Table e .",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "context_window": "- Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "Human Activities Relevant OSPAR Documentation Text",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several significant decreases in litter abundance are observed over the period from 2015 to 2020 as detailed",
+      "context_window": "OSPAR Area. Trends over the six-year period from 2015 to 2020 Several significant decreases in litter abundance are observed over the period from 2015 to 2020 as detailed in Table d",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "context_window": "More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Median count  (items/100 m) OSPAR Area Arctic Waters Greater North Sea Celtic Seas",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and Iberian Coast",
+      "context_window": "Greater North Sea Celtic Seas Bay of Biscay and Iberian Coast Wider Atlantic 27",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Inclusion in trends assessment",
+      "context_window": "Inclusion in status assessment (Yes/No) Inclusion in trends assessment (Yes/No) 2015",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More comprehensive information on environmental conditions and human activities need to be made",
+      "context_window": "35 OSPAR Commission More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, the effects of weather phenomena,",
+      "context_window": "succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii)",
+      "context_window": "addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences",
+      "context_window": "situated on beaches, which are very variable in their topography, hydrography, geography, proximity to point source,s and human use, all of which can influence the amount of litter deposited on the beach. Differences in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and in all Regions except Arctic Waters (not enough data).",
+      "context_window": "Table d . Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale and in all Regions except Arctic Waters (not enough data). Decreases in total counts range from 9 to 12 items/100 m per year whereas decreases in plastic counts range from 8 to 11 items/100 m per year,",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and Iberian",
+      "context_window": "↓ -2 Bay of Biscay and Iberian Coast 93",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020) in the OSPAR Area and Regions.",
+      "context_window": "indicating that these decreasing trends remain rather limited. Table d: Median total and plastic counts (from 2018 to 2020) and associated trends (from 2015 to 2020) in the OSPAR Area and Regions. Geographical scale Median",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disposed of, from inland or abandoned in the marine and coastal environment, and encountered on beaches.",
+      "context_window": "Background (extended) Beach litter is defined by OSPAR as any persistent, manufactured or processed, solid material discarded, disposed of, from inland or abandoned in the marine and coastal environment, and encountered on beaches. A part of this litter originates from the sea, through deliberate or accidental losses from vessels (including cargos and waste), and is transported to, and deposited on the coast from the sea by winds, waves and water",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common indicator assessment",
+      "context_window": "Abundance, Composition and Trends of Beach Litter Common indicator assessment 1 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "autumn (between mid-September and mid-October). However, due to limitations dictated by weather",
+      "context_window": "The survey periods are as follows: winter (between mid-December and mid-January), spring (April), summer (between mid-June and mid-July), and autumn (between mid-September and mid-October). However, due to limitations dictated by weather conditions, availability of manpower etc. not all survey sites included in this analysis have been surveyed as",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well",
+      "context_window": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES002 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "↓ -11 Bay of Biscay and Iberian Coast 360",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current beach litter trends and (iii) extent to which OSPAR objectives have been achieved.",
+      "context_window": "the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and their spatial distribution is shown in",
+      "context_window": "The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in Table d and their spatial distribution is shown in Figure d . It appears that pollution levels vary between OSPAR",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES004 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in",
+      "context_window": "To reach this Threshold Value, a reduction of the total count would be required in the OSPAR Area. The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in Table d and their spatial distribution is shown in",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES007 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES003 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "context_window": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR002 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES008 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES001 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Yes IS002 Arctic Waters Iceland Budavik",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends in the abundance of total litter, individual litter types or litter categories (e.g.",
+      "context_window": "distribution highlights regional specificities that can relate to regional differences in sources, activities, human habits and transport mechanisms (through ocean current, tides, wind, buoyancy of items, etc.). Trends in the abundance of total litter, individual litter types or litter categories (e.g. plastics, single-use plastics, maritime related items) reflect changes in the level of pollution.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR032 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "context_window": "The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and current trends over a six-year period, from 2015 to 2020. All parameters were calculated using median-based",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by",
+      "context_window": "OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items and of maritime-related plastic items on beaches.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: OSPAR beach litter survey sites considered in the assessment and associated data",
+      "context_window": "OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT019 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR038 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR043 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Collected data are reported in the OSPAR",
+      "context_window": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database. 12",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES010 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR033 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for",
+      "context_window": "The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES005 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES011 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea",
+      "context_window": "-5 a Greater North Sea 37 ↓",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea",
+      "context_window": "SE004 Greater North Sea Sweden Haby",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT017 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "litter pollution in the OSPAR marine environment.",
+      "context_window": "the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in",
+      "context_window": "its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat",
+      "context_window": "Lead authors: Camille Lacroix and Silvère André Supporting authors: Willem van Loon Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat Citation Lacroix, C., André, S., van Loon, W. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES014 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES012 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR042 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR044 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES013 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes PT008 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Over the last six years, decreasing trends in total and plastic counts are observed at the OSPAR Area scale",
+      "context_window": "SUP and SEA items are directly targeted by Governments’ measures and are expected to decrease in the coming years. Over the last six years, decreasing trends in total and plastic counts are observed at the OSPAR Area scale and in all Regions, except in Arctic Waters where robust results could not be obtained due to low data availability.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Yes IS003 Arctic Waters Iceland Bakkavik",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR040 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT016 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective",
+      "context_window": "Background (brief) The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea",
+      "context_window": "DK001 Greater North Sea Denmark MSFD",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "context_window": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area. The total litter abundance, based on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by extreme values",
+      "context_window": "All parameters were calculated using median-based robust calculation methods which are representing the most typical pollution situation without being influenced by extreme values 1 .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure i: Top 15 litter types in OSPAR Area (from 2018 to 2020)",
+      "context_window": "environment, increasing the number of items, making recovery more difficult and raising concern in terms of environmental impact with an increasing risk of ingestion as litter breaks down into smaller parts. Figure i: Top 15 litter types in OSPAR Area (from 2018 to 2020) In addition to being the most abundant litter type, “plastic/polystyrene pieces (2,5 – 50 cm)” is also the most widespread top litter type, being recorded in the top 10 of 94% of the survey sites, as indicated by",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR031 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT015 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "winds.",
+      "context_window": "In between any two beach litter surveys, litter items that have been washed ashore by tides or deposited directly on to the beach can be buried, washed or blown away again by subsequent tides and winds. Also during strong wave action buried litter items can resurface (Tudor and Williams, 2004) and litter can be blown onto a site from adjacent land or streets.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR035 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "At survey site scale, abundances were assessed by calculating the median of survey data for a single site and",
+      "context_window": "This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "context_window": "is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians obtained for each survey site and trends were assessed by calculating the medians of slopes obtained for",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Weather phenomena can also influence litter deposition.",
+      "context_window": "were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions:",
+      "context_window": "18 16% Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions: Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5 items/100 m per year (",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Arctic Waters Region where data are limited, especially for trends assessment.",
+      "context_window": "Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea",
+      "context_window": "OSPAR Area Arctic Waters Greater North Sea Celtic Seas Bay of Biscay and Iberian Coast",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Higher scales (OSPAR Area",
+      "context_window": "Beach litter indicator Survey site scale Higher scales (OSPAR Area and Regions) Abundance",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allows to include more data for the Arctic Waters Region.",
+      "context_window": "In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "total count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "context_window": "the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland, Ireland, the Netherlands, Norway, Portugal, Spain, Sweden, and the United Kingdom (",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Area and Regions in",
+      "context_window": "Figure g ). The details of their median counts are presented for the OSPAR Area and Regions in Table e .",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "context_window": "- Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several significant decreases in litter abundance are observed over the period from 2015 to 2020 as detailed",
+      "context_window": "OSPAR Area. Trends over the six-year period from 2015 to 2020 Several significant decreases in litter abundance are observed over the period from 2015 to 2020 as detailed in Table d",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Median count  (items/100 m) OSPAR Area Arctic Waters Greater North Sea Celtic Seas",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and Iberian Coast",
+      "context_window": "Greater North Sea Celtic Seas Bay of Biscay and Iberian Coast Wider Atlantic 27",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More comprehensive information on environmental conditions and human activities need to be made",
+      "context_window": "35 OSPAR Commission More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii)",
+      "context_window": "addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and in all Regions except Arctic Waters (not enough data).",
+      "context_window": "Table d . Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale and in all Regions except Arctic Waters (not enough data). Decreases in total counts range from 9 to 12 items/100 m per year whereas decreases in plastic counts range from 8 to 11 items/100 m per year,",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020) in the OSPAR Area and Regions.",
+      "context_window": "indicating that these decreasing trends remain rather limited. Table d: Median total and plastic counts (from 2018 to 2020) and associated trends (from 2015 to 2020) in the OSPAR Area and Regions. Geographical scale Median",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common indicator assessment",
+      "context_window": "Abundance, Composition and Trends of Beach Litter Common indicator assessment 1 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well",
+      "context_window": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "↓ -11 Bay of Biscay and Iberian Coast 360",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and their spatial distribution is shown in",
+      "context_window": "The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in Table d and their spatial distribution is shown in Figure d . It appears that pollution levels vary between OSPAR",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in",
+      "context_window": "To reach this Threshold Value, a reduction of the total count would be required in the OSPAR Area. The median total counts of the different OSPAR Regions over the period from 2018 to 2020 are presented in Table d and their spatial distribution is shown in",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES003 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR002 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES001 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends in the abundance of total litter, individual litter types or litter categories (e.g.",
+      "context_window": "distribution highlights regional specificities that can relate to regional differences in sources, activities, human habits and transport mechanisms (through ocean current, tides, wind, buoyancy of items, etc.). Trends in the abundance of total litter, individual litter types or litter categories (e.g. plastics, single-use plastics, maritime related items) reflect changes in the level of pollution.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "context_window": "The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and current trends over a six-year period, from 2015 to 2020. All parameters were calculated using median-based",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: OSPAR beach litter survey sites considered in the assessment and associated data",
+      "context_window": "OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR038 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Collected data are reported in the OSPAR",
+      "context_window": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database. 12",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR033 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES005 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea",
+      "context_window": "-5 a Greater North Sea 37 ↓",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT017 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in",
+      "context_window": "its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES014 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR042 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES013 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Over the last six years, decreasing trends in total and plastic counts are observed at the OSPAR Area scale",
+      "context_window": "SUP and SEA items are directly targeted by Governments’ measures and are expected to decrease in the coming years. Over the last six years, decreasing trends in total and plastic counts are observed at the OSPAR Area scale and in all Regions, except in Arctic Waters where robust results could not be obtained due to low data availability.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR040 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective",
+      "context_window": "Background (brief) The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "context_window": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area. The total litter abundance, based on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure i: Top 15 litter types in OSPAR Area (from 2018 to 2020)",
+      "context_window": "environment, increasing the number of items, making recovery more difficult and raising concern in terms of environmental impact with an increasing risk of ingestion as litter breaks down into smaller parts. Figure i: Top 15 litter types in OSPAR Area (from 2018 to 2020) In addition to being the most abundant litter type, “plastic/polystyrene pieces (2,5 – 50 cm)” is also the most widespread top litter type, being recorded in the top 10 of 94% of the survey sites, as indicated by",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT015 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR035 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "winds.",
+      "context_window": "In between any two beach litter surveys, litter items that have been washed ashore by tides or deposited directly on to the beach can be buried, washed or blown away again by subsequent tides and winds. Also during strong wave action buried litter items can resurface (Tudor and Williams, 2004) and litter can be blown onto a site from adjacent land or streets.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR031 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by extreme values",
+      "context_window": "All parameters were calculated using median-based robust calculation methods which are representing the most typical pollution situation without being influenced by extreme values 1 .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea",
+      "context_window": "DK001 Greater North Sea Denmark MSFD",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT016 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Yes IS003 Arctic Waters Iceland Bakkavik",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes PT008 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR044 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES012 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat",
+      "context_window": "Lead authors: Camille Lacroix and Silvère André Supporting authors: Willem van Loon Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat Citation Lacroix, C., André, S., van Loon, W. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "litter pollution in the OSPAR marine environment.",
+      "context_window": "the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea",
+      "context_window": "SE004 Greater North Sea Sweden Haby",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES011 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for",
+      "context_window": "The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES010 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR043 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No PT019 Bay of Biscay and Iberian Coast Portugal",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by",
+      "context_window": "OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items and of maritime-related plastic items on beaches.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "No FR032 Bay of Biscay and Iberian Coast France",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "Yes IS002 Arctic Waters Iceland Budavik",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES008 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "context_window": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES007 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES004 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current beach litter trends and (iii) extent to which OSPAR objectives have been achieved.",
+      "context_window": "the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and",
+      "context_window": "Yes ES002 Bay of Biscay and Iberian Coast Spain",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "autumn (between mid-September and mid-October). However, due to limitations dictated by weather",
+      "context_window": "The survey periods are as follows: winter (between mid-December and mid-January), spring (April), summer (between mid-June and mid-July), and autumn (between mid-September and mid-October). However, due to limitations dictated by weather conditions, availability of manpower etc. not all survey sites included in this analysis have been surveyed as",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disposed of, from inland or abandoned in the marine and coastal environment, and encountered on beaches.",
+      "context_window": "Background (extended) Beach litter is defined by OSPAR as any persistent, manufactured or processed, solid material discarded, disposed of, from inland or abandoned in the marine and coastal environment, and encountered on beaches. A part of this litter originates from the sea, through deliberate or accidental losses from vessels (including cargos and waste), and is transported to, and deposited on the coast from the sea by winds, waves and water",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bay of Biscay and Iberian",
+      "context_window": "↓ -2 Bay of Biscay and Iberian Coast 93",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences",
+      "context_window": "situated on beaches, which are very variable in their topography, hydrography, geography, proximity to point source,s and human use, all of which can influence the amount of litter deposited on the beach. Differences in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, the effects of weather phenomena,",
+      "context_window": "succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Inclusion in trends assessment",
+      "context_window": "Inclusion in status assessment (Yes/No) Inclusion in trends assessment (Yes/No) 2015",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "context_window": "More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR",
+      "context_window": "Human Activities Relevant OSPAR Documentation Text",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "28 OSPAR Commission Arctic Waters 252 -6",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Regions)",
+      "context_window": "Survey site scale Higher scales (OSPAR Area and Regions) Abundance Median of survey site data for",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend",
+      "context_window": "count (items/100 m) Trend (slope in items/100 m",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "↓ -2 Arctic Waters 30 -4",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends in the beach litter data set.",
+      "context_window": "In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and OSPAR Region scales.",
+      "context_window": "OSPAR Commission To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area and OSPAR Region scales. Specific factsheets were also prepared for MSFD-country sub-regions to support European Union (EU) Member States in their MSFD reporting.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sites and surveys",
+      "context_window": "In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015",
+      "context_window": "the calculation of median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale",
+      "context_window": "in Table d . Significant decreases in both total counts and plastic items are observed at the OSPAR Area scale and in all Regions except Arctic Waters (not enough data). Decreases in total counts range from 9 to 12",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5",
+      "context_window": "16% Decreasing trends are also observed for SUP and SEA items at the OSPAR Area scale and in three Regions: Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast with reductions ranging from 2 to 5 items/100 m per year ( Table e",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is for example the case for trend results in the Arctic Waters Region.",
+      "context_window": "available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "context_window": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians",
+      "context_window": "At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method. At higher scales (OSPAR Area and Regions), abundances were assessed by calculating the median of medians obtained for each survey site and trends were assessed by calculating the medians of slopes obtained for each survey site and the p-value of aggregated survey sites.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 52,
+      "end_sentence": 58,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 52,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 53,
+          "page_number": 3,
+          "content": "Beach litter levels remain high with plastic items predominating.",
+          "full_length": 65
+        },
+        {
+          "sentence_id": 54,
+          "page_number": 3,
+          "content": "Over the last six years, significant",
+          "full_length": 36
+        },
+        {
+          "sentence_id": 55,
+          "page_number": 3,
+          "content": "decreases in litter and plastic abundance have been observed at the OSPAR Maritime Area scale and in...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 56,
+          "page_number": 3,
+          "content": "OSPAR Regions.",
+          "full_length": 14
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 3568,
+      "end_sentence": 3583,
+      "sentence_count": 16,
+      "page_range": "33-33",
+      "sentences": [
+        {
+          "sentence_id": 3568,
+          "page_number": 33,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 3569,
+          "page_number": 33,
+          "content": "Beach litter is abundant in the OSPAR Area and Regions.",
+          "full_length": 55
+        },
+        {
+          "sentence_id": 3570,
+          "page_number": 33,
+          "content": "Plastic appears to be predominant in all Regions.",
+          "full_length": 49
+        },
+        {
+          "sentence_id": 3571,
+          "page_number": 33,
+          "content": "Single-use plastics and maritime-related plastic litter are important components of beach litter pol...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 3572,
+          "page_number": 33,
+          "content": "the OSPAR Area though some regional specificity in proportions of these two groups of litter types i...",
+          "full_length": 101
+        }
+      ],
+      "total_sentences_in_section": 16
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 3605,
+      "end_sentence": 3640,
+      "sentence_count": 36,
+      "page_range": "34-34",
+      "sentences": [
+        {
+          "sentence_id": 3605,
+          "page_number": 34,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 3606,
+          "page_number": 34,
+          "content": "Beach litter is abundant in the OSPAR Area and in OSPAR Regions.",
+          "full_length": 64
+        },
+        {
+          "sentence_id": 3607,
+          "page_number": 34,
+          "content": "Plastic appears to be predominant in all",
+          "full_length": 40
+        },
+        {
+          "sentence_id": 3608,
+          "page_number": 34,
+          "content": "OSPAR Regions, reaching a median value of 194 litter items/100 m at the OSPAR Area scale and represe...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 3609,
+          "page_number": 34,
+          "content": "94% of the pollution.",
+          "full_length": 21
+        }
+      ],
+      "total_sentences_in_section": 36
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3697,
+      "end_sentence": 3786,
+      "sentence_count": 90,
+      "page_range": "35-37",
+      "sentences": [
+        {
+          "sentence_id": 3697,
+          "page_number": 35,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3698,
+          "page_number": 35,
+          "content": "Addamo, A. M., Laroche, P., Hanke, G. (2017)",
+          "full_length": 44
+        },
+        {
+          "sentence_id": 3699,
+          "page_number": 35,
+          "content": "Top Marine Beach Litter Items in Europe",
+          "full_length": 39
+        },
+        {
+          "sentence_id": 3700,
+          "page_number": 35,
+          "content": ", EUR 29249 EN,",
+          "full_length": 15
+        },
+        {
+          "sentence_id": 3701,
+          "page_number": 35,
+          "content": "Publications Office of the European Union, Luxembourg, ISBN 978-92-79-87711-7, doi:10.2760/496717,",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 90
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3856,
+    "chunks_selected": 103,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 52,
+        "end_sentence": 58,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 3568,
+        "end_sentence": 3583,
+        "sentence_count": 16
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 3605,
+        "end_sentence": 3640,
+        "sentence_count": 36
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3697,
+        "end_sentence": 3786,
+        "sentence_count": 90
+      }
+    ],
+    "total_excluded_sentences": 149
+  }
+}

@@ -1,0 +1,1536 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "species at the first pressure values, a feature of the theoretical models for highly sensitive habitats (sensitivity",
+      "context_window": "The upper bathyal sediment of both assessment units and the offshore circalittoral mud habitat from the Gulf of Cadiz showed the most sensitive responses, with a sharp decrease in the proportion of sentinel species at the first pressure values, a feature of the theoretical models for highly sensitive habitats (sensitivity 4). Offshore circalittoral mud and offshore circalittoral sand habitats from North Iberian Atlantic and",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The sentinel species proportion distribution from 2016 to 2020 (",
+      "context_window": "), regardless of the degree of sensitivity and type of habitat. For the assessment period from 2016 to 2020 The sentinel species proportion distribution from 2016 to 2020 ( Figure s ) varied from 0 to 1, with an average",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring a group of keystone species (from a structural and functional point of view) provides",
+      "context_window": "disturbances produce changes to habitat condition, including modifications in species composition and their functions. Monitoring a group of keystone species (from a structural and functional point of view) provides useful insights into benthic habitat condition .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "offshore circalittoral mud, circalittoral mud and circalittoral sand habitats (",
+      "context_window": ") through the different geographic areas displayed a significant concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the offshore circalittoral mud, circalittoral mud and circalittoral sand habitats ( Figure h ) and over some areas of",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats to guarantee the habitat quality.",
+      "context_window": "(i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality. The habitat sensitivity was calculated by comparing the response curve for each habitat with five theoretical models using an R function developed for this purpose (see",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The habitat sensitivity was calculated by comparing the response",
+      "context_window": "The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality. The habitat sensitivity was calculated by comparing the response curve for each habitat with five theoretical models using an R function developed for this purpose (see https://github.com/Gonzalez-Irusta/SoS). The theoretical models represent five possible responses to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), but in this case, the habitat condition loss extent had spread over the offshore circalittoral",
+      "context_window": "species ( Figure u ), but in this case, the habitat condition loss extent had spread over the offshore circalittoral mud and sand habitats plus the upper bathyal sediment ( Figure f",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for",
+      "context_window": "the middle point between the beginning of the curve and the tipping point (p.50), (ii) the precautionary located in the first third of that range (p.33) and (iii) the tolerant threshold (p.66). This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2. The criteria that support",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "will be used for sensitive responses, while a more permissive one will be applied for habitats with more",
+      "context_window": "The thresholds generated must respond to the range of sensitivities of the different habitats, so a more conservative one will be used for sensitive responses, while a more permissive one will be applied for habitats with more tolerance to the pressure. For that, three thresholds were defined: (i) the standard which corresponds with",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mud and sand habitats plus the upper bathyal sediment (",
+      "context_window": "Figure u ), but in this case, the habitat condition loss extent had spread over the offshore circalittoral mud and sand habitats plus the upper bathyal sediment ( Figure f ). This result arose due to the increase in",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "useful insights into benthic habitat condition",
+      "context_window": "functions. Monitoring a group of keystone species (from a structural and functional point of view) provides useful insights into benthic habitat condition . Therefore, monitoring sentinel species (species characteristic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transforming pressure units (e.g., swept area) into the proportion of sentinel species (using correlative",
+      "context_window": "., 2018). These curves are used in this assessment for two primary purposes: (i) to directly evaluate the status of habitat by transforming pressure units (e.g., swept area) into the proportion of sentinel species (using correlative models, e.g. GAMs), allowing to evaluate the status of the habitat across its extent ( Figure b",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the",
+      "context_window": "Figure x ) through the different geographic areas displayed a significant concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the offshore circalittoral mud, circalittoral mud and circalittoral sand habitats ( Figure h",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2006) as it can detect changes in the community composition of marine habitats produced by any",
+      "context_window": "et al ., 2006) as it can detect changes in the community composition of marine habitats produced by any disturbance, physical or chemical if the species sensitivity to these disturbances is known. Specifically, BH1:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status",
+      "context_window": "Top: Final assessment status for the period from 2009 to 2020. Bottom: Uncertainty associated with the assessment of habitat status For the assessment period from 2016 to 2020 Discarding the South-Iberian Atlantic assessment unit (whose results include a substantial uncertainty), the",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 Sentinels of the Seabed",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contribution of each species to the total biomass and differences in real sensitivity between species with the",
+      "context_window": "). Of course, there is not always a clear connection between the list of sentinel species and the habitat sensitivity since the contribution of each species to the total biomass and differences in real sensitivity between species with the same BESITO value also can have an essential role in the observed response (e.g., offshore circalittoral mixed sediment,",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and achieve a good environmental status of benthic habitats have been hampered by the lack of information",
+      "context_window": "Background The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2.",
+      "context_window": "located in the first third of that range (p.33) and (iii) the tolerant threshold (p.66). This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2. The criteria that support the BH1 methodology for setting quality thresholds are the most appropriate to date, but it is temporary and",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas",
+      "context_window": "OSPAR Commission The sentinel species' distribution through the different geographic areas displayed an apparent concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas from the upper bathyal sediment habitat along the Galician coast. This result, which can be extended to other",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to",
+      "context_window": "show the sentinel species proportion and the pressure values at the degradation point for the three thresholds (standard, precautionary and tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to pressure has been highlighted in yellow. Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic",
+      "context_window": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their functions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rhythm at which the reduction in the habitat state is observed.",
+      "context_window": "from more sensitive (sensitivity 4) to less sensitive (sensitivity 3) The degradation point is the point at which the pressure-state curves change their trend, decreasing the rhythm at which the reduction in the habitat state is observed. Although several statistical tools are being explored to obtain this point, currently, the method relies on the 45 degrees slope of the tangent to the",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species that showed variations in the condition of specific habitats of each subunit, which will be explicitly",
+      "context_window": "Figure q ). However, there are changes in the prediction of the proportion of sentinel species that showed variations in the condition of specific habitats of each subunit, which will be explicitly glimpsed in the subsequent subsections. OSPAR Commission 2023",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The BH1 assessment method and application have been tested and revised, showing that the sentinel species",
+      "context_window": "need to incorporate into its analyses: (a) environmental variables and (b) other pressures. (a) Environmental variables The BH1 assessment method and application have been tested and revised, showing that the sentinel species assessed are sensitive to the pressure studied. However, environmental variables may also affect their",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 Sentinels of the Seabed",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species proportion from",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 Sentinels of the Seabed",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 For the assessment period from 2016 to 2020",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 For the assessment period from 2016 to 2020",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats (Serrano",
+      "context_window": "classification used to implement this indicator. The indicator has been tested in both broad and special habitats (Serrano et al ., 2022). The characteristics of special habitats and their often-high sensitivity to",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The BH1 indicator can detect variations in the community composition of marine habitats produced by any",
+      "context_window": "of the quality thresholds since all the indicators use it in their assessment to catalogue the state of the BBHTs. Knowledge Gaps (extended) The BH1 indicator can detect variations in the community composition of marine habitats produced by any physical or chemical disturbances if the species' sensitivity to these disturbances is known. BH1 is adapted to",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evaluated habitats. The largest unpressured extents (",
+      "context_window": ") mainly in the shallow waters along the coastline of the assessment unit (infralittoral habitats) and in low proportions in the evaluated habitats. The largest unpressured extents ( Figure aq ,",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity 3 and 0,66 for habitats of sensitivity 2).",
+      "context_window": "established as a percentile of the distance between the origin of the curve and the degradation point. Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of sensitivity 3 and 0,66 for habitats of sensitivity 2). Table l and",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effective thresholds must be ecologically meaningful and separate good and degraded states based on each",
+      "context_window": "Contracting Parties must commit to responding to OSPAR data calls. (iv) Agreed upon criteria to define the suitability of quality thresholds values Effective thresholds must be ecologically meaningful and separate good and degraded states based on each specific BBHT. Deciding how much change is compatible with a \"good\" state has proven difficult, but this is a",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "product of the combination of pressure and typology of the habitat.",
+      "context_window": "the effort in the area since it slightly increased during this period. It is clear, then, that these results are the product of the combination of pressure and typology of the habitat. In fact, during this period, the effort decreases in some regions of the upper bathyal sediment habitat (",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 OSPAR Commission 2023",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat sensitivity.",
+      "context_window": "Once the list of sentinel species has been defined, its relative abundance (proportion) within each sampled value of disturbance is computed, and its evolution across the disturbance gradient is analysed to assess the habitat sensitivity. Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predicted sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(iv) South Iberian Atlantic For the assessment period from 2009 to 2020 The predicted sentinel species proportion values from 2009 to 2020 ( Figure v ) for the South Iberian Atlantic",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based",
+      "context_window": "Figure u: North Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportional abundance, especially in habitats with a wide variability of the environmental variables that",
+      "context_window": "assessed are sensitive to the pressure studied. However, environmental variables may also affect their proportional abundance, especially in habitats with a wide variability of the environmental variables that define them, such as the Upper Bathyal Sediment. Because of the correlative approach used in applying BH1",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status",
+      "context_window": "Top: Final assessment status for the period from 2009 to 2020. Bottom: Uncertainty associated with the assessment of habitat status Sentinels of the Seabed 72 of 106",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of",
+      "context_window": "2009; González-Irusta & Wright, 2017). Once this point has been computed, the condition threshold is established as a percentile of the distance between the origin of the curve and the degradation point. Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of sensitivity 3 and 0,66 for habitats of sensitivity 2). Table l",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance within assessment units:",
+      "context_window": "circalittoral mud (QSR: 39,44%; MSFD: 41,07%) and upper bathyal sediment (QSR: 39,2%; MSFD: 44,32%). Habitat disturbance within assessment units: OSPAR Commission 2023 15 of 106",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(iii) North Iberian Atlantic For the assessment period from 2009 to 2020 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure t ) ranged from 0 to 1,",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreases in some regions of the upper bathyal sediment habitat (",
+      "context_window": "product of the combination of pressure and typology of the habitat. In fact, during this period, the effort decreases in some regions of the upper bathyal sediment habitat ( Figure h ,",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The sentinel species proportion prediction distribution from 2016 to 2020 (",
+      "context_window": "proportion from 2016 to 2020 For the assessment period from 2016 to 2020 The sentinel species proportion prediction distribution from 2016 to 2020 ( Figure y ) varied from 0 to 1, with",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed",
+      "context_window": "Figure ab ). Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities,",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "across the trawling gradient to assess habitat sensitivity.",
+      "context_window": "Step 3. Proportion of sentinel species determination The BH1 indicator determines and analyses the proportion of a set of species identified as sentinel species across the trawling gradient to assess habitat sensitivity. The sentinel species are selected based on a double requirement: (i) species frequently found under reference conditions (typical species) and (ii) species",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The distribution of the sentinel species proportion from 2016 to 2020 (",
+      "context_window": "proportion from 2016 to 2020 For the assessment period from 2016 to 2020 The distribution of the sentinel species proportion from 2016 to 2020 ( Figure w ) varied from 0.49 to 1, with",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbances produce changes to habitat condition, including modifications in species composition and their",
+      "context_window": "and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their functions. Monitoring a group of keystone species (from a structural and functional point of view) provides",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status.",
+      "context_window": "Top: Final assessment status for the period from 2016 to 2020. Bottom: Uncertainty associated with the assessment of habitat status. Table p: Summary of the final assessment statistics of North Iberian Atlantic MSFD Broad Habitat Type",
+      "page_number": 80,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species characteristics of this habitat across a pressure gradient.",
+      "context_window": "of the habitat and sensitive to a given pressure) can provide a useful tool for knowing the habitat condition. The BH1 indicator aims to assess the environmental status using the proportional abundance of the sentinel species characteristics of this habitat across a pressure gradient. In this assessment, BH1 has been applied to generate specific pressure-state curves (which correlated the proportion of sentinel species with the level of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "). Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 2)",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure w8: South Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold specific for each habitat (minimum proportion of sentinel species acceptable to keep ecosystem",
+      "context_window": "Once the predicted values of sentinel species proportion across the habitat were generated, they were converted into high disturbance, moderate disturbance and low disturbance areas by using a quality threshold specific for each habitat (minimum proportion of sentinel species acceptable to keep ecosystem processes). To establish the quality threshold for each habitat it was necessary to make three determinations based on",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure t6: North Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species proportion from",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 (ii) Gulf of Biscay",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure v7: South Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the pressure-state curves of each habitat:",
+      "context_window": "processes). To establish the quality threshold for each habitat it was necessary to make three determinations based on the pressure-state curves of each habitat: (i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "OSPAR Commission 2023 47 of 106 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure r ) ranged from 0 to 1,",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2016 to 2020.",
+      "context_window": "based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020. The shaded figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Once the final set of sentinel species has been selected, changes in the proportion of these species across a",
+      "context_window": "OSPAR Commission 2023 5 of 106 Once the final set of sentinel species has been selected, changes in the proportion of these species across a pressure gradient can be computed to generate the pressure-state curves (Elliott et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "from more sensitive (sensitivity 4) to less sensitive (sensitivity 2) Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The three pressure-state curves show the three BBHTs from the Gulf of Cadiz with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 3)",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "_methods_to_set_thresholds_and_assess_adverse_effects_on_seabe",
+      "context_window": "https://ices- library.figshare.com/articles/report/Workshop_to_scope_assessment _methods_to_set_thresholds_and_assess_adverse_effects_on_seabe d_habitats_WKBENTH2_/20731537 Date of publication",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats, (ii) the distribution and intensity of pressures that disturb these habitats and (iii) biological sampled",
+      "context_window": "Achieving this will require the improvement of the three types of information that BH1 uses for all the units of assessment: (i) the distribution of benthic habitats, (ii) the distribution and intensity of pressures that disturb these habitats and (iii) biological sampled data of the abundance (biomass or number) of benthic species from each habitat across a pressure gradient (including no pressure/low-pressure areas).",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predicted sentinel species proportion values from 2016 to 2020 across the overall assessment units",
+      "context_window": "the pressure is exerted. For the assessment period from 2009 to 2020 The predicted sentinel species proportion values from 2016 to 2020 across the overall assessment units ( Figure q",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas",
+      "context_window": "with an average of 0,63± 0,24. The prediction of the proportion of sentinel species displayed an apparent concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas from the offshore circalittoral mud habitat along the Brittany coast, the circalittoral mixed sediment and the circalittoral coarse sediment habitats off Pays de la Loire region and over the circalittoral sand habitat in front",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed",
+      "context_window": "The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 2) Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The three pressure-state curves show the three BBHTs from the Gulf of Cadiz with different sensitivities,",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the proportion of sentinel species.",
+      "context_window": "know if the values of each pressure are comparable, under the assumption that both pressures cover a range of disturbances from low to high, the presented method allows comparing the effect of both pressures on the proportion of sentinel species. In this sense, the BH1 indicator could offer the opportunity to develop new methods to assess the cumulative effects of multiple pressures acting simultaneously, an aspect of great",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities",
+      "context_window": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "d_habitats_WKBENTH2_/20731537",
+      "context_window": "library.figshare.com/articles/report/Workshop_to_scope_assessment _methods_to_set_thresholds_and_assess_adverse_effects_on_seabe d_habitats_WKBENTH2_/20731537 Date of publication Date",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on",
+      "context_window": "Figure s5: Gulf of Biscay. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the",
+      "context_window": "different geographic areas displayed an apparent concentration of moderate sentinel species proportion (i.e., moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the coast from Sintra to Peniche ( Figure g",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(i) Habitat sensitivity determination.",
+      "context_window": "To establish the quality threshold for each habitat it was necessary to make three determinations based on the pressure-state curves of each habitat: (i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess the benthic habitats' quality status within the OSPAR Maritime Area according to the Marine Strategy",
+      "context_window": "., 2022, BH1 CEMP guidelines). This indicator is one of the five OSPAR standards developed to monitor and assess the benthic habitats' quality status within the OSPAR Maritime Area according to the Marine Strategy Framework Directive (MSFD; Directive 2008/ 56/E.C. ); specifically, the BH1 is common for the assessment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small",
+      "context_window": "OSPAR Commission 2023 53 of 106 the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small area adjoining the Gulf of Cádiz where the offshore circalittoral mud, offshore circalittoral mixed sediment and upper bathyal sediment habitats converge (",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2009 to 2020.",
+      "context_window": "based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020. The shaded figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "context_window": "tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to pressure has been highlighted in yellow. Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.) at the degradation point (D. point) and the three different thresholds (TH.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which the reduction in the habitat state is observed.",
+      "context_window": "The degradation point is the point at which the pressure-state curves change their trend, decreasing the rate at which the reduction in the habitat state is observed. Although several statistical tools are being explored to obtain this point, currently, the method relies on the 45 degrees slope of the tangent to the curve, previously",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the coastline of France (infralittoral habitats) and in low proportions in the evaluated habitats.",
+      "context_window": "Figure ah ) mainly in the shallow waters along the coastline of France (infralittoral habitats) and in low proportions in the evaluated habitats. The largest unpressured extents (",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore",
+      "context_window": ") through the different geographic areas displayed an apparent concentration of moderate sentinel species proportion (i.e., moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the coast from Sintra to Peniche (",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The sentinel species proportion prediction distribution from 2016 to 2020 (",
+      "context_window": "OSPAR Commission 2023 51 of 106 The sentinel species proportion prediction distribution from 2016 to 2020 ( Figure u ) varied from 0 to 1, with",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of energy at the seabed, to create a map of seabed habitats translating this into different habitat",
+      "context_window": "., 2021). In simple terms, the method combines individual habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels of energy at the seabed, to create a map of seabed habitats translating this into different habitat classifications, such as EUNIS or the MSFD broad habitat types (Vasquez et al",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The correlation between the proportion of sentinel species and the trawling effort per habitat type was",
+      "context_window": "habitat sensitivity. Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response variable was the proportion of sentinel species, they were analysed using a binomial GAM with Logit as a link",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(v) Gulf of Cadiz For the assessment period from 2009 to 2020 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure x ) ranged from 0 to 1,",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels",
+      "context_window": "et al ., 2021). In simple terms, the method combines individual habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels of energy at the seabed, to create a map of seabed habitats translating this into different habitat classifications, such as EUNIS or the MSFD broad habitat types (Vasquez",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and upper bathyal sediment habitats converge (",
+      "context_window": "the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small area adjoining the Gulf of Cádiz where the offshore circalittoral mud, offshore circalittoral mixed sediment and upper bathyal sediment habitats converge ( Figure g ).",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") along the Brittany coast. The habitat condition has improved due to decreased SAR values",
+      "context_window": "habitat ( Figure e ) along the Brittany coast. The habitat condition has improved due to decreased SAR values in other areas, such as the offshore circalittoral sand along the Brittany coast ( Figure e",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure y: Gulf of Cadiz. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat (",
+      "context_window": "), the habitat condition loss extent had spread over more extent of the offshore circalittoral mud and the circalittoral coarse sediment habitat ( Figure e ) along the Brittany coast. The habitat condition has improved due to decreased SAR values",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure r: Gulf of Biscay. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To establish the proportion of sentinel species, the biological samples (species abundance by haul) and the",
+      "context_window": "et al ., (2015) but adapted to the BH1 characteristics. To establish the proportion of sentinel species, the biological samples (species abundance by haul) and the trawling effort associated with these samples (to establish the proportion of sentinel species across the pressure gradient) were used.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2009 to 2020",
+      "context_window": "based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 For the assessment period from 2016 to 2020 OSPAR Commission 2023",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), capable of significantly impacting the condition of habitats less sensitive",
+      "context_window": "fishing effort in the area ( Figure k ), capable of significantly impacting the condition of habitats less sensitive than the upper bathyal sediment. (iv) South Iberian Atlantic",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance across all the common indicator assessment units:",
+      "context_window": "Atlantic (QSR: 94,7%; MSFD: 95,58%), followed by North-Iberian Atlantic (QSR: 92,24 %; MSFD: 92,63%). Habitat disturbance across all the common indicator assessment units: i) All the offshore and circalittoral BBHTs had areas with high disturbance.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seabed Habitat prepared for OSPAR, which shows the evidence for the extent of seabed habitats in the North-",
+      "context_window": "The BH1 assessment requires a high-quality habitat map showing the distribution and extent of the BBHTs for the assessment area. This assessment used the composite habitat map (EMODnet, 2021) that EMODnet Seabed Habitat prepared for OSPAR, which shows the evidence for the extent of seabed habitats in the North- East Atlantic, classified as level 3 of EUNIS. This product combines EUSeaMap 2019 and EUNIS broad habitat-",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure map subsequently and generate the prediction of sentinel species proportion across these habitats.",
+      "context_window": "Again, based on this assumption, the pressure-state curves of the well-sampled and analysed Offshore circalittoral MSFD habitats in these units were extrapolated to the circalittoral BBHTs to apply the pressure map subsequently and generate the prediction of sentinel species proportion across these habitats. The analysis of the BBHTs using the BH1 indicator generates evaluations with different uncertainties, higher in cases where the extrapolation of curves is used and not curves generated based on accurate monitoring",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response",
+      "context_window": "Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response variable was the proportion of sentinel species, they were analysed using a binomial GAM with Logit as a link function (Zuur",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats expert groups (OBHEG) of the Convention for the Protection of the Marine Environment of",
+      "context_window": "Background (extended) The Sentinels of Seabed (SoS-BH1, BH1 hereafter) indicator has been developed in the framework of the Benthic Habitats expert groups (OBHEG) of the Convention for the Protection of the Marine Environment of the North-East Atlantic (OSPAR) under the EU co-funded EcApRHA",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity Sentinel Species",
+      "context_window": "43 of 106 MSFD Habitat Sensitivity Sentinel Species OFFSHORE CIRCALITTORAL SAND",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table m: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "context_window": "2,00 2,80 Table m: Values of the proportion of sentinel species (S.S.) and pressure (Press.) at the degradation point (D.point) and the three different thresholds (TH.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sentinel species (i.e., very low loss habitat condition) due to low fishing bottom efforts (",
+      "context_window": ") over highly sensitive habitats. However, the vast majority of the other areas of the South Iberian Atlantic showed a high proportion of sentinel species (i.e., very low loss habitat condition) due to low fishing bottom efforts ( Figure l ) which do",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure x9: Gulf of Cadiz. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This document assessed the environmental status of BBHTs from the Gulf of Biscay, North Iberian Atlantic,",
+      "context_window": ") using quality thresholds previously computed based on the pressure-state curves (minimum proportion of sentinel species acceptable to keep ecosystem processes) specific for each habitat. This document assessed the environmental status of BBHTs from the Gulf of Biscay, North Iberian Atlantic, South Iberian Atlantic and Gulf of Cadiz (using the BH1 indicator). The indicator has been applied from 2009",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(i) The distribution of benthic habitats",
+      "context_window": "102 of 106 OSPAR Commission (i) The distribution of benthic habitats The BH1 assessment requires a high-quality habitat map showing the distribution and extent of the BBHTs for the assessment area. This assessment used the composite habitat map (EMODnet, 2021) that EMODnet",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the assessment of habitat status.",
+      "context_window": "Figure am14: South Iberian Atlantic Top: Final assessment status from 2016 to 2020. Bottom: Uncertainty associated with the assessment of habitat status. The shadowy figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 88,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "species at the first pressure values, a feature of the theoretical models for highly sensitive habitats (sensitivity",
+      "context_window": "The upper bathyal sediment of both assessment units and the offshore circalittoral mud habitat from the Gulf of Cadiz showed the most sensitive responses, with a sharp decrease in the proportion of sentinel species at the first pressure values, a feature of the theoretical models for highly sensitive habitats (sensitivity 4). Offshore circalittoral mud and offshore circalittoral sand habitats from North Iberian Atlantic and",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The sentinel species proportion distribution from 2016 to 2020 (",
+      "context_window": "), regardless of the degree of sensitivity and type of habitat. For the assessment period from 2016 to 2020 The sentinel species proportion distribution from 2016 to 2020 ( Figure s ) varied from 0 to 1, with an average",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "offshore circalittoral mud, circalittoral mud and circalittoral sand habitats (",
+      "context_window": ") through the different geographic areas displayed a significant concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the offshore circalittoral mud, circalittoral mud and circalittoral sand habitats ( Figure h ) and over some areas of",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The habitat sensitivity was calculated by comparing the response",
+      "context_window": "The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality. The habitat sensitivity was calculated by comparing the response curve for each habitat with five theoretical models using an R function developed for this purpose (see https://github.com/Gonzalez-Irusta/SoS). The theoretical models represent five possible responses to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for",
+      "context_window": "the middle point between the beginning of the curve and the tipping point (p.50), (ii) the precautionary located in the first third of that range (p.33) and (iii) the tolerant threshold (p.66). This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2. The criteria that support",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mud and sand habitats plus the upper bathyal sediment (",
+      "context_window": "Figure u ), but in this case, the habitat condition loss extent had spread over the offshore circalittoral mud and sand habitats plus the upper bathyal sediment ( Figure f ). This result arose due to the increase in",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transforming pressure units (e.g., swept area) into the proportion of sentinel species (using correlative",
+      "context_window": "., 2018). These curves are used in this assessment for two primary purposes: (i) to directly evaluate the status of habitat by transforming pressure units (e.g., swept area) into the proportion of sentinel species (using correlative models, e.g. GAMs), allowing to evaluate the status of the habitat across its extent ( Figure b",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2006) as it can detect changes in the community composition of marine habitats produced by any",
+      "context_window": "et al ., 2006) as it can detect changes in the community composition of marine habitats produced by any disturbance, physical or chemical if the species sensitivity to these disturbances is known. Specifically, BH1:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 Sentinels of the Seabed",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and achieve a good environmental status of benthic habitats have been hampered by the lack of information",
+      "context_window": "Background The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas",
+      "context_window": "OSPAR Commission The sentinel species' distribution through the different geographic areas displayed an apparent concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas from the upper bathyal sediment habitat along the Galician coast. This result, which can be extended to other",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic",
+      "context_window": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their functions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species that showed variations in the condition of specific habitats of each subunit, which will be explicitly",
+      "context_window": "Figure q ). However, there are changes in the prediction of the proportion of sentinel species that showed variations in the condition of specific habitats of each subunit, which will be explicitly glimpsed in the subsequent subsections. OSPAR Commission 2023",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 Sentinels of the Seabed",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 For the assessment period from 2016 to 2020",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats (Serrano",
+      "context_window": "classification used to implement this indicator. The indicator has been tested in both broad and special habitats (Serrano et al ., 2022). The characteristics of special habitats and their often-high sensitivity to",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evaluated habitats. The largest unpressured extents (",
+      "context_window": ") mainly in the shallow waters along the coastline of the assessment unit (infralittoral habitats) and in low proportions in the evaluated habitats. The largest unpressured extents ( Figure aq ,",
+      "page_number": 93,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effective thresholds must be ecologically meaningful and separate good and degraded states based on each",
+      "context_window": "Contracting Parties must commit to responding to OSPAR data calls. (iv) Agreed upon criteria to define the suitability of quality thresholds values Effective thresholds must be ecologically meaningful and separate good and degraded states based on each specific BBHT. Deciding how much change is compatible with a \"good\" state has proven difficult, but this is a",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 OSPAR Commission 2023",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predicted sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(iv) South Iberian Atlantic For the assessment period from 2009 to 2020 The predicted sentinel species proportion values from 2009 to 2020 ( Figure v ) for the South Iberian Atlantic",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportional abundance, especially in habitats with a wide variability of the environmental variables that",
+      "context_window": "assessed are sensitive to the pressure studied. However, environmental variables may also affect their proportional abundance, especially in habitats with a wide variability of the environmental variables that define them, such as the Upper Bathyal Sediment. Because of the correlative approach used in applying BH1",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of",
+      "context_window": "2009; González-Irusta & Wright, 2017). Once this point has been computed, the condition threshold is established as a percentile of the distance between the origin of the curve and the degradation point. Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of sensitivity 3 and 0,66 for habitats of sensitivity 2). Table l",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(iii) North Iberian Atlantic For the assessment period from 2009 to 2020 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure t ) ranged from 0 to 1,",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The sentinel species proportion prediction distribution from 2016 to 2020 (",
+      "context_window": "proportion from 2016 to 2020 For the assessment period from 2016 to 2020 The sentinel species proportion prediction distribution from 2016 to 2020 ( Figure y ) varied from 0 to 1, with",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "across the trawling gradient to assess habitat sensitivity.",
+      "context_window": "Step 3. Proportion of sentinel species determination The BH1 indicator determines and analyses the proportion of a set of species identified as sentinel species across the trawling gradient to assess habitat sensitivity. The sentinel species are selected based on a double requirement: (i) species frequently found under reference conditions (typical species) and (ii) species",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbances produce changes to habitat condition, including modifications in species composition and their",
+      "context_window": "and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic disturbances produce changes to habitat condition, including modifications in species composition and their functions. Monitoring a group of keystone species (from a structural and functional point of view) provides",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species characteristics of this habitat across a pressure gradient.",
+      "context_window": "of the habitat and sensitive to a given pressure) can provide a useful tool for knowing the habitat condition. The BH1 indicator aims to assess the environmental status using the proportional abundance of the sentinel species characteristics of this habitat across a pressure gradient. In this assessment, BH1 has been applied to generate specific pressure-state curves (which correlated the proportion of sentinel species with the level of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure w8: South Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure t6: North Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species",
+      "context_window": "Figure v7: South Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "OSPAR Commission 2023 47 of 106 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure r ) ranged from 0 to 1,",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Once the final set of sentinel species has been selected, changes in the proportion of these species across a",
+      "context_window": "OSPAR Commission 2023 5 of 106 Once the final set of sentinel species has been selected, changes in the proportion of these species across a pressure gradient can be computed to generate the pressure-state curves (Elliott et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "_methods_to_set_thresholds_and_assess_adverse_effects_on_seabe",
+      "context_window": "https://ices- library.figshare.com/articles/report/Workshop_to_scope_assessment _methods_to_set_thresholds_and_assess_adverse_effects_on_seabe d_habitats_WKBENTH2_/20731537 Date of publication",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predicted sentinel species proportion values from 2016 to 2020 across the overall assessment units",
+      "context_window": "the pressure is exerted. For the assessment period from 2009 to 2020 The predicted sentinel species proportion values from 2016 to 2020 across the overall assessment units ( Figure q",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed",
+      "context_window": "The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 2) Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The three pressure-state curves show the three BBHTs from the Gulf of Cadiz with different sensitivities,",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities",
+      "context_window": "The attempts to implement an integrated ecosystem-based approach to manage anthropogenic activities and achieve a good environmental status of benthic habitats have been hampered by the lack of information on the condition of these habitats and their relationship with the pressures imposed. Anthropogenic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on",
+      "context_window": "Figure s5: Gulf of Biscay. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(i) Habitat sensitivity determination.",
+      "context_window": "To establish the quality threshold for each habitat it was necessary to make three determinations based on the pressure-state curves of each habitat: (i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small",
+      "context_window": "OSPAR Commission 2023 53 of 106 the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small area adjoining the Gulf of Cádiz where the offshore circalittoral mud, offshore circalittoral mixed sediment and upper bathyal sediment habitats converge (",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "context_window": "tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to pressure has been highlighted in yellow. Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.) at the degradation point (D. point) and the three different thresholds (TH.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the coastline of France (infralittoral habitats) and in low proportions in the evaluated habitats.",
+      "context_window": "Figure ah ) mainly in the shallow waters along the coastline of France (infralittoral habitats) and in low proportions in the evaluated habitats. The largest unpressured extents (",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The sentinel species proportion prediction distribution from 2016 to 2020 (",
+      "context_window": "OSPAR Commission 2023 51 of 106 The sentinel species proportion prediction distribution from 2016 to 2020 ( Figure u ) varied from 0 to 1, with",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The correlation between the proportion of sentinel species and the trawling effort per habitat type was",
+      "context_window": "habitat sensitivity. Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response variable was the proportion of sentinel species, they were analysed using a binomial GAM with Logit as a link",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels",
+      "context_window": "et al ., 2021). In simple terms, the method combines individual habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels of energy at the seabed, to create a map of seabed habitats translating this into different habitat classifications, such as EUNIS or the MSFD broad habitat types (Vasquez",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") along the Brittany coast. The habitat condition has improved due to decreased SAR values",
+      "context_window": "habitat ( Figure e ) along the Brittany coast. The habitat condition has improved due to decreased SAR values in other areas, such as the offshore circalittoral sand along the Brittany coast ( Figure e",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat (",
+      "context_window": "), the habitat condition loss extent had spread over more extent of the offshore circalittoral mud and the circalittoral coarse sediment habitat ( Figure e ) along the Brittany coast. The habitat condition has improved due to decreased SAR values",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To establish the proportion of sentinel species, the biological samples (species abundance by haul) and the",
+      "context_window": "et al ., (2015) but adapted to the BH1 characteristics. To establish the proportion of sentinel species, the biological samples (species abundance by haul) and the trawling effort associated with these samples (to establish the proportion of sentinel species across the pressure gradient) were used.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), capable of significantly impacting the condition of habitats less sensitive",
+      "context_window": "fishing effort in the area ( Figure k ), capable of significantly impacting the condition of habitats less sensitive than the upper bathyal sediment. (iv) South Iberian Atlantic",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seabed Habitat prepared for OSPAR, which shows the evidence for the extent of seabed habitats in the North-",
+      "context_window": "The BH1 assessment requires a high-quality habitat map showing the distribution and extent of the BBHTs for the assessment area. This assessment used the composite habitat map (EMODnet, 2021) that EMODnet Seabed Habitat prepared for OSPAR, which shows the evidence for the extent of seabed habitats in the North- East Atlantic, classified as level 3 of EUNIS. This product combines EUSeaMap 2019 and EUNIS broad habitat-",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response",
+      "context_window": "Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was analysed using General Additive Models (GAMs), obtaining habitat response curves. Since the response variable was the proportion of sentinel species, they were analysed using a binomial GAM with Logit as a link function (Zuur",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity Sentinel Species",
+      "context_window": "43 of 106 MSFD Habitat Sensitivity Sentinel Species OFFSHORE CIRCALITTORAL SAND",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sentinel species (i.e., very low loss habitat condition) due to low fishing bottom efforts (",
+      "context_window": ") over highly sensitive habitats. However, the vast majority of the other areas of the South Iberian Atlantic showed a high proportion of sentinel species (i.e., very low loss habitat condition) due to low fishing bottom efforts ( Figure l ) which do",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This document assessed the environmental status of BBHTs from the Gulf of Biscay, North Iberian Atlantic,",
+      "context_window": ") using quality thresholds previously computed based on the pressure-state curves (minimum proportion of sentinel species acceptable to keep ecosystem processes) specific for each habitat. This document assessed the environmental status of BBHTs from the Gulf of Biscay, North Iberian Atlantic, South Iberian Atlantic and Gulf of Cadiz (using the BH1 indicator). The indicator has been applied from 2009",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the assessment of habitat status.",
+      "context_window": "Figure am14: South Iberian Atlantic Top: Final assessment status from 2016 to 2020. Bottom: Uncertainty associated with the assessment of habitat status. The shadowy figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 88,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(i) The distribution of benthic habitats",
+      "context_window": "102 of 106 OSPAR Commission (i) The distribution of benthic habitats The BH1 assessment requires a high-quality habitat map showing the distribution and extent of the BBHTs for the assessment area. This assessment used the composite habitat map (EMODnet, 2021) that EMODnet",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure x9: Gulf of Cadiz. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table m: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "context_window": "2,00 2,80 Table m: Values of the proportion of sentinel species (S.S.) and pressure (Press.) at the degradation point (D.point) and the three different thresholds (TH.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats expert groups (OBHEG) of the Convention for the Protection of the Marine Environment of",
+      "context_window": "Background (extended) The Sentinels of Seabed (SoS-BH1, BH1 hereafter) indicator has been developed in the framework of the Benthic Habitats expert groups (OBHEG) of the Convention for the Protection of the Marine Environment of the North-East Atlantic (OSPAR) under the EU co-funded EcApRHA",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure map subsequently and generate the prediction of sentinel species proportion across these habitats.",
+      "context_window": "Again, based on this assumption, the pressure-state curves of the well-sampled and analysed Offshore circalittoral MSFD habitats in these units were extrapolated to the circalittoral BBHTs to apply the pressure map subsequently and generate the prediction of sentinel species proportion across these habitats. The analysis of the BBHTs using the BH1 indicator generates evaluations with different uncertainties, higher in cases where the extrapolation of curves is used and not curves generated based on accurate monitoring",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance across all the common indicator assessment units:",
+      "context_window": "Atlantic (QSR: 94,7%; MSFD: 95,58%), followed by North-Iberian Atlantic (QSR: 92,24 %; MSFD: 92,63%). Habitat disturbance across all the common indicator assessment units: i) All the offshore and circalittoral BBHTs had areas with high disturbance.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2009 to 2020",
+      "context_window": "based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 For the assessment period from 2016 to 2020 OSPAR Commission 2023",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure r: Gulf of Biscay. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based on the",
+      "context_window": "Figure y: Gulf of Cadiz. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and upper bathyal sediment habitats converge (",
+      "context_window": "the SAR values in this area; as well as a decrease in the proportion (i.e., loss of habitat condition) in a small area adjoining the Gulf of Cádiz where the offshore circalittoral mud, offshore circalittoral mixed sediment and upper bathyal sediment habitats converge ( Figure g ).",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The prediction for the sentinel species proportion values from 2009 to 2020 (",
+      "context_window": "(v) Gulf of Cadiz For the assessment period from 2009 to 2020 The prediction for the sentinel species proportion values from 2009 to 2020 ( Figure x ) ranged from 0 to 1,",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of energy at the seabed, to create a map of seabed habitats translating this into different habitat",
+      "context_window": "., 2021). In simple terms, the method combines individual habitat descriptor maps, such as seabed substrate, biological zones (also referred to as biozones) and levels of energy at the seabed, to create a map of seabed habitats translating this into different habitat classifications, such as EUNIS or the MSFD broad habitat types (Vasquez et al",
+      "page_number": 102,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore",
+      "context_window": ") through the different geographic areas displayed an apparent concentration of moderate sentinel species proportion (i.e., moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the coast from Sintra to Peniche (",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which the reduction in the habitat state is observed.",
+      "context_window": "The degradation point is the point at which the pressure-state curves change their trend, decreasing the rate at which the reduction in the habitat state is observed. Although several statistical tools are being explored to obtain this point, currently, the method relies on the 45 degrees slope of the tangent to the curve, previously",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2009 to 2020.",
+      "context_window": "based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020. The shaded figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess the benthic habitats' quality status within the OSPAR Maritime Area according to the Marine Strategy",
+      "context_window": "., 2022, BH1 CEMP guidelines). This indicator is one of the five OSPAR standards developed to monitor and assess the benthic habitats' quality status within the OSPAR Maritime Area according to the Marine Strategy Framework Directive (MSFD; Directive 2008/ 56/E.C. ); specifically, the BH1 is common for the assessment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the",
+      "context_window": "different geographic areas displayed an apparent concentration of moderate sentinel species proportion (i.e., moderate loss of habitat condition) through some areas from the upper bathyal sediment and offshore circalittoral mud habitats along the coast of Figueira da Foz and the upper bathyal sediment through the coast from Sintra to Peniche ( Figure g",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "d_habitats_WKBENTH2_/20731537",
+      "context_window": "library.figshare.com/articles/report/Workshop_to_scope_assessment _methods_to_set_thresholds_and_assess_adverse_effects_on_seabe d_habitats_WKBENTH2_/20731537 Date of publication Date",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the proportion of sentinel species.",
+      "context_window": "know if the values of each pressure are comparable, under the assumption that both pressures cover a range of disturbances from low to high, the presented method allows comparing the effect of both pressures on the proportion of sentinel species. In this sense, the BH1 indicator could offer the opportunity to develop new methods to assess the cumulative effects of multiple pressures acting simultaneously, an aspect of great",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas",
+      "context_window": "with an average of 0,63± 0,24. The prediction of the proportion of sentinel species displayed an apparent concentration of low sentinel species proportion (i.e., severe loss of habitat condition) through some areas from the offshore circalittoral mud habitat along the Brittany coast, the circalittoral mixed sediment and the circalittoral coarse sediment habitats off Pays de la Loire region and over the circalittoral sand habitat in front",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats, (ii) the distribution and intensity of pressures that disturb these habitats and (iii) biological sampled",
+      "context_window": "Achieving this will require the improvement of the three types of information that BH1 uses for all the units of assessment: (i) the distribution of benthic habitats, (ii) the distribution and intensity of pressures that disturb these habitats and (iii) biological sampled data of the abundance (biomass or number) of benthic species from each habitat across a pressure gradient (including no pressure/low-pressure areas).",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "from more sensitive (sensitivity 4) to less sensitive (sensitivity 2) Figure ab: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The three pressure-state curves show the three BBHTs from the Gulf of Cadiz with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 3)",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species proportion from 2016 to 2020.",
+      "context_window": "based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020. The shaded figure highlights that in this assessment unit, the bottom-trawling effort was underrepresented; therefore, this unit's assessment will also be underestimated",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the pressure-state curves of each habitat:",
+      "context_window": "processes). To establish the quality threshold for each habitat it was necessary to make three determinations based on the pressure-state curves of each habitat: (i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species proportion from",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 (ii) Gulf of Biscay",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold specific for each habitat (minimum proportion of sentinel species acceptable to keep ecosystem",
+      "context_window": "Once the predicted values of sentinel species proportion across the habitat were generated, they were converted into high disturbance, moderate disturbance and low disturbance areas by using a quality threshold specific for each habitat (minimum proportion of sentinel species acceptable to keep ecosystem processes). To establish the quality threshold for each habitat it was necessary to make three determinations based on",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "). Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities, from more sensitive (sensitivity 4) to less sensitive (sensitivity 2)",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status.",
+      "context_window": "Top: Final assessment status for the period from 2016 to 2020. Bottom: Uncertainty associated with the assessment of habitat status. Table p: Summary of the final assessment statistics of North Iberian Atlantic MSFD Broad Habitat Type",
+      "page_number": 80,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The distribution of the sentinel species proportion from 2016 to 2020 (",
+      "context_window": "proportion from 2016 to 2020 For the assessment period from 2016 to 2020 The distribution of the sentinel species proportion from 2016 to 2020 ( Figure w ) varied from 0.49 to 1, with",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed",
+      "context_window": "Figure ab ). Figure aa11: Distance to degradation approach methodology for setting thresholds to evaluate disturbance on seabed habitats. The four pressure-state curves show the four BBHTs from North Iberian Atlantic with different sensitivities,",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreases in some regions of the upper bathyal sediment habitat (",
+      "context_window": "product of the combination of pressure and typology of the habitat. In fact, during this period, the effort decreases in some regions of the upper bathyal sediment habitat ( Figure h ,",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance within assessment units:",
+      "context_window": "circalittoral mud (QSR: 39,44%; MSFD: 41,07%) and upper bathyal sediment (QSR: 39,2%; MSFD: 44,32%). Habitat disturbance within assessment units: OSPAR Commission 2023 15 of 106",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status",
+      "context_window": "Top: Final assessment status for the period from 2009 to 2020. Bottom: Uncertainty associated with the assessment of habitat status Sentinels of the Seabed 72 of 106",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Top: Prediction of sentinel species based",
+      "context_window": "Figure u: North Iberian Atlantic. Overall Common Indicator Assessment area. Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat sensitivity.",
+      "context_window": "Once the list of sentinel species has been defined, its relative abundance (proportion) within each sampled value of disturbance is computed, and its evolution across the disturbance gradient is analysed to assess the habitat sensitivity. Step 4. Assessing habitat response to the pressure: prediction of sentinel species The correlation between the proportion of sentinel species and the trawling effort per habitat type was",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "product of the combination of pressure and typology of the habitat.",
+      "context_window": "the effort in the area since it slightly increased during this period. It is clear, then, that these results are the product of the combination of pressure and typology of the habitat. In fact, during this period, the effort decreases in some regions of the upper bathyal sediment habitat (",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity 3 and 0,66 for habitats of sensitivity 2).",
+      "context_window": "established as a percentile of the distance between the origin of the curve and the degradation point. Currently, three potential distances are being explored (0,33 for habitats of sensitivity 4, 0,5 for habitats of sensitivity 3 and 0,66 for habitats of sensitivity 2). Table l and",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The BH1 indicator can detect variations in the community composition of marine habitats produced by any",
+      "context_window": "of the quality thresholds since all the indicators use it in their assessment to catalogue the state of the BBHTs. Knowledge Gaps (extended) The BH1 indicator can detect variations in the community composition of marine habitats produced by any physical or chemical disturbances if the species' sensitivity to these disturbances is known. BH1 is adapted to",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2016 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2016 to 2020 For the assessment period from 2016 to 2020",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bottom: Standard error associated with the prediction of sentinel species proportion from",
+      "context_window": "Top: Prediction of sentinel species based on the mean SAR value from 2009 to 2020. Bottom: Standard error associated with the prediction of sentinel species proportion from 2009 to 2020 Sentinels of the Seabed",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The BH1 assessment method and application have been tested and revised, showing that the sentinel species",
+      "context_window": "need to incorporate into its analyses: (a) environmental variables and (b) other pressures. (a) Environmental variables The BH1 assessment method and application have been tested and revised, showing that the sentinel species assessed are sensitive to the pressure studied. However, environmental variables may also affect their",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rhythm at which the reduction in the habitat state is observed.",
+      "context_window": "from more sensitive (sensitivity 4) to less sensitive (sensitivity 3) The degradation point is the point at which the pressure-state curves change their trend, decreasing the rhythm at which the reduction in the habitat state is observed. Although several statistical tools are being explored to obtain this point, currently, the method relies on the 45 degrees slope of the tangent to the",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to",
+      "context_window": "show the sentinel species proportion and the pressure values at the degradation point for the three thresholds (standard, precautionary and tolerant) for each habitat and the threshold used for each of the habitats based on their sensitivity to pressure has been highlighted in yellow. Table l1: Values of the proportion of sentinel species (S.S.) and pressure (Press.)",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2.",
+      "context_window": "located in the first third of that range (p.33) and (iii) the tolerant threshold (p.66). This assessment used the precautionary threshold for habitats with a sensitivity value of 4, the standard for habitats with a sensitivity of 3 and the tolerant for habitats with a sensitivity of 2. The criteria that support the BH1 methodology for setting quality thresholds are the most appropriate to date, but it is temporary and",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contribution of each species to the total biomass and differences in real sensitivity between species with the",
+      "context_window": "). Of course, there is not always a clear connection between the list of sentinel species and the habitat sensitivity since the contribution of each species to the total biomass and differences in real sensitivity between species with the same BESITO value also can have an essential role in the observed response (e.g., offshore circalittoral mixed sediment,",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with the assessment of habitat status",
+      "context_window": "Top: Final assessment status for the period from 2009 to 2020. Bottom: Uncertainty associated with the assessment of habitat status For the assessment period from 2016 to 2020 Discarding the South-Iberian Atlantic assessment unit (whose results include a substantial uncertainty), the",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the",
+      "context_window": "Figure x ) through the different geographic areas displayed a significant concentration of very low sentinel species proportion (i.e., heavy loss of habitat condition) through the offshore circalittoral mud, circalittoral mud and circalittoral sand habitats ( Figure h",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "useful insights into benthic habitat condition",
+      "context_window": "functions. Monitoring a group of keystone species (from a structural and functional point of view) provides useful insights into benthic habitat condition . Therefore, monitoring sentinel species (species characteristic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "will be used for sensitive responses, while a more permissive one will be applied for habitats with more",
+      "context_window": "The thresholds generated must respond to the range of sensitivities of the different habitats, so a more conservative one will be used for sensitive responses, while a more permissive one will be applied for habitats with more tolerance to the pressure. For that, three thresholds were defined: (i) the standard which corresponds with",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), but in this case, the habitat condition loss extent had spread over the offshore circalittoral",
+      "context_window": "species ( Figure u ), but in this case, the habitat condition loss extent had spread over the offshore circalittoral mud and sand habitats plus the upper bathyal sediment ( Figure f",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats to guarantee the habitat quality.",
+      "context_window": "(i) Habitat sensitivity determination. The threshold must be defined based on the specific sensitivity of the habitats to guarantee the habitat quality. The habitat sensitivity was calculated by comparing the response curve for each habitat with five theoretical models using an R function developed for this purpose (see",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring a group of keystone species (from a structural and functional point of view) provides",
+      "context_window": "disturbances produce changes to habitat condition, including modifications in species composition and their functions. Monitoring a group of keystone species (from a structural and functional point of view) provides useful insights into benthic habitat condition .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 107,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1,
+      "hypoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 75,
+      "end_sentence": 80,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 75,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 76,
+          "page_number": 3,
+          "content": "Status of benthic habitats in relation to trawling was assessed in the Bay of Biscay and Iberian Coa...",
+          "full_length": 110
+        },
+        {
+          "sentence_id": 77,
+          "page_number": 3,
+          "content": "Offshore circalittoral mud were the most affected habitats (80% highly or moderate disturbed) and up...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "bathyal sediment the least (46% highly or moderate disturbed).",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "The South Iberian Atlantic assessment is",
+          "full_length": 40
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 5765,
+      "end_sentence": 5779,
+      "sentence_count": 15,
+      "page_range": "100-100",
+      "sentences": [
+        {
+          "sentence_id": 5765,
+          "page_number": 100,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 5766,
+          "page_number": 100,
+          "content": "This BH1 QSR 2023 assessment evaluated the level of disturbance of the main benthic habitats affecte...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 5767,
+          "page_number": 100,
+          "content": "bottom-contact fishing in the common indicator assessment units from 2009 to 2020 (QSR) and from 201...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 5768,
+          "page_number": 100,
+          "content": "to 2020 (MSFD).",
+          "full_length": 15
+        },
+        {
+          "sentence_id": 5769,
+          "page_number": 100,
+          "content": "The assessment showed that bottom trawling was widely distributed over the continental shelf of the ...",
+          "full_length": 103
+        }
+      ],
+      "total_sentences_in_section": 15
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 5780,
+      "end_sentence": 5844,
+      "sentence_count": 65,
+      "page_range": "100-101",
+      "sentences": [
+        {
+          "sentence_id": 5780,
+          "page_number": 100,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 5781,
+          "page_number": 100,
+          "content": "The BH1 QSR 2023 assessment is the first quantitative evaluation of the extent of benthic habitats' ...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 5782,
+          "page_number": 100,
+          "content": "disturbance in response to bottom-contact fishing within the North-East Atlantic.",
+          "full_length": 81
+        },
+        {
+          "sentence_id": 5783,
+          "page_number": 100,
+          "content": "The assessment was run",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 5784,
+          "page_number": 100,
+          "content": "from 2009 to 2020, the timeframe established for the QSR 2023 to identify and analyse information us...",
+          "full_length": 103
+        }
+      ],
+      "total_sentences_in_section": 65
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 5993,
+      "end_sentence": 6100,
+      "sentence_count": 108,
+      "page_range": "103-105",
+      "sentences": [
+        {
+          "sentence_id": 5993,
+          "page_number": 103,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 5994,
+          "page_number": 104,
+          "content": "Sentinels of the Seabed",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 5995,
+          "page_number": 104,
+          "content": "104 of 106",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 5996,
+          "page_number": 104,
+          "content": "OSPAR Commission",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 5997,
+          "page_number": 104,
+          "content": "Bueno Pardo, J.,Ramalho, S., García-Alegre, A., Rodrigues-Morgado, M., Vieira, R., Cunha, M., Queiro...",
+          "full_length": 106
+        }
+      ],
+      "total_sentences_in_section": 108
+    }
+  ],
+  "metadata": {
+    "total_sentences": 6184,
+    "chunks_selected": 109,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 75,
+        "end_sentence": 80,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 5765,
+        "end_sentence": 5779,
+        "sentence_count": 15
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 5780,
+        "end_sentence": 5844,
+        "sentence_count": 65
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 5993,
+        "end_sentence": 6100,
+        "sentence_count": 108
+      }
+    ],
+    "total_excluded_sentences": 194
+  }
+}

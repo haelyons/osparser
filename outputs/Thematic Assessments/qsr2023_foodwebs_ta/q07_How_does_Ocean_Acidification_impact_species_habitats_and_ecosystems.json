@@ -1,0 +1,1568 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "Besides ocean warming, ocean acidification can have an impact on food web interactions, with consumers",
+      "context_window": "56 of 61 OSPAR Commission Besides ocean warming, ocean acidification can have an impact on food web interactions, with consumers expected to be affected by changes to the nutritional quality of their prey (Rossoll et al",
+      "page_number": 56,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Besides triggering ocean warming,",
+      "context_window": "distribution patterns and displacement of marine species, towards either northern areas or greater depths, represent an important driver that is affecting food web interactions. Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species.",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "primary productivity, and has increased ocean acidification, with effects on shell-forming species.",
+      "context_window": "Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species. Synergies between these stressors may contribute to ecosystem food web stabilization and alter food web energy flow",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in",
+      "context_window": "conserve the OSPAR listed species and habitats. Ecosystem restoration provides another opportunity to support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”.",
+      "page_number": 51,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "important implications for upper trophic levels due to cascading effects.",
+      "context_window": "interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial distribution patterns and displacement of marine species, towards either northern areas or greater depths,",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering",
+      "context_window": "represent an important driver that is affecting food web interactions. Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species. Synergies",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "downward trend in primary production probably linked to decreasing modelled pH.",
+      "context_window": "Indicator Pilot Assessment of Primary Productivity (FW2), the pilot assessment results revealed a significant downward trend in primary production probably linked to decreasing modelled pH. For the same reason as stated with variable salinity habitats, it is currently unclear whether the decrease in primary production",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dissolved oxygen, a decrease in the flux of particulate organic matter to the seafloor, a decrease in pH and",
+      "context_window": "2017). In the North Atlantic, such changes could include a decrease in seawater temperature, a loss of dissolved oxygen, a decrease in the flux of particulate organic matter to the seafloor, a decrease in pH and saturation of the minerals involved in the carbon cycle (e.g., calcite and aragonite) (Gehlen et al",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This section evaluates the impact that changes in the environmental state of fo",
+      "context_window": "Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo od webs , as described in the",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”.",
+      "context_window": "Ecosystem restoration provides another potential opportunity to support healthy food webs in line with NEAES Strategic Objective 6, to “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”. With regard to the OSPAR MPA network, understanding the management effectiveness of MPAs within the network, and the network itself, remains an important gap to address, particularly from an ecosystem",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": ": Restore degraded benthic habitats in the North-East Atlantic when practicable to",
+      "context_window": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience; Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification; Strategic Objective 9",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification”.",
+      "context_window": "support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”. With regard to the OSPAR MPA network, understanding the management effectiveness of the MPAs within the network, and the network itself, remains an important gap to address, particularly from the perspective",
+      "page_number": 51,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "For example, climate change could reduce suitable habitat for cold-water corals",
+      "context_window": "driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals and deep-sea fishes, forcing them to shift to northern latitudes (Morato et al",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "primary production linked to a decreasing trend in modelled pH in shelf ecosystems.",
+      "context_window": "Assessment of Primary Productivity (FW2) pilot assessment results revealed a significant downward trend in primary production linked to a decreasing trend in modelled pH in shelf ecosystems. While the present assessment identified a decrease in primary production congruent with Tilstone",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "safeguard their ecosystem function and resilience to climate change and ocean acidification;",
+      "context_window": "Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification; Strategic Objective 9 : Safeguard the structure and functions of the seabed/marine ecosystems by preventing",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Declines observed in the biomass and abundance of phytoplankton and zooplankton might have",
+      "context_window": "Climate change represents one of the main factors currently affecting marine ecosystems and their feeding interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "For meroplankton, the changes",
+      "context_window": "For dinoflagellates, the changes were linked to an increase in the ratio of nitrogen to phosphorous. For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification.",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "in primary production linked to a modelled decreasing trend in pH.",
+      "context_window": "Pilot Assessment of Primary Productivity (FW2), the pilot assessment results revealed a significant decrease in primary production linked to a modelled decreasing trend in pH. Relevant literature on primary production trends in the area is scarce.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification and primary production over long-term timescales. Changes in pH arise from",
+      "context_window": "production in the Celtic Sea. In addition, the existing literature has not yet investigated the link between ocean acidification and primary production over long-term timescales. Changes in pH arise from concentration of dissolved inorganic carbon, which in turn depends on phytoplankton activity (resulting in the balance between production and respiration) and CO",
+      "page_number": 24,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems.",
+      "context_window": "food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo od webs",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven changes in the spatial distribution of deep-sea fauna raise important questions about associated",
+      "context_window": "et al ., 2020). Climate- driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystem-wide impacts.",
+      "context_window": "., 2020). Climate- driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals and deep-sea fishes, forcing them to shift to northern latitudes (Morato",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Oxygen depletion may also affect the remineralisation capacity of benthic fauna, as well as the",
+      "context_window": "through microbial processes and remineralization in deeper water layers, leading to large areas of oxygen deficiency. Oxygen depletion may also affect the remineralisation capacity of benthic fauna, as well as the distribution and reproduction of higher trophic level organisms. Input or spread of non-indigenous species",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in phytoplankton communities and biomass and changes in zooplankton communities and",
+      "context_window": "pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services. Changes in phytoplankton communities and biomass and changes in zooplankton communities and abundance: Phytoplankton communities are directly linked to zooplankton communities. The presence and abundance",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "production in the variable salinity and coastal habitats assessed here is due to decreasing pH or if it is the",
+      "context_window": "et al ., 2013), it is unclear at this stage if the decrease in primary production in the variable salinity and coastal habitats assessed here is due to decreasing pH or if it is the cause of decreasing pH. Further investigations should untangle the links between phytoplankton activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I – Impact (on ecosystem services)",
+      "context_window": "et al. , 2021). I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "web can impact the whole ecosystem through knock-on and cascading effects.",
+      "context_window": "The food web is key to the health of the marine ecosystem. Significant impacts on one element of the food web can impact the whole ecosystem through knock-on and cascading effects. A well-balanced food web is a key factor underpinning a healthy marine ecosystem.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detected in this assessment was the consequence of ocean acidification.",
+      "context_window": "For the same reason as stated with variable salinity habitats, it is currently unclear whether the decrease in primary production detected in this assessment was the consequence of ocean acidification. Shelf ecosystems Plankton community assessment",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "distribution patterns and displacement of marine species, towards either northern areas or greater depths,",
+      "context_window": "important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial distribution patterns and displacement of marine species, towards either northern areas or greater depths, represent an important driver that is affecting food web interactions. Besides triggering ocean warming,",
+      "page_number": 52,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 62,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services",
+      "context_window": "I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services they provide are observed or expected, except that research and education activities will probably increase due to the generally unknown status of food webs.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences for upper trophic levels.",
+      "context_window": "There has been a general pattern of decreasing phytoplankton and zooplankton abundance and / or biomass across the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast, which might have consequences for upper trophic levels. Demersal fish communities have not achieved good status in any of the assessed Regions.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chronic effects in marine systems (Lawrence",
+      "context_window": "structure and functioning, including habitat degradation, soil erosion, environmental pollution and disturbance, and have contributed to population declines and biodiversity losses arising from both acute and chronic effects in marine systems (Lawrence et al ., 2015).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "importance to operationalize the development of models suitable for examining the ecosystem-wide impacts",
+      "context_window": "New information on the life histories, feeding preferences and habitat use of different deep-sea species/functional groups is therefore of paramount importance to operationalize the development of models suitable for examining the ecosystem-wide impacts of climate change on deep-sea ecosystems. This is one of the priorities of the modelling efforts currently",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "It is feared that the impacts on Arctic Sea mammal species, both seals",
+      "context_window": "These include a reduction in the territory and ice conditions needed for seals to give birth and increased risk of killer whale attack. It is feared that the impacts on Arctic Sea mammal species, both seals and whales, will lead to major changes in food webs (ICES WGICA 2018; ICES WGIBAR 2021; ICES WGINOR 2022).",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shelf ecosystems",
+      "context_window": "stated with variable salinity habitats, it is currently unclear whether the decrease in primary production detected in this assessment was the consequence of ocean acidification. Shelf ecosystems Plankton community assessment For shelf ecosystems of the Celtic Seas, the  Common Indicator Assessment on",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In addition, climate change alters species phenology and life-cycle",
+      "context_window": "primary production rates and species composition of phytoplankton and zooplankton, which in turn will trigger changes at other trophic levels. In addition, climate change alters species phenology and life-cycle events and leads to a desynchronization of biotic interactions, in particular predator-prey relationships. These stressors may have a greater impact in some regions than in others, but given the level of globalization",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Q4. How does this field affect the overall quality status?",
+      "context_window": "It is critically important to continue to improve food web indicators in order to inform the development and implementation of responses that take a more integrated approach. Q4. How does this field affect the overall quality status? The food web is key to the health of the marine ecosystem. Significant impacts on one element of the food",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resources, utilization of discards by some species, and / or parasitism.",
+      "context_window": "2014). Additional effects involve food web processes related to prey availability, competition for food resources, utilization of discards by some species, and / or parasitism. Deterioration in the condition of some fish species due to complex biological and chemical interactions has also been observed.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification.",
+      "context_window": "For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification. No data were available for gelatinous zooplankton; however, there was high confidence for all time-series assessed and high spatial representation of assessment units. The",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Trophic cascades affect the",
+      "context_window": "activities. The results indicate risks for both bottom-up and top-down effects. Trophic cascades affect the entire food web and thereby the functioning of the entire ecosystem. The status of the Arctic Waters Region is illustrated through region-relevant peer-reviewed literature as well",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts on the provision of ecosystem services by marine food webs",
+      "context_window": ", 2021). I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services they provide are observed or expected, except that research and education activities will probably increase",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton) have experienced significant changes, indicating alterations in ecosystem functioning (OSPAR,",
+      "context_window": "In addition, OSPAR assessments in studies of planktonic life forms have shown that plankton communities (phytoplankton and zooplankton) have experienced significant changes, indicating alterations in ecosystem functioning (OSPAR, 2017i). However, although these assessments show that important changes have occurred, they are preliminary, and it is difficult to draw conclusions about extent and direction, and what the consequences",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how to address key pressures (such as fishing and shipping), and research.",
+      "context_window": "The collective actions include coordination of monitoring and assessment, enhancing knowledge exchange, collaborating and maintaining cooperation with relevant competent organisations on how to address key pressures (such as fishing and shipping), and research. From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that are functionally important in the north-east Atlantic, particularly certain apex predators and habitats.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean",
+      "context_window": "changes were linked to an increase in the ratio of nitrogen to phosphorous. For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification. No data were available for gelatinous zooplankton; however, there was high confidence for all",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "phytoplankton and macrophytes, and an increase in community respiration (Baird",
+      "context_window": "., 2019). Results have shown, inter alia, an intensification of detrital production and consumption, a substantial increase in total system throughput, a decline in consumption of phytoplankton and macrophytes, and an increase in community respiration (Baird et al ., 2019). Non-",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "about the direct impact on food webs, some studies point towards a drop in commercial catches due to",
+      "context_window": "alter breeding habits and cause injuries or even death to many marine organisms. Although little is known about the direct impact on food webs, some studies point towards a drop in commercial catches due to noise, with larger fish vacating disturbed areas, which can lead to top-down effects (removal of top predators can lead to unwanted abundances at lower trophic levels).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are for overall marine ecosystem dynamics and the provision of ecosystem services in the OSPAR Maritime",
+      "context_window": "2017i). However, although these assessments show that important changes have occurred, they are preliminary, and it is difficult to draw conclusions about extent and direction, and what the consequences are for overall marine ecosystem dynamics and the provision of ecosystem services in the OSPAR Maritime Area. For this reason, the links between the trends observed for phytoplankton (biomass and primary production) and zooplankton (abundance) and ecosystem services are represented as links that exist but",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change represents one of the main factors currently affecting marine ecosystems and their feeding",
+      "context_window": "Climate Change Impacts of climate change on food webs Climate change represents one of the main factors currently affecting marine ecosystems and their feeding interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "disturbance, and have contributed to population declines and biodiversity losses arising from both acute and",
+      "context_window": "the construction of complex infrastructure projects. They have potential consequences for food web structure and functioning, including habitat degradation, soil erosion, environmental pollution and disturbance, and have contributed to population declines and biodiversity losses arising from both acute and chronic effects in marine systems (Lawrence et al",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem",
+      "context_window": "2017). These components of the marine ecosystem, as a result of environmental impacts from human-related pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services. Changes in phytoplankton communities and biomass and changes in zooplankton communities and",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect",
+      "context_window": "., 2015). Thus, it is critical to channel research efforts into seeking an understanding (among other questions) (a) of how poleward shifts in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect the ability of the deep-sea ecosystem to provide essential services. An important step towards answering such questions is to improve current capabilities for modelling deep-",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shelf ecosystems",
+      "context_window": "These changes mainly related to the pelagic parts of the food web, including a strong increase in the biomass of zooplankton, bacteria and zooplanktivorous fish. Shelf ecosystems Plankton community assessment For shelf ecosystems, the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large copepods in shelf ecosystems, and downward trends in small and large copepods in oceanic/beyond",
+      "context_window": "ecosystems; FW4 = no trend (unknown implication) in the three habitat types assessed; FW3 = no trend (unknown implications) in shelf ecosystems; FW5 = downward trends for holoplankton, small copepods and large copepods in shelf ecosystems, and downward trends in small and large copepods in oceanic/beyond shelf ecosystems; FW2 = downward trend in shelf and oceanic/beyond shelf ecosystems; FC3 = no trend (unknown implications) in shelf ecosystems; and FW7 = downward trend (deteriorating state) for",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem services that are in most cases cited as being provided by the dynamics of marine food webs can",
+      "context_window": "the individual state indicators and the provision of specific ecosystem services. It follows that, links to the ecosystem services that are in most cases cited as being provided by the dynamics of marine food webs can be assumed. In fact, state changes such as an alteration in the proportion of large fish (FC2) and depletion of",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in meroplankton in shelf ecosystems; FW2 = downward trends in variable salinity, coastal and shelf",
+      "context_window": "NA = Not Assessed; FC2 = threshold failed in shelf ecosystems; FW3 = downward trend (deteriorating state) in shelf ecosystems; FW5 = downward trends in holoplankton and upward trends in meroplankton in shelf ecosystems; FW2 = downward trends in variable salinity, coastal and shelf ecosystems; FC3 = downward trend (deteriorating state) in shelf ecosystems; FW7 = downward trend (deteriorating state) for planktivorous fish and no trend (unknown implications) for sub-apex demersal",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven effects on the productivity, biodiversity, metabolism and distribution of various deep-sea organisms",
+      "context_window": "environmental properties are difficult to predict. Nevertheless, several studies have demonstrated climate- driven effects on the productivity, biodiversity, metabolism and distribution of various deep-sea organisms (Levin & Le Bris, 2015; Levin et al",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the ability of the deep-sea ecosystem to provide essential services.",
+      "context_window": "channel research efforts into seeking an understanding (among other questions) (a) of how poleward shifts in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect the ability of the deep-sea ecosystem to provide essential services. An important step towards answering such questions is to improve current capabilities for modelling deep- sea ecosystems through network analysis or trophic models.",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food web structure and functioning.",
+      "context_window": "In addition to climate change, fishing pressures, physical disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Adverse changes in marine food web structure, richness and functioning",
+      "context_window": "disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Additional effects involve food web processes related to prey availability, competition for food",
+      "context_window": "varies widely between ecosystems, and there is no formal theory as to why this should be so (Heath et al., 2014). Additional effects involve food web processes related to prey availability, competition for food resources, utilization of discards by some species, and / or parasitism. Deterioration in the condition of",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine food webs’ and ‘wild fish and other natural aquatic biomass and related raw materials’ (Oke",
+      "context_window": "OSPAR Commission production and nutrient transport, and in turn for ecosystem services such as ‘regulation and maintenance of marine food webs’ and ‘wild fish and other natural aquatic biomass and related raw materials’ (Oke et al .,",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep-sea ecosystem in the Wider Atlantic.",
+      "context_window": "Candidate Indicator Pilot Assessment of Ecological Network Analysis Indices (FW9) was assessed for a deep-sea ecosystem in the Wider Atlantic. A globally decreasing trend for biomass at all trophic levels was evident in the Azores food web model.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The food web assessment results indicate potential risks of both bottom-up and top-down effects impacting",
+      "context_window": "indicates that climate change is currently the strongest driver of change in the marine food web in this Region. The food web assessment results indicate potential risks of both bottom-up and top-down effects impacting ecosystem function. Q5. What do we do next?",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "trophic network will be impacted in different ways by climate change depending on species composition, but",
+      "context_window": "As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but also on temporal and spatial dynamics (Nogues et al",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "gastropod herbivores (mesograzers), with consequent effects on marine vegetation.",
+      "context_window": "example, decreases in the biomass of predators in offshore areas can lead to increases in the abundance of mesopredators along the coast. Coastal mesopredators can regulate the abundance of crustacean and gastropod herbivores (mesograzers), with consequent effects on marine vegetation. Accordingly, it has been observed how an increase in coastal mesopredators, leading to a decrease in important mesograzers and in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The food-web cascading effects could locally and negatively affect the ecosystem service of ‘(global) climate",
+      "context_window": "increase in predators could lead to a decrease in zooplanktivorous predators, and thus to an increase in zooplankton, leading in turn to a decrease in phytoplankton and the associated primary productivity. The food-web cascading effects could locally and negatively affect the ecosystem service of ‘(global) climate regulation’. Similar reasoning can be applied to marine predators in general (whales, large pelagic fish, sea",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the study of marine food webs, the distribution, productivity and abundance of all marine biota and the",
+      "context_window": "In the study of marine food webs, the distribution, productivity and abundance of all marine biota and the relationships between them are of relevance, as they in a sense integrate the status of all the ecosystem components.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predators in shelf ecosystems; and FW9= no trend (unknown implications) in coastal and shelf ecosystems,",
+      "context_window": "ecosystems; FC3 = downward trend (deteriorating state) in shelf ecosystems; FW7 = downward trend (deteriorating state) for planktivorous fish and no trend (unknown implications) for sub-apex demersal predators in shelf ecosystems; and FW9= no trend (unknown implications) in coastal and shelf ecosystems, *This pilot assessment was done in specific areas and did not cover the whole region 21 of 61",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience;",
+      "context_window": "Strategic Objective 5: Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience; Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of climate change on deep-sea ecosystems.",
+      "context_window": "preferences and habitat use of different deep-sea species/functional groups is therefore of paramount importance to operationalize the development of models suitable for examining the ecosystem-wide impacts of climate change on deep-sea ecosystems. This is one of the priorities of the modelling efforts currently underway in the Azores.",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "environmental preferences, climate change does not impact them homogeneously. This means that the",
+      "context_window": "(in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but also on temporal and spatial dynamics (Nogues",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "The displacement of species toward greater depths is an additional change detected in the distribution of",
+      "context_window": "et al ., 2011). The displacement of species toward greater depths is an additional change detected in the distribution of those species that seek a better niche condition (Dulvy et al",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected",
+      "context_window": "both network topology and spatial organization. Changes in ecosystem functioning may also impact the way in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected cumulative effects on ecosystems, where climate change is combined with other drivers. In this connection,",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Knowledge gaps and way forward towards an integrated assessment of food webs",
+      "context_window": "The only exception was the resilience indicator, suggesting that the resilience of the ecosystem is decreasing. Knowledge gaps and way forward towards an integrated assessment of food webs The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing to the intrinsic complexity of marine networks and trophic interactions.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food webs are not in good environmental status.",
+      "context_window": "picture of food web status. This assessment covers all OSPAR Regions, and the overall results indicate that food webs are not in good environmental status. In the Greater North Sea, the indicators for demersal fish communities have not achieved the threshold indicating good status, which suggests that this component of the food web is under pressure.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton species, which may trigger potential changes in trophic interactions. Since the 2017",
+      "context_window": "2022). Climate change is expected to affect primary production rates and trends but also the composition of phyto and zooplankton species, which may trigger potential changes in trophic interactions. Since the 2017 Intermediate Assessment, several new analyses of primary production sensitivity to environmental controlling variables have been published for the North Sea and/or the North Atlantic in the context of",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "cumulative effects on ecosystems, where climate change is combined with other drivers.",
+      "context_window": "Changes in ecosystem functioning may also impact the way in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected cumulative effects on ecosystems, where climate change is combined with other drivers. In this connection, numerous non-additive effects were observed on ENA indices when climate change was combined with the",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "of major changes in phytoplankton biomass and productivity and zooplankton abundance and community",
+      "context_window": "). However, by presenting and describing the ecosystem services underpinned by phytoplankton and zooplankton it is possible to at least identify which of the ecosystem services may be altered as a result of major changes in phytoplankton biomass and productivity and zooplankton abundance and community functioning (Bedford et al",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change represent the main human pressures affecting trophic networks and OSPAR marine",
+      "context_window": "Changes in state of marine food webs Food webs have shown widespread changes in the OSPAR Maritime Area in recent decades. Fishing and climate change represent the main human pressures affecting trophic networks and OSPAR marine ecosystems. There has been a general pattern of decreasing phytoplankton and zooplankton abundance and",
+      "page_number": 14,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "zooplankton and others, play differing and important roles in sustaining the dynamics of marine food webs.",
+      "context_window": "Marine food webs are made up of and sustained by all the organisms that make up marine ecosystems. Accordingly the various trophic guilds, be they marine mammals, marine invertebrates, fish, phytoplankton, zooplankton and others, play differing and important roles in sustaining the dynamics of marine food webs. 36 of 61 OSPAR Commission",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts of climate change can drastically affect the structure and function of marine food webs, with",
+      "context_window": "Climate change measures: Climate Change Thematic Assessment The impacts of climate change can drastically affect the structure and function of marine food webs, with implications for ecosystem services (Ullah et al",
+      "page_number": 50,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure",
+      "context_window": "interconnected. Therefore, the disappearance of specific prey for some predators and/or changes in the distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure (in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts of climate change on the marine ecosystem are expected to reach the deepest parts of the",
+      "context_window": "et al ., 2021). The impacts of climate change on the marine ecosystem are expected to reach the deepest parts of the ocean. Projections point to significant changes in deep-water mass properties worldwide (Sweetman et al",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Pelagic Habitats",
+      "context_window": "Benthic Habitats Thematic Assessment , Pelagic Habitats Thematic Assessment flow into this thematic assessment and vice versa, because all marine ecosystem",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coastal ecosystems",
+      "context_window": "(PH2), the most important predictor of decreasing primary production was decreasing concentration of dissolved inorganic phosphate. Coastal ecosystems Plankton community assessment For coastal ecosystems, the",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the aim of ensuring that the network provides a good representation of species and habitats and that its",
+      "context_window": "By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant. Other OSPAR measures responding to relevant human activities and pressures:",
+      "page_number": 48,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact",
+      "context_window": "due to the generally unknown status of food webs. In addition to climate change, fishing pressures, physical disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "decreasing trend for primary production and for virtually all plankton lifeforms.",
+      "context_window": "good status, suggesting a long term status decline in the Region. Plankton community indicators show a decreasing trend for primary production and for virtually all plankton lifeforms. The fish feeding guild indicator shows an increasing trend in the biomass of three of the four guilds investigated in the northern",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing",
+      "context_window": "was the resilience indicator, suggesting that the resilience of the ecosystem is decreasing. Knowledge gaps and way forward towards an integrated assessment of food webs The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing to the intrinsic complexity of marine networks and trophic interactions. To better assess the state of food",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic coupling through their impacts on the physical and biological components of the marine ecosystem,",
+      "context_window": "., 2017). At the same time, anthropogenic pressures and related environmental impacts (addressed in the pressure-related thematic assessments) influence benthic- pelagic coupling through their impacts on the physical and biological components of the marine ecosystem, including phytoplankton. For example, a climate change-related increase in water temperature may cause",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes in predator-prey interactions, altering bentho-pelagic coupling and the overall functioning of",
+      "context_window": "composition and the removal of organisms. This may lead to shifts in the spatial distribution of species and changes in predator-prey interactions, altering bentho-pelagic coupling and the overall functioning of bentho-demersal ecosystems. Fishing gears such as trawls and dredges can greatly alter the seabed © Shutterstock",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As the species in an ecosystem have different",
+      "context_window": "distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure (in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "cascading consequences for marine food webs and consequently for the ecosystem services supported by",
+      "context_window": "Trophic Level of a fishery indicates a shift from intense fishing pressure on higher trophic levels to increasing fishing pressure on lower trophic levels, due to a decline in the biomass of higher trophic levels; this can have cascading consequences for marine food webs and consequently for the ecosystem services supported by their balanced functioning (Essington et al",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "Food webs have shown widespread changes in the OSPAR Maritime Area in recent decades. Fishing and climate change represent the main human pressures affecting trophic networks and OSPAR marine ecosystems. There has been a general pattern of decreasing phytoplankton and zooplankton abundance and / or biomass across the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast, which might have",
+      "page_number": 14,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that",
+      "context_window": "knowledge exchange, collaborating and maintaining cooperation with relevant competent organisations on how to address key pressures (such as fishing and shipping), and research. From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that are functionally important in the north-east Atlantic, particularly certain apex predators and habitats. The",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These components of the marine ecosystem, as a result of environmental impacts from human-related",
+      "context_window": ", 2017). These components of the marine ecosystem, as a result of environmental impacts from human-related pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with",
+      "context_window": "Parties to deliver on NEAES S11.O2. By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.",
+      "page_number": 48,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "lifeforms in coastal ecosystems, with downward trends in dinoflagellates and holoplankton and upward",
+      "context_window": "based on each indicator results. NA = not assessed; FC2 = threshold failed in shelf ecosystems; FW3= downward trend (deteriorating state) in shelf ecosystems; FW5 = downward trends for four plankton lifeforms in coastal ecosystems, with downward trends in dinoflagellates and holoplankton and upward trends in meroplankton in shelf ecosystems; FW2= downward trends in variable salinity and shelf ecosystems and no trend in coastal ecosystems; FC3 = no trend (unknown implications) in shelf ecosystems;",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Responses to improve the state of marine food webs",
+      "context_window": "in the context of ecosystem services quantification. R – Response Responses to improve the state of marine food webs Food webs are the umbrella that connects all biodiversity components from primary producers to apex predators, and their various interactions and energy transfers across trophic levels must be taken into",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food webs are key to our understanding of changes in ecosystem structure and functioning. Changes in",
+      "context_window": "In Arctic Waters (OSPAR Region I) a different set of information was used and therefore not included in the assessment overviews for indicators. Food webs are key to our understanding of changes in ecosystem structure and functioning. Changes in marine food web structure and functioning can affect the provision of ecosystem services, as outlined in the Ecosystem Services section.",
+      "page_number": 14,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "Besides ocean warming, ocean acidification can have an impact on food web interactions, with consumers",
+      "context_window": "56 of 61 OSPAR Commission Besides ocean warming, ocean acidification can have an impact on food web interactions, with consumers expected to be affected by changes to the nutritional quality of their prey (Rossoll et al",
+      "page_number": 56,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "primary productivity, and has increased ocean acidification, with effects on shell-forming species.",
+      "context_window": "Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species. Synergies between these stressors may contribute to ecosystem food web stabilization and alter food web energy flow",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "important implications for upper trophic levels due to cascading effects.",
+      "context_window": "interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial distribution patterns and displacement of marine species, towards either northern areas or greater depths,",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "downward trend in primary production probably linked to decreasing modelled pH.",
+      "context_window": "Indicator Pilot Assessment of Primary Productivity (FW2), the pilot assessment results revealed a significant downward trend in primary production probably linked to decreasing modelled pH. For the same reason as stated with variable salinity habitats, it is currently unclear whether the decrease in primary production",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This section evaluates the impact that changes in the environmental state of fo",
+      "context_window": "Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo od webs , as described in the",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": Restore degraded benthic habitats in the North-East Atlantic when practicable to",
+      "context_window": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience; Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification; Strategic Objective 9",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "For example, climate change could reduce suitable habitat for cold-water corals",
+      "context_window": "driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals and deep-sea fishes, forcing them to shift to northern latitudes (Morato et al",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "safeguard their ecosystem function and resilience to climate change and ocean acidification;",
+      "context_window": "Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification; Strategic Objective 9 : Safeguard the structure and functions of the seabed/marine ecosystems by preventing",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "For meroplankton, the changes",
+      "context_window": "For dinoflagellates, the changes were linked to an increase in the ratio of nitrogen to phosphorous. For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification.",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ocean acidification and primary production over long-term timescales. Changes in pH arise from",
+      "context_window": "production in the Celtic Sea. In addition, the existing literature has not yet investigated the link between ocean acidification and primary production over long-term timescales. Changes in pH arise from concentration of dissolved inorganic carbon, which in turn depends on phytoplankton activity (resulting in the balance between production and respiration) and CO",
+      "page_number": 24,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "driven changes in the spatial distribution of deep-sea fauna raise important questions about associated",
+      "context_window": "et al ., 2020). Climate- driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Oxygen depletion may also affect the remineralisation capacity of benthic fauna, as well as the",
+      "context_window": "through microbial processes and remineralization in deeper water layers, leading to large areas of oxygen deficiency. Oxygen depletion may also affect the remineralisation capacity of benthic fauna, as well as the distribution and reproduction of higher trophic level organisms. Input or spread of non-indigenous species",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "production in the variable salinity and coastal habitats assessed here is due to decreasing pH or if it is the",
+      "context_window": "et al ., 2013), it is unclear at this stage if the decrease in primary production in the variable salinity and coastal habitats assessed here is due to decreasing pH or if it is the cause of decreasing pH. Further investigations should untangle the links between phytoplankton activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "web can impact the whole ecosystem through knock-on and cascading effects.",
+      "context_window": "The food web is key to the health of the marine ecosystem. Significant impacts on one element of the food web can impact the whole ecosystem through knock-on and cascading effects. A well-balanced food web is a key factor underpinning a healthy marine ecosystem.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution patterns and displacement of marine species, towards either northern areas or greater depths,",
+      "context_window": "important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial distribution patterns and displacement of marine species, towards either northern areas or greater depths, represent an important driver that is affecting food web interactions. Besides triggering ocean warming,",
+      "page_number": 52,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services",
+      "context_window": "I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services they provide are observed or expected, except that research and education activities will probably increase due to the generally unknown status of food webs.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chronic effects in marine systems (Lawrence",
+      "context_window": "structure and functioning, including habitat degradation, soil erosion, environmental pollution and disturbance, and have contributed to population declines and biodiversity losses arising from both acute and chronic effects in marine systems (Lawrence et al ., 2015).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is feared that the impacts on Arctic Sea mammal species, both seals",
+      "context_window": "These include a reduction in the territory and ice conditions needed for seals to give birth and increased risk of killer whale attack. It is feared that the impacts on Arctic Sea mammal species, both seals and whales, will lead to major changes in food webs (ICES WGICA 2018; ICES WGIBAR 2021; ICES WGINOR 2022).",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, climate change alters species phenology and life-cycle",
+      "context_window": "primary production rates and species composition of phytoplankton and zooplankton, which in turn will trigger changes at other trophic levels. In addition, climate change alters species phenology and life-cycle events and leads to a desynchronization of biotic interactions, in particular predator-prey relationships. These stressors may have a greater impact in some regions than in others, but given the level of globalization",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "resources, utilization of discards by some species, and / or parasitism.",
+      "context_window": "2014). Additional effects involve food web processes related to prey availability, competition for food resources, utilization of discards by some species, and / or parasitism. Deterioration in the condition of some fish species due to complex biological and chemical interactions has also been observed.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trophic cascades affect the",
+      "context_window": "activities. The results indicate risks for both bottom-up and top-down effects. Trophic cascades affect the entire food web and thereby the functioning of the entire ecosystem. The status of the Arctic Waters Region is illustrated through region-relevant peer-reviewed literature as well",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton) have experienced significant changes, indicating alterations in ecosystem functioning (OSPAR,",
+      "context_window": "In addition, OSPAR assessments in studies of planktonic life forms have shown that plankton communities (phytoplankton and zooplankton) have experienced significant changes, indicating alterations in ecosystem functioning (OSPAR, 2017i). However, although these assessments show that important changes have occurred, they are preliminary, and it is difficult to draw conclusions about extent and direction, and what the consequences",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean",
+      "context_window": "changes were linked to an increase in the ratio of nitrogen to phosphorous. For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification. No data were available for gelatinous zooplankton; however, there was high confidence for all",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "about the direct impact on food webs, some studies point towards a drop in commercial catches due to",
+      "context_window": "alter breeding habits and cause injuries or even death to many marine organisms. Although little is known about the direct impact on food webs, some studies point towards a drop in commercial catches due to noise, with larger fish vacating disturbed areas, which can lead to top-down effects (removal of top predators can lead to unwanted abundances at lower trophic levels).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change represents one of the main factors currently affecting marine ecosystems and their feeding",
+      "context_window": "Climate Change Impacts of climate change on food webs Climate change represents one of the main factors currently affecting marine ecosystems and their feeding interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem",
+      "context_window": "2017). These components of the marine ecosystem, as a result of environmental impacts from human-related pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services. Changes in phytoplankton communities and biomass and changes in zooplankton communities and",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shelf ecosystems",
+      "context_window": "These changes mainly related to the pelagic parts of the food web, including a strong increase in the biomass of zooplankton, bacteria and zooplanktivorous fish. Shelf ecosystems Plankton community assessment For shelf ecosystems, the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem services that are in most cases cited as being provided by the dynamics of marine food webs can",
+      "context_window": "the individual state indicators and the provision of specific ecosystem services. It follows that, links to the ecosystem services that are in most cases cited as being provided by the dynamics of marine food webs can be assumed. In fact, state changes such as an alteration in the proportion of large fish (FC2) and depletion of",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven effects on the productivity, biodiversity, metabolism and distribution of various deep-sea organisms",
+      "context_window": "environmental properties are difficult to predict. Nevertheless, several studies have demonstrated climate- driven effects on the productivity, biodiversity, metabolism and distribution of various deep-sea organisms (Levin & Le Bris, 2015; Levin et al",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food web structure and functioning.",
+      "context_window": "In addition to climate change, fishing pressures, physical disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Additional effects involve food web processes related to prey availability, competition for food",
+      "context_window": "varies widely between ecosystems, and there is no formal theory as to why this should be so (Heath et al., 2014). Additional effects involve food web processes related to prey availability, competition for food resources, utilization of discards by some species, and / or parasitism. Deterioration in the condition of",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep-sea ecosystem in the Wider Atlantic.",
+      "context_window": "Candidate Indicator Pilot Assessment of Ecological Network Analysis Indices (FW9) was assessed for a deep-sea ecosystem in the Wider Atlantic. A globally decreasing trend for biomass at all trophic levels was evident in the Azores food web model.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic network will be impacted in different ways by climate change depending on species composition, but",
+      "context_window": "As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but also on temporal and spatial dynamics (Nogues et al",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "The food-web cascading effects could locally and negatively affect the ecosystem service of ‘(global) climate",
+      "context_window": "increase in predators could lead to a decrease in zooplanktivorous predators, and thus to an increase in zooplankton, leading in turn to a decrease in phytoplankton and the associated primary productivity. The food-web cascading effects could locally and negatively affect the ecosystem service of ‘(global) climate regulation’. Similar reasoning can be applied to marine predators in general (whales, large pelagic fish, sea",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predators in shelf ecosystems; and FW9= no trend (unknown implications) in coastal and shelf ecosystems,",
+      "context_window": "ecosystems; FC3 = downward trend (deteriorating state) in shelf ecosystems; FW7 = downward trend (deteriorating state) for planktivorous fish and no trend (unknown implications) for sub-apex demersal predators in shelf ecosystems; and FW9= no trend (unknown implications) in coastal and shelf ecosystems, *This pilot assessment was done in specific areas and did not cover the whole region 21 of 61",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of climate change on deep-sea ecosystems.",
+      "context_window": "preferences and habitat use of different deep-sea species/functional groups is therefore of paramount importance to operationalize the development of models suitable for examining the ecosystem-wide impacts of climate change on deep-sea ecosystems. This is one of the priorities of the modelling efforts currently underway in the Azores.",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The displacement of species toward greater depths is an additional change detected in the distribution of",
+      "context_window": "et al ., 2011). The displacement of species toward greater depths is an additional change detected in the distribution of those species that seek a better niche condition (Dulvy et al",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge gaps and way forward towards an integrated assessment of food webs",
+      "context_window": "The only exception was the resilience indicator, suggesting that the resilience of the ecosystem is decreasing. Knowledge gaps and way forward towards an integrated assessment of food webs The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing to the intrinsic complexity of marine networks and trophic interactions.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton species, which may trigger potential changes in trophic interactions. Since the 2017",
+      "context_window": "2022). Climate change is expected to affect primary production rates and trends but also the composition of phyto and zooplankton species, which may trigger potential changes in trophic interactions. Since the 2017 Intermediate Assessment, several new analyses of primary production sensitivity to environmental controlling variables have been published for the North Sea and/or the North Atlantic in the context of",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "of major changes in phytoplankton biomass and productivity and zooplankton abundance and community",
+      "context_window": "). However, by presenting and describing the ecosystem services underpinned by phytoplankton and zooplankton it is possible to at least identify which of the ecosystem services may be altered as a result of major changes in phytoplankton biomass and productivity and zooplankton abundance and community functioning (Bedford et al",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton and others, play differing and important roles in sustaining the dynamics of marine food webs.",
+      "context_window": "Marine food webs are made up of and sustained by all the organisms that make up marine ecosystems. Accordingly the various trophic guilds, be they marine mammals, marine invertebrates, fish, phytoplankton, zooplankton and others, play differing and important roles in sustaining the dynamics of marine food webs. 36 of 61 OSPAR Commission",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure",
+      "context_window": "interconnected. Therefore, the disappearance of specific prey for some predators and/or changes in the distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure (in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic Habitats",
+      "context_window": "Benthic Habitats Thematic Assessment , Pelagic Habitats Thematic Assessment flow into this thematic assessment and vice versa, because all marine ecosystem",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the aim of ensuring that the network provides a good representation of species and habitats and that its",
+      "context_window": "By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant. Other OSPAR measures responding to relevant human activities and pressures:",
+      "page_number": 48,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "decreasing trend for primary production and for virtually all plankton lifeforms.",
+      "context_window": "good status, suggesting a long term status decline in the Region. Plankton community indicators show a decreasing trend for primary production and for virtually all plankton lifeforms. The fish feeding guild indicator shows an increasing trend in the biomass of three of the four guilds investigated in the northern",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic coupling through their impacts on the physical and biological components of the marine ecosystem,",
+      "context_window": "., 2017). At the same time, anthropogenic pressures and related environmental impacts (addressed in the pressure-related thematic assessments) influence benthic- pelagic coupling through their impacts on the physical and biological components of the marine ecosystem, including phytoplankton. For example, a climate change-related increase in water temperature may cause",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As the species in an ecosystem have different",
+      "context_window": "distribution of top predators could lead to changes in trophic interactions and thus in ecosystem structure (in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "Food webs have shown widespread changes in the OSPAR Maritime Area in recent decades. Fishing and climate change represent the main human pressures affecting trophic networks and OSPAR marine ecosystems. There has been a general pattern of decreasing phytoplankton and zooplankton abundance and / or biomass across the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast, which might have",
+      "page_number": 14,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "These components of the marine ecosystem, as a result of environmental impacts from human-related",
+      "context_window": ", 2017). These components of the marine ecosystem, as a result of environmental impacts from human-related pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lifeforms in coastal ecosystems, with downward trends in dinoflagellates and holoplankton and upward",
+      "context_window": "based on each indicator results. NA = not assessed; FC2 = threshold failed in shelf ecosystems; FW3= downward trend (deteriorating state) in shelf ecosystems; FW5 = downward trends for four plankton lifeforms in coastal ecosystems, with downward trends in dinoflagellates and holoplankton and upward trends in meroplankton in shelf ecosystems; FW2= downward trends in variable salinity and shelf ecosystems and no trend in coastal ecosystems; FC3 = no trend (unknown implications) in shelf ecosystems;",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food webs are key to our understanding of changes in ecosystem structure and functioning. Changes in",
+      "context_window": "In Arctic Waters (OSPAR Region I) a different set of information was used and therefore not included in the assessment overviews for indicators. Food webs are key to our understanding of changes in ecosystem structure and functioning. Changes in marine food web structure and functioning can affect the provision of ecosystem services, as outlined in the Ecosystem Services section.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Responses to improve the state of marine food webs",
+      "context_window": "in the context of ecosystem services quantification. R – Response Responses to improve the state of marine food webs Food webs are the umbrella that connects all biodiversity components from primary producers to apex predators, and their various interactions and energy transfers across trophic levels must be taken into",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with",
+      "context_window": "Parties to deliver on NEAES S11.O2. By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of MPAs in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.",
+      "page_number": 48,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that",
+      "context_window": "knowledge exchange, collaborating and maintaining cooperation with relevant competent organisations on how to address key pressures (such as fishing and shipping), and research. From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that are functionally important in the north-east Atlantic, particularly certain apex predators and habitats. The",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cascading consequences for marine food webs and consequently for the ecosystem services supported by",
+      "context_window": "Trophic Level of a fishery indicates a shift from intense fishing pressure on higher trophic levels to increasing fishing pressure on lower trophic levels, due to a decline in the biomass of higher trophic levels; this can have cascading consequences for marine food webs and consequently for the ecosystem services supported by their balanced functioning (Essington et al",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in predator-prey interactions, altering bentho-pelagic coupling and the overall functioning of",
+      "context_window": "composition and the removal of organisms. This may lead to shifts in the spatial distribution of species and changes in predator-prey interactions, altering bentho-pelagic coupling and the overall functioning of bentho-demersal ecosystems. Fishing gears such as trawls and dredges can greatly alter the seabed © Shutterstock",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing",
+      "context_window": "was the resilience indicator, suggesting that the resilience of the ecosystem is decreasing. Knowledge gaps and way forward towards an integrated assessment of food webs The functioning of marine food webs, and particularly the assessment of their status, is a complex task owing to the intrinsic complexity of marine networks and trophic interactions. To better assess the state of food",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact",
+      "context_window": "due to the generally unknown status of food webs. In addition to climate change, fishing pressures, physical disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Coastal ecosystems",
+      "context_window": "(PH2), the most important predictor of decreasing primary production was decreasing concentration of dissolved inorganic phosphate. Coastal ecosystems Plankton community assessment For coastal ecosystems, the",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts of climate change on the marine ecosystem are expected to reach the deepest parts of the",
+      "context_window": "et al ., 2021). The impacts of climate change on the marine ecosystem are expected to reach the deepest parts of the ocean. Projections point to significant changes in deep-water mass properties worldwide (Sweetman et al",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The impacts of climate change can drastically affect the structure and function of marine food webs, with",
+      "context_window": "Climate change measures: Climate Change Thematic Assessment The impacts of climate change can drastically affect the structure and function of marine food webs, with implications for ecosystem services (Ullah et al",
+      "page_number": 50,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "climate change represent the main human pressures affecting trophic networks and OSPAR marine",
+      "context_window": "Changes in state of marine food webs Food webs have shown widespread changes in the OSPAR Maritime Area in recent decades. Fishing and climate change represent the main human pressures affecting trophic networks and OSPAR marine ecosystems. There has been a general pattern of decreasing phytoplankton and zooplankton abundance and",
+      "page_number": 14,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "cumulative effects on ecosystems, where climate change is combined with other drivers.",
+      "context_window": "Changes in ecosystem functioning may also impact the way in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected cumulative effects on ecosystems, where climate change is combined with other drivers. In this connection, numerous non-additive effects were observed on ENA indices when climate change was combined with the",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "food webs are not in good environmental status.",
+      "context_window": "picture of food web status. This assessment covers all OSPAR Regions, and the overall results indicate that food webs are not in good environmental status. In the Greater North Sea, the indicators for demersal fish communities have not achieved the threshold indicating good status, which suggests that this component of the food web is under pressure.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected",
+      "context_window": "both network topology and spatial organization. Changes in ecosystem functioning may also impact the way in which other subsequent ecosystem drivers impact trophic network. This could lead to unexpected cumulative effects on ecosystems, where climate change is combined with other drivers. In this connection,",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "environmental preferences, climate change does not impact them homogeneously. This means that the",
+      "context_window": "(in the trophic level of the species) and, ultimately, functioning. As the species in an ecosystem have different environmental preferences, climate change does not impact them homogeneously. This means that the trophic network will be impacted in different ways by climate change depending on species composition, but also on temporal and spatial dynamics (Nogues",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience;",
+      "context_window": "Strategic Objective 5: Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience; Strategic Objective 6 : Restore degraded benthic habitats in the North-East Atlantic when practicable to",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the study of marine food webs, the distribution, productivity and abundance of all marine biota and the",
+      "context_window": "In the study of marine food webs, the distribution, productivity and abundance of all marine biota and the relationships between them are of relevance, as they in a sense integrate the status of all the ecosystem components.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gastropod herbivores (mesograzers), with consequent effects on marine vegetation.",
+      "context_window": "example, decreases in the biomass of predators in offshore areas can lead to increases in the abundance of mesopredators along the coast. Coastal mesopredators can regulate the abundance of crustacean and gastropod herbivores (mesograzers), with consequent effects on marine vegetation. Accordingly, it has been observed how an increase in coastal mesopredators, leading to a decrease in important mesograzers and in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The food web assessment results indicate potential risks of both bottom-up and top-down effects impacting",
+      "context_window": "indicates that climate change is currently the strongest driver of change in the marine food web in this Region. The food web assessment results indicate potential risks of both bottom-up and top-down effects impacting ecosystem function. Q5. What do we do next?",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "of marine food webs’ and ‘wild fish and other natural aquatic biomass and related raw materials’ (Oke",
+      "context_window": "OSPAR Commission production and nutrient transport, and in turn for ecosystem services such as ‘regulation and maintenance of marine food webs’ and ‘wild fish and other natural aquatic biomass and related raw materials’ (Oke et al .,",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Adverse changes in marine food web structure, richness and functioning",
+      "context_window": "disturbance, nutrient inputs, introduction of non-indigenous species and underwater noise can all impact food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the ability of the deep-sea ecosystem to provide essential services.",
+      "context_window": "channel research efforts into seeking an understanding (among other questions) (a) of how poleward shifts in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect the ability of the deep-sea ecosystem to provide essential services. An important step towards answering such questions is to improve current capabilities for modelling deep- sea ecosystems through network analysis or trophic models.",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in meroplankton in shelf ecosystems; FW2 = downward trends in variable salinity, coastal and shelf",
+      "context_window": "NA = Not Assessed; FC2 = threshold failed in shelf ecosystems; FW3 = downward trend (deteriorating state) in shelf ecosystems; FW5 = downward trends in holoplankton and upward trends in meroplankton in shelf ecosystems; FW2 = downward trends in variable salinity, coastal and shelf ecosystems; FC3 = downward trend (deteriorating state) in shelf ecosystems; FW7 = downward trend (deteriorating state) for planktivorous fish and no trend (unknown implications) for sub-apex demersal",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large copepods in shelf ecosystems, and downward trends in small and large copepods in oceanic/beyond",
+      "context_window": "ecosystems; FW4 = no trend (unknown implication) in the three habitat types assessed; FW3 = no trend (unknown implications) in shelf ecosystems; FW5 = downward trends for holoplankton, small copepods and large copepods in shelf ecosystems, and downward trends in small and large copepods in oceanic/beyond shelf ecosystems; FW2 = downward trend in shelf and oceanic/beyond shelf ecosystems; FC3 = no trend (unknown implications) in shelf ecosystems; and FW7 = downward trend (deteriorating state) for",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect",
+      "context_window": "., 2015). Thus, it is critical to channel research efforts into seeking an understanding (among other questions) (a) of how poleward shifts in deep-sea fauna might affect food web structure and (b) of the extent to which such changes might affect the ability of the deep-sea ecosystem to provide essential services. An important step towards answering such questions is to improve current capabilities for modelling deep-",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbance, and have contributed to population declines and biodiversity losses arising from both acute and",
+      "context_window": "the construction of complex infrastructure projects. They have potential consequences for food web structure and functioning, including habitat degradation, soil erosion, environmental pollution and disturbance, and have contributed to population declines and biodiversity losses arising from both acute and chronic effects in marine systems (Lawrence et al",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are for overall marine ecosystem dynamics and the provision of ecosystem services in the OSPAR Maritime",
+      "context_window": "2017i). However, although these assessments show that important changes have occurred, they are preliminary, and it is difficult to draw conclusions about extent and direction, and what the consequences are for overall marine ecosystem dynamics and the provision of ecosystem services in the OSPAR Maritime Area. For this reason, the links between the trends observed for phytoplankton (biomass and primary production) and zooplankton (abundance) and ecosystem services are represented as links that exist but",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton and macrophytes, and an increase in community respiration (Baird",
+      "context_window": "., 2019). Results have shown, inter alia, an intensification of detrital production and consumption, a substantial increase in total system throughput, a decline in consumption of phytoplankton and macrophytes, and an increase in community respiration (Baird et al ., 2019). Non-",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how to address key pressures (such as fishing and shipping), and research.",
+      "context_window": "The collective actions include coordination of monitoring and assessment, enhancing knowledge exchange, collaborating and maintaining cooperation with relevant competent organisations on how to address key pressures (such as fishing and shipping), and research. From a food web perspective, this set of measures is significant, as it aims to retain species and habitats that are functionally important in the north-east Atlantic, particularly certain apex predators and habitats.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts on the provision of ecosystem services by marine food webs",
+      "context_window": ", 2021). I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services they provide are observed or expected, except that research and education activities will probably increase",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification.",
+      "context_window": "For meroplankton, the changes were linked to increasing sea surface temperature, and for holoplankton the changes were linked to ocean acidification. No data were available for gelatinous zooplankton; however, there was high confidence for all time-series assessed and high spatial representation of assessment units. The",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Q4. How does this field affect the overall quality status?",
+      "context_window": "It is critically important to continue to improve food web indicators in order to inform the development and implementation of responses that take a more integrated approach. Q4. How does this field affect the overall quality status? The food web is key to the health of the marine ecosystem. Significant impacts on one element of the food",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shelf ecosystems",
+      "context_window": "stated with variable salinity habitats, it is currently unclear whether the decrease in primary production detected in this assessment was the consequence of ocean acidification. Shelf ecosystems Plankton community assessment For shelf ecosystems of the Celtic Seas, the  Common Indicator Assessment on",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "importance to operationalize the development of models suitable for examining the ecosystem-wide impacts",
+      "context_window": "New information on the life histories, feeding preferences and habitat use of different deep-sea species/functional groups is therefore of paramount importance to operationalize the development of models suitable for examining the ecosystem-wide impacts of climate change on deep-sea ecosystems. This is one of the priorities of the modelling efforts currently",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "consequences for upper trophic levels.",
+      "context_window": "There has been a general pattern of decreasing phytoplankton and zooplankton abundance and / or biomass across the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast, which might have consequences for upper trophic levels. Demersal fish communities have not achieved good status in any of the assessed Regions.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 62,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "detected in this assessment was the consequence of ocean acidification.",
+      "context_window": "For the same reason as stated with variable salinity habitats, it is currently unclear whether the decrease in primary production detected in this assessment was the consequence of ocean acidification. Shelf ecosystems Plankton community assessment",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "I – Impact (on ecosystem services)",
+      "context_window": "et al. , 2021). I – Impact (on ecosystem services) Impacts on the provision of ecosystem services by marine food webs Given the current changes occurring in marine food webs, no positive outcome for the ecosystem services",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in phytoplankton communities and biomass and changes in zooplankton communities and",
+      "context_window": "pressure, can alter the structure and dynamics of food webs and consequently the provision of ecosystem services. Changes in phytoplankton communities and biomass and changes in zooplankton communities and abundance: Phytoplankton communities are directly linked to zooplankton communities. The presence and abundance",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem-wide impacts.",
+      "context_window": "., 2020). Climate- driven changes in the spatial distribution of deep-sea fauna raise important questions about associated ecosystem-wide impacts. For example, climate change could reduce suitable habitat for cold-water corals and deep-sea fishes, forcing them to shift to northern latitudes (Morato",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems.",
+      "context_window": "food web structure and functioning. Adverse changes in marine food web structure, richness and functioning can affect the provision of ecosystem services by species including all trophic levels in marine ecosystems. This section evaluates the impact that changes in the environmental state of fo od webs",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in primary production linked to a modelled decreasing trend in pH.",
+      "context_window": "Pilot Assessment of Primary Productivity (FW2), the pilot assessment results revealed a significant decrease in primary production linked to a modelled decreasing trend in pH. Relevant literature on primary production trends in the area is scarce.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declines observed in the biomass and abundance of phytoplankton and zooplankton might have",
+      "context_window": "Climate change represents one of the main factors currently affecting marine ecosystems and their feeding interactions. Declines observed in the biomass and abundance of phytoplankton and zooplankton might have important implications for upper trophic levels due to cascading effects. Additionally, changes in the spatial",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "primary production linked to a decreasing trend in modelled pH in shelf ecosystems.",
+      "context_window": "Assessment of Primary Productivity (FW2) pilot assessment results revealed a significant downward trend in primary production linked to a decreasing trend in modelled pH in shelf ecosystems. While the present assessment identified a decrease in primary production congruent with Tilstone",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification”.",
+      "context_window": "support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”. With regard to the OSPAR MPA network, understanding the management effectiveness of the MPAs within the network, and the network itself, remains an important gap to address, particularly from the perspective",
+      "page_number": 51,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”.",
+      "context_window": "Ecosystem restoration provides another potential opportunity to support healthy food webs in line with NEAES Strategic Objective 6, to “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”. With regard to the OSPAR MPA network, understanding the management effectiveness of MPAs within the network, and the network itself, remains an important gap to address, particularly from an ecosystem",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "dissolved oxygen, a decrease in the flux of particulate organic matter to the seafloor, a decrease in pH and",
+      "context_window": "2017). In the North Atlantic, such changes could include a decrease in seawater temperature, a loss of dissolved oxygen, a decrease in the flux of particulate organic matter to the seafloor, a decrease in pH and saturation of the minerals involved in the carbon cycle (e.g., calcite and aragonite) (Gehlen et al",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering",
+      "context_window": "represent an important driver that is affecting food web interactions. Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species. Synergies",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in",
+      "context_window": "conserve the OSPAR listed species and habitats. Ecosystem restoration provides another opportunity to support healthy food webs in line with NEAES Strategic Objective 6: “Restore degraded benthic habitats in the North-East Atlantic when practicable to safeguard their ecosystem function and resilience to climate change and ocean acidification”.",
+      "page_number": 51,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Besides triggering ocean warming,",
+      "context_window": "distribution patterns and displacement of marine species, towards either northern areas or greater depths, represent an important driver that is affecting food web interactions. Besides triggering ocean warming, climate change has increased the terrestrial dissolved organic carbon load into coastal ecosystems, altering primary productivity, and has increased ocean acidification, with effects on shell-forming species.",
+      "page_number": 52,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 5,
+    "keyword_counts": {
+      "climate change": 86,
+      "ocean acidification": 12,
+      "warming": 20,
+      "greenhouse gas": 1,
+      "hypoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 90,
+      "end_sentence": 123,
+      "sentence_count": 34,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "The functioning of a marine ecosystem is highly dependent on the structure, diversity and integrity ...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "components and their interactions. Food webs represent networks of feeding interactions between",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "predators and their prey at different levels in the ecosystem.",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "Environmental and anthropogenic pressures alter the balance between organisms.",
+          "full_length": 78
+        }
+      ],
+      "total_sentences_in_section": 34
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2256,
+      "end_sentence": 2306,
+      "sentence_count": 51,
+      "page_range": "47-47",
+      "sentences": [
+        {
+          "sentence_id": 2256,
+          "page_number": 47,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2257,
+          "page_number": 47,
+          "content": "[1]",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 2258,
+          "page_number": 47,
+          "content": "https://www.ices.dk/sites/pub/Publication Reports/Expert Group",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 2259,
+          "page_number": 47,
+          "content": "Report/acom/2016/WKSAND/WKSAND_2016.pdf",
+          "full_length": 39
+        },
+        {
+          "sentence_id": 2260,
+          "page_number": 47,
+          "content": "ICES. 2017. Report of the Benchmark on Sandeel",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 51
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2902,
+      "end_sentence": 3386,
+      "sentence_count": 485,
+      "page_range": "56-61",
+      "sentences": [
+        {
+          "sentence_id": 2902,
+          "page_number": 56,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2903,
+          "page_number": 56,
+          "content": "Atwood, T. B. and Hammill, E. (2018).",
+          "full_length": 37
+        },
+        {
+          "sentence_id": 2904,
+          "page_number": 56,
+          "content": "The Importance of Marine Predators in the Provisioning of Ecosystem",
+          "full_length": 67
+        },
+        {
+          "sentence_id": 2905,
+          "page_number": 56,
+          "content": "Services by Coastal Plant Communities.",
+          "full_length": 38
+        },
+        {
+          "sentence_id": 2906,
+          "page_number": 56,
+          "content": "Frontiers in Plant Science, 9(1289).",
+          "full_length": 36
+        }
+      ],
+      "total_sentences_in_section": 485
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3424,
+    "chunks_selected": 101,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 90,
+        "end_sentence": 123,
+        "sentence_count": 34
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2256,
+        "end_sentence": 2306,
+        "sentence_count": 51
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2902,
+        "end_sentence": 3386,
+        "sentence_count": 485
+      }
+    ],
+    "total_excluded_sentences": 570
+  }
+}

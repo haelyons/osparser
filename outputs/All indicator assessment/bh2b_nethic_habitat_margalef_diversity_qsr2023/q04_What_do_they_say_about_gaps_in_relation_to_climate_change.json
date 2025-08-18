@@ -1,0 +1,1368 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on assessment results. Therefore, in current assessments specific D",
+      "context_window": "After first applications it was clear that regardless of the efforts made to achieve maximum standardisation among datasets, this was not sufficient to overcome methodological differences among countries with effects on assessment results. Therefore, in current assessments specific D ref values at the level of countries",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the level of (BHT within) Assessment Units did lead to increased variability. To clear patterns in D",
+      "context_window": "It was observed that merging data from different countries in assessments with common reference values at the level of (BHT within) Assessment Units did lead to increased variability. To clear patterns in D M ’",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in that case differences in",
+      "context_window": "Most reliable are comparisons of cases of the same kind, i.e., comparing assessment results for different periods, for which results are independent of used reference values. However, in that case differences in representativity of monitoring data might lead to uncertainty.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in limited deviations in the assessment results.",
+      "context_window": "assessments with poor data availability. It should be analysed what variability is still reasonable and results in limited deviations in the assessment results. Examples are sampled surface areas that can be combined and/or ecological relevant assessment units (are current assessment units with different types of abiotic",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "taking pressure distributions and (specific pressure) sensitivity into account in impact assessment and",
+      "context_window": "pressures and pressure combinations and levels, with general quality indicators, specific pressure indicators, indicators distinguishing most important pressures, combined pressure mapping and risk-based assessments taking pressure distributions and (specific pressure) sensitivity into account in impact assessment and upscaling of quality assessment results. Broad Habitat Map",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and/or ecological relevant assessment units (are current assessment units with different types of abiotic",
+      "context_window": "in limited deviations in the assessment results. Examples are sampled surface areas that can be combined and/or ecological relevant assessment units (are current assessment units with different types of abiotic gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Related to this knowledge gap would be how to integrate known important environmental gradients with",
+      "context_window": "and/or ecological relevant assessment units (are current assessment units with different types of abiotic gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef",
+      "context_window": "It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or integrating potential impacts of other pressures in assessment results.",
+      "context_window": "The question is what type of pressures and variability should be considered. It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distinguishing individual countries comparing developments in time.",
+      "context_window": "M ’) per Broad Habitat Type (BHT) per Assessment Unit (AU) distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant",
+      "context_window": "distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant differences are indicated with different characters (in case of one of the characters equal there is no significant difference).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management are likely to not be representative for entire BHTs within AUs. In addition, the current",
+      "context_window": "pressure not being covered within BHTs. Moreover, those areas with specific activities and pressures or management are likely to not be representative for entire BHTs within AUs. In addition, the current assessment might not be entirely representative for entire BHTs x AUs (which is however the level of assessment within OSPAR).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "among datasets, this was not sufficient to overcome methodological differences among countries with",
+      "context_window": "into account results in increased comparability of the assessment results. After first applications it was clear that regardless of the efforts made to achieve maximum standardisation among datasets, this was not sufficient to overcome methodological differences among countries with effects on assessment results. Therefore, in current assessments specific D ref",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The relatively poor quality observed for benthic communities in coastal areas might be the result",
+      "context_window": "pressure level between offshore and coastal areas might be the level of eutrophication and the role of diffuse pollutants. The relatively poor quality observed for benthic communities in coastal areas might be the result of impact from increased nutrient and diffuse pollution level, preventing benthic habitats from recovering, now that physical pressure levels in coastal areas are lower than offshore.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variability is large.",
+      "context_window": "However, with large-scale application, combining data from different origins (various sampling laboratory and identification procedures) for broad habitats and extended subregions, internal variability is large. As long as there is no large-scale joint monitoring the challenge is how much variability can be allowed to still achieve largely comparable assessment results for cases.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Occasional ‘miss-classification’ due to",
+      "context_window": "Broader-scale patterns in BHT distribution will generally be sufficiently accurate to extract a set of samples that will in reality be predominantly linked to the BHT of concern. Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "likely to result in increased uncertainty (but it seems to be the best approach).",
+      "context_window": "In the case of low data availability (quality code 4 and 5 as indicated in Table b) the multivariate derivation of reference values is likely to result in increased uncertainty (but it seems to be the best approach). Most reliable are comparisons of cases of the same kind, i.e., comparing assessment results for different periods, for which results are independent of used reference values.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Strengthened efforts to improve habitat mapping and consistency are needed in the future, since",
+      "context_window": "and actually present habitat types (for instance indicated by the benthic community observation data) is quite large. Strengthened efforts to improve habitat mapping and consistency are needed in the future, since habitat mapping forms the basis for all benthic habitat assessments. Current classification used in the Broad",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the",
+      "context_window": "generally have poor data availability and therefore quality estimations come with poor confidence level. Other observations are that where significant trends were detected, these indicated decreasing Relative Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the Southern North Sea subregion. In both cases it has been indicated by countries providing data (Sweden with",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016-",
+      "context_window": "habitats) results. It has already been indicated for the results at assessment unit scale, that for a large part of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016- 2021) years. Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be analysed what variability is still reasonable and results",
+      "context_window": "habitats, areas in many categories so that within category standardisation is large, will result in many assessments with poor data availability. It should be analysed what variability is still reasonable and results in limited deviations in the assessment results. Examples are sampled surface areas that can be combined",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined on the basis of environmental gradients mean with regards to comparability of assessment",
+      "context_window": "Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment results between different areas (BHTs and/or AUs). OSPAR Commission 2023",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in fewer reliable assessment results.",
+      "context_window": "Being too strict in standardisation might lead to a lot of different categories (with different procedures) which dilutes the data availability per case and might result in fewer reliable assessment results. In principle it is not that problematic to use some different categories for the assessments, as category specific reference values (D",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This might indicate that the response to such gradients might be more consistent",
+      "context_window": "the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline across all three gradients. This might indicate that the response to such gradients might be more consistent and/or overrule to a certain extent physical disturbance gradients in case of combi-pressure situations. It is",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The use of older data (former periods) for current status assessments and using data with reduced spatial",
+      "context_window": "reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment results. The use of older data (former periods) for current status assessments and using data with reduced spatial representativity (indicated by the percentage of area covered by the benthic community samples) are reflected in reduced confidence level as indicated. SAR= Swept Area Ratio",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in several cases monitoring effort is designed to focus on specific areas (often",
+      "context_window": "Where monitoring effort (in numbers of samples) is sufficient, it is reflected in the reliability of the assessment results. However, in several cases monitoring effort is designed to focus on specific areas (often MPAs) with specific activities and pressures or management, etcetera. This might result entire gradients of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the",
+      "context_window": "In both cases it has been indicated by countries providing data (Sweden with regards to Kattegat and Germany with regards to the Southern North Sea) that monitoring designs are not comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might play a role.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to climate change.",
+      "context_window": "The question is whether such patterns are recurrent, and recovery of communities can be expected the coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity is observed in the Swedish part for mixed sediment habitat and for muddy habitat in the Danish part.",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "attempts to take certain additional disturbances into account even if they have not been fully included in the",
+      "context_window": "importance of other disturbances). In specific cases the narrative that explains the assessment result attempts to take certain additional disturbances into account even if they have not been fully included in the quantitative assessment. - Habitat mapping is not as accurate as suggested by detailed maps.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the effect on diversity at larger scale.",
+      "context_window": "sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale. Underestimation of fishing pressure in coastal areas, by not considering small vessels, could also be the case at least along the coasts of France and the UK.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "representativity of monitoring data might lead to uncertainty.",
+      "context_window": "periods, for which results are independent of used reference values. However, in that case differences in representativity of monitoring data might lead to uncertainty.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The question is what type of pressures and variability should be considered.",
+      "context_window": "anoxic region, impacts from nutrients and pollutants, increased turbidity, changes in salinity conditions and/or hydrodynamic conditions. The question is what type of pressures and variability should be considered. It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deviating assessment results, as benthic community observations are then judged against incorrect",
+      "context_window": "modelling and does not include spatially detailed field validation. Misclassification of habitats might lead to deviating assessment results, as benthic community observations are then judged against incorrect references. In addition, it should be noted there are deviations between classifications used for EUNIS",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled",
+      "context_window": "Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled and actually present habitat types (for instance indicated by the benthic community observation data) is quite large.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which might in fact be more related to changes in monitoring designs than a state change for the benthic",
+      "context_window": "assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in this assessment, which may result in differences in quality status of BHTs over different assessment periods which might in fact be more related to changes in monitoring designs than a state change for the benthic habitat. The narrative indicates if the assessment result and patterns therein are likely to be the result of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including information about specific management of certain areas that might influence the representativity",
+      "context_window": "a specific wish to include spatial distribution patterns with regards to other pressures in the future. Also including information about specific management of certain areas that might influence the representativity of benthic community samples for larger scale assessments is important as long as representative monitoring programmes covering the BHTs at the (country within) assessment unit scale are not present.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact on diversity in the estimation of reference values; what does the use of reference value gradients",
+      "context_window": "gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment results between different areas (BHTs and/or AUs).",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When former period results are used to assess",
+      "context_window": "Assessment results at the level of countries (BHTs x AUs x Countries) will only be presented if quality of data according to coding is at least ‘sufficient’. When former period results are used to assess current quality status the confidence decreases one level in case of 2009-2015 data (i.e., respectively: good, sufficient, low, poor and poor related to the same quality codes) or two levels older data where older data",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other observations are that where significant trends were detected, these indicated decreasing Relative",
+      "context_window": "’ values generally have poor data availability and therefore quality estimations come with poor confidence level. Other observations are that where significant trends were detected, these indicated decreasing Relative Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the Southern North Sea subregion.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "standardisation procedures, exploratory data analyses to identify (and visualise) potential sources of",
+      "context_window": "step-3-assessment-nosar.html ’) includes data selection and standardisation procedures, exploratory data analyses to identify (and visualise) potential sources of variability (and therefore options for selections of subsets of data and/or additional testing opportunities) and presenting assessment and testing results including estimation of case-specific reference values used to",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic",
+      "context_window": "of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016- 2021) years. Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic relative diversity observations. In the circalittoral zone, relative diversity based on Dutch data was high in the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which recent benthic community data are available.",
+      "context_window": "benthic habitat quality status assessments at the level of AUs. Table a: Overview of quality status assessments for Broad Habitat Types (BHTs) per Assessment Unit (AU) for which recent benthic community data are available. In case no (or limited) data are available for the 2016- 2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current classification used in the Broad",
+      "context_window": "Strengthened efforts to improve habitat mapping and consistency are needed in the future, since habitat mapping forms the basis for all benthic habitat assessments. Current classification used in the Broad Habitat Type map (EUSeaMap, 2021) does however not match the finer-scale classifications from EUNIS (Evans",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Additionally, there is a large need for ground-truthing of modelled habitat classifications in certain",
+      "context_window": "assessment as well as uncertainty as to what extent communities match with the indicated sandy – or muddy habitat. Additionally, there is a large need for ground-truthing of modelled habitat classifications in certain areas.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Again, these results might indicate that in coastal waters at present it is not solely",
+      "context_window": "habitats of particularly the circalittoral zone, might be less susceptible to eutrophication effects and/or increased sedimentation. Again, these results might indicate that in coastal waters at present it is not solely current fishing pressure determining benthic habitat quality status, but that eutrophication and diffuse pollution levels can prevent recovery of formerly disturbed habitats, with differences in sensitivity of BHTs",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline",
+      "context_window": "especially relevant in this current situation for a large part of the Greater North Sea Region. When analysing the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline across all three gradients. This might indicate that the response to such gradients might be more consistent",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "situations for each case is essential to cover natural variability in diversity.",
+      "context_window": "In practice this cannot be achieved as it would lead to a huge number for specific references, it would not be possible to calculate these since for good reliability a number of observations for low-pressure situations for each case is essential to cover natural variability in diversity. The middle ground is to define categories (in sampling methodology or sample treatment) that are to a certain extent standardised but that",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in",
+      "context_window": "There might also be variability in the representativity of monitoring between Condition of Benthic Habitat Communities: Margalef diversity in Region II (Greater North Sea) assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in this assessment, which may result in differences in quality status of BHTs over different assessment periods which might in fact be more related to changes in monitoring designs than a state change for the benthic",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 2: Overview of estimated confidence of assessment of current status at the level of Broad Habitat Types (BHTs)",
+      "context_window": "based on data from (former) 2009-2015 period or no data of before 2016 available so that statistical testing of recent developments is not possible. Table 2: Overview of estimated confidence of assessment of current status at the level of Broad Habitat Types (BHTs) within Assessment units (AUs). Confidence based on data density (number of available samples), temporal coverage",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As long as there is no large-scale joint monitoring the challenge is how much variability",
+      "context_window": "sampling laboratory and identification procedures) for broad habitats and extended subregions, internal variability is large. As long as there is no large-scale joint monitoring the challenge is how much variability can be allowed to still achieve largely comparable assessment results for cases. Splitting up methodologies,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Possible differences within countries between",
+      "context_window": "’) per Broad Habitat Type (BHT) per Assessment Unit (AU) distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant differences are indicated with different characters (in case of one of the characters equal there is no significant",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelling can result in variability that can also be expected in reality (borders between BHTs are transitions",
+      "context_window": "that will in reality be predominantly linked to the BHT of concern. Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled and actually present habitat types (for instance indicated by the benthic community observation data) is",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current assessments will lead to",
+      "context_window": "are obtained with techniques either categorised as ‘Grab-Core’ sampling (GC) or as ‘Small Core’ sampling (SC); indicated between brackets in case less than 5 samples are available. Current assessments will lead to results for each of those categories, although representativity of data in terms of amount of data and spatial (and temporal) distribution should be considered as well.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "As year-to-year variation can be expected, although natural variability in diversity is not expected",
+      "context_window": "generally large areas where variability within the area can be expected, the first concern is to have sufficient samples. As year-to-year variation can be expected, although natural variability in diversity is not expected to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion of data from more years is a secondary concern.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is",
+      "context_window": "diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is given by the ICES WKBENTH3 report (ICES, 2022) testing several indicators (amongst others the D M",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coming years or whether salinity variability is increasing and extending over larger areas and might be related",
+      "context_window": "Besides increased fisheries pressures, changes in inflow from the Baltic could play a role. The question is whether such patterns are recurrent, and recovery of communities can be expected the coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In the case of low data",
+      "context_window": "Where there is sufficient data, the use of percentiles will most likely filter out the potential effect of incorrectly including samples of disturbed communities to estimate the reference. In the case of low data availability (quality code 4 and 5 as indicated in Table b) the multivariate derivation of reference values is likely to result in increased uncertainty (but it seems to be the best approach).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "uncertainty, which is due to spatial distribution, is especially notable in the assessments done in the Channel,",
+      "context_window": "Figure a ), typically MPAs and (planned) wind parks. This uncertainty, which is due to spatial distribution, is especially notable in the assessments done in the Channel, Norwegian Trench and the Central North Sea subregions. Additionally, no (comparable) monitoring data were",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, as benthic community data for most recent years are lacking for certain (often quite",
+      "context_window": "whereas offshore circalittoral habitats seem to be at risk (according to BH3) of facing quality reduction in the near future. Moreover, as benthic community data for most recent years are lacking for certain (often quite extensive) areas, suggested high risk of impact of physical disturbance in offshore circalittoral muddy and sandy areas might already lead to quality reduction (however not detected yet, but potentially visible when",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitive indicator responding to increased pressure (although a response is definitely expected in the case",
+      "context_window": "of Physical Disturbance to Benthic Habitats ) are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The middle ground is to define",
+      "context_window": "would not be possible to calculate these since for good reliability a number of observations for low-pressure situations for each case is essential to cover natural variability in diversity. The middle ground is to define categories (in sampling methodology or sample treatment) that are to a certain extent standardised but that have (in several cases) a sufficient amount of data.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring programme, this is not necessarily the case and in several instances appears to not be the case.",
+      "context_window": "percentages and spatial patterns of habitat distribution. - Although the current methodology may be seen to suggest the existence of a spatially representative monitoring programme, this is not necessarily the case and in several instances appears to not be the case. Where monitoring effort (in numbers of samples) is sufficient, it is reflected in the reliability of the assessment results.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent",
+      "context_window": ") are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale. Underestimation of fishing pressure in coastal areas, by not considering",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Role of other pressure impacts and natural disturbance:",
+      "context_window": "that each indicator has its own specificities and can be more indicative of this status under certain conditions than under others? Role of other pressure impacts and natural disturbance: The current assessment is almost entirely focused on physical disturbance by fisheries as the dominant pressure.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might",
+      "context_window": "regards to Kattegat and Germany with regards to the Southern North Sea) that monitoring designs are not comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might play a role. In general, infralittoral sand and mud might be in the poorest state.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abstract the results and indicate quality status and developments at the ecologically relevant level (AUs",
+      "context_window": "Therefore, median values at the level of BHTs within AUs of the median assessment results at the level of countries are presented as well to abstract the results and indicate quality status and developments at the ecologically relevant level (AUs regardless of country boundaries). Results for two sampling technique categories are presented as the",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated",
+      "context_window": "physical disturbance levels in coastal areas are particularly low at the moment. It might be that a further decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated communities to recover than for relatively highly diverse communities to withstand a certain level of pressure).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In principle the relative Margalef diversity",
+      "context_window": "availability per monitoring technique and few or no countries with the same technique in the assessments, which in turn would impede comparison of assessment results). In principle the relative Margalef diversity (D M",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the higher risks of benthic habitat quality reduction suggested by BH3 results can be reflected in future",
+      "context_window": "large surface areas there are no data available for 2016-2021 (instead results based on 2009-2015 data are presented or specific territorial waters are not included in the most recent results), it is highly possible that the higher risks of benthic habitat quality reduction suggested by BH3 results can be reflected in future quality status assessments. Independent of the subregion, all offshore circalittoral habitat types for which",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Misclassification of habitats might lead to",
+      "context_window": "Habitat mapping is largely based on modelling and does not include spatially detailed field validation. Misclassification of habitats might lead to deviating assessment results, as benthic community observations are then judged against incorrect references.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diversity responds to each of the pressures and whether one pressure impact might overrule the other.",
+      "context_window": "or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variability. However, the number of available samples is also likely to be reduced.",
+      "context_window": "BHT x country). Reducing the size of areas for which the quality status is estimated might reduce (natural) variability. However, the number of available samples is also likely to be reduced. Data standardisation: It is of utmost importance that methodologies (sampling, laboratory) are standardised as much as possible",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment",
+      "context_window": ") value. Table b: Quality codes for data sets; taking account of sampling efforts and potential effects of year-to-year variation reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment results. The use of older data (former periods) for current status assessments and using data with reduced spatial",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples for which there is no doubt about SAR values might be due to misinterpretation of VMS data.",
+      "context_window": "patterns provided by ICES might be correct. This assessment method applies an approach of including only samples for which there is no doubt about SAR values might be due to misinterpretation of VMS data. As a consequence, data availability to extract reference values might be slightly lower than it could be.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There might also be variability in the representativity of monitoring between",
+      "context_window": "assessment might not be entirely representative for entire BHTs x AUs (which is however the level of assessment within OSPAR). There might also be variability in the representativity of monitoring between Condition of Benthic Habitat Communities: Margalef diversity in Region II (Greater North Sea) assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion",
+      "context_window": "samples. As year-to-year variation can be expected, although natural variability in diversity is not expected to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion of data from more years is a secondary concern. This is the first approach to set the reference Margalef",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") are considered. It might be that relative diversity is not the most",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats ) are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion (Extended) 23 Knowledge Gaps 24 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subdivision in different techniques might be an option for the future, but this would result in low data",
+      "context_window": "Margalef diversity). It was therefore decided not to consider the last category for the time being (further subdivision in different techniques might be an option for the future, but this would result in low data availability per monitoring technique and few or no countries with the same technique in the assessments, which in turn would impede comparison of assessment results).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Interestingly, Relative Margalef diversity seems to be relatively high in circalittoral mixed sediment habitat",
+      "context_window": "assessment using alternative indicators (e.g., BH1) and indicators that can identify most probable disturbances at stake (e.g., proposed indicator BH6/BISI). Interestingly, Relative Margalef diversity seems to be relatively high in circalittoral mixed sediment habitat of at least the Southern North Sea (and possibly in some of the other subregions as well). It might be that",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in",
+      "context_window": "which recent benthic community data are available. In case no (or limited) data are available for the 2016- 2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in that case no information on recent developments in the quality status are available). Benthic monitoring data",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbance for certain habitat types, as most sensitive species might be lost already at low frequency",
+      "context_window": "low rate can be enough to prevent recovery. The difference in impact between zero and occasional disturbance is probably larger than the difference in impact between occasional and more frequent disturbance for certain habitat types, as most sensitive species might be lost already at low frequency disturbance. Circalittoral habitats:",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities to recover than for relatively highly diverse communities to withstand a certain level of",
+      "context_window": "It might be that a further decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated communities to recover than for relatively highly diverse communities to withstand a certain level of pressure). Additionally, it should be noted that a large share of the areas assessed lack benthic community",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Based on 2016-2021 data",
+      "context_window": "SAR 0,1-0,5 and SAR 0,5-1). Confidence of assessment of current status in case of representative spatial distribution of samples over area of concern: Based on 2016-2021 data Poor Low",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the quality status of benthic habitats for most recent years (2016-2021) is assessed and compared with the",
+      "context_window": "With an OSPAR data call, benthic community data were gathered for the years 1998-2021. For the QSR2023, the quality status of benthic habitats for most recent years (2016-2021) is assessed and compared with the period 2009-2015 (IA2017) and the period 1998-2008 (QSR2010). Where there is a lack of data for the years",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring",
+      "context_window": "). Only decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring designs for recent periods, at least for Swedish waters, might play a role. Figure b",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Crucial aspects that might lead to uncertainty with regards to the assessment results are;",
+      "context_window": "different aspects of diversity (e.g., specific size classes, taxonomic classes, species traits) that might vary in sensitivity to impact from different pressures. Crucial aspects that might lead to uncertainty with regards to the assessment results are; - Whether reference setting using pressure mapping is realistic in terms of completeness and spatial accuracy, whether it is representative for all benthic community data included in the analyses, and whether it addresses",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity",
+      "context_window": "coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity is observed in the Swedish part for mixed sediment habitat and for muddy habitat in the Danish part. Although the relative diversity based on small cores is generally somewhat smaller than based on grabs and",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and",
+      "context_window": "Table 2 ). Only decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring designs for recent periods, at least for Swedish waters, might play a role.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "near future.",
+      "context_window": "disturbance due to fishing activities might in the long-term lead to recovery of the circalittoral habitats, whereas offshore circalittoral habitats seem to be at risk (according to BH3) of facing quality reduction in the near future. Moreover, as benthic community data for most recent years are lacking for certain (often quite extensive) areas, suggested high risk of impact of physical disturbance in offshore circalittoral muddy and",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures can still prevent habitats from recovering.",
+      "context_window": "OSPAR Commission 2023 15 of 27 pressures can still prevent habitats from recovering. It should be noted that in certain parts of Region II (e.g., Central North Sea, Channel) the spatial representativity of the available benthic community samples for large-",
+      "page_number": 15,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the level of (BHT within) Assessment Units did lead to increased variability. To clear patterns in D",
+      "context_window": "It was observed that merging data from different countries in assessments with common reference values at the level of (BHT within) Assessment Units did lead to increased variability. To clear patterns in D M ’",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in limited deviations in the assessment results.",
+      "context_window": "assessments with poor data availability. It should be analysed what variability is still reasonable and results in limited deviations in the assessment results. Examples are sampled surface areas that can be combined and/or ecological relevant assessment units (are current assessment units with different types of abiotic",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and/or ecological relevant assessment units (are current assessment units with different types of abiotic",
+      "context_window": "in limited deviations in the assessment results. Examples are sampled surface areas that can be combined and/or ecological relevant assessment units (are current assessment units with different types of abiotic gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef",
+      "context_window": "It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distinguishing individual countries comparing developments in time.",
+      "context_window": "M ’) per Broad Habitat Type (BHT) per Assessment Unit (AU) distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management are likely to not be representative for entire BHTs within AUs. In addition, the current",
+      "context_window": "pressure not being covered within BHTs. Moreover, those areas with specific activities and pressures or management are likely to not be representative for entire BHTs within AUs. In addition, the current assessment might not be entirely representative for entire BHTs x AUs (which is however the level of assessment within OSPAR).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variability is large.",
+      "context_window": "However, with large-scale application, combining data from different origins (various sampling laboratory and identification procedures) for broad habitats and extended subregions, internal variability is large. As long as there is no large-scale joint monitoring the challenge is how much variability can be allowed to still achieve largely comparable assessment results for cases.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Strengthened efforts to improve habitat mapping and consistency are needed in the future, since",
+      "context_window": "and actually present habitat types (for instance indicated by the benthic community observation data) is quite large. Strengthened efforts to improve habitat mapping and consistency are needed in the future, since habitat mapping forms the basis for all benthic habitat assessments. Current classification used in the Broad",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016-",
+      "context_window": "habitats) results. It has already been indicated for the results at assessment unit scale, that for a large part of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016- 2021) years. Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined on the basis of environmental gradients mean with regards to comparability of assessment",
+      "context_window": "Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment results between different areas (BHTs and/or AUs). OSPAR Commission 2023",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This might indicate that the response to such gradients might be more consistent",
+      "context_window": "the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline across all three gradients. This might indicate that the response to such gradients might be more consistent and/or overrule to a certain extent physical disturbance gradients in case of combi-pressure situations. It is",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in several cases monitoring effort is designed to focus on specific areas (often",
+      "context_window": "Where monitoring effort (in numbers of samples) is sufficient, it is reflected in the reliability of the assessment results. However, in several cases monitoring effort is designed to focus on specific areas (often MPAs) with specific activities and pressures or management, etcetera. This might result entire gradients of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to climate change.",
+      "context_window": "The question is whether such patterns are recurrent, and recovery of communities can be expected the coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity is observed in the Swedish part for mixed sediment habitat and for muddy habitat in the Danish part.",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the effect on diversity at larger scale.",
+      "context_window": "sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale. Underestimation of fishing pressure in coastal areas, by not considering small vessels, could also be the case at least along the coasts of France and the UK.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The question is what type of pressures and variability should be considered.",
+      "context_window": "anoxic region, impacts from nutrients and pollutants, increased turbidity, changes in salinity conditions and/or hydrodynamic conditions. The question is what type of pressures and variability should be considered. It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled",
+      "context_window": "Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled and actually present habitat types (for instance indicated by the benthic community observation data) is quite large.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including information about specific management of certain areas that might influence the representativity",
+      "context_window": "a specific wish to include spatial distribution patterns with regards to other pressures in the future. Also including information about specific management of certain areas that might influence the representativity of benthic community samples for larger scale assessments is important as long as representative monitoring programmes covering the BHTs at the (country within) assessment unit scale are not present.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When former period results are used to assess",
+      "context_window": "Assessment results at the level of countries (BHTs x AUs x Countries) will only be presented if quality of data according to coding is at least ‘sufficient’. When former period results are used to assess current quality status the confidence decreases one level in case of 2009-2015 data (i.e., respectively: good, sufficient, low, poor and poor related to the same quality codes) or two levels older data where older data",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "standardisation procedures, exploratory data analyses to identify (and visualise) potential sources of",
+      "context_window": "step-3-assessment-nosar.html ’) includes data selection and standardisation procedures, exploratory data analyses to identify (and visualise) potential sources of variability (and therefore options for selections of subsets of data and/or additional testing opportunities) and presenting assessment and testing results including estimation of case-specific reference values used to",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which recent benthic community data are available.",
+      "context_window": "benthic habitat quality status assessments at the level of AUs. Table a: Overview of quality status assessments for Broad Habitat Types (BHTs) per Assessment Unit (AU) for which recent benthic community data are available. In case no (or limited) data are available for the 2016- 2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Additionally, there is a large need for ground-truthing of modelled habitat classifications in certain",
+      "context_window": "assessment as well as uncertainty as to what extent communities match with the indicated sandy – or muddy habitat. Additionally, there is a large need for ground-truthing of modelled habitat classifications in certain areas.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline",
+      "context_window": "especially relevant in this current situation for a large part of the Greater North Sea Region. When analysing the pollution and eutrophication gradients, the Relative Margalef diversity index shows a consistent decline across all three gradients. This might indicate that the response to such gradients might be more consistent",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in",
+      "context_window": "There might also be variability in the representativity of monitoring between Condition of Benthic Habitat Communities: Margalef diversity in Region II (Greater North Sea) assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in this assessment, which may result in differences in quality status of BHTs over different assessment periods which might in fact be more related to changes in monitoring designs than a state change for the benthic",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As long as there is no large-scale joint monitoring the challenge is how much variability",
+      "context_window": "sampling laboratory and identification procedures) for broad habitats and extended subregions, internal variability is large. As long as there is no large-scale joint monitoring the challenge is how much variability can be allowed to still achieve largely comparable assessment results for cases. Splitting up methodologies,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelling can result in variability that can also be expected in reality (borders between BHTs are transitions",
+      "context_window": "that will in reality be predominantly linked to the BHT of concern. Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled and actually present habitat types (for instance indicated by the benthic community observation data) is",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is",
+      "context_window": "diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is given by the ICES WKBENTH3 report (ICES, 2022) testing several indicators (amongst others the D M",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of low data",
+      "context_window": "Where there is sufficient data, the use of percentiles will most likely filter out the potential effect of incorrectly including samples of disturbed communities to estimate the reference. In the case of low data availability (quality code 4 and 5 as indicated in Table b) the multivariate derivation of reference values is likely to result in increased uncertainty (but it seems to be the best approach).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, as benthic community data for most recent years are lacking for certain (often quite",
+      "context_window": "whereas offshore circalittoral habitats seem to be at risk (according to BH3) of facing quality reduction in the near future. Moreover, as benthic community data for most recent years are lacking for certain (often quite extensive) areas, suggested high risk of impact of physical disturbance in offshore circalittoral muddy and sandy areas might already lead to quality reduction (however not detected yet, but potentially visible when",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The middle ground is to define",
+      "context_window": "would not be possible to calculate these since for good reliability a number of observations for low-pressure situations for each case is essential to cover natural variability in diversity. The middle ground is to define categories (in sampling methodology or sample treatment) that are to a certain extent standardised but that have (in several cases) a sufficient amount of data.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent",
+      "context_window": ") are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale. Underestimation of fishing pressure in coastal areas, by not considering",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might",
+      "context_window": "regards to Kattegat and Germany with regards to the Southern North Sea) that monitoring designs are not comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might play a role. In general, infralittoral sand and mud might be in the poorest state.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated",
+      "context_window": "physical disturbance levels in coastal areas are particularly low at the moment. It might be that a further decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated communities to recover than for relatively highly diverse communities to withstand a certain level of pressure).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the higher risks of benthic habitat quality reduction suggested by BH3 results can be reflected in future",
+      "context_window": "large surface areas there are no data available for 2016-2021 (instead results based on 2009-2015 data are presented or specific territorial waters are not included in the most recent results), it is highly possible that the higher risks of benthic habitat quality reduction suggested by BH3 results can be reflected in future quality status assessments. Independent of the subregion, all offshore circalittoral habitat types for which",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diversity responds to each of the pressures and whether one pressure impact might overrule the other.",
+      "context_window": "or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other. Some first indications of the response and sensitivity of the Relative Margalef diversity to different pressures is",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment",
+      "context_window": ") value. Table b: Quality codes for data sets; taking account of sampling efforts and potential effects of year-to-year variation reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment results. The use of older data (former periods) for current status assessments and using data with reduced spatial",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There might also be variability in the representativity of monitoring between",
+      "context_window": "assessment might not be entirely representative for entire BHTs x AUs (which is however the level of assessment within OSPAR). There might also be variability in the representativity of monitoring between Condition of Benthic Habitat Communities: Margalef diversity in Region II (Greater North Sea) assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") are considered. It might be that relative diversity is not the most",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats ) are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subdivision in different techniques might be an option for the future, but this would result in low data",
+      "context_window": "Margalef diversity). It was therefore decided not to consider the last category for the time being (further subdivision in different techniques might be an option for the future, but this would result in low data availability per monitoring technique and few or no countries with the same technique in the assessments, which in turn would impede comparison of assessment results).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in",
+      "context_window": "which recent benthic community data are available. In case no (or limited) data are available for the 2016- 2021 period, data from the 2009-2015 period are used to estimate the current quality status (although in that case no information on recent developments in the quality status are available). Benthic monitoring data",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities to recover than for relatively highly diverse communities to withstand a certain level of",
+      "context_window": "It might be that a further decrease in pressure is necessary for communities to recover (it might be more difficult for deteriorated communities to recover than for relatively highly diverse communities to withstand a certain level of pressure). Additionally, it should be noted that a large share of the areas assessed lack benthic community",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the quality status of benthic habitats for most recent years (2016-2021) is assessed and compared with the",
+      "context_window": "With an OSPAR data call, benthic community data were gathered for the years 1998-2021. For the QSR2023, the quality status of benthic habitats for most recent years (2016-2021) is assessed and compared with the period 2009-2015 (IA2017) and the period 1998-2008 (QSR2010). Where there is a lack of data for the years",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Crucial aspects that might lead to uncertainty with regards to the assessment results are;",
+      "context_window": "different aspects of diversity (e.g., specific size classes, taxonomic classes, species traits) that might vary in sensitivity to impact from different pressures. Crucial aspects that might lead to uncertainty with regards to the assessment results are; - Whether reference setting using pressure mapping is realistic in terms of completeness and spatial accuracy, whether it is representative for all benthic community data included in the analyses, and whether it addresses",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and",
+      "context_window": "Table 2 ). Only decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring designs for recent periods, at least for Swedish waters, might play a role.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures can still prevent habitats from recovering.",
+      "context_window": "OSPAR Commission 2023 15 of 27 pressures can still prevent habitats from recovering. It should be noted that in certain parts of Region II (e.g., Central North Sea, Channel) the spatial representativity of the available benthic community samples for large-",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "near future.",
+      "context_window": "disturbance due to fishing activities might in the long-term lead to recovery of the circalittoral habitats, whereas offshore circalittoral habitats seem to be at risk (according to BH3) of facing quality reduction in the near future. Moreover, as benthic community data for most recent years are lacking for certain (often quite extensive) areas, suggested high risk of impact of physical disturbance in offshore circalittoral muddy and",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity",
+      "context_window": "coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity is observed in the Swedish part for mixed sediment habitat and for muddy habitat in the Danish part. Although the relative diversity based on small cores is generally somewhat smaller than based on grabs and",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring",
+      "context_window": "). Only decreasing trends in relative diversity for circalittoral muddy habitat are observed in the Kattegat and Norwegian Trench (for which the variability in low salinity water inflow and poor comparability of monitoring designs for recent periods, at least for Swedish waters, might play a role. Figure b",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Based on 2016-2021 data",
+      "context_window": "SAR 0,1-0,5 and SAR 0,5-1). Confidence of assessment of current status in case of representative spatial distribution of samples over area of concern: Based on 2016-2021 data Poor Low",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "disturbance for certain habitat types, as most sensitive species might be lost already at low frequency",
+      "context_window": "low rate can be enough to prevent recovery. The difference in impact between zero and occasional disturbance is probably larger than the difference in impact between occasional and more frequent disturbance for certain habitat types, as most sensitive species might be lost already at low frequency disturbance. Circalittoral habitats:",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Interestingly, Relative Margalef diversity seems to be relatively high in circalittoral mixed sediment habitat",
+      "context_window": "assessment using alternative indicators (e.g., BH1) and indicators that can identify most probable disturbances at stake (e.g., proposed indicator BH6/BISI). Interestingly, Relative Margalef diversity seems to be relatively high in circalittoral mixed sediment habitat of at least the Southern North Sea (and possibly in some of the other subregions as well). It might be that",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion (Extended) 23 Knowledge Gaps 24 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion",
+      "context_window": "samples. As year-to-year variation can be expected, although natural variability in diversity is not expected to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion of data from more years is a secondary concern. This is the first approach to set the reference Margalef",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples for which there is no doubt about SAR values might be due to misinterpretation of VMS data.",
+      "context_window": "patterns provided by ICES might be correct. This assessment method applies an approach of including only samples for which there is no doubt about SAR values might be due to misinterpretation of VMS data. As a consequence, data availability to extract reference values might be slightly lower than it could be.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variability. However, the number of available samples is also likely to be reduced.",
+      "context_window": "BHT x country). Reducing the size of areas for which the quality status is estimated might reduce (natural) variability. However, the number of available samples is also likely to be reduced. Data standardisation: It is of utmost importance that methodologies (sampling, laboratory) are standardised as much as possible",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Misclassification of habitats might lead to",
+      "context_window": "Habitat mapping is largely based on modelling and does not include spatially detailed field validation. Misclassification of habitats might lead to deviating assessment results, as benthic community observations are then judged against incorrect references.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In principle the relative Margalef diversity",
+      "context_window": "availability per monitoring technique and few or no countries with the same technique in the assessments, which in turn would impede comparison of assessment results). In principle the relative Margalef diversity (D M",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abstract the results and indicate quality status and developments at the ecologically relevant level (AUs",
+      "context_window": "Therefore, median values at the level of BHTs within AUs of the median assessment results at the level of countries are presented as well to abstract the results and indicate quality status and developments at the ecologically relevant level (AUs regardless of country boundaries). Results for two sampling technique categories are presented as the",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Role of other pressure impacts and natural disturbance:",
+      "context_window": "that each indicator has its own specificities and can be more indicative of this status under certain conditions than under others? Role of other pressure impacts and natural disturbance: The current assessment is almost entirely focused on physical disturbance by fisheries as the dominant pressure.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring programme, this is not necessarily the case and in several instances appears to not be the case.",
+      "context_window": "percentages and spatial patterns of habitat distribution. - Although the current methodology may be seen to suggest the existence of a spatially representative monitoring programme, this is not necessarily the case and in several instances appears to not be the case. Where monitoring effort (in numbers of samples) is sufficient, it is reflected in the reliability of the assessment results.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitive indicator responding to increased pressure (although a response is definitely expected in the case",
+      "context_window": "of Physical Disturbance to Benthic Habitats ) are considered. It might be that relative diversity is not the most sensitive indicator responding to increased pressure (although a response is definitely expected in the case of lasting physical disturbance) or that small scale variability in pressure level can mask to a certain extent the effect on diversity at larger scale.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "uncertainty, which is due to spatial distribution, is especially notable in the assessments done in the Channel,",
+      "context_window": "Figure a ), typically MPAs and (planned) wind parks. This uncertainty, which is due to spatial distribution, is especially notable in the assessments done in the Channel, Norwegian Trench and the Central North Sea subregions. Additionally, no (comparable) monitoring data were",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coming years or whether salinity variability is increasing and extending over larger areas and might be related",
+      "context_window": "Besides increased fisheries pressures, changes in inflow from the Baltic could play a role. The question is whether such patterns are recurrent, and recovery of communities can be expected the coming years or whether salinity variability is increasing and extending over larger areas and might be related to climate change. In the offshore circalittoral zone of the Kattegat a significant decrease in relative diversity",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As year-to-year variation can be expected, although natural variability in diversity is not expected",
+      "context_window": "generally large areas where variability within the area can be expected, the first concern is to have sufficient samples. As year-to-year variation can be expected, although natural variability in diversity is not expected to be very large when no changes in pressure level are at stake, compared to spatial variability, the inclusion of data from more years is a secondary concern.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current assessments will lead to",
+      "context_window": "are obtained with techniques either categorised as ‘Grab-Core’ sampling (GC) or as ‘Small Core’ sampling (SC); indicated between brackets in case less than 5 samples are available. Current assessments will lead to results for each of those categories, although representativity of data in terms of amount of data and spatial (and temporal) distribution should be considered as well.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Possible differences within countries between",
+      "context_window": "’) per Broad Habitat Type (BHT) per Assessment Unit (AU) distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant differences are indicated with different characters (in case of one of the characters equal there is no significant",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 2: Overview of estimated confidence of assessment of current status at the level of Broad Habitat Types (BHTs)",
+      "context_window": "based on data from (former) 2009-2015 period or no data of before 2016 available so that statistical testing of recent developments is not possible. Table 2: Overview of estimated confidence of assessment of current status at the level of Broad Habitat Types (BHTs) within Assessment units (AUs). Confidence based on data density (number of available samples), temporal coverage",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "situations for each case is essential to cover natural variability in diversity.",
+      "context_window": "In practice this cannot be achieved as it would lead to a huge number for specific references, it would not be possible to calculate these since for good reliability a number of observations for low-pressure situations for each case is essential to cover natural variability in diversity. The middle ground is to define categories (in sampling methodology or sample treatment) that are to a certain extent standardised but that",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Again, these results might indicate that in coastal waters at present it is not solely",
+      "context_window": "habitats of particularly the circalittoral zone, might be less susceptible to eutrophication effects and/or increased sedimentation. Again, these results might indicate that in coastal waters at present it is not solely current fishing pressure determining benthic habitat quality status, but that eutrophication and diffuse pollution levels can prevent recovery of formerly disturbed habitats, with differences in sensitivity of BHTs",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current classification used in the Broad",
+      "context_window": "Strengthened efforts to improve habitat mapping and consistency are needed in the future, since habitat mapping forms the basis for all benthic habitat assessments. Current classification used in the Broad Habitat Type map (EUSeaMap, 2021) does however not match the finer-scale classifications from EUNIS (Evans",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic",
+      "context_window": "of the area (e.g., UK waters) benthic community observation data were lacking for the most recent (2016- 2021) years. Therefore, it is very well possible that current high risks of impact are not yet reflected in benthic relative diversity observations. In the circalittoral zone, relative diversity based on Dutch data was high in the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other observations are that where significant trends were detected, these indicated decreasing Relative",
+      "context_window": "’ values generally have poor data availability and therefore quality estimations come with poor confidence level. Other observations are that where significant trends were detected, these indicated decreasing Relative Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the Southern North Sea subregion.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact on diversity in the estimation of reference values; what does the use of reference value gradients",
+      "context_window": "gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment results between different areas (BHTs and/or AUs).",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which might in fact be more related to changes in monitoring designs than a state change for the benthic",
+      "context_window": "assessment periods (i.e., 1998-2008, 2009-2015 and 2016-2021) for which results are directly compared in this assessment, which may result in differences in quality status of BHTs over different assessment periods which might in fact be more related to changes in monitoring designs than a state change for the benthic habitat. The narrative indicates if the assessment result and patterns therein are likely to be the result of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deviating assessment results, as benthic community observations are then judged against incorrect",
+      "context_window": "modelling and does not include spatially detailed field validation. Misclassification of habitats might lead to deviating assessment results, as benthic community observations are then judged against incorrect references. In addition, it should be noted there are deviations between classifications used for EUNIS",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "representativity of monitoring data might lead to uncertainty.",
+      "context_window": "periods, for which results are independent of used reference values. However, in that case differences in representativity of monitoring data might lead to uncertainty.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "attempts to take certain additional disturbances into account even if they have not been fully included in the",
+      "context_window": "importance of other disturbances). In specific cases the narrative that explains the assessment result attempts to take certain additional disturbances into account even if they have not been fully included in the quantitative assessment. - Habitat mapping is not as accurate as suggested by detailed maps.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the",
+      "context_window": "In both cases it has been indicated by countries providing data (Sweden with regards to Kattegat and Germany with regards to the Southern North Sea) that monitoring designs are not comparable between the periods 2016-2021 and 2009-2015 especially for those shallow habitats, and in the case of the Kattegat also ‘natural’ disturbance by variation in low salinity water inflow from the Baltic might play a role.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The use of older data (former periods) for current status assessments and using data with reduced spatial",
+      "context_window": "reflected in the potential to use data sets to define the reference D and reflected in the confidence of assessment results. The use of older data (former periods) for current status assessments and using data with reduced spatial representativity (indicated by the percentage of area covered by the benthic community samples) are reflected in reduced confidence level as indicated. SAR= Swept Area Ratio",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in fewer reliable assessment results.",
+      "context_window": "Being too strict in standardisation might lead to a lot of different categories (with different procedures) which dilutes the data availability per case and might result in fewer reliable assessment results. In principle it is not that problematic to use some different categories for the assessments, as category specific reference values (D",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be analysed what variability is still reasonable and results",
+      "context_window": "habitats, areas in many categories so that within category standardisation is large, will result in many assessments with poor data availability. It should be analysed what variability is still reasonable and results in limited deviations in the assessment results. Examples are sampled surface areas that can be combined",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the",
+      "context_window": "generally have poor data availability and therefore quality estimations come with poor confidence level. Other observations are that where significant trends were detected, these indicated decreasing Relative Margalef diversity as found for infralittoral coarse sediment in the Kattegat and infralittoral mud in the Southern North Sea subregion. In both cases it has been indicated by countries providing data (Sweden with",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "likely to result in increased uncertainty (but it seems to be the best approach).",
+      "context_window": "In the case of low data availability (quality code 4 and 5 as indicated in Table b) the multivariate derivation of reference values is likely to result in increased uncertainty (but it seems to be the best approach). Most reliable are comparisons of cases of the same kind, i.e., comparing assessment results for different periods, for which results are independent of used reference values.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Occasional ‘miss-classification’ due to",
+      "context_window": "Broader-scale patterns in BHT distribution will generally be sufficiently accurate to extract a set of samples that will in reality be predominantly linked to the BHT of concern. Occasional ‘miss-classification’ due to modelling can result in variability that can also be expected in reality (borders between BHTs are transitions in reality and furthermore likely to change over time), however in certain areas the mismatch of modelled",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The relatively poor quality observed for benthic communities in coastal areas might be the result",
+      "context_window": "pressure level between offshore and coastal areas might be the level of eutrophication and the role of diffuse pollutants. The relatively poor quality observed for benthic communities in coastal areas might be the result of impact from increased nutrient and diffuse pollution level, preventing benthic habitats from recovering, now that physical pressure levels in coastal areas are lower than offshore.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "among datasets, this was not sufficient to overcome methodological differences among countries with",
+      "context_window": "into account results in increased comparability of the assessment results. After first applications it was clear that regardless of the efforts made to achieve maximum standardisation among datasets, this was not sufficient to overcome methodological differences among countries with effects on assessment results. Therefore, in current assessments specific D ref",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant",
+      "context_window": "distinguishing individual countries comparing developments in time. Possible differences within countries between assessment periods (2016-2021, 2009-2015 and 1998-2008) are tested (at p<0,05) using t-tests, where significant differences are indicated with different characters (in case of one of the characters equal there is no significant difference).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or integrating potential impacts of other pressures in assessment results.",
+      "context_window": "The question is what type of pressures and variability should be considered. It is clear that for BH2b, but also for other BH indicators, there should be more efforts in pressure mapping or integrating potential impacts of other pressures in assessment results. Taking the variety of pressures into account, it should be investigated to what extent the Relative Margalef diversity responds to each of the pressures and whether one pressure impact might overrule the other.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Related to this knowledge gap would be how to integrate known important environmental gradients with",
+      "context_window": "and/or ecological relevant assessment units (are current assessment units with different types of abiotic gradients not too large for comparable assessments). Related to this knowledge gap would be how to integrate known important environmental gradients with impact on diversity in the estimation of reference values; what does the use of reference value gradients determined on the basis of environmental gradients mean with regards to comparability of assessment",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "taking pressure distributions and (specific pressure) sensitivity into account in impact assessment and",
+      "context_window": "pressures and pressure combinations and levels, with general quality indicators, specific pressure indicators, indicators distinguishing most important pressures, combined pressure mapping and risk-based assessments taking pressure distributions and (specific pressure) sensitivity into account in impact assessment and upscaling of quality assessment results. Broad Habitat Map",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in that case differences in",
+      "context_window": "Most reliable are comparisons of cases of the same kind, i.e., comparing assessment results for different periods, for which results are independent of used reference values. However, in that case differences in representativity of monitoring data might lead to uncertainty.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on assessment results. Therefore, in current assessments specific D",
+      "context_window": "After first applications it was clear that regardless of the efforts made to achieve maximum standardisation among datasets, this was not sufficient to overcome methodological differences among countries with effects on assessment results. Therefore, in current assessments specific D ref values at the level of countries",
+      "page_number": 8,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 3,
+      "ocean acidification": 1,
+      "anoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 74,
+      "end_sentence": 80,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 74,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 75,
+          "page_number": 3,
+          "content": "There was low species diversity in infralittoral sand, - mud and circalittoral sandy habitats in the...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 76,
+          "page_number": 3,
+          "content": "North Sea.",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 77,
+          "page_number": 3,
+          "content": "It was moderate/high in offshore areas till 2015, but expected impacts of fisheries might lead to",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "(near) future decreases.",
+          "full_length": 24
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 1767,
+      "end_sentence": 1787,
+      "sentence_count": 21,
+      "page_range": "23-23",
+      "sentences": [
+        {
+          "sentence_id": 1767,
+          "page_number": 23,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1768,
+          "page_number": 23,
+          "content": "Relative diversity of benthic communities is higher in offshore circalittoral habitats compared to c...",
+          "full_length": 112
+        },
+        {
+          "sentence_id": 1769,
+          "page_number": 23,
+          "content": "and infralittoral habitats.",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 1770,
+          "page_number": 23,
+          "content": "The relative diversity still seems to be in a moderate or rather good state in offshore",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 1771,
+          "page_number": 23,
+          "content": "circalittoral habitats regardless of the expected relatively high fishing pressure.",
+          "full_length": 83
+        }
+      ],
+      "total_sentences_in_section": 21
+    },
+    {
+      "section_name": "Conclusion (Extended)",
+      "start_sentence": 1788,
+      "end_sentence": 1840,
+      "sentence_count": 53,
+      "page_range": "23-24",
+      "sentences": [
+        {
+          "sentence_id": 1788,
+          "page_number": 23,
+          "content": "Conclusion (Extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1789,
+          "page_number": 23,
+          "content": "It can be concluded that in general there is room for improvement with regard to benthic diversity, ...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 1790,
+          "page_number": 23,
+          "content": "most Broad Habitat Types (BHTs) current benthic diversity is not found to be relatively high, althou...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 1791,
+          "page_number": 23,
+          "content": "are subregional differences and some BHTs in general seem to be in a better-quality state.",
+          "full_length": 90
+        },
+        {
+          "sentence_id": 1792,
+          "page_number": 23,
+          "content": "An important observation is that in general offshore circalittoral habitat types seem to be in bette...",
+          "full_length": 111
+        }
+      ],
+      "total_sentences_in_section": 53
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1957,
+      "end_sentence": 2040,
+      "sentence_count": 84,
+      "page_range": "26-26",
+      "sentences": [
+        {
+          "sentence_id": 1957,
+          "page_number": 26,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1958,
+          "page_number": 26,
+          "content": "EUSeaMap 2021. A European broad-scale seabed habitat map. EUSeaMap version 2021- Technical report",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1959,
+          "page_number": 26,
+          "content": "https://archimer.ifremer.fr/doc/00723/83528/",
+          "full_length": 44
+        },
+        {
+          "sentence_id": 1960,
+          "page_number": 26,
+          "content": "Evans, D., Aish, A., Boon, A., Condé, S., Connor, D., Gelabert, E. Michez, N., Parry, M., Richard, D...",
+          "full_length": 114
+        },
+        {
+          "sentence_id": 1961,
+          "page_number": 26,
+          "content": "& Tunesi, L., 2016.",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 84
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2110,
+    "chunks_selected": 95,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 74,
+        "end_sentence": 80,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 1767,
+        "end_sentence": 1787,
+        "sentence_count": 21
+      },
+      {
+        "section_name": "Conclusion (Extended)",
+        "start_sentence": 1788,
+        "end_sentence": 1840,
+        "sentence_count": 53
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1957,
+        "end_sentence": 2040,
+        "sentence_count": 84
+      }
+    ],
+    "total_excluded_sentences": 165
+  }
+}

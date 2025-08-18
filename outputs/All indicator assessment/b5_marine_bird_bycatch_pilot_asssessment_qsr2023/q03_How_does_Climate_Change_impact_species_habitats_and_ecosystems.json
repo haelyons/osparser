@@ -1,0 +1,1355 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "greatest average impact (Dias et al.",
+      "context_window": "In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al. 2019). Published evidence from the North-East Atlantic has shown that",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the",
+      "context_window": "Background (extended) In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al. 2019).",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive",
+      "context_window": "to be used to advise on the level of mitigation measures required. Background (extended) In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "Publication Number: 855/2022 Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001).",
+      "context_window": "The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001). Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird",
+      "context_window": "identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch. Species included in the Indicator Assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the default assessment method for all species, the focus is on the application of a population model to",
+      "context_window": "Assessment Method 1 (for all species if data are available) Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "Emphasis was placed on species listed in the OSPAR List of Threatened and / or Declining Species and Habitats . Assessment Method 1 (for all species if data are available)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations in order to test their response over a period of time to alterations in by-catch mortality.",
+      "context_window": "do this. The PVA in this assessment used Leslie matrix analysis to model the demographic parameters of the study populations in order to test their response over a period of time to alterations in by-catch mortality. The stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age-",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation",
+      "context_window": "migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001). Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation status of the Western Palearctic population (Aarvak et al. 2013), with by-catch in commercial fisheries having",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method 1 (for all species if data are available)",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats . Assessment Method 1 (for all species if data are available) Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-",
+      "context_window": "Assessment Method 3 identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Steller’s eider Polysticta stelleri in Arctic Waters (Region I)",
+      "context_window": "Therefore, the roseate tern is passing the indicator for the OSPAR Regions II, III and V. Steller’s eider Polysticta stelleri in Arctic Waters (Region I) The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") which can be applied to species included in",
+      "context_window": "the three assessment methods proposed ( Assessment method 2 ) which can be applied to species included in the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Publication Number: 855/2022 Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem Date of publication",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An integration of species assessments on the level of species groups is not intended in this pilot assessment,",
+      "context_window": "species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment, because only selected species are assessed. Results",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Integration of species-specific assessments",
+      "context_window": "This is a precautionary method only applied to OSPAR threatened and / or declining species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment, because only selected species are assessed.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment",
+      "context_window": "Assessment Method 1 (for all species if data are available) 6 Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment Method 1 not possible) 7",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emphasis was placed on species listed",
+      "context_window": "Species were selected based on the availability of by-catch estimates and relevant demographic data which allows using one of the three assessment methods explained below. Emphasis was placed on species listed in the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For Cory’s shearwater off the Portuguese mainland",
+      "context_window": "was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV) and to common guillemot in the Celtic Seas (Region III). For Cory’s shearwater off the Portuguese mainland coast, the by-catch mortality threshold was exceeded, because the observed number of individuals by-caught was already higher than that responsible for a strong decline of the population size as simulated in a",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenario, both dummy scenarios showed a strong effect of mortality impact on population trends.",
+      "context_window": "by-catch were removed from the estimated survival on each baseline scenario. Starting with each baseline scenario, both dummy scenarios showed a strong effect of mortality impact on population trends. This is obvious from the ratio between impacted and unimpacted populations (RI:UGL), which for a 10% decrease",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska.",
+      "context_window": "Regions II, III and V. Steller’s eider Polysticta stelleri in Arctic Waters (Region I) The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species-specific assessments",
+      "context_window": "General Assessment 10 Species-specific assessments 11 Confidence Assessment",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater",
+      "context_window": "Source: Oliveira 2021. Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the impacted scenarios when compared with the baseline (unimpacted) population after three generations",
+      "context_window": "). However, the ratio between impacted and unimpacted populations (RI:UGL) is slightly lower in the second part than in the first one, resulting in higher percentages of population reduction in the impacted scenarios when compared with the baseline (unimpacted) population after three generations ( Table c",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species and fisheries causing by-catch.",
+      "context_window": "overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch. Species included in the Indicator Assessment The approaches for assessing the candidate indicator on marine bird by-catch were proposed in anticipation",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population Viability Analysis (PVA).",
+      "context_window": "coast, the by-catch mortality threshold was exceeded, because the observed number of individuals by-caught was already higher than that responsible for a strong decline of the population size as simulated in a Population Viability Analysis (PVA). The assessment for the common guillemot in the Celtic Seas could not be carried out successfully, because various populations of that species overlap in their wintering distribution.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carried out successfully, because various populations of that species overlap in their wintering distribution.",
+      "context_window": "Population Viability Analysis (PVA). The assessment for the common guillemot in the Celtic Seas could not be carried out successfully, because various populations of that species overlap in their wintering distribution. Common guillemots reported as by-catch in this pilot assessment could not be assigned to their breeding populations, hence the results of the PVA could not be used to determine the level of by-catch in the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For species included in the",
+      "context_window": "Assessment Method 1 below). For species included in the OSPAR List of Threatened and / or Declining Species and Habitats a precautionary",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the Indicator Assessment",
+      "context_window": "Background (extended) 3 Species included in the Indicator Assessment 4 Assessment Method",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unimpacted scenario, by assuming no by-catch and a high productivity due to conservation efforts at nesting",
+      "context_window": "). In the second part, demographic parameter estimates and size of only Berlenga Island population were used. This population shows a currently increasing trend in the unimpacted scenario, by assuming no by-catch and a high productivity due to conservation efforts at nesting areas. None of the simulated increments in mortality (1%, 5% or 10%) in the impacted scenarios resulted in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identifies risk areas by investigating spatio-temporal",
+      "context_window": "(European Commission 2008). Assessment Method 3 identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection and conservation of species, habitats and ecosystem",
+      "context_window": "List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem Date of publication Date",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "Barolo shearwater Puffinus baroli in Wider Atlantic (Region V) The Barolo shearwater, formerly known as little shearwater, or Macaronesian shearwater, is included in the OSPAR List of Threatened and / or Declining Species and Habitats . Therefore, if a PVA cannot be conducted, Assessment Method 2",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantify the impact on population dynamics by estimated levels of by-catch mortality.",
+      "context_window": "Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in relation to the threshold defined (see under",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations",
+      "context_window": "different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021. Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The metric here is the trajectory of the population size over a longer period (three generations time) in",
+      "context_window": "In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in relation to the threshold defined (see under Threshold values",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table c: Impact of 1%, 5% and 10% increase in mortality on the ratio of the population size after three generations",
+      "context_window": "The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021. Table c: Impact of 1%, 5% and 10% increase in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) population of Cory’s shearwater breeding in Berlengas Archipelago derived from stochastic models.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding",
+      "context_window": "OSPAR Region III, which according to ring recoveries (Wernham et al. 2002) and tracking data (SEAPOP 2021) is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding season. As the latter probably has only a smaller share, this assessment is addressing only the Celtic Seas",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago,",
+      "context_window": "Mougin et al. 2000. Figure a: Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago, excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a",
+      "context_window": "and size of Berlengas Archipelago breeding population, excluding Berlenga Island. This unimpacted scenario or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a decreasing population trend ( Figure a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality.",
+      "context_window": "from the recent history of monitoring at the breeding sites. The plot shows the baseline scenario (considering survival estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality. The different colours represent estimates of uncertainty surrounding each scenario.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR-HELCOM workshop to examine possibilities for developing",
+      "context_window": "demonstrate the proposed assessment methodologies (see COBAM proposals for biodiversity assessments), which go back to the outcome of the OSPAR-HELCOM workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals held in Copenhagen in 2019.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "below). For species included in the OSPAR List of Threatened and / or Declining Species and Habitats a precautionary approach is applied in case by-catch data and / or bird data for the approach mentioned before are not",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife",
+      "context_window": ". Due to the differences in productivity between the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife International 2015) for different levels of by-catch mortality. First, a baseline scenario considered the population that breed in Celtic Seas, showing a high productivity",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status of the Western Palearctic population (Aarvak et al.",
+      "context_window": "Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation status of the Western Palearctic population (Aarvak et al. 2013), with by-catch in commercial fisheries having been identified as one of the threats to this species (Žydelis et al.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to prevent further threatening of such species.",
+      "context_window": "catch in that species. This is a precautionary method only applied to OSPAR threatened and / or declining species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea derived from stochastic models.",
+      "context_window": "Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as number of birds, assuming 1%, 5% and 10% of by-catch mortality. Source: Oliveira 2021.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach is applied in case by-catch data and / or bird data for the approach mentioned before are not",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats a precautionary approach is applied in case by-catch data and / or bird data for the approach mentioned before are not available. In this case, the number of by-caught individuals of a population is assessed against the threshold",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was",
+      "context_window": "survival can significantly impact the population dynamic in long-lived marine birds and demography of marine birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014). The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was estimated for each scenario. The total number of birds that died due to by-catch was calculated in proportion",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining",
+      "context_window": "for this species in this region. Nonetheless, as Steller’s eider is on the OSPAR List of Threatened and / or Declining Species and Habitats , the population can be assessed using",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment identified spatial and temporal overlap of bird species distribution and exercise of fishing activity",
+      "context_window": "Assessment Method 3 was applied to Steller’s eider overwintering in the Arctic Waters (Region I). The assessment identified spatial and temporal overlap of bird species distribution and exercise of fishing activity known to cause by-catch of this species. The threshold of no overlap was therefore exceeded. Table 1.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to",
+      "context_window": "Table d . Due to the differences in productivity between the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife International 2015) for different levels of by-catch mortality.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators for incidental by-catch of birds and marine mammals",
+      "context_window": "which go back to the outcome of the OSPAR-HELCOM workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals held in Copenhagen in 2019. Assessment Method",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cory’s shearwater Calonectris borealis in Bay of Biscay and Iberian Coast (Region IV)",
+      "context_window": "Species-specific assessments The by-catch criterion was assessed for five populations in this pilot assessment. Cory’s shearwater Calonectris borealis in Bay of Biscay and Iberian Coast (Region IV) In the Bay of Biscay and Iberian Coast (Region IV), the population of Cory’s shearwater is mainly breeding in the Berlengas Archipelago off the Portuguese mainland coast. Smaller numbers from the Peniche coast",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment unit are not available, then the metric for species on the",
+      "context_window": "Assessment Method 2 cannot be applied because either by-catch data or the population size of the assessment unit are not available, then the metric for species on the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This indicator addresses the predicted biological significance of marine bird by-catch mortality, which has",
+      "context_window": "conservation of fisheries resources and the protection of marine ecosystems through technical measures .. This indicator addresses the predicted biological significance of marine bird by-catch mortality, which has to be used to advise on the level of mitigation measures required. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age-",
+      "context_window": "populations in order to test their response over a period of time to alterations in by-catch mortality. The stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age- specific survival estimates. The initial number of females in each of the age-classes was modelled, assuming",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2002) and tracking data (SEAPOP 2021)",
+      "context_window": "There is the breeding population of OSPAR Region III, which according to ring recoveries (Wernham et al. 2002) and tracking data (SEAPOP 2021) is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding season.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "individuals is given by Wetlands International (2021). The species is on the",
+      "context_window": "one colony in Ireland (Piec & Dunn 2021). Including immature birds, a population size of 7 500 to 9 200 individuals is given by Wetlands International (2021). The species is on the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV)",
+      "context_window": "column feeders, and surface feeders are susceptible to by-catch (see Results extended). Assessment Method 1 was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV) and to common guillemot in the Celtic Seas (Region III). For Cory’s shearwater off the Portuguese mainland",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014).",
+      "context_window": "are used as an alternative to real by-catch mortalities, based on the evidence that even small changes in adult survival can significantly impact the population dynamic in long-lived marine birds and demography of marine birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014). The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was estimated for each scenario.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and Habitats",
+      "context_window": "this species in this region. Nonetheless, as Steller’s eider is on the OSPAR List of Threatened and / or Declining Species and Habitats , the population can be assessed using Assessment Method 3",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The plot shows the baseline (i.e., no impact",
+      "context_window": "Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago, excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impact of a 1%, 5% and 10% increase in mortality.",
+      "context_window": "assuming density dependent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic",
+      "context_window": "Species I Arctic Waters II",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for common guillemots breeding in Celtic Seas colonies,",
+      "context_window": "Horswill & Robinson 2015. Figure c: Stochastic population model (1 000 bootstraps) for common guillemots breeding in Celtic Seas colonies, including United Kingdom and Ireland, assuming density dependent productivity. These populations currently show a",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In scenarios where a positive trend was found, density-dependent effects were used to avoid",
+      "context_window": "times in order to give an indicative trend for the study population and the correspondent uncertainty estimate. In scenarios where a positive trend was found, density-dependent effects were used to avoid generating falsely optimistic predictions about the potential for by-catch reduction to increase future seabird population sizes, following Miles et al. (2020).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2006), however, during the last decades there has been a shift in distribution with birds now primarily",
+      "context_window": "In the 1990s up to 13 200 Steller’s eiders were counted in the Varangerfjord (Žydelis et al. 2006), however, during the last decades there has been a shift in distribution with birds now primarily residing in Russia (Žydelis et al. 2006, Aarvak et al.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Bird Productivity",
+      "context_window": "IUCN Red List criteria to classify a species as being “vulnerable\" (IUCN 2012) and in line with the threshold used in the Common Indicator B3 Marine Bird Productivity or ii)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data and / or by-catch numbers are not available, any species not on the OSPAR",
+      "context_window": "Assessment Method 1 explained above, because bird demographic data and / or by-catch numbers are not available, any species not on the OSPAR List of Threatened and Declining Species and Habitats",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the recent history of monitoring at the breeding sites.",
+      "context_window": "Kingdom only, assuming density dependent productivity. This population currently shows a decreasing trend derived from the recent history of monitoring at the breeding sites. The plot shows the baseline scenario (considering survival estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreasing population trend (",
+      "context_window": "This unimpacted scenario or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a decreasing population trend ( Figure a ). In the second part, demographic parameter estimates and size of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic (Region V), roseate tern in Regions II, III and V, and Steller’s eider in Arctic Waters (Region I), see",
+      "context_window": "shearwater in the Bay of Biscay and Iberian Coast (Region IV), common guillemot in the Celtic Seas (Region III), Barolo shearwater (split from little shearwater and also known as Macaronesian shearwater) in the Wider Atlantic (Region V), roseate tern in Regions II, III and V, and Steller’s eider in Arctic Waters (Region I), see Figure 2 .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the",
+      "context_window": "Table a. Marine bird species reported as by-catch in fishing gear in the OSPAR Regions I toV. Species included in the OSPAR List of Threatened and / or Declining Species and Habitats are printed bold.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population size",
+      "context_window": "Table d: Demographic parameters of common guillemots used for the PVA in this pilot assessment. Population Population size (breeding pairs) Productivity",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further, the ranges of total annual by-catch are given for each scenario as",
+      "context_window": "for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as number of birds, assuming 1%, 5% and 10% of by-catch mortality. Source: Oliveira 2021. Baseline",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for common guillemots breeding in North Sea colonies of United",
+      "context_window": "16 Figure d: Stochastic population model (1 000 bootstraps) for common guillemots breeding in North Sea colonies of United Kingdom only, assuming density dependent productivity. This population currently shows a decreasing trend derived",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or",
+      "context_window": "Including immature birds, a population size of 7 500 to 9 200 individuals is given by Wetlands International (2021). The species is on the OSPAR List of Threatened and / or Declining Species and Habitats . Therefore, for the demonstration of this method, the population can be",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality.",
+      "context_window": "excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic",
+      "context_window": "breeding population and the visitors from the Greater North Sea. The common guillemot is not listed as threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic Seas), so Assessment Method 1",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pilot Assessment of Marine Bird Bycatch",
+      "context_window": "). Thus, the PVA results presented here indicate that the Berlengas population of Cory’s shearwater is Pilot Assessment of Marine Bird Bycatch 14 sensitive to small amounts of additional mortality due to by-catch.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the existence of spatial and temporal overlap of bird species distribution",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats is the existence of spatial and temporal overlap of bird species distribution and exercise of the fishing method known to cause by-catch in that species. The distribution of marine birds can be derived from national monitoring programmes, preferably including",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "experiencing alterations in survival due to by-catch mortality after three generations time (GL),",
+      "context_window": "the ratio (R) between impacted (I) and unimpacted (U) populations (RI:UGL), i.e. the percentage variation in the population size of a baseline scenario when compared with a population experiencing alterations in survival due to by-catch mortality after three generations time (GL), is below a certain level with a certain probability (which both have not been defined yet). Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data on bird by-catch available from some of those programmes",
+      "context_window": "There are only a few programmes dedicated to the monitoring of marine bird by-catch in European waters. Data on bird by-catch available from some of those programmes are used to run this pilot assessment of by-catch mortality on a few selected species in order to test and demonstrate the proposed assessment methodologies (see COBAM proposals for biodiversity assessments),",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding population and the visitors from the Greater North Sea.",
+      "context_window": "season. As the latter probably has only a smaller share, this assessment is addressing only the Celtic Seas breeding population and the visitors from the Greater North Sea. The common guillemot is not listed as threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Birds from the UK North Sea are not only by-caught in the Celtic Seas, but also in the North Sea itself",
+      "context_window": "caught in similar proportions given the very likely differences in temporal and spatial occurrence. • Birds from the UK North Sea are not only by-caught in the Celtic Seas, but also in the North Sea itself (Northridge et al. 2020). •",
+      "page_number": 17,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "greatest average impact (Dias et al.",
+      "context_window": "In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al. 2019). Published evidence from the North-East Atlantic has shown that",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the",
+      "context_window": "Background (extended) In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al. 2019).",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "Publication Number: 855/2022 Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird",
+      "context_window": "identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch. Species included in the Indicator Assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "Emphasis was placed on species listed in the OSPAR List of Threatened and / or Declining Species and Habitats . Assessment Method 1 (for all species if data are available)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation",
+      "context_window": "migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001). Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation status of the Western Palearctic population (Aarvak et al. 2013), with by-catch in commercial fisheries having",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-",
+      "context_window": "Assessment Method 3 identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") which can be applied to species included in",
+      "context_window": "the three assessment methods proposed ( Assessment method 2 ) which can be applied to species included in the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem Date of publication",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Integration of species-specific assessments",
+      "context_window": "This is a precautionary method only applied to OSPAR threatened and / or declining species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment, because only selected species are assessed.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emphasis was placed on species listed",
+      "context_window": "Species were selected based on the availability of by-catch estimates and relevant demographic data which allows using one of the three assessment methods explained below. Emphasis was placed on species listed in the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenario, both dummy scenarios showed a strong effect of mortality impact on population trends.",
+      "context_window": "by-catch were removed from the estimated survival on each baseline scenario. Starting with each baseline scenario, both dummy scenarios showed a strong effect of mortality impact on population trends. This is obvious from the ratio between impacted and unimpacted populations (RI:UGL), which for a 10% decrease",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species-specific assessments",
+      "context_window": "General Assessment 10 Species-specific assessments 11 Confidence Assessment",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the impacted scenarios when compared with the baseline (unimpacted) population after three generations",
+      "context_window": "). However, the ratio between impacted and unimpacted populations (RI:UGL) is slightly lower in the second part than in the first one, resulting in higher percentages of population reduction in the impacted scenarios when compared with the baseline (unimpacted) population after three generations ( Table c",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population Viability Analysis (PVA).",
+      "context_window": "coast, the by-catch mortality threshold was exceeded, because the observed number of individuals by-caught was already higher than that responsible for a strong decline of the population size as simulated in a Population Viability Analysis (PVA). The assessment for the common guillemot in the Celtic Seas could not be carried out successfully, because various populations of that species overlap in their wintering distribution.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For species included in the",
+      "context_window": "Assessment Method 1 below). For species included in the OSPAR List of Threatened and / or Declining Species and Habitats a precautionary",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unimpacted scenario, by assuming no by-catch and a high productivity due to conservation efforts at nesting",
+      "context_window": "). In the second part, demographic parameter estimates and size of only Berlenga Island population were used. This population shows a currently increasing trend in the unimpacted scenario, by assuming no by-catch and a high productivity due to conservation efforts at nesting areas. None of the simulated increments in mortality (1%, 5% or 10%) in the impacted scenarios resulted in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection and conservation of species, habitats and ecosystem",
+      "context_window": "List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem Date of publication Date",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantify the impact on population dynamics by estimated levels of by-catch mortality.",
+      "context_window": "Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in relation to the threshold defined (see under",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The metric here is the trajectory of the population size over a longer period (three generations time) in",
+      "context_window": "In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in relation to the threshold defined (see under Threshold values",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding",
+      "context_window": "OSPAR Region III, which according to ring recoveries (Wernham et al. 2002) and tracking data (SEAPOP 2021) is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding season. As the latter probably has only a smaller share, this assessment is addressing only the Celtic Seas",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a",
+      "context_window": "and size of Berlengas Archipelago breeding population, excluding Berlenga Island. This unimpacted scenario or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a decreasing population trend ( Figure a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR-HELCOM workshop to examine possibilities for developing",
+      "context_window": "demonstrate the proposed assessment methodologies (see COBAM proposals for biodiversity assessments), which go back to the outcome of the OSPAR-HELCOM workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals held in Copenhagen in 2019.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife",
+      "context_window": ". Due to the differences in productivity between the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife International 2015) for different levels of by-catch mortality. First, a baseline scenario considered the population that breed in Celtic Seas, showing a high productivity",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to prevent further threatening of such species.",
+      "context_window": "catch in that species. This is a precautionary method only applied to OSPAR threatened and / or declining species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach is applied in case by-catch data and / or bird data for the approach mentioned before are not",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats a precautionary approach is applied in case by-catch data and / or bird data for the approach mentioned before are not available. In this case, the number of by-caught individuals of a population is assessed against the threshold",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining",
+      "context_window": "for this species in this region. Nonetheless, as Steller’s eider is on the OSPAR List of Threatened and / or Declining Species and Habitats , the population can be assessed using",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to",
+      "context_window": "Table d . Due to the differences in productivity between the breeding populations of the Celtic Seas and the Greater North Sea, two baseline scenarios were used to show the trajectory of the population size over three generations (generation length 15,1 years, BirdLife International 2015) for different levels of by-catch mortality.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cory’s shearwater Calonectris borealis in Bay of Biscay and Iberian Coast (Region IV)",
+      "context_window": "Species-specific assessments The by-catch criterion was assessed for five populations in this pilot assessment. Cory’s shearwater Calonectris borealis in Bay of Biscay and Iberian Coast (Region IV) In the Bay of Biscay and Iberian Coast (Region IV), the population of Cory’s shearwater is mainly breeding in the Berlengas Archipelago off the Portuguese mainland coast. Smaller numbers from the Peniche coast",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This indicator addresses the predicted biological significance of marine bird by-catch mortality, which has",
+      "context_window": "conservation of fisheries resources and the protection of marine ecosystems through technical measures .. This indicator addresses the predicted biological significance of marine bird by-catch mortality, which has to be used to advise on the level of mitigation measures required. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2002) and tracking data (SEAPOP 2021)",
+      "context_window": "There is the breeding population of OSPAR Region III, which according to ring recoveries (Wernham et al. 2002) and tracking data (SEAPOP 2021) is supplemented by birds from Greater North Sea (Region II) and Arctic Waters (Region I) in the non-breeding season.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV)",
+      "context_window": "column feeders, and surface feeders are susceptible to by-catch (see Results extended). Assessment Method 1 was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV) and to common guillemot in the Celtic Seas (Region III). For Cory’s shearwater off the Portuguese mainland",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and Habitats",
+      "context_window": "this species in this region. Nonetheless, as Steller’s eider is on the OSPAR List of Threatened and / or Declining Species and Habitats , the population can be assessed using Assessment Method 3",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impact of a 1%, 5% and 10% increase in mortality.",
+      "context_window": "assuming density dependent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for common guillemots breeding in Celtic Seas colonies,",
+      "context_window": "Horswill & Robinson 2015. Figure c: Stochastic population model (1 000 bootstraps) for common guillemots breeding in Celtic Seas colonies, including United Kingdom and Ireland, assuming density dependent productivity. These populations currently show a",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2006), however, during the last decades there has been a shift in distribution with birds now primarily",
+      "context_window": "In the 1990s up to 13 200 Steller’s eiders were counted in the Varangerfjord (Žydelis et al. 2006), however, during the last decades there has been a shift in distribution with birds now primarily residing in Russia (Žydelis et al. 2006, Aarvak et al.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data and / or by-catch numbers are not available, any species not on the OSPAR",
+      "context_window": "Assessment Method 1 explained above, because bird demographic data and / or by-catch numbers are not available, any species not on the OSPAR List of Threatened and Declining Species and Habitats",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreasing population trend (",
+      "context_window": "This unimpacted scenario or any of the following impacted scenarios assuming 1%, 5% or 10% increase in mortality showed a decreasing population trend ( Figure a ). In the second part, demographic parameter estimates and size of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the",
+      "context_window": "Table a. Marine bird species reported as by-catch in fishing gear in the OSPAR Regions I toV. Species included in the OSPAR List of Threatened and / or Declining Species and Habitats are printed bold.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further, the ranges of total annual by-catch are given for each scenario as",
+      "context_window": "for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as number of birds, assuming 1%, 5% and 10% of by-catch mortality. Source: Oliveira 2021. Baseline",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or",
+      "context_window": "Including immature birds, a population size of 7 500 to 9 200 individuals is given by Wetlands International (2021). The species is on the OSPAR List of Threatened and / or Declining Species and Habitats . Therefore, for the demonstration of this method, the population can be",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic",
+      "context_window": "breeding population and the visitors from the Greater North Sea. The common guillemot is not listed as threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic Seas), so Assessment Method 1",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the existence of spatial and temporal overlap of bird species distribution",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats is the existence of spatial and temporal overlap of bird species distribution and exercise of the fishing method known to cause by-catch in that species. The distribution of marine birds can be derived from national monitoring programmes, preferably including",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data on bird by-catch available from some of those programmes",
+      "context_window": "There are only a few programmes dedicated to the monitoring of marine bird by-catch in European waters. Data on bird by-catch available from some of those programmes are used to run this pilot assessment of by-catch mortality on a few selected species in order to test and demonstrate the proposed assessment methodologies (see COBAM proposals for biodiversity assessments),",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Birds from the UK North Sea are not only by-caught in the Celtic Seas, but also in the North Sea itself",
+      "context_window": "caught in similar proportions given the very likely differences in temporal and spatial occurrence. • Birds from the UK North Sea are not only by-caught in the Celtic Seas, but also in the North Sea itself (Northridge et al. 2020). •",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding population and the visitors from the Greater North Sea.",
+      "context_window": "season. As the latter probably has only a smaller share, this assessment is addressing only the Celtic Seas breeding population and the visitors from the Greater North Sea. The common guillemot is not listed as threatened and / or declining by OSPAR (except for the Iberian population, which is not occurring in the Celtic",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "experiencing alterations in survival due to by-catch mortality after three generations time (GL),",
+      "context_window": "the ratio (R) between impacted (I) and unimpacted (U) populations (RI:UGL), i.e. the percentage variation in the population size of a baseline scenario when compared with a population experiencing alterations in survival due to by-catch mortality after three generations time (GL), is below a certain level with a certain probability (which both have not been defined yet). Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pilot Assessment of Marine Bird Bycatch",
+      "context_window": "). Thus, the PVA results presented here indicate that the Berlengas population of Cory’s shearwater is Pilot Assessment of Marine Bird Bycatch 14 sensitive to small amounts of additional mortality due to by-catch.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality.",
+      "context_window": "excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for common guillemots breeding in North Sea colonies of United",
+      "context_window": "16 Figure d: Stochastic population model (1 000 bootstraps) for common guillemots breeding in North Sea colonies of United Kingdom only, assuming density dependent productivity. This population currently shows a decreasing trend derived",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population size",
+      "context_window": "Table d: Demographic parameters of common guillemots used for the PVA in this pilot assessment. Population Population size (breeding pairs) Productivity",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic (Region V), roseate tern in Regions II, III and V, and Steller’s eider in Arctic Waters (Region I), see",
+      "context_window": "shearwater in the Bay of Biscay and Iberian Coast (Region IV), common guillemot in the Celtic Seas (Region III), Barolo shearwater (split from little shearwater and also known as Macaronesian shearwater) in the Wider Atlantic (Region V), roseate tern in Regions II, III and V, and Steller’s eider in Arctic Waters (Region I), see Figure 2 .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the recent history of monitoring at the breeding sites.",
+      "context_window": "Kingdom only, assuming density dependent productivity. This population currently shows a decreasing trend derived from the recent history of monitoring at the breeding sites. The plot shows the baseline scenario (considering survival estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Bird Productivity",
+      "context_window": "IUCN Red List criteria to classify a species as being “vulnerable\" (IUCN 2012) and in line with the threshold used in the Common Indicator B3 Marine Bird Productivity or ii)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In scenarios where a positive trend was found, density-dependent effects were used to avoid",
+      "context_window": "times in order to give an indicative trend for the study population and the correspondent uncertainty estimate. In scenarios where a positive trend was found, density-dependent effects were used to avoid generating falsely optimistic predictions about the potential for by-catch reduction to increase future seabird population sizes, following Miles et al. (2020).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic",
+      "context_window": "Species I Arctic Waters II",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The plot shows the baseline (i.e., no impact",
+      "context_window": "Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago, excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact from by-catch scenario) as well as the impact of a 1%, 5% and 10% increase in mortality. The different colours represent",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014).",
+      "context_window": "are used as an alternative to real by-catch mortalities, based on the evidence that even small changes in adult survival can significantly impact the population dynamic in long-lived marine birds and demography of marine birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014). The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was estimated for each scenario.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "individuals is given by Wetlands International (2021). The species is on the",
+      "context_window": "one colony in Ireland (Piec & Dunn 2021). Including immature birds, a population size of 7 500 to 9 200 individuals is given by Wetlands International (2021). The species is on the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age-",
+      "context_window": "populations in order to test their response over a period of time to alterations in by-catch mortality. The stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age- specific survival estimates. The initial number of females in each of the age-classes was modelled, assuming",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment unit are not available, then the metric for species on the",
+      "context_window": "Assessment Method 2 cannot be applied because either by-catch data or the population size of the assessment unit are not available, then the metric for species on the OSPAR List of Threatened and / or Declining Species and Habitats",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators for incidental by-catch of birds and marine mammals",
+      "context_window": "which go back to the outcome of the OSPAR-HELCOM workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals held in Copenhagen in 2019. Assessment Method",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment identified spatial and temporal overlap of bird species distribution and exercise of fishing activity",
+      "context_window": "Assessment Method 3 was applied to Steller’s eider overwintering in the Arctic Waters (Region I). The assessment identified spatial and temporal overlap of bird species distribution and exercise of fishing activity known to cause by-catch of this species. The threshold of no overlap was therefore exceeded. Table 1.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was",
+      "context_window": "survival can significantly impact the population dynamic in long-lived marine birds and demography of marine birds is therefore highly sensitive to small variations in adult survival (Reiertsen et al. 2014). The respective total number of birds that died following a variation in adult mortality (1%, 5% or 10%) was estimated for each scenario. The total number of birds that died due to by-catch was calculated in proportion",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea derived from stochastic models.",
+      "context_window": "Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as number of birds, assuming 1%, 5% and 10% of by-catch mortality. Source: Oliveira 2021.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status of the Western Palearctic population (Aarvak et al.",
+      "context_window": "Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation status of the Western Palearctic population (Aarvak et al. 2013), with by-catch in commercial fisheries having been identified as one of the threats to this species (Žydelis et al.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "below). For species included in the OSPAR List of Threatened and / or Declining Species and Habitats a precautionary approach is applied in case by-catch data and / or bird data for the approach mentioned before are not",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality.",
+      "context_window": "from the recent history of monitoring at the breeding sites. The plot shows the baseline scenario (considering survival estimates including mortality due to by-catch) as well as the impact of a 1%, 5% and 10% decrease in mortality. The different colours represent estimates of uncertainty surrounding each scenario.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago,",
+      "context_window": "Mougin et al. 2000. Figure a: Stochastic population model (1 000 bootstraps) for Cory’s shearwater breeding in Berlengas Archipelago, excluding Berlenga Island, assuming a density-independent productivity. The plot shows the baseline (i.e., no impact",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table c: Impact of 1%, 5% and 10% increase in mortality on the ratio of the population size after three generations",
+      "context_window": "The different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021. Table c: Impact of 1%, 5% and 10% increase in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) population of Cory’s shearwater breeding in Berlengas Archipelago derived from stochastic models.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations",
+      "context_window": "different colours represent estimates of uncertainty surrounding each scenario. Source: Oliveira 2021. Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR List of Threatened and / or Declining Species and Habitats",
+      "context_window": "Barolo shearwater Puffinus baroli in Wider Atlantic (Region V) The Barolo shearwater, formerly known as little shearwater, or Macaronesian shearwater, is included in the OSPAR List of Threatened and / or Declining Species and Habitats . Therefore, if a PVA cannot be conducted, Assessment Method 2",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identifies risk areas by investigating spatio-temporal",
+      "context_window": "(European Commission 2008). Assessment Method 3 identifies risk areas by investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the Indicator Assessment",
+      "context_window": "Background (extended) 3 Species included in the Indicator Assessment 4 Assessment Method",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carried out successfully, because various populations of that species overlap in their wintering distribution.",
+      "context_window": "Population Viability Analysis (PVA). The assessment for the common guillemot in the Celtic Seas could not be carried out successfully, because various populations of that species overlap in their wintering distribution. Common guillemots reported as by-catch in this pilot assessment could not be assigned to their breeding populations, hence the results of the PVA could not be used to determine the level of by-catch in the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species and fisheries causing by-catch.",
+      "context_window": "overlap in distributions of threatened and / or declining marine bird species and fisheries causing by- catch.investigating spatio-temporal overlap in distributions of threatened and / or declining marine bird species and fisheries causing by-catch. Species included in the Indicator Assessment The approaches for assessing the candidate indicator on marine bird by-catch were proposed in anticipation",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater",
+      "context_window": "Source: Oliveira 2021. Table e: Impact of 1%, 5% and 10% decrease in mortality on the ratio of the population size after three generations for the impacted and unimpacted (RI:UGL) populations of common guillemot breeding in the Celtic Seas and Greater North Sea derived from stochastic models. Further, the ranges of total annual by-catch are given for each scenario as",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska.",
+      "context_window": "Regions II, III and V. Steller’s eider Polysticta stelleri in Arctic Waters (Region I) The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For Cory’s shearwater off the Portuguese mainland",
+      "context_window": "was applied to the Cory’s shearwater in the Bay of Biscay and Iberian coast (Region IV) and to common guillemot in the Celtic Seas (Region III). For Cory’s shearwater off the Portuguese mainland coast, the by-catch mortality threshold was exceeded, because the observed number of individuals by-caught was already higher than that responsible for a strong decline of the population size as simulated in a",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment",
+      "context_window": "Assessment Method 1 (for all species if data are available) 6 Assessment Method 2 (only threatened and / or declining species from OSPAR List for which Assessment Method 1 not possible) 7",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An integration of species assessments on the level of species groups is not intended in this pilot assessment,",
+      "context_window": "species to prevent further threatening of such species. Integration of species-specific assessments An integration of species assessments on the level of species groups is not intended in this pilot assessment, because only selected species are assessed. Results",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Publication Number: 855/2022 Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Steller’s eider Polysticta stelleri in Arctic Waters (Region I)",
+      "context_window": "Therefore, the roseate tern is passing the indicator for the OSPAR Regions II, III and V. Steller’s eider Polysticta stelleri in Arctic Waters (Region I) The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method 1 (for all species if data are available)",
+      "context_window": "OSPAR List of Threatened and / or Declining Species and Habitats . Assessment Method 1 (for all species if data are available) Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations in order to test their response over a period of time to alterations in by-catch mortality.",
+      "context_window": "do this. The PVA in this assessment used Leslie matrix analysis to model the demographic parameters of the study populations in order to test their response over a period of time to alterations in by-catch mortality. The stage-structured matrix model accommodated species-specific age at first breeding, productivity, and age-",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the default assessment method for all species, the focus is on the application of a population model to",
+      "context_window": "Assessment Method 1 (for all species if data are available) Parameter / metric In the default assessment method for all species, the focus is on the application of a population model to quantify the impact on population dynamics by estimated levels of by-catch mortality. The metric here is the trajectory of the population size over a longer period (three generations time) in",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001).",
+      "context_window": "The Steller’s eider is an Arctic species breeding along the Arctic coast of Siberia and Alaska. In winter they migrate to near-Arctic waters in Alaska, East Asia and northern Europe (Bustnes & Systad 2001). Prolonged declines in the number of Steller’s eider wintering in Europe have raised concerns about the conservation",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive",
+      "context_window": "to be used to advise on the level of mitigation measures required. Background (extended) In a worldwide assessment, marine birds were found to face three major threats: i) predation by invasive alien species, ii) by-catch in fisheries and iii) climate change / severe weather, with by-catch having the greatest average impact (Dias et al.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 26,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 80,
+      "end_sentence": 85,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "By-catch of marine birds in fishing gear is an ongoing problem in the North-East Atlantic concerning...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 82,
+          "page_number": 3,
+          "content": "number of species. Though methods are developed, a considerable data paucity impairs a comprehensive",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 83,
+          "page_number": 3,
+          "content": "assessment.",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "In the few cases where an assessment was possible, the threshold value was either achieved or",
+          "full_length": 93
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 1243,
+      "end_sentence": 1265,
+      "sentence_count": 23,
+      "page_range": "20-21",
+      "sentences": [
+        {
+          "sentence_id": 1243,
+          "page_number": 20,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1244,
+          "page_number": 20,
+          "content": "For the first time, an assessment of marine bird by-catch can contribute to an OSPAR Quality Status ...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 1245,
+          "page_number": 20,
+          "content": "(QSR).",
+          "full_length": 6
+        },
+        {
+          "sentence_id": 1246,
+          "page_number": 20,
+          "content": "Though the assessment methods tested were found to be applicable in principle, it turned out that",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1247,
+          "page_number": 20,
+          "content": "the one based on Population Viability Analysis (PVA,",
+          "full_length": 52
+        }
+      ],
+      "total_sentences_in_section": 23
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 1266,
+      "end_sentence": 1318,
+      "sentence_count": 53,
+      "page_range": "21-21",
+      "sentences": [
+        {
+          "sentence_id": 1266,
+          "page_number": 21,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1267,
+          "page_number": 21,
+          "content": "Since the Intermediate Assessment 2017, considerable progress has been made in the development of",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1268,
+          "page_number": 21,
+          "content": "Indicator Assessment methods for the incidental by-catch of marine birds in fishing gear.",
+          "full_length": 89
+        },
+        {
+          "sentence_id": 1269,
+          "page_number": 21,
+          "content": "Unfortunately, the",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1270,
+          "page_number": 21,
+          "content": "availability of by-catch data could not keep pace, leading to a significant data deficiency regardin...",
+          "full_length": 105
+        }
+      ],
+      "total_sentences_in_section": 53
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1344,
+      "end_sentence": 1686,
+      "sentence_count": 343,
+      "page_range": "22-25",
+      "sentences": [
+        {
+          "sentence_id": 1344,
+          "page_number": 22,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1345,
+          "page_number": 22,
+          "content": "Aarvak, T., Øien, I.J., Krasnov, Y.V., Gavrilo, M.V.",
+          "full_length": 52
+        },
+        {
+          "sentence_id": 1346,
+          "page_number": 22,
+          "content": "& Shavykin, A.A. 2013.",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 1347,
+          "page_number": 22,
+          "content": "The European wintering population",
+          "full_length": 33
+        },
+        {
+          "sentence_id": 1348,
+          "page_number": 22,
+          "content": "of Steller’s Eider",
+          "full_length": 18
+        }
+      ],
+      "total_sentences_in_section": 343
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1731,
+    "chunks_selected": 93,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 80,
+        "end_sentence": 85,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 1243,
+        "end_sentence": 1265,
+        "sentence_count": 23
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 1266,
+        "end_sentence": 1318,
+        "sentence_count": 53
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1344,
+        "end_sentence": 1686,
+        "sentence_count": 343
+      }
+    ],
+    "total_excluded_sentences": 425
+  }
+}

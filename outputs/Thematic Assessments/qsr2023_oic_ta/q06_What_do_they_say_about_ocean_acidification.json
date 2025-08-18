@@ -1,0 +1,1449 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "In the North Sea, the water temperature has risen as a result of climate change and",
+      "context_window": "Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "of climate change and ocean acidification on the OSPAR maritime area and its uses, to inform the",
+      "context_window": "S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR maritime area and its uses, to inform the development of national and international actions. •",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "potential for ocean acidification if carbon dioxide",
+      "context_window": "leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "storage site, which may have negative effects on the receptors in the marine environment, including the",
+      "context_window": "similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "environmental risks of carbon dioxide storage in geological formations is developing, the need for improving",
+      "context_window": "potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified.",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "context_window": "carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed",
+      "context_window": "OSPAR Decision 2007/1 to Prohibit the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed , because of the potential negative effects.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "context_window": "deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "context_window": "2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area. D - Drivers",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "contributing to global warming, climate change and",
+      "context_window": "Impact of emissions from offshore oil and gas exploration and exploitation and mitigation OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and Ocean Acidification . Assessment of the emissions to air",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Current knowledge indicates that pressures and impacts related to climate change and ocean acidification",
+      "context_window": "expected to further reduce emissions from offshore installations in the next decade. Risks and consequences from climate change for the offshore industry Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Risks and consequences from climate change for the offshore industry",
+      "context_window": "connect offshore installations to the main grid or renewable power sources are gaining momentum and are expected to further reduce emissions from offshore installations in the next decade. Risks and consequences from climate change for the offshore industry Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In the Arctic waters, climate change has",
+      "context_window": "In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological changes, especially in the northernmost areas.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "context_window": "demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026, OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Where potential impacts may still occur, they have",
+      "context_window": "The results show that the implementation of OSPAR measures has resulted in a measurable decrease in pressures and associated impacts. Where potential impacts may still occur, they have been reduced. 16 of 46",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques",
+      "context_window": "According to NEAES S12.03, OSPAR will by 2024 review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Seabed.",
+      "context_window": "• Decision 2007/1 to Prohibit the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed. Q3. Did it work? Studies have been undertaken by OSPAR Contracting Parties looking at a wide range of potential pressures",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and Ocean Acidification . Assessment of the emissions to air associated with the end use of oil and gas extracted from the OSPAR area is, however, not within the remit",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "changes in ocean circulation, and acidification has been registered.",
+      "context_window": "will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological",
+      "context_window": "changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological changes, especially in the northernmost areas. Some of these climate factors can be expected to affect the offshore oil and gas industry.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide",
+      "context_window": "Carbon dioxide storage The pressures from carbon dioxide storage, including development and decommissioning activities, could be similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal",
+      "context_window": "S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to carbon dioxide storage in order to assess whether the monitoring techniques deployed are adequate to",
+      "context_window": "According to NEAES S12.03, OSPAR will by 2024 review the results of the monitoring undertaken in relation to carbon dioxide storage in order to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026, OSPAR",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "context_window": "2 streams are retained permanently in geological formations and will not lead to significant adverse consequences for the marine environment, human health and other legitimate uses of the Maritime Area (OSPAR Decision 2007/2). There are only two full-scale projects on carbon dioxide storage in the OSPAR area. Due to this very",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the",
+      "context_window": "The main discharges of chemicals arise from drilling activities and discharges of produced water. Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food web.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR identifies substances that pose a risk to the marine environment and maintains the List of OSPAR",
+      "context_window": "The measures also include more detailed guidance on the substitution and ranking of chemicals. OSPAR identifies substances that pose a risk to the marine environment and maintains the List of OSPAR Chemicals for Priority Action (LCPA) and the List of Substances of Possible Concern (LSPC). These lists are",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are two large-scale carbon dioxide storage projects currently",
+      "context_window": "Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. There are two large-scale carbon dioxide storage projects currently operating in the OSPAR Maritime Area ( Sleipner",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic",
+      "context_window": "operations. The main discharges of chemicals arise from drilling activities and discharges of produced water. Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR",
+      "context_window": "the need for more consistent evidence-based guidance. Storage of carbon dioxide In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to Annexes II and III to the OSPAR Convention in 2007. To ensure environmentally safe storage of carbon dioxide streams in geological formations, the",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "when assessing the impact of produced water in marine ecosystems. While the conclusions from OSPAR’s",
+      "context_window": "the organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of produced water in marine ecosystems. While the conclusions from OSPAR’s Quality Status Report 2010 are still valid, it should be emphasised that this does not imply that no causal relationships exist between impacts at organism level and impacts at population or ecosystem level.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to",
+      "context_window": "S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out",
+      "context_window": "Specifically: While progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out discharges of substitution chemicals. OSPAR has set out Operational Objectives in S2.O3 in NEAES 2030.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oil and gas exploration and exploitation can lead to a range of impacts in the marine environment.",
+      "context_window": "The implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts Oil and gas exploration and exploitation can lead to a range of impacts in the marine environment. The reported data",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Noise can affect marine organisms",
+      "context_window": "the seabed. Designated protected areas, particularly those containing habitats such as sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Noise can affect marine organisms Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various ways.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the fish species potentially most impacted, at biomarker",
+      "context_window": "potentially affect the biomass provisioning service from wild fish and other natural aquatic biomass and community functions such as reproduction. Among the fish species potentially most impacted, at biomarker level, are demersal species such as cod and haddock. Results obtained in studies with field-realistic",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR",
+      "context_window": "Monitoring and reporting indicate improvement The exploration and development of oil and gas within the OSPAR Maritime Area have affected different parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts. Impacts that were",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment can be acute or long term, and can ultimately have effects on human health via the food",
+      "context_window": "Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food web. The drilling process involves the use of drilling fluids (or muds) and the discharge of drilling fluids along with",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In impacted areas a gradual change",
+      "context_window": "substrates, the recovery of benthic communities may take longer, up to 10 years in deeper and colder water. There are few pipelines that are trenched and buried in these areas. In impacted areas a gradual change occurs in the species composition of benthic communities until equilibrium is achieved, depending on the 30 of 46",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The exploration and development of oil and gas within the OSPAR Maritime Area have affected different",
+      "context_window": "Q4. How does this field affect the overall quality status? Monitoring and reporting indicate improvement The exploration and development of oil and gas within the OSPAR Maritime Area have affected different parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "endpoints and to life stages of marine species such as early life and sexual maturation.",
+      "context_window": "Moreover, the focus of the testing of produced water effects has recently shifted towards the possible effects of chronic, low-concentration exposures to sensitive endpoints and to life stages of marine species such as early life and sexual maturation. However, a constant exposure scenario is improbable, because an organism is unlikely to be exposed for days to static concentrations.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various",
+      "context_window": "biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Noise can affect marine organisms Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various ways. It can mask biologically relevant signals; it can lead to a variety of behavioural reactions; hearing organs",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemicals.",
+      "context_window": "(HOCNF) (as amended) is a key element in OSPAR’s control of offshore chemicals. It sets out, inter alia, what kind of data and information must be notified to the national competent authorities of the Contracting Parties.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2010/3 on a Harmonised Offshore Chemical Notification Format, as amended by",
+      "context_window": "Priority Action; • Recommendation 2010/3 on a Harmonised Offshore Chemical Notification Format, as amended by OSPAR Recommendation 2014/17, OSPAR Recommendation 2019/3 and OSPAR Recommendation 2021/8;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmentally safe storage of carbon dioxide streams in geological formations, the",
+      "context_window": "In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to Annexes II and III to the OSPAR Convention in 2007. To ensure environmentally safe storage of carbon dioxide streams in geological formations, the OSPAR Decision 2007/2 on the Storage of Carbon Dioxide Streams in Geological Formations",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "cell death, genetic change, DNA damage, a change in fatty acid composition and interference with",
+      "context_window": "exposure to produced water. The Research Council of Norway concluded in 2012 that toxic effects such as cell death, genetic change, DNA damage, a change in fatty acid composition and interference with reproduction is detected at concentrations of produced water at 0,1-1% or higher, i.e., when the produced water has been diluted less than 100-1 000 times.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in",
+      "context_window": "There are only two full-scale projects on carbon dioxide storage in the OSPAR area. Due to this very limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified.",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "organisms are expected to experience constantly high pollution levels only rarely, as the direction of a",
+      "context_window": "While effects at these low concentrations are observed after weeks of continuous exposure, this is unlikely under dynamic environmental conditions. Also, sessile organisms are expected to experience constantly high pollution levels only rarely, as the direction of a pollution plume changes with the tide, currents, and wind. Despite the large volumes of produced water released, the effects of the constituents appear to be low and",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pollution plume changes with the tide, currents, and wind.",
+      "context_window": "weeks of continuous exposure, this is unlikely under dynamic environmental conditions. Also, sessile organisms are expected to experience constantly high pollution levels only rarely, as the direction of a pollution plume changes with the tide, currents, and wind. Despite the large volumes of produced water released, the effects of the constituents appear to be low and mainly seen at biomarker level.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oil and gas exploration and production within the OSPAR Maritime Area have affected the marine",
+      "context_window": "However limited evidence is available, and the confidence assessment is therefore uncertain. Oil and gas industry Oil and gas exploration and production within the OSPAR Maritime Area have affected the marine environment of the North-East Atlantic. The environmental pressures include discharges of produced water,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been made since 2000 and aim to reduce the environmental impacts of the industry on the marine",
+      "context_window": "discharges from the oil and gas industry within the OSPAR Maritime Area. The vast majority of these have been made since 2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures introduced by OSPAR have reduced oil in produced water discharges and the use and discharge of chemicals and drilling fluids.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water column impacts from discharges of produced water",
+      "context_window": "*Reported data for region IV is very limited, and the trends are therefore uncertain Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from carbon dioxide storage, including development and decommissioning activities, could be",
+      "context_window": "• Carbon dioxide storage The pressures from carbon dioxide storage, including development and decommissioning activities, could be similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "OSPAR measures to manage pressures from offshore oil and gas and carbon dioxide storage",
+      "context_window": "OSPAR has with a few exceptions, effectively prohibited the disposal of disused offshore installations at sea. OSPAR measures to manage pressures from offshore oil and gas and carbon dioxide storage • Decision 2000/3 on the Use of Organic-Phase Drilling Fluids (OPF) and the Discharge of OPF-",
+      "page_number": 5,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated",
+      "context_window": "The discharge of drill cuttings and water-based fluids may cause some smothering in the near vicinity of the well location. Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated sediment oxygen consumption and mortality in benthic fauna. Effects levels occur within a 0,5-1 km distance",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline",
+      "context_window": "to a storage site and its injection into a suitable underground geological formation for the purposes of permanent storage. Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. There are two large-scale carbon dioxide storage projects currently",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "of the overall environmental impact resulting from the use and discharge of offshore chemicals.",
+      "context_window": "by applying the management mechanisms set out, ensure and actively promote the continued shift towards the use of less hazardous substances (or preferably non-hazardous substances) and, as a result, the reduction of the overall environmental impact resulting from the use and discharge of offshore chemicals. The HMCS Decision, along with OSPAR Recommendation 2017/1 on a Harmonised Pre-Screening Scheme",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental monitoring of carbon dioxide storage projects has been identified.",
+      "context_window": "undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified. Work will continue in accordance with the relevant operational objectives set out in NEAES 2030: •",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Implementation of Environmental Management Systems by the Offshore Industry (as amended),",
+      "context_window": "management system that accords with OSPAR Recommendation 2003/5 to Promote the Use and Implementation of Environmental Management Systems by the Offshore Industry (as amended), and such management systems are required to consider how installations can be operated to minimise impact on the",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Assessment of the OSPAR Report on Discharges, Spills and Emissions from",
+      "context_window": "on discharge data reported by Contracting Parties and assessments carried out by the Expert Assessment Panel and published in OSPAR’s Assessment of the OSPAR Report on Discharges, Spills and Emissions from Offshore Installations, 2009 – 2019. This assessment method used basic linear regression, best professional",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Guidelines for Risk Assessment and Management of Storage of CO",
+      "context_window": "on the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with the OSPAR Guidelines for Risk Assessment and Management of Storage of CO 2 Streams in Geological Formation",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Benthic communities will be impacted for a variable period of time.",
+      "context_window": "and other mobile marine organisms and provide a habitat for benthic organisms usually associated with hard substrates. Benthic communities will be impacted for a variable period of time. In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna recolonises within a year or two.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The monitoring of toxic effects in the water column focuses on biomarkers",
+      "context_window": "Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water. The monitoring of toxic effects in the water column focuses on biomarkers in fish (especially cod and haddock) and blue mussels and aims to identify sensitive endpoints that can be linked to the exposure to produced water.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The need to improve the reporting to OSPAR on environmental monitoring from carbon dioxide storage",
+      "context_window": "Due to this very limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. The need to improve the reporting to OSPAR on environmental monitoring from carbon dioxide storage projects has been identified, and work has been initiated by OSPAR’s Environmental Impacts of Human Activities Committee (EIHA) and the OIC to analyse the existing reporting obligations stemming from OSPAR",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise",
+      "context_window": "Historical monitoring has demonstrated that the impacts are largely transient, with recolonisation of disturbed seabed habitats occurring within relatively short time scales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy / muddy areas. Pipelines, platform legs and subsea templates may act as shelter for fish",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and gas activities and carbon capture and storage are identified as exerting pressures with the potential to",
+      "context_window": "The bow-tie analysis for oil and gas activities shows the relationships between the DAPSIR components. Oil and gas activities and carbon capture and storage are identified as exerting pressures with the potential to cumulatively contribute to biodiversity state changes in the thematic assessments on Benthic Habitats",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating",
+      "context_window": "Carbon capture and storage in sub-seabed geological structures (carbon dioxide storage) Society’s need to mitigate the effects of climate change is the main driver for carbon capture and storage. Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating climate change. It consists of the capture of carbon dioxide (CO 2",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 2,
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "Where potential impacts still occur, they have",
+      "context_window": "once widespread, for example from the discharge of oil-based fluids, have ceased, and the level of contamination has decreased over most of the OSPAR area. Where potential impacts still occur, they have been reduced, for example by over 20% in the amount of dispersed oil discharged in produced water; by the phase out of discharges of added offshore chemicals identified for Priority Action (LCPA); and by almost 50%",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric emissions and",
+      "context_window": "Figure I.1: Impact of state changes on different ecosystem services Atmospheric emissions and carbon dioxide storage (Global) climate regulation",
+      "page_number": 31,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "transient negative effect on benthic organisms and could alter the local food web, particularly in aggregations",
+      "context_window": "The construction, operation and decommissioning of pipelines and offshore installations, the discharge of cuttings drilled with water-based mud and disturbance to historic cuttings piles can have a localised and transient negative effect on benthic organisms and could alter the local food web, particularly in aggregations of deep-sea corals and sponges. Platform lighting and flaring are also known to attract birds, and might cause some mortality in migratory",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transient negative effect on benthic organisms. This could potentially affect sediment reworking",
+      "context_window": "The construction, operation and decommissioning of pipelines and offshore installations, the discharge of cuttings drilled with water-based mud and disturbance to historic cuttings piles can have a localised and transient negative effect on benthic organisms. This could potentially affect sediment reworking (bioturbation), filtering organisms and sediment microbial organisms to some extent, which in turn could affect the sediment and water quality regulation service provided by these organisms.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Executive Summary 3 Q1. Identify the problems? Are they the same in all OSPAR Regions? 4 Q2. What has been done?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts from",
+      "context_window": "The drilling process involves the use of drilling fluids (or muds) and the discharge of drilling fluids along with drill cuttings, which may cause some smothering in the near vicinity of the well location. The impacts from such discharges are localised and transient but may be of concern in areas with sensitive benthic fauna, for example corals and sponges.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures",
+      "context_window": "the oil and gas industry within the OSPAR Maritime Area. The vast majority of these have been made since 2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures introduced by OSPAR have reduced oil in produced water discharges and the use and discharge of chemicals and drilling fluids.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess and apply measures to reduce the pressures on the marine environment emanating from the offshore",
+      "context_window": "Contracting Parties to meet society’s demands for energy. There is also an ongoing need to continue to assess and apply measures to reduce the pressures on the marine environment emanating from the offshore oil and gas sector. Society’s need for stable economies",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q5. What do we do next?",
+      "context_window": "limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. Q5. What do we do next? OSPAR will continue to take all possible steps to prevent and eliminate pollution and adopt the necessary measures to protect the OSPAR Maritime Area against the adverse effects of human activities",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea.",
+      "context_window": "Increased levels of PAHs, alkyl phenols and measured biological responses also suggest exposure of wild fish. The combined exposure to the constituents in produced water may lead to a toxic effect on organisms in the sea. This is reflected in OSPAR Agreement 2012-7 on Guidelines in support of Recommendation 2012/5 for a Risk-based Approach to the Management of Produced Water Discharges from Offshore Installations which",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has",
+      "context_window": "leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified. S – State",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "of Offshore Chemicals",
+      "context_window": "effectiveness was reviewed and a package of new OSPAR measures established, and OSPAR then adopted Decision 2000/2 on a Harmonised Mandatory Control System for the Use and Reduction of the Discharge of Offshore Chemicals , (HMCS Decision) (as amended)",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations indicate that impacts are expected to be modest. The overall risk of produced water",
+      "context_window": "level, are demersal species such as cod and haddock. Results obtained in studies with field-realistic concentrations indicate that impacts are expected to be modest. The overall risk of produced water discharges exerting an adverse impact on populations of wild fish and other pelagic organisms is therefore expected to be low.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Discharges and associated impacts in the water column",
+      "context_window": "↓ *Reported data for region IV is very limited, and the trends are therefore uncertain Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gas industry and carbon dioxide storage will affect a range of different ecosystem services.",
+      "context_window": "Figure I.1 , each state change/environmental impact associated with the oil and gas industry and carbon dioxide storage will affect a range of different ecosystem services. The specific impact on each ecosystem service is further elaborated in the following text.",
+      "page_number": 31,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "significant effects on the seabed have been observed, although there may be a temporary effect on the water",
+      "context_window": "concluded that disturbance of cuttings piles does not result in significant impacts on the marine environment. Further studies conducted in 2014 (OIC 2014) and 2017 (OIC 2017) and new data support that conclusion: no significant effects on the seabed have been observed, although there may be a temporary effect on the water and sediment quality near the site of the disturbance. The discharge of drill cuttings and water-based fluids may cause some smothering in the near vicinity of the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Offshore chemicals can affect marine organisms",
+      "context_window": "5 of 46 OSPAR Commission Offshore chemicals can affect marine organisms Offshore chemicals are used in a variety of applications during drilling, production, and decommissioning operations.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects",
+      "context_window": "Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water. The monitoring of toxic effects in the water column focuses on biomarkers",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change. It consists of the capture of carbon dioxide (CO",
+      "context_window": "Society’s need to mitigate the effects of climate change is the main driver for carbon capture and storage. Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating climate change. It consists of the capture of carbon dioxide (CO 2 ) from industrial installations, its transport",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 2,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook – Cumulative Effects",
+      "context_window": "Supported by: Intersessional Correspondence Group on OIC deliverables to the Quality Status Report (OIC- ICG-QSR), Offshore Industry Committee (OIC), on managing delivery of the Quality Status Report 2023 (ICG- QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook – Cumulative Effects Assessment (ICG-Eco-C), Intersessional Correspondence Group on Economic and Social analyses (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Secretariat.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Carbon dioxide capture and storage in geological formations is expected to contribute to reducing CO",
+      "context_window": "33 of 46 OSPAR Commission Carbon dioxide capture and storage in geological formations is expected to contribute to reducing CO 2 emissions.",
+      "page_number": 33,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "for Offshore Chemicals (as amended)",
+      "context_window": "The HMCS Decision, along with OSPAR Recommendation 2017/1 on a Harmonised Pre-Screening Scheme for Offshore Chemicals (as amended) and OSPAR Recommendation 2010/3 on a Harmonised Offshore",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact of emissions from offshore oil and gas exploration and exploitation and mitigation",
+      "context_window": "assessments include consideration of the collective pressures from them. Climate Change Impact of emissions from offshore oil and gas exploration and exploitation and mitigation OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 2,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Q2. What has been done?",
+      "context_window": "Q1. Identify the problems? Are they the same in all OSPAR Regions? 4 Q2. What has been done? 5 Q3. Did it work?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2009 OSPAR Assessment of impacts of offshore oil and gas activities in the North‐East Atlantic",
+      "context_window": "extent of contamination have been reduced and that leaching rates have diminished since the initial discharge. The 2009 OSPAR Assessment of impacts of offshore oil and gas activities in the North‐East Atlantic concluded that disturbance of cuttings piles does not result in significant impacts on the marine environment. Further studies conducted in 2014 (OIC 2014) and 2017 (OIC 2017) and new data support that conclusion: no",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment oxygen consumption and mortality in benthic fauna.",
+      "context_window": "well location. Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated sediment oxygen consumption and mortality in benthic fauna. Effects levels occur within a 0,5-1 km distance and the stress is mainly physical.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat loss/change",
+      "context_window": "Seabed disturbance • Habitat loss/change 42 of 46 OSPAR Commission",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the seabed and greater awareness of the potential environmental impacts that this may cause. For",
+      "context_window": "Physical impact from offshore activities Over the years there has been an improvement in the technology involved in the placement of infrastructure on the seabed and greater awareness of the potential environmental impacts that this may cause. For example, the extensive use of Remotely Operated Vehicles (ROVs) and the use of multibeam and side scan sonar mapping makes it easier to find the best transects and avoid the disturbance of vulnerable marine",
+      "page_number": 36,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "In the North Sea, the water temperature has risen as a result of climate change and",
+      "context_window": "Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "potential for ocean acidification if carbon dioxide",
+      "context_window": "leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "environmental risks of carbon dioxide storage in geological formations is developing, the need for improving",
+      "context_window": "potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified.",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed",
+      "context_window": "OSPAR Decision 2007/1 to Prohibit the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed , because of the potential negative effects.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "contributing to global warming, climate change and",
+      "context_window": "Impact of emissions from offshore oil and gas exploration and exploitation and mitigation OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and Ocean Acidification . Assessment of the emissions to air",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Risks and consequences from climate change for the offshore industry",
+      "context_window": "connect offshore installations to the main grid or renewable power sources are gaining momentum and are expected to further reduce emissions from offshore installations in the next decade. Risks and consequences from climate change for the offshore industry Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "context_window": "demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026, OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques",
+      "context_window": "According to NEAES S12.03, OSPAR will by 2024 review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and Ocean Acidification . Assessment of the emissions to air associated with the end use of oil and gas extracted from the OSPAR area is, however, not within the remit",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "changes in ocean circulation, and acidification has been registered.",
+      "context_window": "will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide",
+      "context_window": "Carbon dioxide storage The pressures from carbon dioxide storage, including development and decommissioning activities, could be similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "context_window": "2 streams are retained permanently in geological formations and will not lead to significant adverse consequences for the marine environment, human health and other legitimate uses of the Maritime Area (OSPAR Decision 2007/2). There are only two full-scale projects on carbon dioxide storage in the OSPAR area. Due to this very",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR identifies substances that pose a risk to the marine environment and maintains the List of OSPAR",
+      "context_window": "The measures also include more detailed guidance on the substitution and ranking of chemicals. OSPAR identifies substances that pose a risk to the marine environment and maintains the List of OSPAR Chemicals for Priority Action (LCPA) and the List of Substances of Possible Concern (LSPC). These lists are",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic",
+      "context_window": "operations. The main discharges of chemicals arise from drilling activities and discharges of produced water. Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "when assessing the impact of produced water in marine ecosystems. While the conclusions from OSPAR’s",
+      "context_window": "the organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of produced water in marine ecosystems. While the conclusions from OSPAR’s Quality Status Report 2010 are still valid, it should be emphasised that this does not imply that no causal relationships exist between impacts at organism level and impacts at population or ecosystem level.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out",
+      "context_window": "Specifically: While progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out discharges of substitution chemicals. OSPAR has set out Operational Objectives in S2.O3 in NEAES 2030.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Noise can affect marine organisms",
+      "context_window": "the seabed. Designated protected areas, particularly those containing habitats such as sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Noise can affect marine organisms Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various ways.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR",
+      "context_window": "Monitoring and reporting indicate improvement The exploration and development of oil and gas within the OSPAR Maritime Area have affected different parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts. Impacts that were",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In impacted areas a gradual change",
+      "context_window": "substrates, the recovery of benthic communities may take longer, up to 10 years in deeper and colder water. There are few pipelines that are trenched and buried in these areas. In impacted areas a gradual change occurs in the species composition of benthic communities until equilibrium is achieved, depending on the 30 of 46",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "endpoints and to life stages of marine species such as early life and sexual maturation.",
+      "context_window": "Moreover, the focus of the testing of produced water effects has recently shifted towards the possible effects of chronic, low-concentration exposures to sensitive endpoints and to life stages of marine species such as early life and sexual maturation. However, a constant exposure scenario is improbable, because an organism is unlikely to be exposed for days to static concentrations.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemicals.",
+      "context_window": "(HOCNF) (as amended) is a key element in OSPAR’s control of offshore chemicals. It sets out, inter alia, what kind of data and information must be notified to the national competent authorities of the Contracting Parties.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmentally safe storage of carbon dioxide streams in geological formations, the",
+      "context_window": "In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to Annexes II and III to the OSPAR Convention in 2007. To ensure environmentally safe storage of carbon dioxide streams in geological formations, the OSPAR Decision 2007/2 on the Storage of Carbon Dioxide Streams in Geological Formations",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in",
+      "context_window": "There are only two full-scale projects on carbon dioxide storage in the OSPAR area. Due to this very limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified.",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "pollution plume changes with the tide, currents, and wind.",
+      "context_window": "weeks of continuous exposure, this is unlikely under dynamic environmental conditions. Also, sessile organisms are expected to experience constantly high pollution levels only rarely, as the direction of a pollution plume changes with the tide, currents, and wind. Despite the large volumes of produced water released, the effects of the constituents appear to be low and mainly seen at biomarker level.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been made since 2000 and aim to reduce the environmental impacts of the industry on the marine",
+      "context_window": "discharges from the oil and gas industry within the OSPAR Maritime Area. The vast majority of these have been made since 2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures introduced by OSPAR have reduced oil in produced water discharges and the use and discharge of chemicals and drilling fluids.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from carbon dioxide storage, including development and decommissioning activities, could be",
+      "context_window": "• Carbon dioxide storage The pressures from carbon dioxide storage, including development and decommissioning activities, could be similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated",
+      "context_window": "The discharge of drill cuttings and water-based fluids may cause some smothering in the near vicinity of the well location. Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated sediment oxygen consumption and mortality in benthic fauna. Effects levels occur within a 0,5-1 km distance",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the overall environmental impact resulting from the use and discharge of offshore chemicals.",
+      "context_window": "by applying the management mechanisms set out, ensure and actively promote the continued shift towards the use of less hazardous substances (or preferably non-hazardous substances) and, as a result, the reduction of the overall environmental impact resulting from the use and discharge of offshore chemicals. The HMCS Decision, along with OSPAR Recommendation 2017/1 on a Harmonised Pre-Screening Scheme",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Implementation of Environmental Management Systems by the Offshore Industry (as amended),",
+      "context_window": "management system that accords with OSPAR Recommendation 2003/5 to Promote the Use and Implementation of Environmental Management Systems by the Offshore Industry (as amended), and such management systems are required to consider how installations can be operated to minimise impact on the",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Guidelines for Risk Assessment and Management of Storage of CO",
+      "context_window": "on the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with the OSPAR Guidelines for Risk Assessment and Management of Storage of CO 2 Streams in Geological Formation",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The monitoring of toxic effects in the water column focuses on biomarkers",
+      "context_window": "Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water. The monitoring of toxic effects in the water column focuses on biomarkers in fish (especially cod and haddock) and blue mussels and aims to identify sensitive endpoints that can be linked to the exposure to produced water.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise",
+      "context_window": "Historical monitoring has demonstrated that the impacts are largely transient, with recolonisation of disturbed seabed habitats occurring within relatively short time scales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy / muddy areas. Pipelines, platform legs and subsea templates may act as shelter for fish",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating",
+      "context_window": "Carbon capture and storage in sub-seabed geological structures (carbon dioxide storage) Society’s need to mitigate the effects of climate change is the main driver for carbon capture and storage. Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating climate change. It consists of the capture of carbon dioxide (CO 2",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 2,
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "Atmospheric emissions and",
+      "context_window": "Figure I.1: Impact of state changes on different ecosystem services Atmospheric emissions and carbon dioxide storage (Global) climate regulation",
+      "page_number": 31,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "transient negative effect on benthic organisms. This could potentially affect sediment reworking",
+      "context_window": "The construction, operation and decommissioning of pipelines and offshore installations, the discharge of cuttings drilled with water-based mud and disturbance to historic cuttings piles can have a localised and transient negative effect on benthic organisms. This could potentially affect sediment reworking (bioturbation), filtering organisms and sediment microbial organisms to some extent, which in turn could affect the sediment and water quality regulation service provided by these organisms.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts from",
+      "context_window": "The drilling process involves the use of drilling fluids (or muds) and the discharge of drilling fluids along with drill cuttings, which may cause some smothering in the near vicinity of the well location. The impacts from such discharges are localised and transient but may be of concern in areas with sensitive benthic fauna, for example corals and sponges.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess and apply measures to reduce the pressures on the marine environment emanating from the offshore",
+      "context_window": "Contracting Parties to meet society’s demands for energy. There is also an ongoing need to continue to assess and apply measures to reduce the pressures on the marine environment emanating from the offshore oil and gas sector. Society’s need for stable economies",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea.",
+      "context_window": "Increased levels of PAHs, alkyl phenols and measured biological responses also suggest exposure of wild fish. The combined exposure to the constituents in produced water may lead to a toxic effect on organisms in the sea. This is reflected in OSPAR Agreement 2012-7 on Guidelines in support of Recommendation 2012/5 for a Risk-based Approach to the Management of Produced Water Discharges from Offshore Installations which",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of Offshore Chemicals",
+      "context_window": "effectiveness was reviewed and a package of new OSPAR measures established, and OSPAR then adopted Decision 2000/2 on a Harmonised Mandatory Control System for the Use and Reduction of the Discharge of Offshore Chemicals , (HMCS Decision) (as amended)",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Discharges and associated impacts in the water column",
+      "context_window": "↓ *Reported data for region IV is very limited, and the trends are therefore uncertain Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant effects on the seabed have been observed, although there may be a temporary effect on the water",
+      "context_window": "concluded that disturbance of cuttings piles does not result in significant impacts on the marine environment. Further studies conducted in 2014 (OIC 2014) and 2017 (OIC 2017) and new data support that conclusion: no significant effects on the seabed have been observed, although there may be a temporary effect on the water and sediment quality near the site of the disturbance. The discharge of drill cuttings and water-based fluids may cause some smothering in the near vicinity of the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects",
+      "context_window": "Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water. The monitoring of toxic effects in the water column focuses on biomarkers",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook – Cumulative Effects",
+      "context_window": "Supported by: Intersessional Correspondence Group on OIC deliverables to the Quality Status Report (OIC- ICG-QSR), Offshore Industry Committee (OIC), on managing delivery of the Quality Status Report 2023 (ICG- QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook – Cumulative Effects Assessment (ICG-Eco-C), Intersessional Correspondence Group on Economic and Social analyses (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Secretariat.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "for Offshore Chemicals (as amended)",
+      "context_window": "The HMCS Decision, along with OSPAR Recommendation 2017/1 on a Harmonised Pre-Screening Scheme for Offshore Chemicals (as amended) and OSPAR Recommendation 2010/3 on a Harmonised Offshore",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q2. What has been done?",
+      "context_window": "Q1. Identify the problems? Are they the same in all OSPAR Regions? 4 Q2. What has been done? 5 Q3. Did it work?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment oxygen consumption and mortality in benthic fauna.",
+      "context_window": "well location. Water-based cuttings may affect biomarkers in filter feeding bivalves and cause elevated sediment oxygen consumption and mortality in benthic fauna. Effects levels occur within a 0,5-1 km distance and the stress is mainly physical.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the seabed and greater awareness of the potential environmental impacts that this may cause. For",
+      "context_window": "Physical impact from offshore activities Over the years there has been an improvement in the technology involved in the placement of infrastructure on the seabed and greater awareness of the potential environmental impacts that this may cause. For example, the extensive use of Remotely Operated Vehicles (ROVs) and the use of multibeam and side scan sonar mapping makes it easier to find the best transects and avoid the disturbance of vulnerable marine",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat loss/change",
+      "context_window": "Seabed disturbance • Habitat loss/change 42 of 46 OSPAR Commission",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2009 OSPAR Assessment of impacts of offshore oil and gas activities in the North‐East Atlantic",
+      "context_window": "extent of contamination have been reduced and that leaching rates have diminished since the initial discharge. The 2009 OSPAR Assessment of impacts of offshore oil and gas activities in the North‐East Atlantic concluded that disturbance of cuttings piles does not result in significant impacts on the marine environment. Further studies conducted in 2014 (OIC 2014) and 2017 (OIC 2017) and new data support that conclusion: no",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact of emissions from offshore oil and gas exploration and exploitation and mitigation",
+      "context_window": "assessments include consideration of the collective pressures from them. Climate Change Impact of emissions from offshore oil and gas exploration and exploitation and mitigation OSPAR notes that oil and gas extracted from the OSPAR area is a substantial source of greenhouse gases contributing to global warming, climate change and",
+      "page_number": 42,
+      "keyword_hits": {
+        "climate change": 2,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Carbon dioxide capture and storage in geological formations is expected to contribute to reducing CO",
+      "context_window": "33 of 46 OSPAR Commission Carbon dioxide capture and storage in geological formations is expected to contribute to reducing CO 2 emissions.",
+      "page_number": 33,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "climate change. It consists of the capture of carbon dioxide (CO",
+      "context_window": "Society’s need to mitigate the effects of climate change is the main driver for carbon capture and storage. Carbon dioxide capture and geological storage is a bridging technology that will contribute to mitigating climate change. It consists of the capture of carbon dioxide (CO 2 ) from industrial installations, its transport",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 2,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Offshore chemicals can affect marine organisms",
+      "context_window": "5 of 46 OSPAR Commission Offshore chemicals can affect marine organisms Offshore chemicals are used in a variety of applications during drilling, production, and decommissioning operations.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gas industry and carbon dioxide storage will affect a range of different ecosystem services.",
+      "context_window": "Figure I.1 , each state change/environmental impact associated with the oil and gas industry and carbon dioxide storage will affect a range of different ecosystem services. The specific impact on each ecosystem service is further elaborated in the following text.",
+      "page_number": 31,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "concentrations indicate that impacts are expected to be modest. The overall risk of produced water",
+      "context_window": "level, are demersal species such as cod and haddock. Results obtained in studies with field-realistic concentrations indicate that impacts are expected to be modest. The overall risk of produced water discharges exerting an adverse impact on populations of wild fish and other pelagic organisms is therefore expected to be low.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has",
+      "context_window": "leakage were to occur. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified. S – State",
+      "page_number": 26,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Q5. What do we do next?",
+      "context_window": "limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. Q5. What do we do next? OSPAR will continue to take all possible steps to prevent and eliminate pollution and adopt the necessary measures to protect the OSPAR Maritime Area against the adverse effects of human activities",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures",
+      "context_window": "the oil and gas industry within the OSPAR Maritime Area. The vast majority of these have been made since 2000 and aim to reduce the environmental impacts of the industry on the marine environment. Measures introduced by OSPAR have reduced oil in produced water discharges and the use and discharge of chemicals and drilling fluids.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Executive Summary 3 Q1. Identify the problems? Are they the same in all OSPAR Regions? 4 Q2. What has been done?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transient negative effect on benthic organisms and could alter the local food web, particularly in aggregations",
+      "context_window": "The construction, operation and decommissioning of pipelines and offshore installations, the discharge of cuttings drilled with water-based mud and disturbance to historic cuttings piles can have a localised and transient negative effect on benthic organisms and could alter the local food web, particularly in aggregations of deep-sea corals and sponges. Platform lighting and flaring are also known to attract birds, and might cause some mortality in migratory",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where potential impacts still occur, they have",
+      "context_window": "once widespread, for example from the discharge of oil-based fluids, have ceased, and the level of contamination has decreased over most of the OSPAR area. Where potential impacts still occur, they have been reduced, for example by over 20% in the amount of dispersed oil discharged in produced water; by the phase out of discharges of added offshore chemicals identified for Priority Action (LCPA); and by almost 50%",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and gas activities and carbon capture and storage are identified as exerting pressures with the potential to",
+      "context_window": "The bow-tie analysis for oil and gas activities shows the relationships between the DAPSIR components. Oil and gas activities and carbon capture and storage are identified as exerting pressures with the potential to cumulatively contribute to biodiversity state changes in the thematic assessments on Benthic Habitats",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The need to improve the reporting to OSPAR on environmental monitoring from carbon dioxide storage",
+      "context_window": "Due to this very limited number, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. The need to improve the reporting to OSPAR on environmental monitoring from carbon dioxide storage projects has been identified, and work has been initiated by OSPAR’s Environmental Impacts of Human Activities Committee (EIHA) and the OIC to analyse the existing reporting obligations stemming from OSPAR",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Benthic communities will be impacted for a variable period of time.",
+      "context_window": "and other mobile marine organisms and provide a habitat for benthic organisms usually associated with hard substrates. Benthic communities will be impacted for a variable period of time. In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna recolonises within a year or two.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Assessment of the OSPAR Report on Discharges, Spills and Emissions from",
+      "context_window": "on discharge data reported by Contracting Parties and assessments carried out by the Expert Assessment Panel and published in OSPAR’s Assessment of the OSPAR Report on Discharges, Spills and Emissions from Offshore Installations, 2009 – 2019. This assessment method used basic linear regression, best professional",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental monitoring of carbon dioxide storage projects has been identified.",
+      "context_window": "undertaken. While scientific knowledge of the environmental risks of carbon dioxide storage in geological formations is developing, the need for improving and refining the reporting to OSPAR on environmental monitoring of carbon dioxide storage projects has been identified. Work will continue in accordance with the relevant operational objectives set out in NEAES 2030: •",
+      "page_number": 8,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline",
+      "context_window": "to a storage site and its injection into a suitable underground geological formation for the purposes of permanent storage. Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. There are two large-scale carbon dioxide storage projects currently",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "OSPAR measures to manage pressures from offshore oil and gas and carbon dioxide storage",
+      "context_window": "OSPAR has with a few exceptions, effectively prohibited the disposal of disused offshore installations at sea. OSPAR measures to manage pressures from offshore oil and gas and carbon dioxide storage • Decision 2000/3 on the Use of Organic-Phase Drilling Fluids (OPF) and the Discharge of OPF-",
+      "page_number": 5,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Water column impacts from discharges of produced water",
+      "context_window": "*Reported data for region IV is very limited, and the trends are therefore uncertain Discharges and associated impacts in the water column Water column impacts from discharges of produced water Water column monitoring (WCM) has been carried out in the OSPAR area to determine the possible effects of discharges of produced water.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oil and gas exploration and production within the OSPAR Maritime Area have affected the marine",
+      "context_window": "However limited evidence is available, and the confidence assessment is therefore uncertain. Oil and gas industry Oil and gas exploration and production within the OSPAR Maritime Area have affected the marine environment of the North-East Atlantic. The environmental pressures include discharges of produced water,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms are expected to experience constantly high pollution levels only rarely, as the direction of a",
+      "context_window": "While effects at these low concentrations are observed after weeks of continuous exposure, this is unlikely under dynamic environmental conditions. Also, sessile organisms are expected to experience constantly high pollution levels only rarely, as the direction of a pollution plume changes with the tide, currents, and wind. Despite the large volumes of produced water released, the effects of the constituents appear to be low and",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cell death, genetic change, DNA damage, a change in fatty acid composition and interference with",
+      "context_window": "exposure to produced water. The Research Council of Norway concluded in 2012 that toxic effects such as cell death, genetic change, DNA damage, a change in fatty acid composition and interference with reproduction is detected at concentrations of produced water at 0,1-1% or higher, i.e., when the produced water has been diluted less than 100-1 000 times.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2010/3 on a Harmonised Offshore Chemical Notification Format, as amended by",
+      "context_window": "Priority Action; • Recommendation 2010/3 on a Harmonised Offshore Chemical Notification Format, as amended by OSPAR Recommendation 2014/17, OSPAR Recommendation 2019/3 and OSPAR Recommendation 2021/8;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various",
+      "context_window": "biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Noise can affect marine organisms Anthropogenic noise emitted in the marine environment can potentially affect marine organisms in various ways. It can mask biologically relevant signals; it can lead to a variety of behavioural reactions; hearing organs",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The exploration and development of oil and gas within the OSPAR Maritime Area have affected different",
+      "context_window": "Q4. How does this field affect the overall quality status? Monitoring and reporting indicate improvement The exploration and development of oil and gas within the OSPAR Maritime Area have affected different parts of the environment of the North-East Atlantic. Studies show that the implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment can be acute or long term, and can ultimately have effects on human health via the food",
+      "context_window": "Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food web. The drilling process involves the use of drilling fluids (or muds) and the discharge of drilling fluids along with",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the fish species potentially most impacted, at biomarker",
+      "context_window": "potentially affect the biomass provisioning service from wild fish and other natural aquatic biomass and community functions such as reproduction. Among the fish species potentially most impacted, at biomarker level, are demersal species such as cod and haddock. Results obtained in studies with field-realistic",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oil and gas exploration and exploitation can lead to a range of impacts in the marine environment.",
+      "context_window": "The implementation of OSPAR measures has resulted in a measurable decrease in discharges and associated impacts Oil and gas exploration and exploitation can lead to a range of impacts in the marine environment. The reported data",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to",
+      "context_window": "S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR",
+      "context_window": "the need for more consistent evidence-based guidance. Storage of carbon dioxide In order to allow the storage of carbon dioxide in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to Annexes II and III to the OSPAR Convention in 2007. To ensure environmentally safe storage of carbon dioxide streams in geological formations, the",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "There are two large-scale carbon dioxide storage projects currently",
+      "context_window": "Storage of carbon dioxide in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. There are two large-scale carbon dioxide storage projects currently operating in the OSPAR Maritime Area ( Sleipner",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the",
+      "context_window": "The main discharges of chemicals arise from drilling activities and discharges of produced water. Some of these chemicals may be hazardous because they contain substances that are either persistent, toxic and/or bio-accumulative. The effects on marine organisms when such chemicals are discharged into the marine environment can be acute or long term, and can ultimately have effects on human health via the food web.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to carbon dioxide storage in order to assess whether the monitoring techniques deployed are adequate to",
+      "context_window": "According to NEAES S12.03, OSPAR will by 2024 review the results of the monitoring undertaken in relation to carbon dioxide storage in order to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026, OSPAR",
+      "page_number": 14,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal",
+      "context_window": "S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological",
+      "context_window": "changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological changes, especially in the northernmost areas. Some of these climate factors can be expected to affect the offshore oil and gas industry.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 47,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Seabed.",
+      "context_window": "• Decision 2007/1 to Prohibit the Storage of Carbon Dioxide Streams in the Water Column or on the Seabed. Q3. Did it work? Studies have been undertaken by OSPAR Contracting Parties looking at a wide range of potential pressures",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Where potential impacts may still occur, they have",
+      "context_window": "The results show that the implementation of OSPAR measures has resulted in a measurable decrease in pressures and associated impacts. Where potential impacts may still occur, they have been reduced. 16 of 46",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Arctic waters, climate change has",
+      "context_window": "In the North Sea, the water temperature has risen as a result of climate change and changes in ocean circulation, and acidification has been registered. In the Arctic waters, climate change has resulted in long-term trends of rising sea temperatures, shrinking ice coverage and large-scale ecological changes, especially in the northernmost areas.",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Current knowledge indicates that pressures and impacts related to climate change and ocean acidification",
+      "context_window": "expected to further reduce emissions from offshore installations in the next decade. Risks and consequences from climate change for the offshore industry Current knowledge indicates that pressures and impacts related to climate change and ocean acidification will intensify markedly. In the North Sea, the water temperature has risen as a result of climate change and",
+      "page_number": 44,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "context_window": "2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area. D - Drivers",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "context_window": "deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide",
+      "context_window": "carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the",
+      "page_number": 9,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "storage site, which may have negative effects on the receptors in the marine environment, including the",
+      "context_window": "similar to pressures from offshore oil and gas activities. There is the risk of carbon dioxide leakage from the storage site, which may have negative effects on the receptors in the marine environment, including the potential for ocean acidification if carbon dioxide leakage were to occur. While scientific knowledge of the",
+      "page_number": 26,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "of climate change and ocean acidification on the OSPAR maritime area and its uses, to inform the",
+      "context_window": "S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR maritime area and its uses, to inform the development of national and international actions. •",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 6,
+    "keyword_counts": {
+      "climate change": 19,
+      "ocean acidification": 5,
+      "warming": 1,
+      "carbon dioxide": 40,
+      "co2": 2,
+      "greenhouse gas": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 85,
+      "end_sentence": 118,
+      "sentence_count": 34,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 85,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "The environmental pressures from offshore industry during exploration, production and decommissionin...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "include the discharge of produced water, oil, chemicals, drilling muds and cuttings, the physical im...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 88,
+          "page_number": 3,
+          "content": "from the placement of installations and pipelines, noise from seismic surveys and drilling, light em...",
+          "full_length": 110
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 3,
+          "content": "the installations, and atmospheric emissions.",
+          "full_length": 45
+        }
+      ],
+      "total_sentences_in_section": 34
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2359,
+    "chunks_selected": 97,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 85,
+        "end_sentence": 118,
+        "sentence_count": 34
+      }
+    ],
+    "total_excluded_sentences": 34
+  }
+}

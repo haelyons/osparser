@@ -1,0 +1,1250 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing",
+      "context_window": "used for this assessment, because no abundance trend data were available to feed into the population models. OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "previously published assessment.",
+      "context_window": "Confidence Assessment The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, there is a strong consensus within the scientific community",
+      "context_window": "The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor",
+      "context_window": "The assessment for Arctic Waters was largely confined to Norwegian coasts (including High-Arctic islands) owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor breeding productivity. For the German Wadden Sea, breeding productivity data were not supplied.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "events and flooding of nests can affect productivity, both expected to increase with climate change.",
+      "context_window": "4 of 17 OSPAR Commission events and flooding of nests can affect productivity, both expected to increase with climate change. Distinguishing between natural and human-induced effects on breeding performance is challenging and not always possible.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Distinguishing between natural and human-induced effects on breeding performance is challenging and not",
+      "context_window": "OSPAR Commission events and flooding of nests can affect productivity, both expected to increase with climate change. Distinguishing between natural and human-induced effects on breeding performance is challenging and not always possible. This breeding productivity indicator replaces the breeding success/failure indicator used for the Intermediate",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments. Table d: Data supplied by each OSPAR Contracting Party and used in the assessment of Marine Bird",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change, human disturbance, contaminants and predation by invasive species.",
+      "context_window": "and seabirds target the same prey. The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Natural factors may also affect",
+      "context_window": "The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance from native predators (e.g.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The indicator could also provide evidence of other impacts from climate",
+      "context_window": "Breeding productivity is an indicator of marine bird population health in areas where commercial fisheries and seabirds target the same prey. The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide",
+      "context_window": "models. OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments. Table d:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for",
+      "context_window": "For the Bay of Biscay and Iberian Coast, the coverage was poor (only 2 species with sufficient data). The assessment for Arctic Waters was largely confined to Norwegian coasts (including High-Arctic islands) owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor breeding productivity.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Results (extended)",
+      "context_window": "The assessment is based on the 2019 values shown in these graphs, but 2020 values are also displayed when data are available. Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is",
+      "context_window": "However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas. Therefore, the confidence in data coverage is moderate.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "way and / or submit additional data on abundance in order to make it possible to conduct the assessment.",
+      "context_window": "In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare and thus too sparse to create abundance trends required to tune the breeding productivity models used for",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment.",
+      "context_window": "Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment. Continued monitoring in these areas should mean they will be included in future assessments of this indicator.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "can be used. Therefore, this type of more frequent monitoring data, if available, should be provided for future assessments. Greater North Sea Most Contracting Parties in the Greater North Sea collect seabird productivity data and undertake some",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In some cases, submitted breeding productivity data could not be",
+      "context_window": "presents an overview of the data deliveries for this assessment, but also points to parts of the OSPAR Regions where no data were available. In some cases, submitted breeding productivity data could not be used for this assessment, because no abundance trend data were available to feed into the population models.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent",
+      "context_window": "regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas. Therefore, the confidence in data coverage is moderate.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The methodology used has been developed specifically for this assessment and has not been used in a",
+      "context_window": "required to stabilise the population. Confidence Assessment The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species Included in the Indicator Assessment",
+      "context_window": "The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of marine bird (waterfowl and shorebirds) that also use the marine environment when breeding.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term",
+      "context_window": "Results (brief) For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast), the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term declines was 39% in the Greater North Sea, 59% in the Celtic Seas, 58% in the Arctic Waters and 100% in the Bay of Biscay and Iberian coast (",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and thus too sparse to create abundance trends required to tune the breeding productivity models used for",
+      "context_window": "way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare and thus too sparse to create abundance trends required to tune the breeding productivity models used for the assessment. If logistical constraints prevent whole colony/area counts, then representative plot samples",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Key Message",
+      "context_window": "OSPAR Commission Contents Key Message 3 Background (brief)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "context_window": "significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Continued monitoring in these areas should mean they will be included in future assessments",
+      "context_window": "Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment. Continued monitoring in these areas should mean they will be included in future assessments of this indicator. Celtic Seas",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "* Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters The Arctic sub-region contains the highest concentrations of breeding seabirds in the North-East Atlantic. This Common Indicator assessment includes data from monitoring of marine bird productivity along the",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance",
+      "context_window": "change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance from native predators (e.g. peregrine falcon, white-tailed eagle and red fox).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species-Specific Assessments",
+      "context_window": "displayed when data are available. Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment focuses mainly on seabird species, because there were insufficient data on other species of",
+      "context_window": "levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of marine bird (waterfowl and shorebirds) that also use the marine environment when breeding. However, data",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "* Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment",
+      "context_window": "N N * Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As long-lived species with delayed maturity, changes in the productivity of marine birds are expected to",
+      "context_window": "The assessment is based on how many chicks are fledged (having wing feathers that are large enough for flight) annually, per pair, clutch or nest. As long-lived species with delayed maturity, changes in the productivity of marine birds are expected to reflect changes in environmental conditions long before these are evident as changes in population size. Breeding productivity is one of the demographic determinants of population growth rate.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population growth rate of a species.",
+      "context_window": "approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Thresholds are set to indicate when breeding productivity is low enough to lead to population declines, using IUCN red list criteria to provide context to the extent of the predicted",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_marine_birds_bree_ msfd_2022_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "due to insufficient breeding abundance data available to construct breeding productivity models.",
+      "context_window": "N * Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters The Arctic sub-region contains the highest concentrations of breeding seabirds in the North-East Atlantic.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to",
+      "context_window": "population declines, per region and species group . {filename: B3_Table-b_results_all_20220902} The assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to the period 2011-2016. Marine Bird Breeding Productivity",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The new approach predicts how observed",
+      "context_window": "success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "success/failure method failed to identify other years where poor breeding productivity could still have",
+      "context_window": "This breeding productivity indicator replaces the breeding success/failure indicator used for the Intermediate Assessment in 2017 (IA 2017). By focusing on the extreme event of colony failure, the breeding success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In principle, an integrated population model approach would be ideal – this could then replace B1",
+      "context_window": "When available, annual estimates could be included. In principle, an integrated population model approach would be ideal – this could then replace B1 (Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments related to mortality such as the bycatch of marine birds in fishing gear (B5 Marine Bird Bycatch).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "limitations of the previous method “Marine Bird Breeding Success/Failure” acknowledged during the",
+      "context_window": "Assessment Methods: progress from OSPAR IA2017 approach The new Marine Bird Breeding Productivity approach adopted for this indicator assessment addresses some limitations of the previous method “Marine Bird Breeding Success/Failure” acknowledged during the IA 2017 .",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic",
+      "context_window": "OSPAR Contracting Party Arctic Waters Greater",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach used for the current assessment develops a population model that is not totally reliant on empirical",
+      "context_window": "species and at a few intensively studied sites these data do exist. The Marine Bird Breeding Productivity approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments",
+      "context_window": "included. In principle, an integrated population model approach would be ideal – this could then replace B1 (Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments related to mortality such as the bycatch of marine birds in fishing gear (B5 Marine Bird Bycatch).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar",
+      "context_window": "Norwegian coasts (including Svalbard and Jan Mayen) of the Norwegian and Barents Seas. In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "context_window": "The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Date of publication",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) This Common Indicator Assessment does not include the Wider Atlantic, because data were not available for Portugal.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the",
+      "context_window": "Danish coast. There is a coordinated scheme of annual monitoring of breeding success within the Wadden Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "complement the assessment of",
+      "context_window": "Therefore, results of this assessment should be viewed as an early warning of changes in population status, and thus complement the assessment of marine bird abundance . At the same time, annual breeding productivity of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biodiversity Committee (BDC)",
+      "context_window": "Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Date of publication Date",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described in the following sections.",
+      "context_window": "the Joint OSPAR / HELCOM / ICES Working Group on Marine Birds (ICES 2020). The rationale and values are described in the following sections. While the assessment of breeding success / failure used for IA 2017 provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The threshold values applied for this indicator were developed and agreed to be technically appropriate by",
+      "context_window": "Species-Specific Assessment of Breeding Productivity Rationale for threshold Values The threshold values applied for this indicator were developed and agreed to be technically appropriate by the Joint OSPAR / HELCOM / ICES Working Group on Marine Birds (ICES 2020). The rationale and values are",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "demographic data and predicts how observed levels of breeding productivity may impact on the long-term",
+      "context_window": "The Marine Bird Breeding Productivity approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Thresholds are set to indicate when breeding productivity is low enough",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of",
+      "context_window": "Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic, including Macaronesia sub-regions. The future conservation status based on the expected growth rate",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data availability.",
+      "context_window": "A separate assessment was conducted for each species in OSPAR Regions I-IV (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast), depending on data availability. Marine Bird Breeding Productivity 5 of 17",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future it would",
+      "context_window": "This Common Indicator assessment includes data from monitoring of marine bird productivity along the Norwegian coasts (including Svalbard and Jan Mayen) of the Norwegian and Barents Seas. In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of this assessment should be viewed as an early warning of changes in population status, and thus",
+      "context_window": "Breeding productivity is one of the demographic determinants of population growth rate. Therefore, results of this assessment should be viewed as an early warning of changes in population status, and thus complement the assessment of marine bird abundance",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 846/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD),",
+      "context_window": "Morten Frederiksen, Volker Dierschke, Stefano Marra, Matt Parsons, Graham French, Marco Fusi The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g.",
+      "context_window": "described in the following sections. While the assessment of breeding success / failure used for IA 2017 provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g. food availability), the new approach provides an indication of how observed levels of breeding productivity may affect the rate of future population growth (increase or decline), therefore addressing some limitations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2010 in the Arctic Waters (",
+      "context_window": "The proportion of surface feeders experiencing sufficient breeding productivity was lower than the 75% threshold in every year since 1991 in the Greater North Sea and in the Celtic Seas, and in most years since 2010 in the Arctic Waters ( Figure 2 ).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast),",
+      "context_window": "Geese and dabbling ducks Results (brief) For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast), the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term declines was 39% in the Greater North Sea, 59% in the Celtic Seas, 58% in the Arctic Waters and 100% in the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In doing so, they failed to",
+      "context_window": "The assessment methods for the marine bird breeding success/failure indicator focused on the extreme events of almost no chicks being produced by a colony, on average, per year. In doing so, they failed to identify other years where poor but above-zero breeding success could still have significant negative impacts on the population in the longer term.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 846/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "{filename: B3_Fig_c_temporal_trends_20220902.jpg}.",
+      "context_window": "expected decline over 3 generations) (for those species assessed each year), in each OSPAR Region . {filename: B3_Fig_c_temporal_trends_20220902.jpg}. The number of species assessed in the Bay of Biscay and Iberian coast was too low to include here.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "Background (extended) 3 Assessment Method 4 Results (brief)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the period 2011-2016.",
+      "context_window": ". {filename: B3_Table-b_results_all_20220902} The assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to the period 2011-2016. Marine Bird Breeding Productivity 9 of 17",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016",
+      "context_window": "The breeding productivity assessments for each species were constructed from time series of annual estimates of breeding success at a sample of sites. The time series used covered the periods 1986 to 2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016 for the Bay of Biscay and Iberian Coast. Not all sites in the sample were observed every year in the time series.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant negative impacts on the population in the longer term.",
+      "context_window": "Assessment in 2017 (IA 2017). By focusing on the extreme event of colony failure, the breeding success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This Indicator Assessment has relevance to some of the seabird species included in the",
+      "context_window": "marine birds is a sensitive indicator of the ability of marine ecosystems to support higher trophic level predators. This Indicator Assessment has relevance to some of the seabird species included in the OSPAR List of Threatened and/or Declining Species and Habitats.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not all sites in the sample were observed every year in the time series.",
+      "context_window": "2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016 for the Bay of Biscay and Iberian Coast. Not all sites in the sample were observed every year in the time series. The indicator method is based on the assumption that missing values are missing at random and calculates each annual estimate using a mean weighted by sample size of the available colony estimates, to reduce the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including Macaronesia sub-regions. The future conservation status based on the expected growth rate",
+      "context_window": "Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic, including Macaronesia sub-regions. The future conservation status based on the expected growth rate observed in the last year of the time series is shown for all species assessed in Table c",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps (extended) 13 References 15 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of data included in this indicator assessment, although only for a few species.",
+      "context_window": "Bay of Biscay and Iberian Coast In the Bay of Biscay and Iberian Coast, monitoring of productivity in France and Spain has created time series of data included in this indicator assessment, although only for a few species. No data were supplied by Portugal, although some populations are being monitored.",
+      "page_number": 15,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing",
+      "context_window": "used for this assessment, because no abundance trend data were available to feed into the population models. OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor",
+      "context_window": "The assessment for Arctic Waters was largely confined to Norwegian coasts (including High-Arctic islands) owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor breeding productivity. For the German Wadden Sea, breeding productivity data were not supplied.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Distinguishing between natural and human-induced effects on breeding performance is challenging and not",
+      "context_window": "OSPAR Commission events and flooding of nests can affect productivity, both expected to increase with climate change. Distinguishing between natural and human-induced effects on breeding performance is challenging and not always possible. This breeding productivity indicator replaces the breeding success/failure indicator used for the Intermediate",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change, human disturbance, contaminants and predation by invasive species.",
+      "context_window": "and seabirds target the same prey. The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The indicator could also provide evidence of other impacts from climate",
+      "context_window": "Breeding productivity is an indicator of marine bird population health in areas where commercial fisheries and seabirds target the same prey. The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for",
+      "context_window": "For the Bay of Biscay and Iberian Coast, the coverage was poor (only 2 species with sufficient data). The assessment for Arctic Waters was largely confined to Norwegian coasts (including High-Arctic islands) owing to a wider lack of data; other OSPAR countries in the Arctic are encouraged to make data available for future assessments. In the Greater North Sea, data were lacking for Denmark which does not monitor breeding productivity.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is",
+      "context_window": "However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas. Therefore, the confidence in data coverage is moderate.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment.",
+      "context_window": "Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment. Continued monitoring in these areas should mean they will be included in future assessments of this indicator.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In some cases, submitted breeding productivity data could not be",
+      "context_window": "presents an overview of the data deliveries for this assessment, but also points to parts of the OSPAR Regions where no data were available. In some cases, submitted breeding productivity data could not be used for this assessment, because no abundance trend data were available to feed into the population models.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The methodology used has been developed specifically for this assessment and has not been used in a",
+      "context_window": "required to stabilise the population. Confidence Assessment The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species Included in the Indicator Assessment",
+      "context_window": "The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of marine bird (waterfowl and shorebirds) that also use the marine environment when breeding.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and thus too sparse to create abundance trends required to tune the breeding productivity models used for",
+      "context_window": "way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare and thus too sparse to create abundance trends required to tune the breeding productivity models used for the assessment. If logistical constraints prevent whole colony/area counts, then representative plot samples",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "context_window": "significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Continued monitoring in these areas should mean they will be included in future assessments",
+      "context_window": "Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment. Continued monitoring in these areas should mean they will be included in future assessments of this indicator. Celtic Seas",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance",
+      "context_window": "change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance from native predators (e.g. peregrine falcon, white-tailed eagle and red fox).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment focuses mainly on seabird species, because there were insufficient data on other species of",
+      "context_window": "levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment This assessment focuses mainly on seabird species, because there were insufficient data on other species of marine bird (waterfowl and shorebirds) that also use the marine environment when breeding. However, data",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "* Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment",
+      "context_window": "N N * Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population growth rate of a species.",
+      "context_window": "approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Thresholds are set to indicate when breeding productivity is low enough to lead to population declines, using IUCN red list criteria to provide context to the extent of the predicted",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "due to insufficient breeding abundance data available to construct breeding productivity models.",
+      "context_window": "N * Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters The Arctic sub-region contains the highest concentrations of breeding seabirds in the North-East Atlantic.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The new approach predicts how observed",
+      "context_window": "success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Species Included in the Indicator Assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In principle, an integrated population model approach would be ideal – this could then replace B1",
+      "context_window": "When available, annual estimates could be included. In principle, an integrated population model approach would be ideal – this could then replace B1 (Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments related to mortality such as the bycatch of marine birds in fishing gear (B5 Marine Bird Bycatch).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic",
+      "context_window": "OSPAR Contracting Party Arctic Waters Greater",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments",
+      "context_window": "included. In principle, an integrated population model approach would be ideal – this could then replace B1 (Marine Bird Abundance) and B3 (Marine Bird Breeding Productivity) indicators and possibly assessments related to mortality such as the bycatch of marine birds in fishing gear (B5 Marine Bird Bycatch).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "context_window": "The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Date of publication",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "complement the assessment of",
+      "context_window": "Therefore, results of this assessment should be viewed as an early warning of changes in population status, and thus complement the assessment of marine bird abundance . At the same time, annual breeding productivity of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described in the following sections.",
+      "context_window": "the Joint OSPAR / HELCOM / ICES Working Group on Marine Birds (ICES 2020). The rationale and values are described in the following sections. While the assessment of breeding success / failure used for IA 2017 provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "demographic data and predicts how observed levels of breeding productivity may impact on the long-term",
+      "context_window": "The Marine Bird Breeding Productivity approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species. Thresholds are set to indicate when breeding productivity is low enough",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data availability.",
+      "context_window": "A separate assessment was conducted for each species in OSPAR Regions I-IV (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast), depending on data availability. Marine Bird Breeding Productivity 5 of 17",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of this assessment should be viewed as an early warning of changes in population status, and thus",
+      "context_window": "Breeding productivity is one of the demographic determinants of population growth rate. Therefore, results of this assessment should be viewed as an early warning of changes in population status, and thus complement the assessment of marine bird abundance",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD),",
+      "context_window": "Morten Frederiksen, Volker Dierschke, Stefano Marra, Matt Parsons, Graham French, Marco Fusi The Joint OSPAR/HELCOM/ICES Expert Group on Seabirds (JWGBIRD), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2010 in the Arctic Waters (",
+      "context_window": "The proportion of surface feeders experiencing sufficient breeding productivity was lower than the 75% threshold in every year since 1991 in the Greater North Sea and in the Celtic Seas, and in most years since 2010 in the Arctic Waters ( Figure 2 ).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In doing so, they failed to",
+      "context_window": "The assessment methods for the marine bird breeding success/failure indicator focused on the extreme events of almost no chicks being produced by a colony, on average, per year. In doing so, they failed to identify other years where poor but above-zero breeding success could still have significant negative impacts on the population in the longer term.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "{filename: B3_Fig_c_temporal_trends_20220902.jpg}.",
+      "context_window": "expected decline over 3 generations) (for those species assessed each year), in each OSPAR Region . {filename: B3_Fig_c_temporal_trends_20220902.jpg}. The number of species assessed in the Bay of Biscay and Iberian coast was too low to include here.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the period 2011-2016.",
+      "context_window": ". {filename: B3_Table-b_results_all_20220902} The assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to the period 2011-2016. Marine Bird Breeding Productivity 9 of 17",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant negative impacts on the population in the longer term.",
+      "context_window": "Assessment in 2017 (IA 2017). By focusing on the extreme event of colony failure, the breeding success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not all sites in the sample were observed every year in the time series.",
+      "context_window": "2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016 for the Bay of Biscay and Iberian Coast. Not all sites in the sample were observed every year in the time series. The indicator method is based on the assumption that missing values are missing at random and calculates each annual estimate using a mean weighted by sample size of the available colony estimates, to reduce the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps (extended) 13 References 15 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of data included in this indicator assessment, although only for a few species.",
+      "context_window": "Bay of Biscay and Iberian Coast In the Bay of Biscay and Iberian Coast, monitoring of productivity in France and Spain has created time series of data included in this indicator assessment, although only for a few species. No data were supplied by Portugal, although some populations are being monitored.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including Macaronesia sub-regions. The future conservation status based on the expected growth rate",
+      "context_window": "Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic, including Macaronesia sub-regions. The future conservation status based on the expected growth rate observed in the last year of the time series is shown for all species assessed in Table c",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This Indicator Assessment has relevance to some of the seabird species included in the",
+      "context_window": "marine birds is a sensitive indicator of the ability of marine ecosystems to support higher trophic level predators. This Indicator Assessment has relevance to some of the seabird species included in the OSPAR List of Threatened and/or Declining Species and Habitats.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016",
+      "context_window": "The breeding productivity assessments for each species were constructed from time series of annual estimates of breeding success at a sample of sites. The time series used covered the periods 1986 to 2019/2020 for the Greater North Sea and Celtic Seas, 1986 to 2020 for the Arctic Waters, and 2006 to 2016 for the Bay of Biscay and Iberian Coast. Not all sites in the sample were observed every year in the time series.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "Background (extended) 3 Assessment Method 4 Results (brief)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 846/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast),",
+      "context_window": "Geese and dabbling ducks Results (brief) For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast), the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term declines was 39% in the Greater North Sea, 59% in the Celtic Seas, 58% in the Arctic Waters and 100% in the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g.",
+      "context_window": "described in the following sections. While the assessment of breeding success / failure used for IA 2017 provided a valuable insight into the breeding performance of marine birds and the factors that affect it (e.g. food availability), the new approach provides an indication of how observed levels of breeding productivity may affect the rate of future population growth (increase or decline), therefore addressing some limitations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 846/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future it would",
+      "context_window": "This Common Indicator assessment includes data from monitoring of marine bird productivity along the Norwegian coasts (including Svalbard and Jan Mayen) of the Norwegian and Barents Seas. In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of",
+      "context_window": "Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic, including Macaronesia sub-regions. The future conservation status based on the expected growth rate",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The threshold values applied for this indicator were developed and agreed to be technically appropriate by",
+      "context_window": "Species-Specific Assessment of Breeding Productivity Rationale for threshold Values The threshold values applied for this indicator were developed and agreed to be technically appropriate by the Joint OSPAR / HELCOM / ICES Working Group on Marine Birds (ICES 2020). The rationale and values are",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biodiversity Committee (BDC)",
+      "context_window": "Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Date of publication Date",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the",
+      "context_window": "Danish coast. There is a coordinated scheme of annual monitoring of breeding success within the Wadden Sea (the Netherlands and Germany) that was initiated in 2009 (monitoring in the Netherlands part of the Wadden Sea started in 2005), but data for the German Wadden Sea were not made available for this assessment.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) This Common Indicator Assessment does not include the Wider Atlantic, because data were not available for Portugal.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar",
+      "context_window": "Norwegian coasts (including Svalbard and Jan Mayen) of the Norwegian and Barents Seas. In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach used for the current assessment develops a population model that is not totally reliant on empirical",
+      "context_window": "species and at a few intensively studied sites these data do exist. The Marine Bird Breeding Productivity approach used for the current assessment develops a population model that is not totally reliant on empirical demographic data and predicts how observed levels of breeding productivity may impact on the long-term population growth rate of a species.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "limitations of the previous method “Marine Bird Breeding Success/Failure” acknowledged during the",
+      "context_window": "Assessment Methods: progress from OSPAR IA2017 approach The new Marine Bird Breeding Productivity approach adopted for this indicator assessment addresses some limitations of the previous method “Marine Bird Breeding Success/Failure” acknowledged during the IA 2017 .",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "success/failure method failed to identify other years where poor breeding productivity could still have",
+      "context_window": "This breeding productivity indicator replaces the breeding success/failure indicator used for the Intermediate Assessment in 2017 (IA 2017). By focusing on the extreme event of colony failure, the breeding success/failure method failed to identify other years where poor breeding productivity could still have significant negative impacts on the population in the longer term. The new approach predicts how observed",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to",
+      "context_window": "population declines, per region and species group . {filename: B3_Table-b_results_all_20220902} The assessment refers to the period 2014-2019, except for the Bay of Biscay and Iberian Coast, where it refers to the period 2011-2016. Marine Bird Breeding Productivity",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_marine_birds_bree_ msfd_2022_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As long-lived species with delayed maturity, changes in the productivity of marine birds are expected to",
+      "context_window": "The assessment is based on how many chicks are fledged (having wing feathers that are large enough for flight) annually, per pair, clutch or nest. As long-lived species with delayed maturity, changes in the productivity of marine birds are expected to reflect changes in environmental conditions long before these are evident as changes in population size. Breeding productivity is one of the demographic determinants of population growth rate.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species-Specific Assessments",
+      "context_window": "displayed when data are available. Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of Biscay and Iberian Coast. No data were provided by OSPAR Contracting Parties for the Wider Atlantic,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "* Iceland provided breeding productivity data for Atlantic puffin but these could not be used in the current assessment due to insufficient breeding abundance data available to construct breeding productivity models. Arctic Waters The Arctic sub-region contains the highest concentrations of breeding seabirds in the North-East Atlantic. This Common Indicator assessment includes data from monitoring of marine bird productivity along the",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Key Message",
+      "context_window": "OSPAR Commission Contents Key Message 3 Background (brief)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term",
+      "context_window": "Results (brief) For the six-year period (2014 to 2019 inclusive, except 2011 to 2016 in the Bay of Biscay and Iberian coast), the percentage of species assessed which had a sufficiently high breeding productivity to avoid long-term declines was 39% in the Greater North Sea, 59% in the Celtic Seas, 58% in the Arctic Waters and 100% in the Bay of Biscay and Iberian coast (",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent",
+      "context_window": "regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas. Therefore, the confidence in data coverage is moderate.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "can be used. Therefore, this type of more frequent monitoring data, if available, should be provided for future assessments. Greater North Sea Most Contracting Parties in the Greater North Sea collect seabird productivity data and undertake some",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "way and / or submit additional data on abundance in order to make it possible to conduct the assessment.",
+      "context_window": "In future it would be beneficial if other Contracting Parties in the Region could make their monitoring data available in a similar way and / or submit additional data on abundance in order to make it possible to conduct the assessment. Iceland only provided national total counts of breeding birds (Atlantic puffin), which are by their nature rare and thus too sparse to create abundance trends required to tune the breeding productivity models used for",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Results (extended)",
+      "context_window": "The assessment is based on the 2019 values shown in these graphs, but 2020 values are also displayed when data are available. Results (extended) Species-Specific Assessments Separate assessments were undertaken for Arctic Waters, the Greater North Sea, the Celtic Seas and Bay of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide",
+      "context_window": "models. OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments. Table d:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Natural factors may also affect",
+      "context_window": "The indicator could also provide evidence of other impacts from climate change, human disturbance, contaminants and predation by invasive species. Natural factors may also affect this indicator, such as climate driven perturbations in prey-fish availability, and predation and disturbance from native predators (e.g.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "OSPAR Contracting Parties should strive to implement monitoring of breeding productivity or extend existing schemes to species and species groups not yet covered in order to allow more comprehensive, region-wide assessments. Table d: Data supplied by each OSPAR Contracting Party and used in the assessment of Marine Bird",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "events and flooding of nests can affect productivity, both expected to increase with climate change.",
+      "context_window": "4 of 17 OSPAR Commission events and flooding of nests can affect productivity, both expected to increase with climate change. Distinguishing between natural and human-induced effects on breeding performance is challenging and not always possible.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "However, there is a strong consensus within the scientific community",
+      "context_window": "The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings (ICES 2017, 2018, 2020). Therefore, the confidence in the methodology is moderate. The assessment is",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "previously published assessment.",
+      "context_window": "Confidence Assessment The methodology used has been developed specifically for this assessment and has not been used in a previously published assessment. However, there is a strong consensus within the scientific community regarding this assessment approach which was developed through three consecutive JWGBIRD meetings",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 16,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 5,
+      "ocean acidification": 1,
+      "extreme weather": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 82,
+      "end_sentence": 86,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 82,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 83,
+          "page_number": 3,
+          "content": "Across Arctic Waters, Greater North Sea and Celtic Seas (OSPAR Regions I, II and III), for most spec...",
+          "full_length": 110
+        },
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "bird breeding productivity was so poor that future population size declines are likely.",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 85,
+          "page_number": 3,
+          "content": "Breeding productivity",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "was above threshold for the two species assessed in Bay of Biscay and Iberian coast (Region IV).",
+          "full_length": 96
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 541,
+      "end_sentence": 557,
+      "sentence_count": 17,
+      "page_range": "12-13",
+      "sentences": [
+        {
+          "sentence_id": 541,
+          "page_number": 12,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 542,
+          "page_number": 12,
+          "content": "In 26 out of 54 species assessments, the observed breeding productivity was so poor that the respect...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 543,
+          "page_number": 12,
+          "content": "populations are likely to decline by more than 30% over the next three species-specific generations.",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 544,
+          "page_number": 12,
+          "content": "In no",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 545,
+          "page_number": 12,
+          "content": "less than 9 populations, the breeding productivity could lead to declines of more than 80%, which is",
+          "full_length": 100
+        }
+      ],
+      "total_sentences_in_section": 17
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 558,
+      "end_sentence": 592,
+      "sentence_count": 35,
+      "page_range": "13-13",
+      "sentences": [
+        {
+          "sentence_id": 558,
+          "page_number": 13,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 559,
+          "page_number": 13,
+          "content": "In the Arctic Waters, productivity was sufficient for sustainable populations in almost all surface ...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 560,
+          "page_number": 13,
+          "content": "examined, with the exception of the black-legged kittiwake.",
+          "full_length": 59
+        },
+        {
+          "sentence_id": 561,
+          "page_number": 13,
+          "content": "In contrast, a large number of water column",
+          "full_length": 43
+        },
+        {
+          "sentence_id": 562,
+          "page_number": 13,
+          "content": "feeders in this Region have poor breeding productivity levels.",
+          "full_length": 62
+        }
+      ],
+      "total_sentences_in_section": 35
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 758,
+      "end_sentence": 797,
+      "sentence_count": 40,
+      "page_range": "15-16",
+      "sentences": [
+        {
+          "sentence_id": 758,
+          "page_number": 15,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 759,
+          "page_number": 15,
+          "content": "Cook, A.S.C.P., Calbrade, N.A., Austin, G.E.",
+          "full_length": 44
+        },
+        {
+          "sentence_id": 760,
+          "page_number": 15,
+          "content": "and Burton, N.H.K.",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 761,
+          "page_number": 15,
+          "content": "2011.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 762,
+          "page_number": 15,
+          "content": "Determining foraging use of the Dee",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 40
+    }
+  ],
+  "metadata": {
+    "total_sentences": 873,
+    "chunks_selected": 84,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 82,
+        "end_sentence": 86,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 541,
+        "end_sentence": 557,
+        "sentence_count": 17
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 558,
+        "end_sentence": 592,
+        "sentence_count": 35
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 758,
+        "end_sentence": 797,
+        "sentence_count": 40
+      }
+    ],
+    "total_excluded_sentences": 97
+  }
+}

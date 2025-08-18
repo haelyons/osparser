@@ -1,0 +1,1457 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In the present assessment, there is high confidence in both the methodology and data availability except for",
+      "context_window": "Assessment Method Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Weather phenomena can also influence litter deposition.",
+      "context_window": "were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "context_window": "More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More comprehensive information on environmental conditions and human activities need to be made",
+      "context_window": "35 OSPAR Commission More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment are presented in",
+      "context_window": "allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in Table a .",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allows to include more data for the Arctic Waters Region.",
+      "context_window": "In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sites and surveys",
+      "context_window": "In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends in the beach litter data set.",
+      "context_window": "In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is for example the case for trend results in the Arctic Waters Region.",
+      "context_window": "available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Arctic Waters Region where data are limited, especially for trends assessment.",
+      "context_window": "Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A detailed list of sites and surveys included in the",
+      "context_window": "three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in Table a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, the effects of weather phenomena,",
+      "context_window": "succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "available, results should be used with care and are considered to be indicative (with lower information).",
+      "context_window": "that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "context_window": "- Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "kinds, in particular from land-based activities, including marine debris",
+      "context_window": "List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year",
+      "context_window": "with at least two surveys per year over five years are included (83 sites with 1 693 surveys). In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance,",
+      "context_window": "“to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In general at least",
+      "context_window": "For the trends assessment (from 2015 to 2020), only survey sites with at least two surveys per year over five years are included (83 sites with 1 693 surveys). In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s",
+      "context_window": "quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated. More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s Regional Action Plan on Marine Litter (ML RAP) which are not included in the survey list used so far. More studies should be performed to identify litter sources.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More studies should be performed to identify litter sources.",
+      "context_window": "More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s Regional Action Plan on Marine Litter (ML RAP) which are not included in the survey list used so far. More studies should be performed to identify litter sources. 35 OSPAR Commission",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by",
+      "context_window": "OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items and of maritime-related plastic items on beaches.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "if they need to be individually monitored;",
+      "context_window": "Further investigations should be made to improve knowledge of these items and assess if they require to be targeted by action and as a consequence, if they need to be individually monitored; - Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area",
+      "context_window": "4 OSPAR Commission To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area and OSPAR Region scales. Specific factsheets were also prepared for MSFD-country sub-regions to support",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015",
+      "context_window": "the calculation of median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "28 OSPAR Commission Arctic Waters 252 -6",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well",
+      "context_window": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Though there is no method adopted yet at the OSPAR level to",
+      "context_window": "The identification of beach litter sources is of great importance in the development of measures and the subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and Williams, 2004) and several, such as Germany and Spain, launched studies.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantified and should be studied.",
+      "context_window": "Knowledge Gaps (brief) Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated. More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "succinctly considered in aggregation method but need to be considered further in future assessments.",
+      "context_window": "in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena,",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: OSPAR beach litter survey sites considered in the assessment and associated data",
+      "context_window": "OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to 2020).",
+      "context_window": "median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "context_window": "The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The indicator, also used in",
+      "context_window": "composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This methodology advises surveying four times a",
+      "context_window": "OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a year fixed 100 m beach sections, on which all beach litter items (> 5 mm) visible on the sand surface, are collected, identified and counted using the OSPAR survey list (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure a: Locations of the 114 OSPAR survey sites considered in the assessment",
+      "context_window": "5 OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these",
+      "context_window": "Regular beach clean-up can decrease the pollution level whereas transboundary transport of pollution due to wind and currents can exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well quantified in the OSPAR Area.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of",
+      "context_window": "of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For this assessment, a minimum of two surveys per year",
+      "context_window": "However some sites, such as in the north of the OSPAR Area (Arctic Waters Region), are not accessible or not possible to survey during the winter survey period. For this assessment, a minimum of two surveys per year has been allowed for Arctic areas but a minimum number of three surveys per year will be used in the future. The beaches have a minimum length of 100 m, are generally free of buildings all year round, and are (in most",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment, it is considered",
+      "context_window": "Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a",
+      "context_window": "improve knowledge of these items and assess if they require to be targeted by action and as a consequence, if they need to be individually monitored; - Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on Marine Litter).",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine litter do not cause harm to the coastal and marine environment”.",
+      "context_window": "Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment relies on survey sites distributed in the five OSPAR Regions, as presented in",
+      "context_window": "are identified by the list, non-identified, and those which are non-identifiable because they are too fragmented. The present assessment relies on survey sites distributed in the five OSPAR Regions, as presented in Figure a",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current beach litter trends and (iii) extent to which OSPAR objectives have been achieved.",
+      "context_window": "the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of beach litter pollution. These gaps are:",
+      "context_window": "Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large quantities of fragments appear to be problematic as they could be linked to various sources or activities.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, in",
+      "context_window": "National coordinators of the surveys have used expert judgement and local knowledge of coastal areas when selecting the survey sites. For example, in some countries local conditions do not allow for selection of beaches mainly comprising sand, and in some locations it is not possible to select beaches of 100 m in length.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3",
+      "context_window": "34 OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_beach_litter_msfd_20 22_06/ SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well",
+      "context_window": "decrease the pollution level whereas transboundary transport of pollution due to wind and currents can exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well quantified in the OSPAR Area. Material composition of beach litter between 2018 and 2020",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in",
+      "context_window": "Yes No The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Collected data are reported in the OSPAR",
+      "context_window": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database. 12",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that did not originate from the country, region or area where they have been collected.",
+      "context_window": "could make it possible to estimate transboundary pollution, i.e. to determine the proportion of litter items that did not originate from the country, region or area where they have been collected. In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of beach litter (OSPAR Agreement 2020-02).",
+      "context_window": "The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a year fixed 100 m beach sections, on which all beach litter items (> 5 mm) visible on the sand surface, are",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantities of fragments appear to be problematic as they could be linked to various sources or activities.",
+      "context_window": "assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large quantities of fragments appear to be problematic as they could be linked to various sources or activities. This therefore prevents the implementation of dedicated measures. More research is needed to improve the",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "guidelines for marine monitoring and assessment of beach litter.",
+      "context_window": "Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP)",
+      "context_window": ". Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii)",
+      "context_window": "addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are:",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in some cases, they are not individually monitored in the OSPAR beach litter surveys.",
+      "context_window": "consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on Marine Litter). However, in some cases, they are not individually monitored in the OSPAR beach litter surveys. It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures;",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "context_window": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area. The total litter abundance, based on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This method could lead to being able",
+      "context_window": "MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able to estimate the proportion of  litter items of the present study that comes from outside the OSPAR Area or that is transferred between OSPAR Regions.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and",
+      "context_window": "No The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could make it possible to estimate transboundary pollution, i.e.",
+      "context_window": "This type of source characterisation may in the future be improved and applied at a larger scale. Beyond the identification of sources of the different litter types, the development of new methodologies could make it possible to estimate transboundary pollution, i.e. to determine the proportion of litter items that did not originate from the country, region or area where they have been collected.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Documentation",
+      "context_window": "Relevant OSPAR Documentation Text OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). It is important to note that selection",
+      "context_window": "collected, identified and counted using the OSPAR survey list ( Figure b ). It is important to note that selection of survey sites is not made randomly and results can only be regarded as representative for the group of beaches monitored.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that at least three sites are needed to make calculations at an aggregated scale.",
+      "context_window": "Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are available, results should be used with care and are considered to be indicative (with lower information).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transboundary pollution in the mid-term future (van Loon et al., 2020).",
+      "context_window": "In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able to estimate the proportion of  litter items of the present study that comes from outside the OSPAR Area or",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate",
+      "context_window": "that did not originate from the country, region or area where they have been collected. In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Inclusion in trends assessment",
+      "context_window": "Inclusion in status assessment (Yes/No) Inclusion in trends assessment (Yes/No) 2015",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and",
+      "context_window": "subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and Williams, 2004) and several, such as Germany and Spain, launched studies. Germany case study",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "“to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities",
+      "context_window": "The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subsequent assessment of their efficiency.",
+      "context_window": "Case studies on potential sources of beach litter pollution in Germany and Spain The identification of beach litter sources is of great importance in the development of measures and the subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "↓ -2 Arctic Waters 30 -4",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by extreme values",
+      "context_window": "All parameters were calculated using median-based robust calculation methods which are representing the most typical pollution situation without being influenced by extreme values 1 .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure h: Trends in total count for the 83 survey sites considered in the trends assessment, over the six-",
+      "context_window": "30 OSPAR Commission Figure h: Trends in total count for the 83 survey sites considered in the trends assessment, over the six- year period from 2015 to 2020. The numerical trends per survey site are presented in Appendix 1.",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.)",
+      "context_window": "source,s and human use, all of which can influence the amount of litter deposited on the beach. Differences in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were succinctly considered in aggregation method but need to be considered further in future assessments.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment",
+      "context_window": "Table a . Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring",
+      "context_window": "Documentation Text OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring and assessment of beach litter Metadata date",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Sources of beach litter have not been identified in the present study except on the German and Spanish",
+      "context_window": "It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures; - Sources of beach litter have not been identified in the present study except on the German and Spanish coasts. This type of source characterisation may in the future be improved and applied at a larger scale.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside and is subsequently transported by rivers, rain and wind into the marine environment and onto beaches. In addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Abundance, Composition and",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "context_window": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment.",
+      "context_window": "). In the present assessment, only survey sites with sufficient data availability were included to ensure a robust assessment. In total, 114 out of the 211 survey sites registered in the OSPAR Beach Litter Database are considered. Survey sites were selected according to the decision scheme presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight when a survey site is not included in status or trend analyses.",
+      "context_window": ". Purple cells indicate years and surveys which are not used in the assessment and / or highlight when a survey site is not included in status or trend analyses. Survey site reference number OSPAR Region",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The reduction of marine litter pollution is one of the great environmental challenges facing society today.",
+      "context_window": "The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside",
+      "context_window": "Another part is directly deposited on the coast - e.g. by beach users - or is the result of fly-tipping. Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside and is subsequently transported by rivers, rain and wind into the marine environment and onto beaches. In",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat",
+      "context_window": "Lead authors: Camille Lacroix and Silvère André Supporting authors: Willem van Loon Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat Citation Lacroix, C., André, S., van Loon, W. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London.",
+      "context_window": "Abundance, Composition and Trends of Beach Litter . In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. 2 OSPAR Commission",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment, only survey sites with sufficient data availability were included to ensure a robust",
+      "context_window": "Figure a ). In the present assessment, only survey sites with sufficient data availability were included to ensure a robust assessment. In total, 114 out of the 211 survey sites registered in the OSPAR Beach Litter Database are",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, these decreasing trends appear to be rather small, decreases in total count ranging",
+      "context_window": "and in all Regions, except in Arctic Waters where robust results could not be obtained due to low data availability. However, these decreasing trends appear to be rather small, decreases in total count ranging from 9 to 12 items/year in OSPAR Regions and being of 11 items/year at the OSPAR Area scale. Decreasing",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better",
+      "context_window": "Marine Litter). However, in some cases, they are not individually monitored in the OSPAR beach litter surveys. It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures; - Sources of beach litter have not been identified in the present study except on the German and Spanish",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the",
+      "context_window": "The SEA category is based on the FISH category defined in MSFD recommendations (Hanke et al., 2019), except that non- plastic items are excluded. In addition, the 22 OSPAR Commission",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, there is evidence that some floating litter items from distant sources, e.g.",
+      "context_window": "On the basis of drift experiments, Schöneich-Argent and Freund (2020) also concluded that litter emitted locally into the freshwater and marine environment generally stays local. However, there is evidence that some floating litter items from distant sources, e.g. in France or the Netherlands, are transported to the German North Sea with coastal water currents.",
+      "page_number": 32,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In the present assessment, there is high confidence in both the methodology and data availability except for",
+      "context_window": "Assessment Method Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "context_window": "More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment are presented in",
+      "context_window": "allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in Table a .",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sites and surveys",
+      "context_window": "In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic coasts of Denmark (including beaches in East Greenland and Faeroe islands), France, Germany, Iceland,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is for example the case for trend results in the Arctic Waters Region.",
+      "context_window": "available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region. At survey site scale, abundances were assessed by calculating the median of survey data for a single site and trends were assessed by calculating slopes and associated p-value using the median-based Theil-Sen method.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A detailed list of sites and surveys included in the",
+      "context_window": "three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in Table a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "available, results should be used with care and are considered to be indicative (with lower information).",
+      "context_window": "that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are available, results should be used with care and are considered to be indicative (with lower information). This is for example the case for trend results in the Arctic Waters Region.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "kinds, in particular from land-based activities, including marine debris",
+      "context_window": "List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance,",
+      "context_window": "“to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s",
+      "context_window": "quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated. More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s Regional Action Plan on Marine Litter (ML RAP) which are not included in the survey list used so far. More studies should be performed to identify litter sources.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by",
+      "context_window": "OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items and of maritime-related plastic items on beaches.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area",
+      "context_window": "4 OSPAR Commission To complement the present report, factsheets were elaborated to provide key results at both OSPAR Area and OSPAR Region scales. Specific factsheets were also prepared for MSFD-country sub-regions to support",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "28 OSPAR Commission Arctic Waters 252 -6",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well",
+      "context_window": "Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantified and should be studied.",
+      "context_window": "Knowledge Gaps (brief) Transboundary pollution is known to occur in the OSPAR Area, however this phenomenon is not well quantified and should be studied. The composition and origins of the numerous plastic fragments observed should be investigated. More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table a: OSPAR beach litter survey sites considered in the assessment and associated data",
+      "context_window": "OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The indicator, also used in",
+      "context_window": "composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in the EU Marine Strategy Framework Directive (MSFD), reflects spatial differences and temporal changes in abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure a: Locations of the 114 OSPAR survey sites considered in the assessment",
+      "context_window": "5 OSPAR Commission Figure a: Locations of the 114 OSPAR survey sites considered in the assessment Table a: OSPAR beach litter survey sites considered in the assessment and associated data availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For this assessment, a minimum of two surveys per year",
+      "context_window": "However some sites, such as in the north of the OSPAR Area (Arctic Waters Region), are not accessible or not possible to survey during the winter survey period. For this assessment, a minimum of two surveys per year has been allowed for Arctic areas but a minimum number of three surveys per year will be used in the future. The beaches have a minimum length of 100 m, are generally free of buildings all year round, and are (in most",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a",
+      "context_window": "improve knowledge of these items and assess if they require to be targeted by action and as a consequence, if they need to be individually monitored; - Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on Marine Litter).",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment relies on survey sites distributed in the five OSPAR Regions, as presented in",
+      "context_window": "are identified by the list, non-identified, and those which are non-identifiable because they are too fragmented. The present assessment relies on survey sites distributed in the five OSPAR Regions, as presented in Figure a",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of beach litter pollution. These gaps are:",
+      "context_window": "Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large quantities of fragments appear to be problematic as they could be linked to various sources or activities.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3",
+      "context_window": "34 OSPAR Commission substantially reduce beach litter pollution and achieve OSPAR objectives, especially the objective S4.O3 recently adopted in the North-East Atlantic Environment Strategy 2020-2030 of reduction by at least 50% by 2025 and by at least 75% by 2030, of the prevalence of the most commonly found single-use plastic items",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well",
+      "context_window": "decrease the pollution level whereas transboundary transport of pollution due to wind and currents can exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well quantified in the OSPAR Area. Material composition of beach litter between 2018 and 2020",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Collected data are reported in the OSPAR",
+      "context_window": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database. 12",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of beach litter (OSPAR Agreement 2020-02).",
+      "context_window": "The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a year fixed 100 m beach sections, on which all beach litter items (> 5 mm) visible on the sand surface, are",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "guidelines for marine monitoring and assessment of beach litter.",
+      "context_window": "Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR Beach Litter Database.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii)",
+      "context_window": "addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are:",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter",
+      "context_window": "The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area. The total litter abundance, based on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and",
+      "context_window": "No The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could make it possible to estimate transboundary pollution, i.e.",
+      "context_window": "This type of source characterisation may in the future be improved and applied at a larger scale. Beyond the identification of sources of the different litter types, the development of new methodologies could make it possible to estimate transboundary pollution, i.e. to determine the proportion of litter items that did not originate from the country, region or area where they have been collected.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). It is important to note that selection",
+      "context_window": "collected, identified and counted using the OSPAR survey list ( Figure b ). It is important to note that selection of survey sites is not made randomly and results can only be regarded as representative for the group of beaches monitored.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transboundary pollution in the mid-term future (van Loon et al., 2020).",
+      "context_window": "In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able to estimate the proportion of  litter items of the present study that comes from outside the OSPAR Area or",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Inclusion in trends assessment",
+      "context_window": "Inclusion in status assessment (Yes/No) Inclusion in trends assessment (Yes/No) 2015",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "“to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities",
+      "context_window": "The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "↓ -2 Arctic Waters 30 -4",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure h: Trends in total count for the 83 survey sites considered in the trends assessment, over the six-",
+      "context_window": "30 OSPAR Commission Figure h: Trends in total count for the 83 survey sites considered in the trends assessment, over the six- year period from 2015 to 2020. The numerical trends per survey site are presented in Appendix 1.",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment",
+      "context_window": "Table a . Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Sources of beach litter have not been identified in the present study except on the German and Spanish",
+      "context_window": "It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures; - Sources of beach litter have not been identified in the present study except on the German and Spanish coasts. This type of source characterisation may in the future be improved and applied at a larger scale.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Abundance, Composition and",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment.",
+      "context_window": "). In the present assessment, only survey sites with sufficient data availability were included to ensure a robust assessment. In total, 114 out of the 211 survey sites registered in the OSPAR Beach Litter Database are considered. Survey sites were selected according to the decision scheme presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The reduction of marine litter pollution is one of the great environmental challenges facing society today.",
+      "context_window": "The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat",
+      "context_window": "Lead authors: Camille Lacroix and Silvère André Supporting authors: Willem van Loon Supported by: OSPAR Beach litter expert group, EIHA and the OSPAR Secretariat Citation Lacroix, C., André, S., van Loon, W. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment, only survey sites with sufficient data availability were included to ensure a robust",
+      "context_window": "Figure a ). In the present assessment, only survey sites with sufficient data availability were included to ensure a robust assessment. In total, 114 out of the 211 survey sites registered in the OSPAR Beach Litter Database are",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better",
+      "context_window": "Marine Litter). However, in some cases, they are not individually monitored in the OSPAR beach litter surveys. It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures; - Sources of beach litter have not been identified in the present study except on the German and Spanish",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, there is evidence that some floating litter items from distant sources, e.g.",
+      "context_window": "On the basis of drift experiments, Schöneich-Argent and Freund (2020) also concluded that litter emitted locally into the freshwater and marine environment generally stays local. However, there is evidence that some floating litter items from distant sources, e.g. in France or the Netherlands, are transported to the German North Sea with coastal water currents.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the",
+      "context_window": "The SEA category is based on the FISH category defined in MSFD recommendations (Hanke et al., 2019), except that non- plastic items are excluded. In addition, the 22 OSPAR Commission",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, these decreasing trends appear to be rather small, decreases in total count ranging",
+      "context_window": "and in all Regions, except in Arctic Waters where robust results could not be obtained due to low data availability. However, these decreasing trends appear to be rather small, decreases in total count ranging from 9 to 12 items/year in OSPAR Regions and being of 11 items/year at the OSPAR Area scale. Decreasing",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London.",
+      "context_window": "Abundance, Composition and Trends of Beach Litter . In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. 2 OSPAR Commission",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside",
+      "context_window": "Another part is directly deposited on the coast - e.g. by beach users - or is the result of fly-tipping. Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside and is subsequently transported by rivers, rain and wind into the marine environment and onto beaches. In",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight when a survey site is not included in status or trend analyses.",
+      "context_window": ". Purple cells indicate years and surveys which are not used in the assessment and / or highlight when a survey site is not included in status or trend analyses. Survey site reference number OSPAR Region",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment describes beach litter quality status and trends in the OSPAR Area.",
+      "context_window": "abundance, composition and sources of marine litter in the coastal environment and is used as a proxy for litter pollution in the OSPAR marine environment. The present assessment describes beach litter quality status and trends in the OSPAR Area. To provide a snapshot of the current situation, litter abundance and composition were assessed from 2018 to 2020 and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "Litter is also deposited further inland on riverbanks, directly into rivers, in urban areas and in the countryside and is subsequently transported by rivers, rain and wind into the marine environment and onto beaches. In addition, sewage infrastructures discharge litter items directly or indirectly, via rivers and sewage outlets into the sea and these items can be washed ashore.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring",
+      "context_window": "Documentation Text OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring and assessment of beach litter Metadata date",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.)",
+      "context_window": "source,s and human use, all of which can influence the amount of litter deposited on the beach. Differences in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were succinctly considered in aggregation method but need to be considered further in future assessments.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "influenced by extreme values",
+      "context_window": "All parameters were calculated using median-based robust calculation methods which are representing the most typical pollution situation without being influenced by extreme values 1 .",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subsequent assessment of their efficiency.",
+      "context_window": "Case studies on potential sources of beach litter pollution in Germany and Spain The identification of beach litter sources is of great importance in the development of measures and the subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and",
+      "context_window": "subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and Williams, 2004) and several, such as Germany and Spain, launched studies. Germany case study",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate",
+      "context_window": "that did not originate from the country, region or area where they have been collected. In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that at least three sites are needed to make calculations at an aggregated scale.",
+      "context_window": "Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are available, results should be used with care and are considered to be indicative (with lower information).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Documentation",
+      "context_window": "Relevant OSPAR Documentation Text OSPAR Agreement 2020-02 - CEMP Guidelines for marine monitoring",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 881/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This method could lead to being able",
+      "context_window": "MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate transboundary pollution in the mid-term future (van Loon et al., 2020). This method could lead to being able to estimate the proportion of  litter items of the present study that comes from outside the OSPAR Area or that is transferred between OSPAR Regions.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in some cases, they are not individually monitored in the OSPAR beach litter surveys.",
+      "context_window": "consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on Marine Litter). However, in some cases, they are not individually monitored in the OSPAR beach litter surveys. It is recommended to adapt the monitoring litter list to existing measures in order to ensure a better knowledge of their abundance and a proper assessment of the efficiency of measures;",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) The reduction of marine litter pollution is one of the great environmental challenges facing society today. Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP)",
+      "context_window": ". Figure c: Decision scheme for inclusion of survey sites in the beach litter assessment The surveys are carried out according to OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines for marine monitoring and assessment of beach litter. Collected data are reported in the OSPAR",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantities of fragments appear to be problematic as they could be linked to various sources or activities.",
+      "context_window": "assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large quantities of fragments appear to be problematic as they could be linked to various sources or activities. This therefore prevents the implementation of dedicated measures. More research is needed to improve the",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that did not originate from the country, region or area where they have been collected.",
+      "context_window": "could make it possible to estimate transboundary pollution, i.e. to determine the proportion of litter items that did not originate from the country, region or area where they have been collected. In that sense, the MSFD Technical Group on Marine Litter (TG ML) has planned to develop a suitable model to estimate",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in",
+      "context_window": "Yes No The assessment follows OSPAR’s beach litter monitoring and assessment methodology, which is described in OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_beach_litter_msfd_20 22_06/ SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, in",
+      "context_window": "National coordinators of the surveys have used expert judgement and local knowledge of coastal areas when selecting the survey sites. For example, in some countries local conditions do not allow for selection of beaches mainly comprising sand, and in some locations it is not possible to select beaches of 100 m in length.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current beach litter trends and (iii) extent to which OSPAR objectives have been achieved.",
+      "context_window": "the sea and these items can be washed ashore. The present report aims at assessing in OSPAR Area and Regions: (i) marine beach litter quality status, (ii) current beach litter trends and (iii) extent to which OSPAR objectives have been achieved. To do so, it provides an assessment of the abundance, composition, distribution and trends of marine litter washed ashore and / or deposited on coastlines of the OSPAR Area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine litter do not cause harm to the coastal and marine environment”.",
+      "context_window": "Under its North-East Atlantic Environment Strategy (NEAES) 2010-2020, OSPAR had the strategic objective “to substantially reduce marine litter in the OSPAR Maritime Area to a level where properties and quantities of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment, it is considered",
+      "context_window": "Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984). In the present assessment, it is considered that at least three sites are needed to make calculations at an aggregated scale. If fewer than 3 sites are",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of",
+      "context_window": "of marine litter do not cause harm to the coastal and marine environment”. One of the indicators currently used at OSPAR level to assess marine litter pollution is the “Abundance, composition and trends of marine litter washed ashore and/or deposited on coastlines, including analysis of its spatial distribution and, where possible, sources”, referred to as “beach litter”. The indicator, also used in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these",
+      "context_window": "Regular beach clean-up can decrease the pollution level whereas transboundary transport of pollution due to wind and currents can exacerbate it in some areas like the Skagerrak sub-region (e.g. on the Sweden coast). Though these phenomena are known to occur, their extent and effect on beach litter monitoring is currently not well quantified in the OSPAR Area.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This methodology advises surveying four times a",
+      "context_window": "OSPAR’s Coordinated Environmental Monitoring Programme (CEMP) guidelines on marine monitoring and assessment of beach litter (OSPAR Agreement 2020-02). This methodology advises surveying four times a year fixed 100 m beach sections, on which all beach litter items (> 5 mm) visible on the sand surface, are collected, identified and counted using the OSPAR survey list (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The present assessment allows the identification of existing knowledge gaps which hinder a precise",
+      "context_window": "The effects of weather phenomena should be analysed to assess their influence on beach litter data. Knowledge Gaps (extended) The present assessment allows the identification of existing knowledge gaps which hinder a precise assessment of beach litter pollution. These gaps are: - Nearly 13% of beach litter observed in the OSPAR Area are non-identifiable fragments. These large",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to 2020).",
+      "context_window": "median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and Regions) using the blocking method (Van Belle and Hughes, 1984).",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "succinctly considered in aggregation method but need to be considered further in future assessments.",
+      "context_window": "in the topography, geography of the beaches and hydrodynamic conditions (tides, waves, currents, etc.) were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena,",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Though there is no method adopted yet at the OSPAR level to",
+      "context_window": "The identification of beach litter sources is of great importance in the development of measures and the subsequent assessment of their efficiency. Though there is no method adopted yet at the OSPAR level to assess beach litter sources, Contracting Parties were asked to test the Matrix Scoring Technique (Tudor and Williams, 2004) and several, such as Germany and Spain, launched studies.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015",
+      "context_window": "the calculation of median-based percentages below). Status is assessed over a three-year period (from 2018 to 2020) and trends over a six-year period (from 2015 to 2020). Analyses were done at beach scales and results were aggregated at higher spatial scales (OSPAR Area and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "if they need to be individually monitored;",
+      "context_window": "Further investigations should be made to improve knowledge of these items and assess if they require to be targeted by action and as a consequence, if they need to be individually monitored; - Some litter types are known to be abundant on European coastlines (e.g. foamed polystyrenes). As a consequence, these groups of items are already targeted by measures (OSPAR’s Regional Action Plan on",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More studies should be performed to identify litter sources.",
+      "context_window": "More information should be collected on non-identified items and on certain litter types targeted by OSPAR’s Regional Action Plan on Marine Litter (ML RAP) which are not included in the survey list used so far. More studies should be performed to identify litter sources. 35 OSPAR Commission",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In general at least",
+      "context_window": "For the trends assessment (from 2015 to 2020), only survey sites with at least two surveys per year over five years are included (83 sites with 1 693 surveys). In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year",
+      "context_window": "with at least two surveys per year over five years are included (83 sites with 1 693 surveys). In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "context_window": "- Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, the effects of weather phenomena,",
+      "context_window": "succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Arctic Waters Region where data are limited, especially for trends assessment.",
+      "context_window": "Confidence assessment In the present assessment, there is high confidence in both the methodology and data availability except for the Arctic Waters Region where data are limited, especially for trends assessment. Sites and surveys The survey sites of the OSPAR Beach Litter Monitoring Programme are located on the North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends in the beach litter data set.",
+      "context_window": "In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and trends in the beach litter data set.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allows to include more data for the Arctic Waters Region.",
+      "context_window": "In general at least three surveys per years are needed and available (Schulz et al., 2017), but the use of two surveys per year allows to include more data for the Arctic Waters Region. A detailed list of sites and surveys included in the assessment are presented in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More comprehensive information on environmental conditions and human activities need to be made",
+      "context_window": "35 OSPAR Commission More comprehensive information on environmental conditions and human activities need to be made available for all the survey sites in a useable form. The effects of weather phenomena should be analysed to assess their influence on beach litter data.",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- Weather phenomena can also influence litter deposition.",
+      "context_window": "were succinctly considered in aggregation method but need to be considered further in future assessments. - Weather phenomena can also influence litter deposition. In future, the effects of weather phenomena, such as the North Atlantic Oscillation (NAO), should be analysed to assess their influence on abundance and",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 38,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 52,
+      "end_sentence": 58,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 52,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 53,
+          "page_number": 3,
+          "content": "Beach litter levels remain high with plastic items predominating.",
+          "full_length": 65
+        },
+        {
+          "sentence_id": 54,
+          "page_number": 3,
+          "content": "Over the last six years, significant",
+          "full_length": 36
+        },
+        {
+          "sentence_id": 55,
+          "page_number": 3,
+          "content": "decreases in litter and plastic abundance have been observed at the OSPAR Maritime Area scale and in...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 56,
+          "page_number": 3,
+          "content": "OSPAR Regions.",
+          "full_length": 14
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 3568,
+      "end_sentence": 3583,
+      "sentence_count": 16,
+      "page_range": "33-33",
+      "sentences": [
+        {
+          "sentence_id": 3568,
+          "page_number": 33,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 3569,
+          "page_number": 33,
+          "content": "Beach litter is abundant in the OSPAR Area and Regions.",
+          "full_length": 55
+        },
+        {
+          "sentence_id": 3570,
+          "page_number": 33,
+          "content": "Plastic appears to be predominant in all Regions.",
+          "full_length": 49
+        },
+        {
+          "sentence_id": 3571,
+          "page_number": 33,
+          "content": "Single-use plastics and maritime-related plastic litter are important components of beach litter pol...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 3572,
+          "page_number": 33,
+          "content": "the OSPAR Area though some regional specificity in proportions of these two groups of litter types i...",
+          "full_length": 101
+        }
+      ],
+      "total_sentences_in_section": 16
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 3605,
+      "end_sentence": 3640,
+      "sentence_count": 36,
+      "page_range": "34-34",
+      "sentences": [
+        {
+          "sentence_id": 3605,
+          "page_number": 34,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 3606,
+          "page_number": 34,
+          "content": "Beach litter is abundant in the OSPAR Area and in OSPAR Regions.",
+          "full_length": 64
+        },
+        {
+          "sentence_id": 3607,
+          "page_number": 34,
+          "content": "Plastic appears to be predominant in all",
+          "full_length": 40
+        },
+        {
+          "sentence_id": 3608,
+          "page_number": 34,
+          "content": "OSPAR Regions, reaching a median value of 194 litter items/100 m at the OSPAR Area scale and represe...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 3609,
+          "page_number": 34,
+          "content": "94% of the pollution.",
+          "full_length": 21
+        }
+      ],
+      "total_sentences_in_section": 36
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3697,
+      "end_sentence": 3786,
+      "sentence_count": 90,
+      "page_range": "35-37",
+      "sentences": [
+        {
+          "sentence_id": 3697,
+          "page_number": 35,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3698,
+          "page_number": 35,
+          "content": "Addamo, A. M., Laroche, P., Hanke, G. (2017)",
+          "full_length": 44
+        },
+        {
+          "sentence_id": 3699,
+          "page_number": 35,
+          "content": "Top Marine Beach Litter Items in Europe",
+          "full_length": 39
+        },
+        {
+          "sentence_id": 3700,
+          "page_number": 35,
+          "content": ", EUR 29249 EN,",
+          "full_length": 15
+        },
+        {
+          "sentence_id": 3701,
+          "page_number": 35,
+          "content": "Publications Office of the European Union, Luxembourg, ISBN 978-92-79-87711-7, doi:10.2760/496717,",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 90
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3856,
+    "chunks_selected": 103,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 52,
+        "end_sentence": 58,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 3568,
+        "end_sentence": 3583,
+        "sentence_count": 16
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 3605,
+        "end_sentence": 3640,
+        "sentence_count": 36
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3697,
+        "end_sentence": 3786,
+        "sentence_count": 90
+      }
+    ],
+    "total_excluded_sentences": 149
+  }
+}

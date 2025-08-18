@@ -1,0 +1,1611 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "environment through various routes including direct discharges, riverine inputs and atmospheric",
+      "context_window": "environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "total heavy metal input to the marine environment [",
+      "context_window": "environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR , 2017], despite progress made under the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "context_window": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations",
+      "context_window": "available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g. meteorological fields, land cover distribution, etc.)",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "context_window": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the",
+      "context_window": "EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "context_window": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "secondary emissions. The long-range atmospheric transport from global anthropogenic and",
+      "context_window": "26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and secondary emissions. The long-range atmospheric transport from global anthropogenic and secondary sources even stronger affected remote regions, the Arctic Waters and the Wider Atlantic, where deposition decrease over the whole period did not exceed 25%.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine",
+      "context_window": "In the environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2009] and this study. The first parameter is deposition flux   to each of",
+      "context_window": "previous assessment [ OSPAR , 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "context_window": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "context_window": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3): 𝑅𝑅",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "context_window": "These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "context_window": "re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [ Travnikov and Ilyin,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled concentrations have been reducing through the whole period. Difference in trend",
+      "context_window": "first half of the considered period that results in 3% mean annual decline. Observed concentrations at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed values. These are wet deposition fluxes",
+      "context_window": "several stations where modelled values markedly (by an order of magnitude) underestimate the observed values. These are wet deposition fluxes for stations BE4, GB92, GB93 and DK5. Wet deposition fluxes observed at these stations are",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compare rates of deposition changes calculated in the previous and current studies.",
+      "context_window": "calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re-",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Modelled time-series of total annual atmospheric deposition of the selected heavy metals to 5",
+      "context_window": "• Annual anthropogenic emissions of three heavy metals (Cd, Pb, Hg) from the OSPAR Contracting Parties for the period 1990-2019. • Modelled time-series of total annual atmospheric deposition of the selected heavy metals to 5 regions of the OSPAR maritime area (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Wider Atlantic) for the period from 1990 to 2019.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "directions after 2010 led to different mean annual rates of concentration decline.",
+      "context_window": "at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global",
+      "context_window": "emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential boilers, metal production (ferrous and non-ferrous), cement production, product use, cremation, and artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global atmosphere in 2010 are associated with ASGM (727 tonnes) and stationary combustion of fossil fuels (484 tonnes, including 474 tonnes from coal combustion). Other major emission sectors include non-",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emission Data .................................................................................................................. 12",
+      "context_window": "Comparison of modelling results with observations ............................................ 10 3. Emission Data .................................................................................................................. 12 3.1. EMEP regional emissions ....................................................................................... 12",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additional consideration.",
+      "context_window": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a 0",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased between 1995 and 2005. Between 2005 and 2015 the deposition decreased or almost",
+      "context_window": "Waters (Region I) and Wider Atlantic (Region V). In absolute terms of contribution the deposition from almost all OSPAR Contracting Parties decreased between 1995 and 2005. Between 2005 and 2015 the deposition decreased or almost stabilized. However, since the rate of decline of national emissions differed among the countries, the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "re-emissions from soil and seawater were generated",
+      "context_window": "Prescribed fluxes of natural and secondary Hg 0 re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Uncertainties of the model parameterizations and input data is another possible source of",
+      "context_window": "favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical and chemical  processes used in GLEMOS were developed and verified for the EMEP operational",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land",
+      "context_window": "0 re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Contributions of the OSPAR Contracting Parties to total annual deposition of Cd, Pb, and Hg to the",
+      "context_window": "regions of the OSPAR maritime area (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Wider Atlantic) for the period from 1990 to 2019. • Contributions of the OSPAR Contracting Parties to total annual deposition of Cd, Pb, and Hg to the 5 regions of the OSPAR maritime area for selected years (1995, 2005, 2015). In addition, the modelling results were evaluated against monitoring data from the OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE",
+      "context_window": "3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections (CEIP) (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic",
+      "context_window": "Comparison of the modelled air concentrations and wet deposition fluxes of Pb, Cd and Hg with available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector",
+      "context_window": "was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same for the period from 1990 to 2018.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "context_window": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of the OSPAR regions were remote from the main anthropogenic sources, especially those of the Arctic Waters (Region I) and Wider Atlantic (Region V).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national",
+      "context_window": "2015 22 decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national emissions slowed down, that resulted to lower reduction of the contribution from sources of France and the United Kingdom, and even some increase of the contribution from German and Portuguese",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "context_window": "Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series diagrams for the period from 1990 to 2019",
+      "context_window": "Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used.",
+      "context_window": "stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be",
+      "context_window": "23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown",
+      "context_window": "Spatial distribution of annual Hg deposition flux to the OSPAR maritime area in 1995 (a), 2005 (b) and 2015 (c). Purple lines depict borders of the OSPAR regions. Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMEP regional emissions",
+      "context_window": "estimates are described. 3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of Modelling Results",
+      "context_window": "28 5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The change was calculated for stations where measurements for at least half of the considered",
+      "context_window": "determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMEP regional emissions ....................................................................................... 12",
+      "context_window": "Emission Data .................................................................................................................. 12 3.1. EMEP regional emissions ....................................................................................... 12 3.2. Global emissions .................................................................................................... 15",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(20% of the countries) or did not submit their emission data (15% of the countries) expert estimates",
+      "context_window": "all OSPAR Contracting Parties. For other EMEP countries that provided data for the part of the period (20% of the countries) or did not submit their emission data (15% of the countries) expert estimates of emissions were used elaborated on the basis of methodology developed by CEIP [ Tista et al.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of the modelling results against observed air concentrations and wet deposition is given in",
+      "context_window": "data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7 Chapter 5 and Annex C. Chapter 6 includes comparison of the current results with previous estimates",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic",
+      "context_window": "Time series of average annual Hg deposition flux to five regions of the OSPAR maritime area in the period 1990-2019. Blue line is model estimate, red line is trend approximation. Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term changes. Besides, sources of uncertainties associated with the modelling are overviewed.",
+      "context_window": "). This section characterizes the model performance and analyses discrepancies between modelled and observed concentrations in air and wet deposition fluxes as well as their long- term changes. Besides, sources of uncertainties associated with the modelling are overviewed. 5.1. Lead",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR",
+      "context_window": "accordance with reductions of their national emissions. Figure 19. Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR maritime area in 1995, 2005 and 2015. Numerical values are presented in Table B.10 0",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and strong influence of global atmospheric transport. The most significant contributors to",
+      "context_window": "Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission sources and strong influence of global atmospheric transport. The most significant contributors to both regions were the Great Britain, Germany, Spain, and France. Besides, the Arctic Waters were also affected by Norway, whereas Portugal contributed to Hg deposition the Wider Atlantic.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") and intensive chemical transformations in the atmosphere. It results in",
+      "context_window": "elemental gaseous form (Hg 0 ) and intensive chemical transformations in the atmosphere. It results in longer atmospheric transport of Hg from emission sources and significant deposition fluxes in remote regions, where intensive oxidation of Hg",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelled air concentrations and wet deposition fluxes were compared with the available",
+      "context_window": "5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of the CAMP network are located in OSPAR Contracting Parties on or nearby the sea coast of the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "photo-reduced and re-emitted to the atmosphere [",
+      "context_window": "Steffen et al ., 2008]. However, significant part of Hg deposited to snow and ice surface was photo-reduced and re-emitted to the atmosphere [ Moore et al., 2014;",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "context_window": ", 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition over the Arctic Ocean somewhat increased between 1995 and 2005 due to inter-annual",
+      "context_window": "Wang et al., 2019]. The deposition over the Arctic Ocean somewhat increased between 1995 and 2005 due to inter-annual variation of meteorological conditions. The following decrease of Hg deposition between 2005 and 2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "out for stations of Comprehensive Atmospheric",
+      "context_window": "Comparison of modelled and observed air concentrations and wet deposition was carried out for stations of Comprehensive Atmospheric Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to",
+      "context_window": "2 are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered period (1990-2001), while after 2000 the rate of deposition change decreased. The",
+      "context_window": "Seas (Region III). In these regions the highest reduction rate was obtained for the first part of the considered period (1990-2001), while after 2000 the rate of deposition change decreased. The Regions II and III were surrounded by the countries characterized by relatively high emissions in 20",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to",
+      "context_window": "five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were",
+      "context_window": "In addition, the modelling results were evaluated against monitoring data from the OSPAR Comprehensive Atmospheric Monitoring Programme (CAMP) for available years of the period. The modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were also compared with previous estimates performed for the period 1990-2006 [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "context_window": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux de dépôt inférieurs de 10 à 30% et des taux de réduction de la pollution légèrement plus élevés pour la plupart des régions d’OSPAR.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "located in other regions of the globe and natural/secondary emissions from land and the ocean. The",
+      "context_window": "Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined. Finally, in order to characterize long-term changes of modelled and observed air",
+      "context_window": ". Besides, faction of stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is important to mention that the Pearson’s correlation",
+      "context_window": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series. For",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission sources, including those of the OSPAR countries. The main contribution to deposition was",
+      "context_window": "Arctic Waters (Region I) and Wider Atlantic (Region V) were remote from major anthropogenic 24 emission sources, including those of the OSPAR countries. The main contribution to deposition was made by secondary emission sources, such as re-suspension from sea surface. Among the OSPAR Contracting Parties the main contributors to deposition to Region I were the United Kingdom, France,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled and observed air concentrations and wet deposition at monitoring stations. Long-term",
+      "context_window": "are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3):",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Germany, Norway and Spain. The main contributors to deposition to Region V were Spain, Portugal,",
+      "context_window": "made by secondary emission sources, such as re-suspension from sea surface. Among the OSPAR Contracting Parties the main contributors to deposition to Region I were the United Kingdom, France, Germany, Norway and Spain. The main contributors to deposition to Region V were Spain, Portugal, the United Kingdom, France and Germany. Figure 16.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "insignificant change of national emissions.",
+      "context_window": "France (2-5%), the Great Britain (2-4%), and Portugal (2.5-3%). Contributions of these countries decreased by a factor 2-3 except for that of Portugal, which did not changed considerably due to insignificant change of national emissions. Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the elemental to oxidized forms in springtime during the atmospheric Hg depletion events",
+      "context_window": "2 /y) was estimated in the Arctic Waters region (Fig. 17) due to Hg chemical transformations from the elemental to oxidized forms in springtime during the atmospheric Hg depletion events (AMDEs) [ Steffen et al",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "context_window": "directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "context_window": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "context_window": "changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes agree within a factor of two. Besides, at a number of stations high bias is accompanied with significant correlation, e.g., NO1 (Birkenes, Norway), DK8 (Anholt, Denmark).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and",
+      "context_window": "decreased by a factor 2-3 except for that of Portugal, which did not changed considerably due to insignificant change of national emissions. Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission sources and strong influence of global atmospheric transport. The most significant contributors to",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in previous study. In case of mercury the mean rates of deposition change in this and previous",
+      "context_window": "non-OSPAR countries. Comparison of emission trends used in this and previous studies reveals that sum of non-OSPAR emissions in the current study decreases faster  by a factor of 1.3 than that used in previous study. In case of mercury the mean rates of deposition change in this and previous studies are comparable (Fig. 34f). a",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected to be minor on Cd deposition to the OSPAR regions.",
+      "context_window": "leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America and Africa are located far from the OSPAR maritime area and the influence of their emissions is expected to be minor on Cd deposition to the OSPAR regions. a b",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "context_window": "reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America",
+      "context_window": "Since it is assumed that spatial distribution of Cd emissions is similar to that of Hg, the increase of Hg regional emission leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America and Africa are located far from the OSPAR maritime area and the influence of their emissions is expected to be minor on Cd deposition to the OSPAR regions.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "context_window": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to",
+      "context_window": "variation of meteorological conditions. The following decrease of Hg deposition between 2005 and 2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway because of increased precipitation amount in this area. The lowest deposition fluxes occurred over",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR",
+      "context_window": "The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime area. It includes information on spatial distribution and long-term changes of Cd, Pb, and Hg deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR Contracting Parties to total deposition to the OSPAR regions. Information on long-term deposition time series and source-receptor relationships is also presented in Tables B.5-B.7 (Annex B).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in",
+      "context_window": "series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the",
+      "context_window": "concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations. At stations IS91, NO42, SE14 the reduction of modelled air concentrations is lower than",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These sharp inter-annual changes do not correlate",
+      "context_window": "FR90) exhibit high inter-annual variability (Fig. 23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of",
+      "context_window": "Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re- calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of precipitation due to updates of meteorological pre-processor.  In the Arctic waters (Region I) the changes of Pb and Cd deposition are the lowest. This region is remote from the main sources and its",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Germany. Contributions of all these countries declined between 1995 and 2015 due to significant",
+      "context_window": "The major contributor to Cd deposition to the Celtic Seas (Region III) was the United Kingdom which input declined from 8% in 1995 to 5% in 2015. Other main countries-emitters were France, Spain and Germany. Contributions of all these countries declined between 1995 and 2015 due to significant reduction of national emissions and much lower changes of wind re-suspension contributing to total deposition.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales",
+      "context_window": "Les estimations présentées des dépôts de métaux lourds dans la zone maritime OSPAR concordent généralement avec les résultats de l'évaluation précédente couvrant la période 1990-2006. Les résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Boundary conditions for the regional scale simulations of all considered pollutants were obtained",
+      "context_window": "Yang et al ., 2005; 2010]. Boundary conditions for the regional scale simulations of all considered pollutants were obtained from the GLEMOS model runs on a global scale.  Initial conditions were generated with one-month spin-up model runs for regional simulations and a three-year spin-up run for the global-scale Hg",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global anthropogenic and secondary emissions dominate over the remote regions due to relatively",
+      "context_window": "emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to Hg deposition to the OSPAR maritime area is illustrated in Fig. 19.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR,",
+      "context_window": "Figure 34. Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR, 2009] and calculated in this  study. 0.0",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and modelled concentrations at these stations do not exhibit any long-term tendency. However, the",
+      "context_window": "reduction (Fig. 28). For stations BE14, DE1 and GB91, the modelled and observed rates of long-term reduction are comparable. The stations NO42 and IS91 are located far from main emission sources, and modelled concentrations at these stations do not exhibit any long-term tendency. However, the observed concentrations at these stations demonstrate high inter-annual variability, especially in the first half of the considered period that results in 3% mean annual decline. Observed concentrations",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meteorological information for model simulations for the period from 1990 to 2018 was generated",
+      "context_window": "Ferrari et al ., 2008]. Meteorological information for model simulations for the period from 1990 to 2018 was generated from the ERA-Interim re-analysis data of the European Centre for Medium Range Weather Forecasts [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by",
+      "context_window": "Time series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of",
+      "context_window": "f Figure 34. Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR, 2009] and calculated in this  study.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global emissions .................................................................................................... 15",
+      "context_window": "EMEP regional emissions ....................................................................................... 12 3.2. Global emissions .................................................................................................... 15 4. Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19",
+      "context_window": "Global emissions .................................................................................................... 15 4. Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19 4.1. Lead ....................................................................................................................... 19",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates are described.",
+      "context_window": "scales. Emissions of Pb, Cd and Hg and their long-term changes in the OSPAR Contracting Parties are overviewed. Available global-scale emission data for Hg and development Pb and Cd global emissions estimates are described. 3.1. EMEP regional emissions",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "-30 to +50",
+      "context_window": "72 50-100 -30 to +50 Along with gridded emission data additional emission parameters are required. They include seasonal variations, distribution of emissions heights and chemical speciation of Hg emissions.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "we explained by different rates of changes of national emissions. In 1995 the main contributor to",
+      "context_window": "The main contributors to deposition in Bay of Biscay (Region IV) were Spain, Portugal, France and the United Kingdom. The changes in the contributions of these countries between 1995, 2005 and 2015 we explained by different rates of changes of national emissions. In 1995 the main contributor to deposition was emission sources of Portugal (13%). In nineties emissions of the OSPAR countries had been declining at higher rate than wind re-suspension. Hence, their contribution to total deposition",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions",
+      "context_window": "The report presents main results of the assessment. An overview of the assessment approach is given in Chapter 2. Long-term changes of anthropogenic emissions of the considered heavy metals to the atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison of modelling results with observations",
+      "context_window": "number of considered years. 2.3. Comparison of modelling results with observations Statistical indicators used for comparison of modelled and observed values includes mean relative bias (MRB), Pearson’s coefficient of correlation (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to",
+      "context_window": ", 2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The chapter is focused on emission data used for modelling of heavy metals on regional and global",
+      "context_window": "3. Emission Data The chapter is focused on emission data used for modelling of heavy metals on regional and global scales. Emissions of Pb, Cd and Hg and their long-term changes in the OSPAR Contracting Parties are overviewed. Available global-scale emission data for Hg and development Pb and Cd global emissions",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The higher rate of long-term reduction of observed air concentrations",
+      "context_window": "of Hg concentrations in air. Similar rates of annual changes (about 1% per year) are noted for the Irish station IE31 (Mace Head). The higher rate of long-term reduction of observed air concentrations in comparison with modelled concentrations at stations SE2/SE14 is caused by high Hg concentrations (2.3-2.9 ng/m",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "wet deposition fluxes were adjusted to the full-year period. Each accumulated annual value was",
+      "context_window": "comparability of measured wet deposition fluxes at different stations and different years observed 11 wet deposition fluxes were adjusted to the full-year period. Each accumulated annual value was converted to mean daily flux via dividing by actual number of days when measurements were available. Then daily flux was multiplied by a number of days in a year (365 or 366). Implicitly it",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from",
+      "context_window": "/y. Deposition in the eastern part of region V in 2005 were lower than those in 2015 due to higher precipitation sums in 2015 compared to 2005. Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from 1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can",
+      "context_window": "neurological, cardiovascular, renal, gastrointestinal, hematological and reproductive systems. In the environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global-scale gridded data of PM2.5 emissions have been available in the EDGAR database [",
+      "context_window": "Median value of Pb/PM2.5 national total emission ratio for the EMEP countries and North America. Whiskers for the EMEP countries denote range of the ratios between 10th and 90th percentiles. Global-scale gridded data of PM2.5 emissions have been available in the EDGAR database [ Crippa et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all",
+      "context_window": "Time series of average annual Pb deposition flux to five regions of the OSPAR maritime area in the period 1990-2019. Blue line is model estimate, red line is trend approximation. Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term trends of deposition and to establish source-receptor relationships for each OSPAR region.",
+      "context_window": "along latitude. The resulting spatial distribution of deposition flux was further used to calculate long- term trends of deposition and to establish source-receptor relationships for each OSPAR region. Figure 1. Border of the EMEP domain (blue line) and OSPAR maritime area (green line) with indication of the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2008]. However, significant part of Hg deposited to snow and ice surface was",
+      "context_window": "(AMDEs) [ Steffen et al ., 2008]. However, significant part of Hg deposited to snow and ice surface was photo-reduced and re-emitted to the atmosphere [ Moore et al.,",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime",
+      "context_window": "4. Deposition of heavy metals to the OSPAR Maritime Area The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime area. It includes information on spatial distribution and long-term changes of Cd, Pb, and Hg deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "favour over- or underprediction of the observed concentrations and wet deposition by the model.",
+      "context_window": "Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway",
+      "context_window": "2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway because of increased precipitation amount in this area. The lowest deposition fluxes occurred over the high Arctic and the southern part of the Wider Atlantic region.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Monitoring Programme (CAMP).",
+      "context_window": "Figure 2. Location of stations of Comprehensive Atmospheric Monitoring Programme (CAMP). 12 3.",
+      "page_number": 11,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "total heavy metal input to the marine environment [",
+      "context_window": "environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR , 2017], despite progress made under the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "context_window": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "context_window": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "context_window": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine",
+      "context_window": "In the environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "context_window": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "context_window": "These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled concentrations have been reducing through the whole period. Difference in trend",
+      "context_window": "first half of the considered period that results in 3% mean annual decline. Observed concentrations at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compare rates of deposition changes calculated in the previous and current studies.",
+      "context_window": "calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re-",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "directions after 2010 led to different mean annual rates of concentration decline.",
+      "context_window": "at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Emission Data .................................................................................................................. 12",
+      "context_window": "Comparison of modelling results with observations ............................................ 10 3. Emission Data .................................................................................................................. 12 3.1. EMEP regional emissions ....................................................................................... 12",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased between 1995 and 2005. Between 2005 and 2015 the deposition decreased or almost",
+      "context_window": "Waters (Region I) and Wider Atlantic (Region V). In absolute terms of contribution the deposition from almost all OSPAR Contracting Parties decreased between 1995 and 2005. Between 2005 and 2015 the deposition decreased or almost stabilized. However, since the rate of decline of national emissions differed among the countries, the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Uncertainties of the model parameterizations and input data is another possible source of",
+      "context_window": "favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical and chemical  processes used in GLEMOS were developed and verified for the EMEP operational",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Contributions of the OSPAR Contracting Parties to total annual deposition of Cd, Pb, and Hg to the",
+      "context_window": "regions of the OSPAR maritime area (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Wider Atlantic) for the period from 1990 to 2019. • Contributions of the OSPAR Contracting Parties to total annual deposition of Cd, Pb, and Hg to the 5 regions of the OSPAR maritime area for selected years (1995, 2005, 2015). In addition, the modelling results were evaluated against monitoring data from the OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic",
+      "context_window": "Comparison of the modelled air concentrations and wet deposition fluxes of Pb, Cd and Hg with available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "context_window": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of the OSPAR regions were remote from the main anthropogenic sources, especially those of the Arctic Waters (Region I) and Wider Atlantic (Region V).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "context_window": "Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used.",
+      "context_window": "stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown",
+      "context_window": "Spatial distribution of annual Hg deposition flux to the OSPAR maritime area in 1995 (a), 2005 (b) and 2015 (c). Purple lines depict borders of the OSPAR regions. Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of Modelling Results",
+      "context_window": "28 5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMEP regional emissions ....................................................................................... 12",
+      "context_window": "Emission Data .................................................................................................................. 12 3.1. EMEP regional emissions ....................................................................................... 12 3.2. Global emissions .................................................................................................... 15",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of the modelling results against observed air concentrations and wet deposition is given in",
+      "context_window": "data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7 Chapter 5 and Annex C. Chapter 6 includes comparison of the current results with previous estimates",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term changes. Besides, sources of uncertainties associated with the modelling are overviewed.",
+      "context_window": "). This section characterizes the model performance and analyses discrepancies between modelled and observed concentrations in air and wet deposition fluxes as well as their long- term changes. Besides, sources of uncertainties associated with the modelling are overviewed. 5.1. Lead",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and strong influence of global atmospheric transport. The most significant contributors to",
+      "context_window": "Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission sources and strong influence of global atmospheric transport. The most significant contributors to both regions were the Great Britain, Germany, Spain, and France. Besides, the Arctic Waters were also affected by Norway, whereas Portugal contributed to Hg deposition the Wider Atlantic.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelled air concentrations and wet deposition fluxes were compared with the available",
+      "context_window": "5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of the CAMP network are located in OSPAR Contracting Parties on or nearby the sea coast of the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "context_window": ", 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "out for stations of Comprehensive Atmospheric",
+      "context_window": "Comparison of modelled and observed air concentrations and wet deposition was carried out for stations of Comprehensive Atmospheric Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered period (1990-2001), while after 2000 the rate of deposition change decreased. The",
+      "context_window": "Seas (Region III). In these regions the highest reduction rate was obtained for the first part of the considered period (1990-2001), while after 2000 the rate of deposition change decreased. The Regions II and III were surrounded by the countries characterized by relatively high emissions in 20",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were",
+      "context_window": "In addition, the modelling results were evaluated against monitoring data from the OSPAR Comprehensive Atmospheric Monitoring Programme (CAMP) for available years of the period. The modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were also compared with previous estimates performed for the period 1990-2006 [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "located in other regions of the globe and natural/secondary emissions from land and the ocean. The",
+      "context_window": "Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is important to mention that the Pearson’s correlation",
+      "context_window": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series. For",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled and observed air concentrations and wet deposition at monitoring stations. Long-term",
+      "context_window": "are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3):",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "insignificant change of national emissions.",
+      "context_window": "France (2-5%), the Great Britain (2-4%), and Portugal (2.5-3%). Contributions of these countries decreased by a factor 2-3 except for that of Portugal, which did not changed considerably due to insignificant change of national emissions. Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "context_window": "directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "context_window": "changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes agree within a factor of two. Besides, at a number of stations high bias is accompanied with significant correlation, e.g., NO1 (Birkenes, Norway), DK8 (Anholt, Denmark).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in previous study. In case of mercury the mean rates of deposition change in this and previous",
+      "context_window": "non-OSPAR countries. Comparison of emission trends used in this and previous studies reveals that sum of non-OSPAR emissions in the current study decreases faster  by a factor of 1.3 than that used in previous study. In case of mercury the mean rates of deposition change in this and previous studies are comparable (Fig. 34f). a",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "context_window": "reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "context_window": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR",
+      "context_window": "The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime area. It includes information on spatial distribution and long-term changes of Cd, Pb, and Hg deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR Contracting Parties to total deposition to the OSPAR regions. Information on long-term deposition time series and source-receptor relationships is also presented in Tables B.5-B.7 (Annex B).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the",
+      "context_window": "concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations. At stations IS91, NO42, SE14 the reduction of modelled air concentrations is lower than",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of",
+      "context_window": "Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re- calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of precipitation due to updates of meteorological pre-processor.  In the Arctic waters (Region I) the changes of Pb and Cd deposition are the lowest. This region is remote from the main sources and its",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales",
+      "context_window": "Les estimations présentées des dépôts de métaux lourds dans la zone maritime OSPAR concordent généralement avec les résultats de l'évaluation précédente couvrant la période 1990-2006. Les résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global anthropogenic and secondary emissions dominate over the remote regions due to relatively",
+      "context_window": "emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to Hg deposition to the OSPAR maritime area is illustrated in Fig. 19.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and modelled concentrations at these stations do not exhibit any long-term tendency. However, the",
+      "context_window": "reduction (Fig. 28). For stations BE14, DE1 and GB91, the modelled and observed rates of long-term reduction are comparable. The stations NO42 and IS91 are located far from main emission sources, and modelled concentrations at these stations do not exhibit any long-term tendency. However, the observed concentrations at these stations demonstrate high inter-annual variability, especially in the first half of the considered period that results in 3% mean annual decline. Observed concentrations",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by",
+      "context_window": "Time series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global emissions .................................................................................................... 15",
+      "context_window": "EMEP regional emissions ....................................................................................... 12 3.2. Global emissions .................................................................................................... 15 4. Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates are described.",
+      "context_window": "scales. Emissions of Pb, Cd and Hg and their long-term changes in the OSPAR Contracting Parties are overviewed. Available global-scale emission data for Hg and development Pb and Cd global emissions estimates are described. 3.1. EMEP regional emissions",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "we explained by different rates of changes of national emissions. In 1995 the main contributor to",
+      "context_window": "The main contributors to deposition in Bay of Biscay (Region IV) were Spain, Portugal, France and the United Kingdom. The changes in the contributions of these countries between 1995, 2005 and 2015 we explained by different rates of changes of national emissions. In 1995 the main contributor to deposition was emission sources of Portugal (13%). In nineties emissions of the OSPAR countries had been declining at higher rate than wind re-suspension. Hence, their contribution to total deposition",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison of modelling results with observations",
+      "context_window": "number of considered years. 2.3. Comparison of modelling results with observations Statistical indicators used for comparison of modelled and observed values includes mean relative bias (MRB), Pearson’s coefficient of correlation (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The chapter is focused on emission data used for modelling of heavy metals on regional and global",
+      "context_window": "3. Emission Data The chapter is focused on emission data used for modelling of heavy metals on regional and global scales. Emissions of Pb, Cd and Hg and their long-term changes in the OSPAR Contracting Parties are overviewed. Available global-scale emission data for Hg and development Pb and Cd global emissions",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "wet deposition fluxes were adjusted to the full-year period. Each accumulated annual value was",
+      "context_window": "comparability of measured wet deposition fluxes at different stations and different years observed 11 wet deposition fluxes were adjusted to the full-year period. Each accumulated annual value was converted to mean daily flux via dividing by actual number of days when measurements were available. Then daily flux was multiplied by a number of days in a year (365 or 366). Implicitly it",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can",
+      "context_window": "neurological, cardiovascular, renal, gastrointestinal, hematological and reproductive systems. In the environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all",
+      "context_window": "Time series of average annual Pb deposition flux to five regions of the OSPAR maritime area in the period 1990-2019. Blue line is model estimate, red line is trend approximation. Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2008]. However, significant part of Hg deposited to snow and ice surface was",
+      "context_window": "(AMDEs) [ Steffen et al ., 2008]. However, significant part of Hg deposited to snow and ice surface was photo-reduced and re-emitted to the atmosphere [ Moore et al.,",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "favour over- or underprediction of the observed concentrations and wet deposition by the model.",
+      "context_window": "Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atmospheric Monitoring Programme (CAMP).",
+      "context_window": "Figure 2. Location of stations of Comprehensive Atmospheric Monitoring Programme (CAMP). 12 3.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway",
+      "context_window": "2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway because of increased precipitation amount in this area. The lowest deposition fluxes occurred over the high Arctic and the southern part of the Wider Atlantic region.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime",
+      "context_window": "4. Deposition of heavy metals to the OSPAR Maritime Area The chapter presents the analysis of heavy metal atmospheric deposition to the OSPAR maritime area. It includes information on spatial distribution and long-term changes of Cd, Pb, and Hg deposition for the period 1990-2019 as well as contributions of emissions from the OSPAR",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term trends of deposition and to establish source-receptor relationships for each OSPAR region.",
+      "context_window": "along latitude. The resulting spatial distribution of deposition flux was further used to calculate long- term trends of deposition and to establish source-receptor relationships for each OSPAR region. Figure 1. Border of the EMEP domain (blue line) and OSPAR maritime area (green line) with indication of the",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global-scale gridded data of PM2.5 emissions have been available in the EDGAR database [",
+      "context_window": "Median value of Pb/PM2.5 national total emission ratio for the EMEP countries and North America. Whiskers for the EMEP countries denote range of the ratios between 10th and 90th percentiles. Global-scale gridded data of PM2.5 emissions have been available in the EDGAR database [ Crippa et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from",
+      "context_window": "/y. Deposition in the eastern part of region V in 2005 were lower than those in 2015 due to higher precipitation sums in 2015 compared to 2005. Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from 1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The higher rate of long-term reduction of observed air concentrations",
+      "context_window": "of Hg concentrations in air. Similar rates of annual changes (about 1% per year) are noted for the Irish station IE31 (Mace Head). The higher rate of long-term reduction of observed air concentrations in comparison with modelled concentrations at stations SE2/SE14 is caused by high Hg concentrations (2.3-2.9 ng/m",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to",
+      "context_window": ", 2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions",
+      "context_window": "The report presents main results of the assessment. An overview of the assessment approach is given in Chapter 2. Long-term changes of anthropogenic emissions of the considered heavy metals to the atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "-30 to +50",
+      "context_window": "72 50-100 -30 to +50 Along with gridded emission data additional emission parameters are required. They include seasonal variations, distribution of emissions heights and chemical speciation of Hg emissions.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19",
+      "context_window": "Global emissions .................................................................................................... 15 4. Deposition of heavy metals to the OSPAR Maritime Area ............................................. 19 4.1. Lead ....................................................................................................................... 19",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of",
+      "context_window": "f Figure 34. Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR, 2009] and calculated in this  study.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meteorological information for model simulations for the period from 1990 to 2018 was generated",
+      "context_window": "Ferrari et al ., 2008]. Meteorological information for model simulations for the period from 1990 to 2018 was generated from the ERA-Interim re-analysis data of the European Centre for Medium Range Weather Forecasts [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR,",
+      "context_window": "Figure 34. Mean modelled deposition flux of Pb (a), Cd(c) and Hg (e) and mean rate of long-term change of Pb(b), Cd(d) and Hg(f) deposition to the OSPAR regions for the period from 1990 to 2006 presented in [OSPAR, 2009] and calculated in this  study. 0.0",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Boundary conditions for the regional scale simulations of all considered pollutants were obtained",
+      "context_window": "Yang et al ., 2005; 2010]. Boundary conditions for the regional scale simulations of all considered pollutants were obtained from the GLEMOS model runs on a global scale.  Initial conditions were generated with one-month spin-up model runs for regional simulations and a three-year spin-up run for the global-scale Hg",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Germany. Contributions of all these countries declined between 1995 and 2015 due to significant",
+      "context_window": "The major contributor to Cd deposition to the Celtic Seas (Region III) was the United Kingdom which input declined from 8% in 1995 to 5% in 2015. Other main countries-emitters were France, Spain and Germany. Contributions of all these countries declined between 1995 and 2015 due to significant reduction of national emissions and much lower changes of wind re-suspension contributing to total deposition.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These sharp inter-annual changes do not correlate",
+      "context_window": "FR90) exhibit high inter-annual variability (Fig. 23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in",
+      "context_window": "series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to",
+      "context_window": "variation of meteorological conditions. The following decrease of Hg deposition between 2005 and 2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and North America. Relatively high Hg deposition was also predicted over the North Sea in 1995 due to direct effect of Hg emissions from the neighboring countries and over the coastal waters of Norway because of increased precipitation amount in this area. The lowest deposition fluxes occurred over",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America",
+      "context_window": "Since it is assumed that spatial distribution of Cd emissions is similar to that of Hg, the increase of Hg regional emission leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America and Africa are located far from the OSPAR maritime area and the influence of their emissions is expected to be minor on Cd deposition to the OSPAR regions.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected to be minor on Cd deposition to the OSPAR regions.",
+      "context_window": "leads to the corresponding increase of Cd emissions. Nevertheless, these regions of South America and Africa are located far from the OSPAR maritime area and the influence of their emissions is expected to be minor on Cd deposition to the OSPAR regions. a b",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and",
+      "context_window": "decreased by a factor 2-3 except for that of Portugal, which did not changed considerably due to insignificant change of national emissions. Relative contributions of the OSPAR countries to Hg atmospheric deposition to the Arctic Waters and the Wider Atlantic did not exceed a few percents due to remoteness of these regions from emission sources and strong influence of global atmospheric transport. The most significant contributors to",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "context_window": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from the elemental to oxidized forms in springtime during the atmospheric Hg depletion events",
+      "context_window": "2 /y) was estimated in the Arctic Waters region (Fig. 17) due to Hg chemical transformations from the elemental to oxidized forms in springtime during the atmospheric Hg depletion events (AMDEs) [ Steffen et al",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Germany, Norway and Spain. The main contributors to deposition to Region V were Spain, Portugal,",
+      "context_window": "made by secondary emission sources, such as re-suspension from sea surface. Among the OSPAR Contracting Parties the main contributors to deposition to Region I were the United Kingdom, France, Germany, Norway and Spain. The main contributors to deposition to Region V were Spain, Portugal, the United Kingdom, France and Germany. Figure 16.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission sources, including those of the OSPAR countries. The main contribution to deposition was",
+      "context_window": "Arctic Waters (Region I) and Wider Atlantic (Region V) were remote from major anthropogenic 24 emission sources, including those of the OSPAR countries. The main contribution to deposition was made by secondary emission sources, such as re-suspension from sea surface. Among the OSPAR Contracting Parties the main contributors to deposition to Region I were the United Kingdom, France,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined. Finally, in order to characterize long-term changes of modelled and observed air",
+      "context_window": ". Besides, faction of stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "context_window": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux de dépôt inférieurs de 10 à 30% et des taux de réduction de la pollution légèrement plus élevés pour la plupart des régions d’OSPAR.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to",
+      "context_window": "five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to",
+      "context_window": "2 are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition over the Arctic Ocean somewhat increased between 1995 and 2005 due to inter-annual",
+      "context_window": "Wang et al., 2019]. The deposition over the Arctic Ocean somewhat increased between 1995 and 2005 due to inter-annual variation of meteorological conditions. The following decrease of Hg deposition between 2005 and 2015 was caused by leveled global Hg emissions and gradual decrease of Hg emissions in Europe and",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "photo-reduced and re-emitted to the atmosphere [",
+      "context_window": "Steffen et al ., 2008]. However, significant part of Hg deposited to snow and ice surface was photo-reduced and re-emitted to the atmosphere [ Moore et al., 2014;",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") and intensive chemical transformations in the atmosphere. It results in",
+      "context_window": "elemental gaseous form (Hg 0 ) and intensive chemical transformations in the atmosphere. It results in longer atmospheric transport of Hg from emission sources and significant deposition fluxes in remote regions, where intensive oxidation of Hg",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR",
+      "context_window": "accordance with reductions of their national emissions. Figure 19. Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR maritime area in 1995, 2005 and 2015. Numerical values are presented in Table B.10 0",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic",
+      "context_window": "Time series of average annual Hg deposition flux to five regions of the OSPAR maritime area in the period 1990-2019. Blue line is model estimate, red line is trend approximation. Mercury deposition to the OSPAR maritime regions is comprised of contributions of anthropogenic emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(20% of the countries) or did not submit their emission data (15% of the countries) expert estimates",
+      "context_window": "all OSPAR Contracting Parties. For other EMEP countries that provided data for the part of the period (20% of the countries) or did not submit their emission data (15% of the countries) expert estimates of emissions were used elaborated on the basis of methodology developed by CEIP [ Tista et al.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The change was calculated for stations where measurements for at least half of the considered",
+      "context_window": "determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EMEP regional emissions",
+      "context_window": "estimates are described. 3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be",
+      "context_window": "23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series diagrams for the period from 1990 to 2019",
+      "context_window": "Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national",
+      "context_window": "2015 22 decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national emissions slowed down, that resulted to lower reduction of the contribution from sources of France and the United Kingdom, and even some increase of the contribution from German and Portuguese",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector",
+      "context_window": "was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same for the period from 1990 to 2018.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE",
+      "context_window": "3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections (CEIP) (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land",
+      "context_window": "0 re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "re-emissions from soil and seawater were generated",
+      "context_window": "Prescribed fluxes of natural and secondary Hg 0 re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additional consideration.",
+      "context_window": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a 0",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global",
+      "context_window": "emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential boilers, metal production (ferrous and non-ferrous), cement production, product use, cremation, and artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global atmosphere in 2010 are associated with ASGM (727 tonnes) and stationary combustion of fossil fuels (484 tonnes, including 474 tonnes from coal combustion). Other major emission sectors include non-",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Modelled time-series of total annual atmospheric deposition of the selected heavy metals to 5",
+      "context_window": "• Annual anthropogenic emissions of three heavy metals (Cd, Pb, Hg) from the OSPAR Contracting Parties for the period 1990-2019. • Modelled time-series of total annual atmospheric deposition of the selected heavy metals to 5 regions of the OSPAR maritime area (Arctic Waters, Greater North Sea, Celtic Seas, Bay of Biscay and Wider Atlantic) for the period from 1990 to 2019.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed values. These are wet deposition fluxes",
+      "context_window": "several stations where modelled values markedly (by an order of magnitude) underestimate the observed values. These are wet deposition fluxes for stations BE4, GB92, GB93 and DK5. Wet deposition fluxes observed at these stations are",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "context_window": "re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [ Travnikov and Ilyin,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "context_window": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3): 𝑅𝑅",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2009] and this study. The first parameter is deposition flux   to each of",
+      "context_window": "previous assessment [ OSPAR , 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "secondary emissions. The long-range atmospheric transport from global anthropogenic and",
+      "context_window": "26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and secondary emissions. The long-range atmospheric transport from global anthropogenic and secondary sources even stronger affected remote regions, the Arctic Waters and the Wider Atlantic, where deposition decrease over the whole period did not exceed 25%.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the",
+      "context_window": "EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations",
+      "context_window": "available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g. meteorological fields, land cover distribution, etc.)",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "environment through various routes including direct discharges, riverine inputs and atmospheric",
+      "context_window": "environment, heavy metals are toxic to plants, animals and microorganisms. In particular, they can bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [",
+      "page_number": 6,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive summary .................................................................................................................... 4",
+      "start_sentence": 41,
+      "end_sentence": 51,
+      "sentence_count": 11,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 41,
+          "page_number": 3,
+          "content": "Executive summary .....................................................................................",
+          "full_length": 136
+        },
+        {
+          "sentence_id": 42,
+          "page_number": 3,
+          "content": "Récapitulatif .........................................................................................",
+          "full_length": 143
+        },
+        {
+          "sentence_id": 43,
+          "page_number": 3,
+          "content": "1.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 44,
+          "page_number": 3,
+          "content": "Introduction ..........................................................................................",
+          "full_length": 133
+        },
+        {
+          "sentence_id": 45,
+          "page_number": 3,
+          "content": "2.",
+          "full_length": 2
+        }
+      ],
+      "total_sentences_in_section": 11
+    },
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 88,
+      "end_sentence": 126,
+      "sentence_count": 39,
+      "page_range": "4-5",
+      "sentences": [
+        {
+          "sentence_id": 88,
+          "page_number": 4,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 4,
+          "content": "Model assessment of atmospheric inputs of cadmium (Cd), lead (Pb), and mercury (Hg) to the OSPAR",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 4,
+          "content": "maritime area was carried out by the Meteorological Synthesizing Centre East (MSC-E) of EMEP for",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 4,
+          "content": "the period 1990-2019. The results of the assessment comprise time-series of annual anthropogenic",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 4,
+          "content": "emissions of Pb, Cd and Hg from the OSPAR Contracting Parties and modelled total annual",
+          "full_length": 87
+        }
+      ],
+      "total_sentences_in_section": 39
+    },
+    {
+      "section_name": "7.   Conclusions ......................................................................................................................... 40",
+      "start_sentence": 79,
+      "end_sentence": 81,
+      "sentence_count": 3,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "7.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Conclusions ...........................................................................................",
+          "full_length": 136
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "References ............................................................................................",
+          "full_length": 142
+        }
+      ],
+      "total_sentences_in_section": 3
+    },
+    {
+      "section_name": "7.   Conclusions",
+      "start_sentence": 3049,
+      "end_sentence": 3102,
+      "sentence_count": 54,
+      "page_range": "40-41",
+      "sentences": [
+        {
+          "sentence_id": 3049,
+          "page_number": 40,
+          "content": "7.   Conclusions",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 3050,
+          "page_number": 40,
+          "content": "Model assessment of heavy metal atmospheric input to the OSPAR maritime area was carried out for",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 3051,
+          "page_number": 40,
+          "content": "the period from 1990 to 2019. Long-term changes of national emissions of the OSPAR Contracting",
+          "full_length": 94
+        },
+        {
+          "sentence_id": 3052,
+          "page_number": 40,
+          "content": "Parties and deposition of Pb, Cd and Hg to the five OSPAR maritime regions were estimated for the",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 3053,
+          "page_number": 40,
+          "content": "whole period. Contributions of national emissions of the OSPAR countries to total deposition were",
+          "full_length": 97
+        }
+      ],
+      "total_sentences_in_section": 54
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3103,
+      "end_sentence": 3385,
+      "sentence_count": 283,
+      "page_range": "41-44",
+      "sentences": [
+        {
+          "sentence_id": 3103,
+          "page_number": 41,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3104,
+          "page_number": 41,
+          "content": "Aas W. (ed) [2006] Data quality 2004, quality assurance, and field comparisons.",
+          "full_length": 79
+        },
+        {
+          "sentence_id": 3105,
+          "page_number": 41,
+          "content": "EMEP/CCC-Report 4/2006, 95 p.",
+          "full_length": 29
+        },
+        {
+          "sentence_id": 3106,
+          "page_number": 41,
+          "content": "AMAP [2010] Updating Historical Global Inventories of Anthropogenic Mercury Emissions to Air.",
+          "full_length": 93
+        },
+        {
+          "sentence_id": 3107,
+          "page_number": 41,
+          "content": "AMAP Technical Report",
+          "full_length": 21
+        }
+      ],
+      "total_sentences_in_section": 283
+    }
+  ],
+  "metadata": {
+    "total_sentences": 8533,
+    "chunks_selected": 113,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive summary .................................................................................................................... 4",
+        "start_sentence": 41,
+        "end_sentence": 51,
+        "sentence_count": 11
+      },
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 88,
+        "end_sentence": 126,
+        "sentence_count": 39
+      },
+      {
+        "section_name": "7.   Conclusions ......................................................................................................................... 40",
+        "start_sentence": 79,
+        "end_sentence": 81,
+        "sentence_count": 3
+      },
+      {
+        "section_name": "7.   Conclusions",
+        "start_sentence": 3049,
+        "end_sentence": 3102,
+        "sentence_count": 54
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3103,
+        "end_sentence": 3385,
+        "sentence_count": 283
+      }
+    ],
+    "total_excluded_sentences": 390
+  }
+}

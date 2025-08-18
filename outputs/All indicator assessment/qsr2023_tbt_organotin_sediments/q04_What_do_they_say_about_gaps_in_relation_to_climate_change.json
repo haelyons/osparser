@@ -1,0 +1,1199 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "context_window": "assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meta-analyses take into account both the",
+      "context_window": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data from monitoring sites impacted by point",
+      "context_window": "For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations. Data from monitoring sites impacted by point sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They provide a",
+      "context_window": "Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps (extended) 10 References 10 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and trend at the assessment area level.",
+      "context_window": "Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The analysis was also restricted to assessment areas with at least three monitoring",
+      "context_window": "Data from monitoring sites impacted by point sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "representative of general conditions or baseline stations.",
+      "context_window": "a parametric model can be fitted to the data For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations. Data from monitoring sites impacted by point sources were excluded.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additional residual variation not explained by the other fixed and random effects.",
+      "context_window": "made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR experts should consider if the OSPAR EQS should also be updated,",
+      "context_window": "The OSPAR EQS value is based on the Swedish EQS but has recently been replaced in HELCOM with the Danish EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data. Knowledge Gaps (extended)",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The criteria for",
+      "context_window": "The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional trend assessment, the trend in each time series is summarised by the estimated change in log",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "context_window": ". Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a parametric model can be fitted to the data",
+      "context_window": "there are at least five years of data over the whole time series • a parametric model can be fitted to the data For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Essentially the same linear mixed model as for trends is then fitted:",
+      "context_window": "For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted: • response: status (mean log concentration - log assessment concentration)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is no summary measure of status to use in the mixed model.",
+      "context_window": "monitoring station; time series data from baseline, representative and impacted stations are all included. However, the few time series with a non-parametric assessment of status must be excluded, because there is no summary measure of status to use in the mixed model. The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the",
+      "context_window": "estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sites with trend information and where those monitoring sites had good geographic spread.",
+      "context_window": "sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, the few time series with a non-parametric assessment of status must be excluded, because there",
+      "context_window": "There are no restrictions on data used in the status meta-analysis based on the classification of the monitoring station; time series data from baseline, representative and impacted stations are all included. However, the few time series with a non-parametric assessment of status must be excluded, because there is no summary measure of status to use in the mixed model. The criteria for status assessment were only",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the IA 2017 compared with the QSR 2023",
+      "context_window": "ODIMS . Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) Although direct inputs of TBT to the marine environment have been banned in the OSPAR maritime area and mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non-",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For a regional status assessment, the status of each time series is summarised by the difference between the",
+      "context_window": "The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted:",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "made up of two terms: the variation associated with the estimate of the trend from the individual time series,",
+      "context_window": "allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimated mean log concentration in the final monitoring year and the log assessment concentration.",
+      "context_window": "fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted: •",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For a regional trend assessment, the trend in each time series is summarised by the estimated change in log",
+      "context_window": "The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional trend assessment, the trend in each time series is summarised by the estimated change in log concentration over the last twenty years (or shorter if the time series does not extend that far back). A",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fulfilled in one assessment area: the Southern North Sea.",
+      "context_window": "is no summary measure of status to use in the mixed model. The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "response: status (mean log concentration - log assessment concentration)",
+      "context_window": "Essentially the same linear mixed model as for trends is then fitted: • response: status (mean log concentration - log assessment concentration) • fixed model: intercept",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend assessment",
+      "context_window": "are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are at least three years of data over the whole time series;",
+      "context_window": "there is at least one year with data in the period 2015 to 2020; • there are at least three years of data over the whole time series; • a parametric model can be fitted to the data and used to estimate the mean concentration in the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates from the individual time series analysis, and a term which accounts for any additional variation not",
+      "context_window": "random model: residual variation Where the residual variation is made up of the status estimation variation, the variation in the status estimates from the individual time series analysis, and a term which accounts for any additional variation not explained by the other fixed and random effects. The fixed model only includes an intercept since there is an",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 10 Knowledge Gaps (extended) 10 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The random effects",
+      "context_window": "random model: station + residual variation The fixed model means that a separate regional trend is estimated for each organotin. The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html",
+      "context_window": "Assessment Criteria are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are at least five years of data over the whole time series",
+      "context_window": "there is at least one year with data in the period 2015 to 2020 • there are at least five years of data over the whole time series • a parametric model can be fitted to the data",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allow for variation in trend between stations common to all organotins (station).",
+      "context_window": "The fixed model means that a separate regional trend is estimated for each organotin. The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A time series of organotin concentrations in sediment is assessed for trend if:",
+      "context_window": "The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses. A time series of organotin concentrations in sediment is assessed for trend if: • there is at least one year with data in the period 2015 to 2020",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EQS due to availability of new data.",
+      "context_window": "further monitoring of TBT concentrations in the marine environment is warranted. The OSPAR EQS value is based on the Swedish EQS but has recently been replaced in HELCOM with the Danish EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status assessment",
+      "context_window": "additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment A time series of organotin concentrations in sediment is assessed for status if: •",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "comparing concentrations across regions where assessment criteria are not available for each organotin time",
+      "context_window": "Organotin profiles The profile of concentrations across organotins can sometimes be useful for examining sources, and for comparing concentrations across regions where assessment criteria are not available for each organotin time series. The estimated organotin concentration profiles for the Southern North Sea are shown in Figure e",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 9 Knowledge Gaps (brief) 10 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "meet the criteria for inclusion. Available via",
+      "context_window": "a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via ODIMS .",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scale in a series of meta-analyses.",
+      "context_window": "Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses. A time series of organotin concentrations in sediment is assessed for trend if: •",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends of Organotin in Sediments in the Southern North Sea",
+      "context_window": "which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment A time series of organotin concentrations in sediment is assessed for status if:",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments, and the grey circles are stations which were not included in the assessment as they did not",
+      "context_window": "The purple circles are stations where there is a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via ODIMS",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where the residual variation is made up of the status estimation variation, the variation in the status",
+      "context_window": "• random model: residual variation Where the residual variation is made up of the status estimation variation, the variation in the status estimates from the individual time series analysis, and a term which accounts for any additional variation not explained by the other fixed and random effects.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series. The estimated organotin concentration profiles for the Southern North Sea are shown in",
+      "context_window": "The profile of concentrations across organotins can sometimes be useful for examining sources, and for comparing concentrations across regions where assessment criteria are not available for each organotin time series. The estimated organotin concentration profiles for the Southern North Sea are shown in Figure e .",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trend and status at each monitoring site was presented.",
+      "context_window": "They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by Sweden and adopted by OSPAR, namely 0,8 µg kg",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflecting availability of new data.",
+      "context_window": "EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data. Knowledge Gaps (extended) Full evaluation of the toxicity of TBT should have been triggered by the work of Alzieu et al., (1982).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Assuming that the current yearly change of –10,2% will continue and that the current mean regional status",
+      "context_window": "When looking at individual stations, EQS exceedance can be as high as 30-fold, which necessitates a follow-up over at least a decade. Assuming that the current yearly change of –10,2% will continue and that the current mean regional status for TBT (TBSN+) for the Southern North Sea is 3,6 times the EQS value, it will require 12 years until the mean value is approximately at the EQS level.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Sediments in the Southern North Sea",
+      "context_window": "2022 Status and Trends of Organotin in Sediments in the Southern North Sea Common Indicator Assessment OSPAR Commission 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non-",
+      "context_window": "Knowledge Gaps (brief) Although direct inputs of TBT to the marine environment have been banned in the OSPAR maritime area and mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non- pesticidal use of TBT is still ongoing in some countries, release from contaminated sites is ongoing and thus further monitoring of TBT concentrations in the marine environment is warranted.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Agreement 2002-16 CEMP Guidelines for Monitoring Contaminants in",
+      "context_window": "Documentation Text Agreement 2002-16 CEMP Guidelines for Monitoring Contaminants in Sediments. Revised in 2018 Agreement 2016-04 CEMP Guidelines for coordinated monitoring for",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Especially in highly impacted areas, like",
+      "context_window": "These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like estuaries and along the major shipping routes, the concentrations dropped significantly over the entire North Sea since 2008, and the entire ecosystem got a positive stimulus because of the reduced stress due to TBT",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Monitoring sites available to assess organotin concentrations in sediment in the Southern North",
+      "context_window": "7 of 11 OSPAR Commission Figure c: Monitoring sites available to assess organotin concentrations in sediment in the Southern North Sea, Channel, Irish Sea and the Irish and Scottish West Coast. The purple circles are stations where there is",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Status and Trends of Organotin in Sediments in the Southern North Sea Common Indicator Assessment OSPAR Commission 2022 1 of 11",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a parametric model can be fitted to the data and used to estimate the mean concentration in the",
+      "context_window": "there are at least three years of data over the whole time series; • a parametric model can be fitted to the data and used to estimate the mean concentration in the final monitoring year (or, occasionally, if a non-parametric test of status is applied). There are no restrictions on data used in the status meta-analysis based on the classification of the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The residual variation is",
+      "context_window": "The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Exceedance of the EQS value for TBT in sediments was noted for the major part of the Southern North Sea,",
+      "context_window": "numerous parameters, so the easiest follow-up is by trend analysis of the monitoring results combined with a risk-based choice of the stations near ports and along major shipping lanes. Exceedance of the EQS value for TBT in sediments was noted for the major part of the Southern North Sea, the Channel and the Irish Sea. It should be noted that the major TBT monitoring effort is concentrated in that",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2019). As most organisms are vulnerable in their early development stages, the resilience",
+      "context_window": "(Parmentier et al ., 2019). As most organisms are vulnerable in their early development stages, the resilience of several marine populations increased. There are several reasons to do a follow-up of concentrations in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html",
+      "context_window": "assessment tool https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html Assessment Criteria are described at",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "The location of the monitoring sites in the Southern North Sea, Channel, Irish Sea, and the Irish and Scottish West Coast are shown in Figure c . OSPAR Commission 2022",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is at least one year with data in the period 2015 to 2020",
+      "context_window": "A time series of organotin concentrations in sediment is assessed for trend if: • there is at least one year with data in the period 2015 to 2020 • there are at least five years of data over the whole time series",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are described at",
+      "context_window": "https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html Assessment Criteria are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data from monitoring sites available to assess the status of organotin concentrations in the Irish and Scottish",
+      "context_window": "The fixed model only includes an intercept since there is an assessment concentration for only one organotin and region. Data from monitoring sites available to assess the status of organotin concentrations in the Irish and Scottish West Coast, Irish Sea, Southern North Sea and Channel ( Table a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If current rates of decrease continue",
+      "context_window": "assessment of status for TBT in sediments for the Southern North Sea shows that the EQS is not met and that estimated mean concentration relative to the EQS is approximately 3,6. If current rates of decrease continue it will take more than one decade to reach EQS levels. Results (extended)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Time series data available to assess",
+      "context_window": "West Coast, Irish Sea, Southern North Sea and Channel ( Table a ). Time series data available to assess temporal trends for the Southern North Sea and Irish and Scottish West Coast ( Table b",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by",
+      "context_window": "more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by Sweden and adopted by OSPAR, namely 0,8 µg kg -1",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygenated sediments, whilst TBT can persist in anoxic sediments.",
+      "context_window": "rendering the substance much less toxic. These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like estuaries and along the major shipping routes, the concentrations dropped significantly over the entire North",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regional (Southern North Sea) trend for each organotin is then estimated by fitting the following linear mixed",
+      "context_window": "concentration over the last twenty years (or shorter if the time series does not extend that far back). A regional (Southern North Sea) trend for each organotin is then estimated by fitting the following linear mixed model by restricted maximum likelihood: •",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These processes occur fast in a fully oxygenated water column or",
+      "context_window": ", 2012). TBT is quite sensitive to oxidation processes leading to dealkylation, rendering the substance much less toxic. These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a trend assessment for at least one organotin, the light blue circles are stations where there are only status",
+      "context_window": "Sea, Channel, Irish Sea and the Irish and Scottish West Coast. The purple circles are stations where there is a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is at least one year with data in the period 2015 to 2020;",
+      "context_window": "A time series of organotin concentrations in sediment is assessed for status if: • there is at least one year with data in the period 2015 to 2020; • there are at least three years of data over the whole time series;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends and Effects of Substances in the Marine Environment (MIME)",
+      "context_window": "Lead Authors: Koen Parmentier, Johan Näslund, Rob Fryer Supported by: ICES Marine Chemistry Working Group (MCWG), OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) Citation Parmentier, K., Näslund, J. and Fryer, R.",
+      "page_number": 1,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "context_window": "assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data from monitoring sites impacted by point",
+      "context_window": "For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations. Data from monitoring sites impacted by point sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps (extended) 10 References 10 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The analysis was also restricted to assessment areas with at least three monitoring",
+      "context_window": "Data from monitoring sites impacted by point sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additional residual variation not explained by the other fixed and random effects.",
+      "context_window": "made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The criteria for",
+      "context_window": "The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional trend assessment, the trend in each time series is summarised by the estimated change in log",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a parametric model can be fitted to the data",
+      "context_window": "there are at least five years of data over the whole time series • a parametric model can be fitted to the data For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is no summary measure of status to use in the mixed model.",
+      "context_window": "monitoring station; time series data from baseline, representative and impacted stations are all included. However, the few time series with a non-parametric assessment of status must be excluded, because there is no summary measure of status to use in the mixed model. The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sites with trend information and where those monitoring sites had good geographic spread.",
+      "context_window": "sources were excluded. The analysis was also restricted to assessment areas with at least three monitoring sites with trend information and where those monitoring sites had good geographic spread. The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) Although direct inputs of TBT to the marine environment have been banned in the OSPAR maritime area and mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non-",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "made up of two terms: the variation associated with the estimate of the trend from the individual time series,",
+      "context_window": "allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For a regional trend assessment, the trend in each time series is summarised by the estimated change in log",
+      "context_window": "The criteria for trend assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional trend assessment, the trend in each time series is summarised by the estimated change in log concentration over the last twenty years (or shorter if the time series does not extend that far back). A",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "response: status (mean log concentration - log assessment concentration)",
+      "context_window": "Essentially the same linear mixed model as for trends is then fitted: • response: status (mean log concentration - log assessment concentration) • fixed model: intercept",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are at least three years of data over the whole time series;",
+      "context_window": "there is at least one year with data in the period 2015 to 2020; • there are at least three years of data over the whole time series; • a parametric model can be fitted to the data and used to estimate the mean concentration in the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The random effects",
+      "context_window": "random model: station + residual variation The fixed model means that a separate regional trend is estimated for each organotin. The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "allow for variation in trend between stations common to all organotins (station).",
+      "context_window": "The fixed model means that a separate regional trend is estimated for each organotin. The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EQS due to availability of new data.",
+      "context_window": "further monitoring of TBT concentrations in the marine environment is warranted. The OSPAR EQS value is based on the Swedish EQS but has recently been replaced in HELCOM with the Danish EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "comparing concentrations across regions where assessment criteria are not available for each organotin time",
+      "context_window": "Organotin profiles The profile of concentrations across organotins can sometimes be useful for examining sources, and for comparing concentrations across regions where assessment criteria are not available for each organotin time series. The estimated organotin concentration profiles for the Southern North Sea are shown in Figure e",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "meet the criteria for inclusion. Available via",
+      "context_window": "a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via ODIMS .",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends of Organotin in Sediments in the Southern North Sea",
+      "context_window": "which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment A time series of organotin concentrations in sediment is assessed for status if:",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where the residual variation is made up of the status estimation variation, the variation in the status",
+      "context_window": "• random model: residual variation Where the residual variation is made up of the status estimation variation, the variation in the status estimates from the individual time series analysis, and a term which accounts for any additional variation not explained by the other fixed and random effects.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflecting availability of new data.",
+      "context_window": "EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data. Knowledge Gaps (extended) Full evaluation of the toxicity of TBT should have been triggered by the work of Alzieu et al., (1982).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assuming that the current yearly change of –10,2% will continue and that the current mean regional status",
+      "context_window": "When looking at individual stations, EQS exceedance can be as high as 30-fold, which necessitates a follow-up over at least a decade. Assuming that the current yearly change of –10,2% will continue and that the current mean regional status for TBT (TBSN+) for the Southern North Sea is 3,6 times the EQS value, it will require 12 years until the mean value is approximately at the EQS level.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sediments in the Southern North Sea",
+      "context_window": "2022 Status and Trends of Organotin in Sediments in the Southern North Sea Common Indicator Assessment OSPAR Commission 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Agreement 2002-16 CEMP Guidelines for Monitoring Contaminants in",
+      "context_window": "Documentation Text Agreement 2002-16 CEMP Guidelines for Monitoring Contaminants in Sediments. Revised in 2018 Agreement 2016-04 CEMP Guidelines for coordinated monitoring for",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Monitoring sites available to assess organotin concentrations in sediment in the Southern North",
+      "context_window": "7 of 11 OSPAR Commission Figure c: Monitoring sites available to assess organotin concentrations in sediment in the Southern North Sea, Channel, Irish Sea and the Irish and Scottish West Coast. The purple circles are stations where there is",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator Assessment Summary Results (template",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The residual variation is",
+      "context_window": "The random effects allow for variation in trend between stations common to all organotins (station). The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2019). As most organisms are vulnerable in their early development stages, the resilience",
+      "context_window": "(Parmentier et al ., 2019). As most organisms are vulnerable in their early development stages, the resilience of several marine populations increased. There are several reasons to do a follow-up of concentrations in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "The location of the monitoring sites in the Southern North Sea, Channel, Irish Sea, and the Irish and Scottish West Coast are shown in Figure c . OSPAR Commission 2022",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are described at",
+      "context_window": "https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html Assessment Criteria are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If current rates of decrease continue",
+      "context_window": "assessment of status for TBT in sediments for the Southern North Sea shows that the EQS is not met and that estimated mean concentration relative to the EQS is approximately 3,6. If current rates of decrease continue it will take more than one decade to reach EQS levels. Results (extended)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by",
+      "context_window": "more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by Sweden and adopted by OSPAR, namely 0,8 µg kg -1",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regional (Southern North Sea) trend for each organotin is then estimated by fitting the following linear mixed",
+      "context_window": "concentration over the last twenty years (or shorter if the time series does not extend that far back). A regional (Southern North Sea) trend for each organotin is then estimated by fitting the following linear mixed model by restricted maximum likelihood: •",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a trend assessment for at least one organotin, the light blue circles are stations where there are only status",
+      "context_window": "Sea, Channel, Irish Sea and the Irish and Scottish West Coast. The purple circles are stations where there is a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends and Effects of Substances in the Marine Environment (MIME)",
+      "context_window": "Lead Authors: Koen Parmentier, Johan Näslund, Rob Fryer Supported by: ICES Marine Chemistry Working Group (MCWG), OSPAR Working Group on Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME) Citation Parmentier, K., Näslund, J. and Fryer, R.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is at least one year with data in the period 2015 to 2020;",
+      "context_window": "A time series of organotin concentrations in sediment is assessed for status if: • there is at least one year with data in the period 2015 to 2020; • there are at least three years of data over the whole time series;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These processes occur fast in a fully oxygenated water column or",
+      "context_window": ", 2012). TBT is quite sensitive to oxidation processes leading to dealkylation, rendering the substance much less toxic. These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygenated sediments, whilst TBT can persist in anoxic sediments.",
+      "context_window": "rendering the substance much less toxic. These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like estuaries and along the major shipping routes, the concentrations dropped significantly over the entire North",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Time series data available to assess",
+      "context_window": "West Coast, Irish Sea, Southern North Sea and Channel ( Table a ). Time series data available to assess temporal trends for the Southern North Sea and Irish and Scottish West Coast ( Table b",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data from monitoring sites available to assess the status of organotin concentrations in the Irish and Scottish",
+      "context_window": "The fixed model only includes an intercept since there is an assessment concentration for only one organotin and region. Data from monitoring sites available to assess the status of organotin concentrations in the Irish and Scottish West Coast, Irish Sea, Southern North Sea and Channel ( Table a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is at least one year with data in the period 2015 to 2020",
+      "context_window": "A time series of organotin concentrations in sediment is assessed for trend if: • there is at least one year with data in the period 2015 to 2020 • there are at least five years of data over the whole time series",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html",
+      "context_window": "assessment tool https://dome.ices.dk/OHAT/trDocuments/2021/help_ac_sediment_contaminants.html Assessment Criteria are described at",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Exceedance of the EQS value for TBT in sediments was noted for the major part of the Southern North Sea,",
+      "context_window": "numerous parameters, so the easiest follow-up is by trend analysis of the monitoring results combined with a risk-based choice of the stations near ports and along major shipping lanes. Exceedance of the EQS value for TBT in sediments was noted for the major part of the Southern North Sea, the Channel and the Irish Sea. It should be noted that the major TBT monitoring effort is concentrated in that",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a parametric model can be fitted to the data and used to estimate the mean concentration in the",
+      "context_window": "there are at least three years of data over the whole time series; • a parametric model can be fitted to the data and used to estimate the mean concentration in the final monitoring year (or, occasionally, if a non-parametric test of status is applied). There are no restrictions on data used in the status meta-analysis based on the classification of the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Status and Trends of Organotin in Sediments in the Southern North Sea Common Indicator Assessment OSPAR Commission 2022 1 of 11",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Especially in highly impacted areas, like",
+      "context_window": "These processes occur fast in a fully oxygenated water column or oxygenated sediments, whilst TBT can persist in anoxic sediments. Especially in highly impacted areas, like estuaries and along the major shipping routes, the concentrations dropped significantly over the entire North Sea since 2008, and the entire ecosystem got a positive stimulus because of the reduced stress due to TBT",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non-",
+      "context_window": "Knowledge Gaps (brief) Although direct inputs of TBT to the marine environment have been banned in the OSPAR maritime area and mostly in the rest of the world, general levels are such that ecological effects  cannot be excluded, non- pesticidal use of TBT is still ongoing in some countries, release from contaminated sites is ongoing and thus further monitoring of TBT concentrations in the marine environment is warranted.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "trend and status at each monitoring site was presented.",
+      "context_window": "They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by Sweden and adopted by OSPAR, namely 0,8 µg kg",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series. The estimated organotin concentration profiles for the Southern North Sea are shown in",
+      "context_window": "The profile of concentrations across organotins can sometimes be useful for examining sources, and for comparing concentrations across regions where assessment criteria are not available for each organotin time series. The estimated organotin concentration profiles for the Southern North Sea are shown in Figure e .",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments, and the grey circles are stations which were not included in the assessment as they did not",
+      "context_window": "The purple circles are stations where there is a trend assessment for at least one organotin, the light blue circles are stations where there are only status assessments, and the grey circles are stations which were not included in the assessment as they did not meet the criteria for inclusion. Available via ODIMS",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scale in a series of meta-analyses.",
+      "context_window": "Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses. A time series of organotin concentrations in sediment is assessed for trend if: •",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 9 Knowledge Gaps (brief) 10 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status assessment",
+      "context_window": "additional residual variation not explained by the other fixed and random effects. Trends of Organotin in Sediments in the Southern North Sea Status assessment A time series of organotin concentrations in sediment is assessed for status if: •",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A time series of organotin concentrations in sediment is assessed for trend if:",
+      "context_window": "The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses. A time series of organotin concentrations in sediment is assessed for trend if: • there is at least one year with data in the period 2015 to 2020",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are at least five years of data over the whole time series",
+      "context_window": "there is at least one year with data in the period 2015 to 2020 • there are at least five years of data over the whole time series • a parametric model can be fitted to the data",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html",
+      "context_window": "Assessment Criteria are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 10 Knowledge Gaps (extended) 10 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates from the individual time series analysis, and a term which accounts for any additional variation not",
+      "context_window": "random model: residual variation Where the residual variation is made up of the status estimation variation, the variation in the status estimates from the individual time series analysis, and a term which accounts for any additional variation not explained by the other fixed and random effects. The fixed model only includes an intercept since there is an",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend assessment",
+      "context_window": "are described at https://dome.ices.dk/OHAT/trDocuments/2022/help_ac_sediment_contaminants.html Trend assessment The results from the individual time series at each monitoring site were synthesised at an assessment area scale in a series of meta-analyses.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fulfilled in one assessment area: the Southern North Sea.",
+      "context_window": "is no summary measure of status to use in the mixed model. The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "estimated mean log concentration in the final monitoring year and the log assessment concentration.",
+      "context_window": "fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted: •",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For a regional status assessment, the status of each time series is summarised by the difference between the",
+      "context_window": "The criteria for status assessment were only fulfilled in one assessment area: the Southern North Sea. For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted:",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the IA 2017 compared with the QSR 2023",
+      "context_window": "ODIMS . Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, the few time series with a non-parametric assessment of status must be excluded, because there",
+      "context_window": "There are no restrictions on data used in the status meta-analysis based on the classification of the monitoring station; time series data from baseline, representative and impacted stations are all included. However, the few time series with a non-parametric assessment of status must be excluded, because there is no summary measure of status to use in the mixed model. The criteria for status assessment were only",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the",
+      "context_window": "estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented. The EQS value used for the evaluation of the environmental quality of sediment is the one proposed by",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Essentially the same linear mixed model as for trends is then fitted:",
+      "context_window": "For a regional status assessment, the status of each time series is summarised by the difference between the estimated mean log concentration in the final monitoring year and the log assessment concentration. Essentially the same linear mixed model as for trends is then fitted: • response: status (mean log concentration - log assessment concentration)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "context_window": ". Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR experts should consider if the OSPAR EQS should also be updated,",
+      "context_window": "The OSPAR EQS value is based on the Swedish EQS but has recently been replaced in HELCOM with the Danish EQS due to availability of new data. OSPAR experts should consider if the OSPAR EQS should also be updated, reflecting availability of new data. Knowledge Gaps (extended)",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "representative of general conditions or baseline stations.",
+      "context_window": "a parametric model can be fitted to the data For the synthesis at the assessment area scale, data were used only from monitoring sites considered representative of general conditions or baseline stations. Data from monitoring sites impacted by point sources were excluded.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and trend at the assessment area level.",
+      "context_window": "Differences in methodology used for the IA 2017 compared with the QSR 2023 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They provide a",
+      "context_window": "Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a more objective regional assessment than was possible in the QSR 2010, where a simple tabulation of the trend and status at each monitoring site was presented.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meta-analyses take into account both the",
+      "context_window": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and trend at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. They provide a",
+      "page_number": 7,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 90,
+      "end_sentence": 99,
+      "sentence_count": 10,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Following the total ban on tributyltin in marine applications, mean concentrations in sediment have",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "measurably reduced (with a trend of approx.",
+          "full_length": 43
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "-10% per year) in the Southern North Sea but no monitoring",
+          "full_length": 58
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "station is yet significantly below the EQS value proposed by Sweden of 0,8 µg kg",
+          "full_length": 80
+        }
+      ],
+      "total_sentences_in_section": 10
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 478,
+      "end_sentence": 487,
+      "sentence_count": 10,
+      "page_range": "9-9",
+      "sentences": [
+        {
+          "sentence_id": 478,
+          "page_number": 9,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 479,
+          "page_number": 9,
+          "content": "It is clear that the regulation of TBT has been effective in reducing the input to the Southern Nort...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 480,
+          "page_number": 9,
+          "content": "general.",
+          "full_length": 8
+        },
+        {
+          "sentence_id": 481,
+          "page_number": 9,
+          "content": "However, the general levels of TBT concentration levels are still at levels where effects on the mar...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 482,
+          "page_number": 9,
+          "content": "environment cannot be excluded.",
+          "full_length": 31
+        }
+      ],
+      "total_sentences_in_section": 10
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 488,
+      "end_sentence": 528,
+      "sentence_count": 41,
+      "page_range": "9-10",
+      "sentences": [
+        {
+          "sentence_id": 488,
+          "page_number": 9,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 489,
+          "page_number": 9,
+          "content": "Relatively soon after the start of widespread use of TBT as an antifoulant, effects were demonstrate...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 490,
+          "page_number": 9,
+          "content": "attributed to its presence.",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 491,
+          "page_number": 9,
+          "content": "The impact on molluscs occurred at very low concentrations, and the associated",
+          "full_length": 78
+        },
+        {
+          "sentence_id": 492,
+          "page_number": 9,
+          "content": "biological effects (Imposex or VDSI index) led to its use as a Biological Effects Indicator.",
+          "full_length": 92
+        }
+      ],
+      "total_sentences_in_section": 41
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 559,
+      "end_sentence": 589,
+      "sentence_count": 31,
+      "page_range": "10-11",
+      "sentences": [
+        {
+          "sentence_id": 559,
+          "page_number": 10,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 560,
+          "page_number": 10,
+          "content": "Alzieu, C., Heral, M., Thibaud, Y., Dardignac, M., and Feuillet, M. (1982).",
+          "full_length": 75
+        },
+        {
+          "sentence_id": 561,
+          "page_number": 10,
+          "content": "Influence des peintures antisalissures",
+          "full_length": 38
+        },
+        {
+          "sentence_id": 562,
+          "page_number": 10,
+          "content": "a base d’organostanniques sur la calcification de la coquille de l’huitre",
+          "full_length": 73
+        },
+        {
+          "sentence_id": 563,
+          "page_number": 10,
+          "content": "Crassostrea gigas",
+          "full_length": 17
+        }
+      ],
+      "total_sentences_in_section": 31
+    }
+  ],
+  "metadata": {
+    "total_sentences": 666,
+    "chunks_selected": 81,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 90,
+        "end_sentence": 99,
+        "sentence_count": 10
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 478,
+        "end_sentence": 487,
+        "sentence_count": 10
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 488,
+        "end_sentence": 528,
+        "sentence_count": 41
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 559,
+        "end_sentence": 589,
+        "sentence_count": 31
+      }
+    ],
+    "total_excluded_sentences": 92
+  }
+}

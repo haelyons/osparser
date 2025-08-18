@@ -1,0 +1,1481 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats to pressures in the marine environment, alongside associated",
+      "context_window": "MPAs under the Marine and Coastal Access Act in the United Kingdom. Outputs of the project included sensitivity assessments for designated MPA features, EUNIS Level 3 broad-scale habitats and OSPAR Threatened and / or Declining Habitats to pressures in the marine environment, alongside associated pressure benchmarks (Tillin et al., 2010). Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If the intensity of the pressure is also known, the combination of pressure intensity and biota",
+      "context_window": "Both resistance and resilience are combined to understand sensitivity to a given pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats. Previous OSPAR assessments to understand the status of benthic habitats in the North-East Atlantic in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem change in response to pressure could be furthered through the availability of data from",
+      "context_window": "framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem change in response to pressure could be furthered through the availability of data from unimpacted species and habitats to serve as reference when assessing sensitivity. Moreover, data where",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure.",
+      "context_window": "Tyler-Walters et al., 2018). Both resistance and resilience are combined to understand sensitivity to a given pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific resistance and resilience scores for the associated pressures were combined into a single sensitivity",
+      "context_window": "Table g ). Species- specific resistance and resilience scores for the associated pressures were combined into a single sensitivity score using the same process described for habitat sensitivity ( Table d",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Table e: Pressures from OSPAR ICG-C relevant to assessments of surface and subsurface disturbance",
+      "context_window": "However, the method of combining both species and habitat sensitivity described below was the same for both surface and subsurface sensitivity scores. Table e: Pressures from OSPAR ICG-C relevant to assessments of surface and subsurface disturbance (OSPAR, 2011). OSPAR ICG-C",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "application to future assessments.",
+      "context_window": "may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the 2009 to 2020 assessment period.",
+      "context_window": "OSPAR Commission Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment Units (",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessed pressures).",
+      "context_window": "To maximise available data coverage, MB0102 sensitivity assessments (resistance and resilience) were used for habitats that did not have MarESA assessments (e.g., not assessed, or sensitivity not available for the assessed pressures). In instances where multiple MB0102 sensitivity scores were available for the same EUNIS code, scores with the highest confidence were assigned; if both confidence assessments were equal,",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coverage, increasing the total number of species with associated sensitivity assessments (",
+      "context_window": "Assigning sensitivity to species: Species-specific resistance and resilience scores from MarESA and MB0102 were combined to maximise data coverage, increasing the total number of species with associated sensitivity assessments ( Table g ). Species-",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters",
+      "context_window": "Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters et al., 2018). Previous analyses have shown widespread disturbance in benthic habitats (OSPAR, 2017a,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity",
+      "context_window": "habitats. Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity alone. The greatest percentage of area with ‘Zero’ disturbance was observed in the South-Iberian and North-Iberian",
+      "page_number": 98,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the 2009 to 2020 assessment period (",
+      "context_window": "When disturbance was analysed within the total area of each habitat across all assessment units (where BH3 is agreed as a Common Indictor), all 20 distinct BHTs had ‘High’ and/or ‘Moderate’ disturbance throughout the 2009 to 2020 assessment period ( Figure at ). Additionally, six habitats (30% of BHTs), ranging from the",
+      "page_number": 80,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population viability of key/characterizing species but may affect feeding, respiration,",
+      "context_window": "High No significant effects on the physicochemical character of habitat and no effect on population viability of key/characterizing species but may affect feeding, respiration, and reproduction rates. Table c: Criteria used to assess resilience using the MarESA method, adapted from Tyler-Walters et al.,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physicochemical parameters are also affected e.g., removal of habitats causing a change",
+      "context_window": "None Key functional, structural, characterizing species severely decline and/or physicochemical parameters are also affected e.g., removal of habitats causing a change in habitats type. A severe decline/reduction relates to the loss of 75% of the extent, density or abundance of the selected species or habitat component e.g., loss of 75%",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining",
+      "context_window": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining Habitats assessments) A composite habitat map was developed to show the extent and distribution of habitats and their associated",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "context_window": "Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment",
+      "context_window": "Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment Units ( Figure bp",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats.",
+      "context_window": "pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats. Previous OSPAR assessments to understand the status of benthic habitats in the North-East Atlantic in response to human activity have been undertaken via the OSPAR Quality Status Report, 2010 (QSR 2010) and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "members of that community (for example through predation, or grazing). Loss/degradation of",
+      "context_window": "species Species that maintain community structure and function through interactions with other members of that community (for example through predation, or grazing). Loss/degradation of this species population would result in rapid, cascading changes in the community. Important",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whereas others are more resistant (able to withstand disturbance or stress without changing character); and",
+      "context_window": "varying levels of sensitivity to physical pressures. Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters et al., 2018).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure in the centre of the distributional range of a habitat or species (Tyler-Walters et al., 2018).",
+      "context_window": "The aforementioned sensitivity assessments were not site-specific and were based on the likely effects of a pressure in the centre of the distributional range of a habitat or species (Tyler-Walters et al., 2018). Several factors associated with the specific location of habitats and species, such as the underlying substratum, can",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats",
+      "context_window": "111 of 130 OSPAR Commission Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical disturbance is a potentially reversable change, the degree of impact it can have on marine species",
+      "context_window": "physical loss of habitats (a permanent loss of habitat through change to another substrate type). Although physical disturbance is a potentially reversable change, the degree of impact it can have on marine species and habitats depends on the biological traits of organisms, such as life history and physical structure (Collie et al., 2001; Lambert et al., 2014; van Denedren et al., 2015).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, it should be noted that increased coverage of habitat sensitivity information (from aggregations)",
+      "context_window": "The use of aggregated MarESA sensitivity scores enabled fine-scale biotope-resolution sensitivity to be mapped at all EUNIS Levels, demonstrating a clear improvement in accuracy of assessments from the IA 2017. However, it should be noted that increased coverage of habitat sensitivity information (from aggregations) resulted in sensitivity being available for broadscale EUNIS habitats (e.g., EUNIS Level 2). Habitats at Level 2",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Units in which they occurred (",
+      "context_window": "Of the 20 distinct BHTs, 14 (70% of BHTs), had ‘High’ and / or ‘Moderate’ disturbance in all Common Indicator Assessment Units in which they occurred ( Table o and",
+      "page_number": 100,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "structural/functional and characterizing species) without change to habitats relates to",
+      "context_window": "Medium Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component. High",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the 2016 to 2020 assessment period (",
+      "context_window": "When disturbance was analysed within the total area of each habitat across all assessment units (where BH3 is agreed as a Common Indictor), all 20 distinct BHTs had ‘High’ and / or ‘Moderate’ disturbance throughout the 2016 to 2020 assessment period ( Figure bi ). However, only three BHTs (Upper bathyal sediment, Offshore",
+      "page_number": 99,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Units in which they occurred.",
+      "context_window": "). Mud habitats were particularly affected as both Circalittoral and Offshore circalittoral mud had ‘High’ disturbance in all Common Indicator Assessment Units in which they occurred. Furthermore, Offshore circalittoral mud had the greatest proportion of ‘High’ disturbance across nine of the 11 Common Indicator Assessment Units in the 2009 to 2020 assessment period (",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic lower levels of disturbance were observed due to reduced surface pressure intensity and coverage",
+      "context_window": "Figure at ), in the South-Iberian Atlantic lower levels of disturbance were observed due to reduced surface pressure intensity and coverage within the habitat ( Figure q",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is anticipated that data on habitat distribution and",
+      "context_window": "At present BH3 is still being investigated for its application in Arctic Waters and the Wider Atlantic, mainly due to limited data availability within these Regions. It is anticipated that data on habitat distribution and sensitivity will be included at a later stage, to allow the analysis to address the wider spatial scale and assess variations in disturbance across OSPAR regions more accurately.",
+      "page_number": 126,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in which they occurred.",
+      "context_window": "). Mud habitats were particularly affected as both Circalittoral and Offshore circalittoral mud had ‘High’ disturbance in all Common Indicator Assessment Units in which they occurred. Furthermore, Offshore circalittoral mud had the greatest proportion of ‘High’ disturbance in eight of the 11 Common Indicator Assessment Units in the 2016 to 2020 assessment period (",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific pressures.",
+      "context_window": "Evidence used to inform MarESA assessments were representative of organisms and biotopes, including their known ranges and distributions, in response to specific pressures. Evidence was prioritised based on its relevance to assessed features; for example, evidence from the North-East Atlantic was prioritised over literature and studies from elsewhere when",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or",
+      "context_window": "3 (assessment period 2009 to 2020). Results were summarised grouping disturbance values as ‘Zero’, ‘Low’ (1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g.,",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity data",
+      "context_window": "BH4 report section ‘Knowledge Gaps’). Sensitivity data A key knowledge gap identified in this assessment included the absence of sensitivity information for certain MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species,",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to translate between habitat classifications accurately.",
+      "context_window": "In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the interoperability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale.",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characteristic species were assessed in response to defined pressures via literature review and expert",
+      "context_window": "sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert judgement. Please see Tillin and Walters (2014a), Tillin and Walters (2014b), Maher and Alexander (2016)",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "basis to return the lowest respective resistance and resilience values to assessed pressures (please see",
+      "context_window": "resilience values were undertaken independently across EUNIS tiers to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary basis to return the lowest respective resistance and resilience values to assessed pressures (please see example given in Table f",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment Units they occurred in (",
+      "context_window": "disturbance within Common Indicator Assessment Units. When analysing habitats in assessment units individually, 15 of 20 distinct BHTs (75% of BHTs) had ‘High’ and / or ‘Moderate’ disturbance in all Common Indicator Assessment Units they occurred in ( Table m ). The 15 habitats ranged from Infralittoral to Abyssal",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual fishing pressure, which likely impacted the ability of habitats to recover.",
+      "context_window": "disturbed 86% of the Greater North Sea and Celtic Seas, with 58% of these areas being highly disturbed (OSPAR, 2017a). Across the IA 2017 assessment period, 74% of assessed areas experienced ‘Consistent’ annual fishing pressure, which likely impacted the ability of habitats to recover. The IA 2017 assessment concluded that areas in the Celtic Seas and English Channel experienced the highest levels of disturbance.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "context_window": "More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improved the accuracy of outputs when",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of 25-75% of the extent, density, or abundance of the selected species or habitat",
+      "context_window": "Significant mortality of key and characterizing species with some effects on the physicochemical character of habitat. A significant decline/reduction relates to the loss of 25-75% of the extent, density, or abundance of the selected species or habitat component e.g., loss of 25-75% of the substratum. Medium",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary",
+      "context_window": "2020). Aggregation of resistance and resilience values were undertaken independently across EUNIS tiers to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary basis to return the lowest respective resistance and resilience values to assessed pressures (please see example given in",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "varying levels of sensitivity to physical pressures.",
+      "context_window": "Such variables and conditions contribute to a high habitat heterogeneity, with biological communities having varying levels of sensitivity to physical pressures. Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "density or abundance of the selected species or habitat component e.g., loss of 75%",
+      "context_window": "physicochemical parameters are also affected e.g., removal of habitats causing a change in habitats type. A severe decline/reduction relates to the loss of 75% of the extent, density or abundance of the selected species or habitat component e.g., loss of 75% substratum (where this can be sensibly applied). Low",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020",
+      "context_window": "At the time of assessment, Intertidal mudflats were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, the Channel, the Norwegian Trench, and the Kattegat. In the 2009 to 2020 assessment period, physical disturbance occurred in 70% of the total area of Intertidal mudflats across all Common Indicator Assessment Units where the feature was present (6 407,46 km",
+      "page_number": 112,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") of OSPAR Threatened and / or Declining habitats in Common Indicator",
+      "context_window": "Figure bt23: Total area (km 2 ) of OSPAR Threatened and / or Declining habitats in Common Indicator Assessment Units (note: assessment units without reported data are not included; Atlantic projection, Faroe Shetland Waters, Gulf of Biscay, and South Iberian Atlantic).",
+      "page_number": 117,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure br21: The percentage of each OSPAR Threated and / or Declining Habitat’s area (across OSPAR",
+      "context_window": "115 of 130 OSPAR Commission Figure br21: The percentage of each OSPAR Threated and / or Declining Habitat’s area (across OSPAR benthic assessment units where BH3 is agreed as a Common Indicator) under each of the following disturbance groups in the 2009 to 2020 assessment period: ‘Zero’ = disturbance category 0; ‘Low’ =",
+      "page_number": 115,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure",
+      "context_window": "understanding of the pressures they exert on marine ecosystems is required. Pressure can be defined as “the mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure is determined by the type of activity, intensity, and its distribution (Robinson et al., 2008). Previous studies",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats comprise marine organisms living within or on sediments, rock or biogenic reefs and",
+      "context_window": "Benthic habitats comprise marine organisms living within or on sediments, rock or biogenic reefs and undertaking essential ecological processes and functions to support healthy ecosystems. In addition, benthic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assigning sensitivity to species:",
+      "context_window": "resilience. Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears Assigning sensitivity to species: Species-specific resistance and resilience scores from MarESA and MB0102 were combined to maximise data coverage, increasing the total number of species with associated sensitivity assessments (",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the loss <25% of the species or habitat component.",
+      "context_window": "Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component. High No significant effects on the physicochemical character of habitat and no effect on",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss/degradation of this species population would result in loss/degradation of the",
+      "context_window": "species The species provides a distinct habitat that supports an associated community. Loss/degradation of this species population would result in loss/degradation of the associated community. Key functional",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and habitat sensitivity",
+      "context_window": "EUNIS 2007 to MSFD BHT classification for national reporting. 2. Species and habitat sensitivity , derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "understanding of the pressures they exert on marine ecosystems is required.",
+      "context_window": "relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments, understanding of the pressures they exert on marine ecosystems is required. Pressure can be defined as “the mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic disturbance.",
+      "context_window": "Across the OSPAR Maritime Area, shifts in benthic community composition have been reported where large and long-lived species have been replaced by small and fast-growing, opportunistic species following anthropogenic disturbance. Opportunistic species can benefit from the occurrence of physical disturbance and therefore, the subsequent availability of dead organisms following bottom-trawling events (Jennings et",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats GIS layer comprised data submitted by OSPAR Contracting Parties via",
+      "context_window": "There also remained areas where high-resolution habitat data were not publicly available, such as the Kattegat, due to data usage constraints and data confidentiality. In addition, the OSPAR Threatened and / or Declining Habitats GIS layer comprised data submitted by OSPAR Contracting Parties via data calls, which potentially included habitats with historic extents that may have changed during assessment periods, reducing their associated confidence.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "classifications, with accurate translations to wider classification systems are of paramount importance to",
+      "context_window": "work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered disturbance assessments in EUNIS 2007, with results presented in MSFD BHT classifications to support Article",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "studies that analysed the impacts of pressures on sensitive species and habitats when applied at different",
+      "context_window": "9, where 9 was the maximum risk of disturbance possible. The disturbance matrix was created from previous studies that analysed the impacts of pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al., 2018). In instances",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats",
+      "context_window": "). In contrast, equivalent levels of pressure in the Channel coincided with less sensitive habitats. Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity alone.",
+      "page_number": 98,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dictate their ability to tolerate or resist change (resistance) and their ability to recover (resilience) (Tillin et",
+      "context_window": "et al., 2001; Lambert et al., 2014; van Denedren et al., 2015). Varied traits of marine species and habitats can dictate their ability to tolerate or resist change (resistance) and their ability to recover (resilience) (Tillin et al., 2010; BioConsult, 2013; Eno, et al., 2013; Lambert et al., 2014; Tillin and Tyler-Walters, 2014a & 2014b; Tyler-Walters et al., 2018).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020 assessment period, physical",
+      "context_window": "At the time of assessment, Littoral chalk communities were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, and the Channel. In the 2009 to 2020 assessment period, physical disturbance occurred in 50% of the total area of Littoral chalk communities across all Common Indicator Assessment Units (41,57 km",
+      "page_number": 112,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data",
+      "context_window": "[https://www.emodnet- seabedhabitats.eu/access-data/download-data/] (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of habitats were assigned using EUNIS codes included in",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2018) indicated further",
+      "context_window": "which informed the upper limit of the pressure intensity scale (SAR >3). As SAR values of up to 98 were observed in the ICES VMS data, and van Loon et al., (2018) indicated further degradation was not evident beyond three sweeps per year, the intensity scale used allowed for differentiation in lower SAR values, where the greatest impact on benthic ecosystems was observed.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some mortality of species (can be significant where these are not keystone",
+      "context_window": "component e.g., loss of 25-75% of the substratum. Medium Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats within the OSPAR Maritime Area to surface and subsurface abrasion pressures separately.",
+      "context_window": "Step 2: Assessing Sensitivity Step 2 of the assessment involved creating a sensitivity layer that quantified the sensitivity of species and habitats within the OSPAR Maritime Area to surface and subsurface abrasion pressures separately. Habitat polygon data used in the sensitivity assessment were obtained from the analyses previously described in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "updated methods, especially for sensitivity assessments; changes to the assessment units; and use of an",
+      "context_window": "analysed due to data limitations). The current BH3 assessments used improved and updated data layers and updated methods, especially for sensitivity assessments; changes to the assessment units; and use of an overlapping assessment period, which included the IA 2017 timeframe (2009 to 2020). Subsequently, a direct",
+      "page_number": 118,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g.,",
+      "context_window": "(1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g., Intertidal mudflats and Intertidal Mytilus edulis",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in environmental conditions, and taxa can form over long periods of time (Last et al., 2019a; Last et",
+      "context_window": "). Deep-sea habitats and their component species (e.g., cold-water corals) typically experience slow rates of change in environmental conditions, and taxa can form over long periods of time (Last et al., 2019a; Last et al., 2019b; Garrard et al., 2019; Garrard et al., 2020). Slow growth rates, combined with low reproduction",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of sensitivity; the creation of pressure layers and the calculation of potential physical disturbance.",
+      "context_window": "to 2020 only. The BH3 method comprises four main components: the creation of a composite habitat map; assessments of sensitivity; the creation of pressure layers and the calculation of potential physical disturbance. Inputs are combined using a stepwise approach to calculate the total area of potential disturbance within assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity to pressures in groups of taxa with similar biological traits.",
+      "context_window": "sensitivity assessments. In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical loss of habitats (a permanent loss of habitat through change to another substrate type).",
+      "context_window": "seabed morphology (Desprez et al., 2022). Therefore, BH3 assessments primarily focus on biological communities and consider physical disturbance as potentially reversible change; BH3 does not assess the physical loss of habitats (a permanent loss of habitat through change to another substrate type). Although physical disturbance is a potentially reversable change, the degree of impact it can have on marine species",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Only species naturally found in the absence of pressures were selected for the sensitivity",
+      "context_window": "Establish and define the key components of the assessed feature, considered relevant to the assessment (e.g., traits such as life history and the ecology of the key and characterising species). Only species naturally found in the absence of pressures were selected for the sensitivity assessments ( Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work",
+      "context_window": "explored in future work. Furthermore, where improved datasets become available, data-based assessments of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work to mitigate aforementioned limitations that can affect the certainty and accuracy of indicator outputs. Geographical application",
+      "page_number": 125,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2008-06 List of Threatened and / or Declining",
+      "context_window": "Documentation Text OSPAR Agreement 2008-06 List of Threatened and / or Declining Species and Habitats OSPAR Agreement 2017-09 CEMP Guidelines - Common Indicator: BH3",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity values to both surface and subsurface abrasion pressures were assigned to species",
+      "context_window": ") and relevant sensitivity assessments were used from MarESA and MB0102. Sensitivity values to both surface and subsurface abrasion pressures were assigned to species and habitats, where available, to enable independent assessment of risk of disturbance from both pressures. However, the method of combining both species and habitat sensitivity described below was the same for",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The resistance and resilience of",
+      "context_window": "In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert judgement.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Disturbance in OSPAR Threatened and",
+      "context_window": "habitat definition and assessed sensitivity are summarised in Table k . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step 3 (assessment period 2009 to 2020).",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This would enable Contracting Parties to ensure the",
+      "context_window": "habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the interoperability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale. At the",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical disturbance, caused by pressures associated with human",
+      "context_window": "Previous analyses have shown widespread disturbance in benthic habitats (OSPAR, 2017a, McQuatters-Gollop, et al., 2022). Seafloor physical disturbance, caused by pressures associated with human activities, such as bottom-contact fishing, aggregate extraction, or offshore construction, can adversely affect benthic habitats, especially those with fragile species and organisms that take longer to recover, e.g., longer-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The ubiquitous distribution of fishing pressure and its coincidence with",
+      "context_window": "the OSPAR Maritime Area, with potential to cause physical disturbance to a broad variety of marine species and habitats (OSPAR, 2017a). The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure bs22: The percentage of each OSPAR Threated and / or Declining Habitat’s area (within OSPAR",
+      "context_window": "and 9. Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears Figure bs22: The percentage of each OSPAR Threated and / or Declining Habitat’s area (within OSPAR benthic assessment units where BH3 is agreed as a Common Indicator) under each of the following disturbance groups in the 2009 to 2020 assessment period: ‘Zero’ = disturbance category 0; ‘Low’ =",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, to further future assessments,",
+      "context_window": "disturbance assessments in EUNIS 2007, with results presented in MSFD BHT classifications to support Article 8 reporting of the EU Marine Strategy Framework Directive (MSFD). However, to further future assessments, additional work is required to better facilitate successful translations between commonly used habitat classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (see",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of underlying EUNIS habitat data and / or sensitivity information.",
+      "context_window": "As observed in the 2009 to 2020 assessment, disturbance could not be assessed in 1,8% of the total area of Common Indicator Assessment Units where VMS data indicated pressure had occurred, due to an absence of underlying EUNIS habitat data and / or sensitivity information. Almost half (49,9%) of the total area of Common Indicator Assessment Units did not contain VMS data (due to data gaps or habitats not being",
+      "page_number": 84,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where BH3 is a Common or Candidate Indicator.",
+      "context_window": "OSPAR Commission Figure af: EMODnet Bathymetry (EMODnet Bathymetry Consortium, 2020) across OSPAR assessment units where BH3 is a Common or Candidate Indicator. Seabed habitat disturbance It should be noted that disturbance within the boundaries of MPAs in the United Kingdom was often higher",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor",
+      "context_window": "and habitats (OSPAR, 2017a). The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity",
+      "context_window": "In addition, MarESA sensitivity assessments underwent quality assurance checks by the Marine Life Information Network (MarLIN) Editor and were peer reviewed by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity information was only used in instances where species or habitat records did not have completed MarESA sensitivity assessments.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent",
+      "context_window": "and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how pressure impacts could be best represented across an assessment period.",
+      "context_window": "Future work investigating the response of benthic habitats to consistent or variable abrasion pressure would help inform how pressure impacts could be best represented across an assessment period. Disturbance results Knowledge gaps remain in the current understanding of biological responses to adverse effects caused by",
+      "page_number": 125,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationships and mitigating anthropogenic impacts.",
+      "context_window": "The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments, understanding of the pressures they exert on marine ecosystems is required.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020 assessment period, physical disturbance",
+      "context_window": "reefs were reported in the Northern and Southern Celtic Sea, the North-Iberian Atlantic and the Gulf of Cadiz. In the 2009 to 2020 assessment period, physical disturbance occurred in 14% of the total area of Lophelia pertusa",
+      "page_number": 114,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the two pressures separately, when assessing receptor pressure-response relationships.",
+      "context_window": "Therefore, although subsurface abrasion is a subcompact of surface abrasion, it is important to consider sensitivity associated with the two pressures separately, when assessing receptor pressure-response relationships. To further understand the effect that these two pressures have on parts of the ecosystem, information quantifying",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020",
+      "context_window": "At the time of assessment, Sea-pen and burrowing megafauna communities were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, and the Gulf of Cadiz. In the 2009 to 2020 assessment period, physical disturbance occurred in 98% of the total area of Sea-pen and burrowing megafauna communities across all Common Indicator Assessment Units where the feature was present (12",
+      "page_number": 113,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "/ or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step",
+      "context_window": "Table k . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step 3 (assessment period 2009 to 2020). Results were summarised grouping disturbance values as ‘Zero’, ‘Low’",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Combine resistance and resilience to derive a BH3 sensitivity score to a defined pressure via the",
+      "context_window": "Full recovery within 2 years 3. Combine resistance and resilience to derive a BH3 sensitivity score to a defined pressure via the BH3 sensitivity matrix. The BH3-specific sensitivity matrix was derived from the IA 2017, presenting combined resistance and resilience scores as a single sensitivity value (ranging from 1 to 5, with 5",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity assessments.",
+      "context_window": "by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity information was only used in instances where species or habitat records did not have completed MarESA sensitivity assessments. In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the inclusion of regional VMS pressure-response assessments (Regions II and IV).",
+      "context_window": "communities (OSPAR, 2018). These additional sources showed potential to broaden the evidence base with the inclusion of regional VMS pressure-response assessments (Regions II and IV). However, alignment of these additional assessments with the BH3 method was not possible within the QSR reporting period and will",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect their sensitivity to specific pressures (Tyler-Walters et al.",
+      "context_window": "Several factors associated with the specific location of habitats and species, such as the underlying substratum, can affect their sensitivity to specific pressures (Tyler-Walters et al. , 2018). Therefore, additional sources of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Areas considered to have ‘low’ (1-2) or ‘moderate’ (3) sensitivity were not represented",
+      "context_window": "OSPAR, 2017). Groups were chosen to summarise the pressure and sensitivity elements of the physical disturbance values. Areas considered to have ‘low’ (1-2) or ‘moderate’ (3) sensitivity were not represented in the ‘High’ disturbance group. Pressure values of 3 and greater than 3 in higher sensitivity areas (4 and 5",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Significant mortality of key and characterizing species with some effects on the",
+      "context_window": "substratum (where this can be sensibly applied). Low Significant mortality of key and characterizing species with some effects on the physicochemical character of habitat. A significant decline/reduction relates to the loss of 25-75% of the extent, density, or abundance of the selected species or habitat",
+      "page_number": 11,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If the intensity of the pressure is also known, the combination of pressure intensity and biota",
+      "context_window": "Both resistance and resilience are combined to understand sensitivity to a given pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats. Previous OSPAR assessments to understand the status of benthic habitats in the North-East Atlantic in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure.",
+      "context_window": "Tyler-Walters et al., 2018). Both resistance and resilience are combined to understand sensitivity to a given pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "application to future assessments.",
+      "context_window": "may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessed pressures).",
+      "context_window": "To maximise available data coverage, MB0102 sensitivity assessments (resistance and resilience) were used for habitats that did not have MarESA assessments (e.g., not assessed, or sensitivity not available for the assessed pressures). In instances where multiple MB0102 sensitivity scores were available for the same EUNIS code, scores with the highest confidence were assigned; if both confidence assessments were equal,",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters",
+      "context_window": "Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters et al., 2018). Previous analyses have shown widespread disturbance in benthic habitats (OSPAR, 2017a,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the 2009 to 2020 assessment period (",
+      "context_window": "When disturbance was analysed within the total area of each habitat across all assessment units (where BH3 is agreed as a Common Indictor), all 20 distinct BHTs had ‘High’ and/or ‘Moderate’ disturbance throughout the 2009 to 2020 assessment period ( Figure at ). Additionally, six habitats (30% of BHTs), ranging from the",
+      "page_number": 80,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physicochemical parameters are also affected e.g., removal of habitats causing a change",
+      "context_window": "None Key functional, structural, characterizing species severely decline and/or physicochemical parameters are also affected e.g., removal of habitats causing a change in habitats type. A severe decline/reduction relates to the loss of 75% of the extent, density or abundance of the selected species or habitat component e.g., loss of 75%",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "context_window": "Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats.",
+      "context_window": "pressure. If the intensity of the pressure is also known, the combination of pressure intensity and biota sensitivity can be used to assess the potential degree of physical disturbance to marine species and habitats. Previous OSPAR assessments to understand the status of benthic habitats in the North-East Atlantic in response to human activity have been undertaken via the OSPAR Quality Status Report, 2010 (QSR 2010) and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whereas others are more resistant (able to withstand disturbance or stress without changing character); and",
+      "context_window": "varying levels of sensitivity to physical pressures. Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and resilient (able to recover from disturbance or stress) to physical pressure (e.g., mobile sands) (Tyler-Walters et al., 2018).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats",
+      "context_window": "111 of 130 OSPAR Commission Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, it should be noted that increased coverage of habitat sensitivity information (from aggregations)",
+      "context_window": "The use of aggregated MarESA sensitivity scores enabled fine-scale biotope-resolution sensitivity to be mapped at all EUNIS Levels, demonstrating a clear improvement in accuracy of assessments from the IA 2017. However, it should be noted that increased coverage of habitat sensitivity information (from aggregations) resulted in sensitivity being available for broadscale EUNIS habitats (e.g., EUNIS Level 2). Habitats at Level 2",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "structural/functional and characterizing species) without change to habitats relates to",
+      "context_window": "Medium Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component. High",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Units in which they occurred.",
+      "context_window": "). Mud habitats were particularly affected as both Circalittoral and Offshore circalittoral mud had ‘High’ disturbance in all Common Indicator Assessment Units in which they occurred. Furthermore, Offshore circalittoral mud had the greatest proportion of ‘High’ disturbance across nine of the 11 Common Indicator Assessment Units in the 2009 to 2020 assessment period (",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is anticipated that data on habitat distribution and",
+      "context_window": "At present BH3 is still being investigated for its application in Arctic Waters and the Wider Atlantic, mainly due to limited data availability within these Regions. It is anticipated that data on habitat distribution and sensitivity will be included at a later stage, to allow the analysis to address the wider spatial scale and assess variations in disturbance across OSPAR regions more accurately.",
+      "page_number": 126,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific pressures.",
+      "context_window": "Evidence used to inform MarESA assessments were representative of organisms and biotopes, including their known ranges and distributions, in response to specific pressures. Evidence was prioritised based on its relevance to assessed features; for example, evidence from the North-East Atlantic was prioritised over literature and studies from elsewhere when",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity data",
+      "context_window": "BH4 report section ‘Knowledge Gaps’). Sensitivity data A key knowledge gap identified in this assessment included the absence of sensitivity information for certain MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species,",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characteristic species were assessed in response to defined pressures via literature review and expert",
+      "context_window": "sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert judgement. Please see Tillin and Walters (2014a), Tillin and Walters (2014b), Maher and Alexander (2016)",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment Units they occurred in (",
+      "context_window": "disturbance within Common Indicator Assessment Units. When analysing habitats in assessment units individually, 15 of 20 distinct BHTs (75% of BHTs) had ‘High’ and / or ‘Moderate’ disturbance in all Common Indicator Assessment Units they occurred in ( Table m ). The 15 habitats ranged from Infralittoral to Abyssal",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "context_window": "More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improved the accuracy of outputs when",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary",
+      "context_window": "2020). Aggregation of resistance and resilience values were undertaken independently across EUNIS tiers to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary basis to return the lowest respective resistance and resilience values to assessed pressures (please see example given in",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "density or abundance of the selected species or habitat component e.g., loss of 75%",
+      "context_window": "physicochemical parameters are also affected e.g., removal of habitats causing a change in habitats type. A severe decline/reduction relates to the loss of 75% of the extent, density or abundance of the selected species or habitat component e.g., loss of 75% substratum (where this can be sensibly applied). Low",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") of OSPAR Threatened and / or Declining habitats in Common Indicator",
+      "context_window": "Figure bt23: Total area (km 2 ) of OSPAR Threatened and / or Declining habitats in Common Indicator Assessment Units (note: assessment units without reported data are not included; Atlantic projection, Faroe Shetland Waters, Gulf of Biscay, and South Iberian Atlantic).",
+      "page_number": 117,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure",
+      "context_window": "understanding of the pressures they exert on marine ecosystems is required. Pressure can be defined as “the mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure is determined by the type of activity, intensity, and its distribution (Robinson et al., 2008). Previous studies",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assigning sensitivity to species:",
+      "context_window": "resilience. Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears Assigning sensitivity to species: Species-specific resistance and resilience scores from MarESA and MB0102 were combined to maximise data coverage, increasing the total number of species with associated sensitivity assessments (",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss/degradation of this species population would result in loss/degradation of the",
+      "context_window": "species The species provides a distinct habitat that supports an associated community. Loss/degradation of this species population would result in loss/degradation of the associated community. Key functional",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "understanding of the pressures they exert on marine ecosystems is required.",
+      "context_window": "relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments, understanding of the pressures they exert on marine ecosystems is required. Pressure can be defined as “the mechanism through which an activity has an effect on any part of the ecosystem”, the nature of the pressure",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats GIS layer comprised data submitted by OSPAR Contracting Parties via",
+      "context_window": "There also remained areas where high-resolution habitat data were not publicly available, such as the Kattegat, due to data usage constraints and data confidentiality. In addition, the OSPAR Threatened and / or Declining Habitats GIS layer comprised data submitted by OSPAR Contracting Parties via data calls, which potentially included habitats with historic extents that may have changed during assessment periods, reducing their associated confidence.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "studies that analysed the impacts of pressures on sensitive species and habitats when applied at different",
+      "context_window": "9, where 9 was the maximum risk of disturbance possible. The disturbance matrix was created from previous studies that analysed the impacts of pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al., 2018). In instances",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dictate their ability to tolerate or resist change (resistance) and their ability to recover (resilience) (Tillin et",
+      "context_window": "et al., 2001; Lambert et al., 2014; van Denedren et al., 2015). Varied traits of marine species and habitats can dictate their ability to tolerate or resist change (resistance) and their ability to recover (resilience) (Tillin et al., 2010; BioConsult, 2013; Eno, et al., 2013; Lambert et al., 2014; Tillin and Tyler-Walters, 2014a & 2014b; Tyler-Walters et al., 2018).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data",
+      "context_window": "[https://www.emodnet- seabedhabitats.eu/access-data/download-data/] (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of habitats were assigned using EUNIS codes included in",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some mortality of species (can be significant where these are not keystone",
+      "context_window": "component e.g., loss of 25-75% of the substratum. Medium Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "updated methods, especially for sensitivity assessments; changes to the assessment units; and use of an",
+      "context_window": "analysed due to data limitations). The current BH3 assessments used improved and updated data layers and updated methods, especially for sensitivity assessments; changes to the assessment units; and use of an overlapping assessment period, which included the IA 2017 timeframe (2009 to 2020). Subsequently, a direct",
+      "page_number": 118,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in environmental conditions, and taxa can form over long periods of time (Last et al., 2019a; Last et",
+      "context_window": "). Deep-sea habitats and their component species (e.g., cold-water corals) typically experience slow rates of change in environmental conditions, and taxa can form over long periods of time (Last et al., 2019a; Last et al., 2019b; Garrard et al., 2019; Garrard et al., 2020). Slow growth rates, combined with low reproduction",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity to pressures in groups of taxa with similar biological traits.",
+      "context_window": "sensitivity assessments. In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Only species naturally found in the absence of pressures were selected for the sensitivity",
+      "context_window": "Establish and define the key components of the assessed feature, considered relevant to the assessment (e.g., traits such as life history and the ecology of the key and characterising species). Only species naturally found in the absence of pressures were selected for the sensitivity assessments ( Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2008-06 List of Threatened and / or Declining",
+      "context_window": "Documentation Text OSPAR Agreement 2008-06 List of Threatened and / or Declining Species and Habitats OSPAR Agreement 2017-09 CEMP Guidelines - Common Indicator: BH3",
+      "page_number": 130,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The resistance and resilience of",
+      "context_window": "In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits. The resistance and resilience of characteristic species were assessed in response to defined pressures via literature review and expert judgement.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This would enable Contracting Parties to ensure the",
+      "context_window": "habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the interoperability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale. At the",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 131,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Figure bs22: The percentage of each OSPAR Threated and / or Declining Habitat’s area (within OSPAR",
+      "context_window": "and 9. Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears Figure bs22: The percentage of each OSPAR Threated and / or Declining Habitat’s area (within OSPAR benthic assessment units where BH3 is agreed as a Common Indicator) under each of the following disturbance groups in the 2009 to 2020 assessment period: ‘Zero’ = disturbance category 0; ‘Low’ =",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of underlying EUNIS habitat data and / or sensitivity information.",
+      "context_window": "As observed in the 2009 to 2020 assessment, disturbance could not be assessed in 1,8% of the total area of Common Indicator Assessment Units where VMS data indicated pressure had occurred, due to an absence of underlying EUNIS habitat data and / or sensitivity information. Almost half (49,9%) of the total area of Common Indicator Assessment Units did not contain VMS data (due to data gaps or habitats not being",
+      "page_number": 84,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor",
+      "context_window": "and habitats (OSPAR, 2017a). The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent",
+      "context_window": "and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationships and mitigating anthropogenic impacts.",
+      "context_window": "The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts. To analyse the effects human activities, such as bottom-contact fishing, can have in marine environments, understanding of the pressures they exert on marine ecosystems is required.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the two pressures separately, when assessing receptor pressure-response relationships.",
+      "context_window": "Therefore, although subsurface abrasion is a subcompact of surface abrasion, it is important to consider sensitivity associated with the two pressures separately, when assessing receptor pressure-response relationships. To further understand the effect that these two pressures have on parts of the ecosystem, information quantifying",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "/ or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step",
+      "context_window": "Table k . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step 3 (assessment period 2009 to 2020). Results were summarised grouping disturbance values as ‘Zero’, ‘Low’",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity assessments.",
+      "context_window": "by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity information was only used in instances where species or habitat records did not have completed MarESA sensitivity assessments. In MB0102, species that characterised sublittoral rock and sediment habitats were assessed for their sensitivity to pressures in groups of taxa with similar biological traits.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect their sensitivity to specific pressures (Tyler-Walters et al.",
+      "context_window": "Several factors associated with the specific location of habitats and species, such as the underlying substratum, can affect their sensitivity to specific pressures (Tyler-Walters et al. , 2018). Therefore, additional sources of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Significant mortality of key and characterizing species with some effects on the",
+      "context_window": "substratum (where this can be sensibly applied). Low Significant mortality of key and characterizing species with some effects on the physicochemical character of habitat. A significant decline/reduction relates to the loss of 25-75% of the extent, density, or abundance of the selected species or habitat",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Areas considered to have ‘low’ (1-2) or ‘moderate’ (3) sensitivity were not represented",
+      "context_window": "OSPAR, 2017). Groups were chosen to summarise the pressure and sensitivity elements of the physical disturbance values. Areas considered to have ‘low’ (1-2) or ‘moderate’ (3) sensitivity were not represented in the ‘High’ disturbance group. Pressure values of 3 and greater than 3 in higher sensitivity areas (4 and 5",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the inclusion of regional VMS pressure-response assessments (Regions II and IV).",
+      "context_window": "communities (OSPAR, 2018). These additional sources showed potential to broaden the evidence base with the inclusion of regional VMS pressure-response assessments (Regions II and IV). However, alignment of these additional assessments with the BH3 method was not possible within the QSR reporting period and will",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Combine resistance and resilience to derive a BH3 sensitivity score to a defined pressure via the",
+      "context_window": "Full recovery within 2 years 3. Combine resistance and resilience to derive a BH3 sensitivity score to a defined pressure via the BH3 sensitivity matrix. The BH3-specific sensitivity matrix was derived from the IA 2017, presenting combined resistance and resilience scores as a single sensitivity value (ranging from 1 to 5, with 5",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020",
+      "context_window": "At the time of assessment, Sea-pen and burrowing megafauna communities were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, and the Gulf of Cadiz. In the 2009 to 2020 assessment period, physical disturbance occurred in 98% of the total area of Sea-pen and burrowing megafauna communities across all Common Indicator Assessment Units where the feature was present (12",
+      "page_number": 113,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020 assessment period, physical disturbance",
+      "context_window": "reefs were reported in the Northern and Southern Celtic Sea, the North-Iberian Atlantic and the Gulf of Cadiz. In the 2009 to 2020 assessment period, physical disturbance occurred in 14% of the total area of Lophelia pertusa",
+      "page_number": 114,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "how pressure impacts could be best represented across an assessment period.",
+      "context_window": "Future work investigating the response of benthic habitats to consistent or variable abrasion pressure would help inform how pressure impacts could be best represented across an assessment period. Disturbance results Knowledge gaps remain in the current understanding of biological responses to adverse effects caused by",
+      "page_number": 125,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity",
+      "context_window": "In addition, MarESA sensitivity assessments underwent quality assurance checks by the Marine Life Information Network (MarLIN) Editor and were peer reviewed by one or more independent expert(s) (Tyler-Walters, et al., 2018). Therefore, MB0102 sensitivity information was only used in instances where species or habitat records did not have completed MarESA sensitivity assessments.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where BH3 is a Common or Candidate Indicator.",
+      "context_window": "OSPAR Commission Figure af: EMODnet Bathymetry (EMODnet Bathymetry Consortium, 2020) across OSPAR assessment units where BH3 is a Common or Candidate Indicator. Seabed habitat disturbance It should be noted that disturbance within the boundaries of MPAs in the United Kingdom was often higher",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, to further future assessments,",
+      "context_window": "disturbance assessments in EUNIS 2007, with results presented in MSFD BHT classifications to support Article 8 reporting of the EU Marine Strategy Framework Directive (MSFD). However, to further future assessments, additional work is required to better facilitate successful translations between commonly used habitat classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (see",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The ubiquitous distribution of fishing pressure and its coincidence with",
+      "context_window": "the OSPAR Maritime Area, with potential to cause physical disturbance to a broad variety of marine species and habitats (OSPAR, 2017a). The ubiquitous distribution of fishing pressure and its coincidence with sensitive marine ecosystems highlight the imperative for improving our understanding of pressure-receptor relationships and mitigating anthropogenic impacts.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical disturbance, caused by pressures associated with human",
+      "context_window": "Previous analyses have shown widespread disturbance in benthic habitats (OSPAR, 2017a, McQuatters-Gollop, et al., 2022). Seafloor physical disturbance, caused by pressures associated with human activities, such as bottom-contact fishing, aggregate extraction, or offshore construction, can adversely affect benthic habitats, especially those with fragile species and organisms that take longer to recover, e.g., longer-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Disturbance in OSPAR Threatened and",
+      "context_window": "habitat definition and assessed sensitivity are summarised in Table k . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated fishing pressure spatial layers, developed in Step 3 (assessment period 2009 to 2020).",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity values to both surface and subsurface abrasion pressures were assigned to species",
+      "context_window": ") and relevant sensitivity assessments were used from MarESA and MB0102. Sensitivity values to both surface and subsurface abrasion pressures were assigned to species and habitats, where available, to enable independent assessment of risk of disturbance from both pressures. However, the method of combining both species and habitat sensitivity described below was the same for",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work",
+      "context_window": "explored in future work. Furthermore, where improved datasets become available, data-based assessments of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work to mitigate aforementioned limitations that can affect the certainty and accuracy of indicator outputs. Geographical application",
+      "page_number": 125,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical loss of habitats (a permanent loss of habitat through change to another substrate type).",
+      "context_window": "seabed morphology (Desprez et al., 2022). Therefore, BH3 assessments primarily focus on biological communities and consider physical disturbance as potentially reversible change; BH3 does not assess the physical loss of habitats (a permanent loss of habitat through change to another substrate type). Although physical disturbance is a potentially reversable change, the degree of impact it can have on marine species",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of sensitivity; the creation of pressure layers and the calculation of potential physical disturbance.",
+      "context_window": "to 2020 only. The BH3 method comprises four main components: the creation of a composite habitat map; assessments of sensitivity; the creation of pressure layers and the calculation of potential physical disturbance. Inputs are combined using a stepwise approach to calculate the total area of potential disturbance within assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g.,",
+      "context_window": "(1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g., Intertidal mudflats and Intertidal Mytilus edulis",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats within the OSPAR Maritime Area to surface and subsurface abrasion pressures separately.",
+      "context_window": "Step 2: Assessing Sensitivity Step 2 of the assessment involved creating a sensitivity layer that quantified the sensitivity of species and habitats within the OSPAR Maritime Area to surface and subsurface abrasion pressures separately. Habitat polygon data used in the sensitivity assessment were obtained from the analyses previously described in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2018) indicated further",
+      "context_window": "which informed the upper limit of the pressure intensity scale (SAR >3). As SAR values of up to 98 were observed in the ICES VMS data, and van Loon et al., (2018) indicated further degradation was not evident beyond three sweeps per year, the intensity scale used allowed for differentiation in lower SAR values, where the greatest impact on benthic ecosystems was observed.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020 assessment period, physical",
+      "context_window": "At the time of assessment, Littoral chalk communities were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, and the Channel. In the 2009 to 2020 assessment period, physical disturbance occurred in 50% of the total area of Littoral chalk communities across all Common Indicator Assessment Units (41,57 km",
+      "page_number": 112,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats",
+      "context_window": "). In contrast, equivalent levels of pressure in the Channel coincided with less sensitive habitats. Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity alone.",
+      "page_number": 98,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "classifications, with accurate translations to wider classification systems are of paramount importance to",
+      "context_window": "work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered disturbance assessments in EUNIS 2007, with results presented in MSFD BHT classifications to support Article",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic disturbance.",
+      "context_window": "Across the OSPAR Maritime Area, shifts in benthic community composition have been reported where large and long-lived species have been replaced by small and fast-growing, opportunistic species following anthropogenic disturbance. Opportunistic species can benefit from the occurrence of physical disturbance and therefore, the subsequent availability of dead organisms following bottom-trawling events (Jennings et",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and habitat sensitivity",
+      "context_window": "EUNIS 2007 to MSFD BHT classification for national reporting. 2. Species and habitat sensitivity , derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the loss <25% of the species or habitat component.",
+      "context_window": "Some mortality of species (can be significant where these are not keystone structural/functional and characterizing species) without change to habitats relates to the loss <25% of the species or habitat component. High No significant effects on the physicochemical character of habitat and no effect on",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats comprise marine organisms living within or on sediments, rock or biogenic reefs and",
+      "context_window": "Benthic habitats comprise marine organisms living within or on sediments, rock or biogenic reefs and undertaking essential ecological processes and functions to support healthy ecosystems. In addition, benthic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure br21: The percentage of each OSPAR Threated and / or Declining Habitat’s area (across OSPAR",
+      "context_window": "115 of 130 OSPAR Commission Figure br21: The percentage of each OSPAR Threated and / or Declining Habitat’s area (across OSPAR benthic assessment units where BH3 is agreed as a Common Indicator) under each of the following disturbance groups in the 2009 to 2020 assessment period: ‘Zero’ = disturbance category 0; ‘Low’ =",
+      "page_number": 115,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the 2009 to 2020",
+      "context_window": "At the time of assessment, Intertidal mudflats were reported in the Central and Southern North Sea, the Northern and Southern Celtic Sea, the Channel, the Norwegian Trench, and the Kattegat. In the 2009 to 2020 assessment period, physical disturbance occurred in 70% of the total area of Intertidal mudflats across all Common Indicator Assessment Units where the feature was present (6 407,46 km",
+      "page_number": 112,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "varying levels of sensitivity to physical pressures.",
+      "context_window": "Such variables and conditions contribute to a high habitat heterogeneity, with biological communities having varying levels of sensitivity to physical pressures. Some habitats are very sensitive (e.g., fragile coral gardens), whereas others are more resistant (able to withstand disturbance or stress without changing character); and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of 25-75% of the extent, density, or abundance of the selected species or habitat",
+      "context_window": "Significant mortality of key and characterizing species with some effects on the physicochemical character of habitat. A significant decline/reduction relates to the loss of 25-75% of the extent, density, or abundance of the selected species or habitat component e.g., loss of 25-75% of the substratum. Medium",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual fishing pressure, which likely impacted the ability of habitats to recover.",
+      "context_window": "disturbed 86% of the Greater North Sea and Celtic Seas, with 58% of these areas being highly disturbed (OSPAR, 2017a). Across the IA 2017 assessment period, 74% of assessed areas experienced ‘Consistent’ annual fishing pressure, which likely impacted the ability of habitats to recover. The IA 2017 assessment concluded that areas in the Celtic Seas and English Channel experienced the highest levels of disturbance.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "basis to return the lowest respective resistance and resilience values to assessed pressures (please see",
+      "context_window": "resilience values were undertaken independently across EUNIS tiers to enable child biotope resistance and resilience values to be assigned to parent biotopes, on a precautionary basis to return the lowest respective resistance and resilience values to assessed pressures (please see example given in Table f",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to translate between habitat classifications accurately.",
+      "context_window": "In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the interoperability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale.",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or",
+      "context_window": "3 (assessment period 2009 to 2020). Results were summarised grouping disturbance values as ‘Zero’, ‘Low’ (1-4), ‘Moderate’ (5-7), and ‘High’ (8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. In some instances, reported OSPAR Threatened and / or Declining Habitats spatially overlapped (e.g.,",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in which they occurred.",
+      "context_window": "). Mud habitats were particularly affected as both Circalittoral and Offshore circalittoral mud had ‘High’ disturbance in all Common Indicator Assessment Units in which they occurred. Furthermore, Offshore circalittoral mud had the greatest proportion of ‘High’ disturbance in eight of the 11 Common Indicator Assessment Units in the 2016 to 2020 assessment period (",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic lower levels of disturbance were observed due to reduced surface pressure intensity and coverage",
+      "context_window": "Figure at ), in the South-Iberian Atlantic lower levels of disturbance were observed due to reduced surface pressure intensity and coverage within the habitat ( Figure q",
+      "page_number": 81,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the 2016 to 2020 assessment period (",
+      "context_window": "When disturbance was analysed within the total area of each habitat across all assessment units (where BH3 is agreed as a Common Indictor), all 20 distinct BHTs had ‘High’ and / or ‘Moderate’ disturbance throughout the 2016 to 2020 assessment period ( Figure bi ). However, only three BHTs (Upper bathyal sediment, Offshore",
+      "page_number": 99,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Units in which they occurred (",
+      "context_window": "Of the 20 distinct BHTs, 14 (70% of BHTs), had ‘High’ and / or ‘Moderate’ disturbance in all Common Indicator Assessment Units in which they occurred ( Table o and",
+      "page_number": 100,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical disturbance is a potentially reversable change, the degree of impact it can have on marine species",
+      "context_window": "physical loss of habitats (a permanent loss of habitat through change to another substrate type). Although physical disturbance is a potentially reversable change, the degree of impact it can have on marine species and habitats depends on the biological traits of organisms, such as life history and physical structure (Collie et al., 2001; Lambert et al., 2014; van Denedren et al., 2015).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure in the centre of the distributional range of a habitat or species (Tyler-Walters et al., 2018).",
+      "context_window": "The aforementioned sensitivity assessments were not site-specific and were based on the likely effects of a pressure in the centre of the distributional range of a habitat or species (Tyler-Walters et al., 2018). Several factors associated with the specific location of habitats and species, such as the underlying substratum, can",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "members of that community (for example through predation, or grazing). Loss/degradation of",
+      "context_window": "species Species that maintain community structure and function through interactions with other members of that community (for example through predation, or grazing). Loss/degradation of this species population would result in rapid, cascading changes in the community. Important",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment",
+      "context_window": "Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment Units ( Figure bp",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining",
+      "context_window": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining Habitats assessments) A composite habitat map was developed to show the extent and distribution of habitats and their associated",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population viability of key/characterizing species but may affect feeding, respiration,",
+      "context_window": "High No significant effects on the physicochemical character of habitat and no effect on population viability of key/characterizing species but may affect feeding, respiration, and reproduction rates. Table c: Criteria used to assess resilience using the MarESA method, adapted from Tyler-Walters et al.,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity",
+      "context_window": "habitats. Therefore, as observed in the 2009 to 2020 assessment period, pressure occurring over habitats with sensitivities of 4 or 5 was a greater contributor to higher levels of disturbance, than pressure intensity alone. The greatest percentage of area with ‘Zero’ disturbance was observed in the South-Iberian and North-Iberian",
+      "page_number": 98,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coverage, increasing the total number of species with associated sensitivity assessments (",
+      "context_window": "Assigning sensitivity to species: Species-specific resistance and resilience scores from MarESA and MB0102 were combined to maximise data coverage, increasing the total number of species with associated sensitivity assessments ( Table g ). Species-",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the 2009 to 2020 assessment period.",
+      "context_window": "OSPAR Commission Figure bq: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats in the 2009 to 2020 assessment period. OSPAR Threated and / or Declining Habitats were reported in nine of the Common Indicator Assessment Units (",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table e: Pressures from OSPAR ICG-C relevant to assessments of surface and subsurface disturbance",
+      "context_window": "However, the method of combining both species and habitat sensitivity described below was the same for both surface and subsurface sensitivity scores. Table e: Pressures from OSPAR ICG-C relevant to assessments of surface and subsurface disturbance (OSPAR, 2011). OSPAR ICG-C",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific resistance and resilience scores for the associated pressures were combined into a single sensitivity",
+      "context_window": "Table g ). Species- specific resistance and resilience scores for the associated pressures were combined into a single sensitivity score using the same process described for habitat sensitivity ( Table d",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem change in response to pressure could be furthered through the availability of data from",
+      "context_window": "framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem change in response to pressure could be furthered through the availability of data from unimpacted species and habitats to serve as reference when assessing sensitivity. Moreover, data where",
+      "page_number": 124,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats to pressures in the marine environment, alongside associated",
+      "context_window": "MPAs under the Marine and Coastal Access Act in the United Kingdom. Outputs of the project included sensitivity assessments for designated MPA features, EUNIS Level 3 broad-scale habitats and OSPAR Threatened and / or Declining Habitats to pressures in the marine environment, alongside associated pressure benchmarks (Tillin et al., 2010). Extent of Physical Disturbance to Benthic Habitats: Fisheries with mobile bottom-contacting gears",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 130,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 91,
+      "end_sentence": 96,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "A risk assessment showed seafloor disturbance caused by fishing occurred in all broad habitat types,...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "the assessed area in 2016-2020, and 53% during 2009-2020.",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "‘High’ disturbance was greatest in Offshore",
+          "full_length": 43
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 3,
+          "content": "circalittoral mud, alongside Sea-pen and burrowing megafauna communities, whilst disturbance was",
+          "full_length": 96
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 4076,
+      "end_sentence": 4095,
+      "sentence_count": 20,
+      "page_range": "120-121",
+      "sentences": [
+        {
+          "sentence_id": 4076,
+          "page_number": 120,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4077,
+          "page_number": 120,
+          "content": "This component of the BH3 QSR 2023 assessment evaluated benthic habitat disturbance in the North-Eas...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 4078,
+          "page_number": 120,
+          "content": "Atlantic associated with bottom-contact fishing over two timeframes (QSR:2009 to 2020; MSFD:2016 to",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 4079,
+          "page_number": 120,
+          "content": "2020).",
+          "full_length": 6
+        },
+        {
+          "sentence_id": 4080,
+          "page_number": 121,
+          "content": "OSPAR 2023",
+          "full_length": 10
+        }
+      ],
+      "total_sentences_in_section": 20
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 4096,
+      "end_sentence": 4211,
+      "sentence_count": 116,
+      "page_range": "121-123",
+      "sentences": [
+        {
+          "sentence_id": 4096,
+          "page_number": 121,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 4097,
+          "page_number": 121,
+          "content": "The BH3 QSR 2023 assessment evaluated physical disturbance to benthic habitats in the North-East Atl...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 4098,
+          "page_number": 121,
+          "content": "from bottom-contact fishing and commercial aggregate extraction; this component of the assessment is...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 4099,
+          "page_number": 121,
+          "content": "fishing only.",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 4100,
+          "page_number": 121,
+          "content": "Analyses were conducted over two timeframes (where data were available), facilitating decadal",
+          "full_length": 93
+        }
+      ],
+      "total_sentences_in_section": 116
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 4400,
+      "end_sentence": 4668,
+      "sentence_count": 269,
+      "page_range": "126-130",
+      "sentences": [
+        {
+          "sentence_id": 4400,
+          "page_number": 126,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4401,
+          "page_number": 126,
+          "content": "BioConsult, 2013.",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 4402,
+          "page_number": 126,
+          "content": "Seafloor integrity - Physical damage, having regard to substrate characteristics (Descriptor",
+          "full_length": 92
+        },
+        {
+          "sentence_id": 4403,
+          "page_number": 126,
+          "content": "6).",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 4404,
+          "page_number": 126,
+          "content": "A conceptual approach for the assessment of indicator 6.1.2: ‘Extent of the seafloor significantly a...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 269
+    }
+  ],
+  "metadata": {
+    "total_sentences": 4736,
+    "chunks_selected": 105,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 91,
+        "end_sentence": 96,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 4076,
+        "end_sentence": 4095,
+        "sentence_count": 20
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 4096,
+        "end_sentence": 4211,
+        "sentence_count": 116
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 4400,
+        "end_sentence": 4668,
+        "sentence_count": 269
+      }
+    ],
+    "total_excluded_sentences": 411
+  }
+}

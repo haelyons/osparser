@@ -1,0 +1,1395 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the precautionary approach to assess impact against a calculated threshold using the best available",
+      "context_window": "to be used for setting thresholds in 2021 (see Assessment Method). The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence. Background (figures & tables)",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "For example, pollutants or noise in the current environment may",
+      "context_window": "In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch). For example, pollutants or noise in the current environment may reduce the fecundity or survival of individuals of a population compared to a population in an unimpacted environment.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The resulting consensus allows use of",
+      "context_window": "OSPAR’s Biodiversity Committee (BDC) agreed on the methodologies to be used for setting thresholds in 2021 (see Assessment Method). The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species",
+      "context_window": "marine mammals and to apply relevant measures to ensure it does not have a significant negative impact on marine mammal populations (ICES 2021c). Species This indicator assesses by-catch of harbour porpoise Phocoena phocoena",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the newest available data, which is 2020.",
+      "context_window": "values. Both estimates are evidenced in the ICES (ICES 2021a) report. Although 2019 estimates are generally higher across the board, the difference is relatively small therefore the assessment is based on the newest available data, which is 2020. The assessment does not change for any species / AU whether 2019 or 2020 estimates are used.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic mortality, including by-catch. RLA incorporates information on their uncertainties.",
+      "context_window": "The RLA comprises a population model to simulate population dynamics and a control rule to estimate the mortality limit given a series of estimates of absolute abundance and anthropogenic mortality, including by-catch. RLA incorporates information on their uncertainties. Hammond et al., (2019) developed an RLA to set limits to anthropogenic mortality of harbour porpoise in the Greater North Sea AU.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator assessment",
+      "context_window": "Assessment type List Indicator assessment Summary Results",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the",
+      "context_window": "There is currently no policy guidance on how to take into account allocation of removals limits across the contributing human activities. Given by-catch is the dominant cause of human-caused mortality, this pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the context of by-catch of protected species such as marine mammals are currently understood to represent an upper limit to total anthropogenic removals; that is, a limit beyond which the risk of failing to achieve the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is",
+      "context_window": "OSPAR Commission, 2022 11 parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is computed as: Formula b: Calculation of the RLA control rule. max(a, b) denotes the maximum between a and b.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Future policy discussions around",
+      "context_window": "relative to carrying capacity makes for a lower threshold, which is then compounded under conditions of biases and/or uncertainties in abundance, mortality or productivity. Future policy discussions around conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a), including:",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Policy context",
+      "context_window": "Thesholds were set using state-of-the-art methods (Palialexis et al., 2021) and robust estimates of absolute abundance (Hammond et al., 2021b). Policy context This indicator assesses anthropogenic removals, of which by-catch is a leading contributor (Wade et al., 2021).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evidence.",
+      "context_window": "The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence. Background (figures & tables) Figure a: By-caught harbour porpoise in a fishing net.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coordinated Environmental Monitoring Programme (CEMP) guideline",
+      "context_window": "thresholds for each species by AU for evaluation. The Coordinated Environmental Monitoring Programme (CEMP) guideline for this indicator provides further details of the assessment method.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(OSPAR-HELCOM, 2019) that the revised",
+      "context_window": "from a joint OSPAR-HELCOM workshop (OSPAR-HELCOM, 2019) that the revised NAMMCO -",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR applies a time horizon of 100 years as recommended by ICES (2013) and a",
+      "context_window": "population should be able to recover to or be maintained at 80% of carrying capacity, with probability 0,8, within a 100-year period\". OSPAR applies a time horizon of 100 years as recommended by ICES (2013) and a Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 10",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tuning by",
+      "context_window": "objective was achieved in a MSE framework by considering different quantiles of the posterior distribution of the removals limit as suggested in Hammond et al., (2019, page 7) or as done in Wade (1998). Tuning by choosing a quantile allowed to better take account of estimation uncertainty in parameters r and depletion. For the RLA to be robust against several uncertainties, the 30% quantile was selected (Genu et al., 2021).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold is developed.",
+      "context_window": "simulations. The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed. In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "context of by-catch of protected species such as marine mammals are currently understood to represent an",
+      "context_window": "contributing human activities. Given by-catch is the dominant cause of human-caused mortality, this pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the context of by-catch of protected species such as marine mammals are currently understood to represent an upper limit to total anthropogenic removals; that is, a limit beyond which the risk of failing to achieve the conservation objectives set by policy makers is unacceptable.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, these inputs may also indirectly reflect other human-related pressures",
+      "context_window": "The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed. In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch). For example, pollutants or noise in the current environment may",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whaling etc.",
+      "context_window": "2021). However, other anthropogenic activities such as offshore construction, shipping, tourism, noise, whaling etc. can also cause mortality directly, indirectly or both which is decribed in the QSR 2023 thematic assessment on marine mammals. All these activities contribute to anthropogenic removals which is the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compared to a target under different monitoring conditions.",
+      "context_window": "Threshold setting methods rely on a management strategy evaluation (MSE) framework that uses computer simulations to compare and assess the robustness of different thresholds to yield consistent outcomes compared to a target under different monitoring conditions. Of primary importance are (i) the conservation objectives that the management framework should achieve; and (ii) the inputs used in the computer",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "here",
+      "context_window": "Results for the candidate indicator for harbour porpoise and grey seal in Arctic Waters (Region I) are provided here . Four identified AUs for by-catch of harbour porpoise have been assessed against a threshold setting",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A candidate indicator has",
+      "context_window": "This indicator assessment has been further developed since the Intermediate Assessment 2017 (IA2017) which assessed harbour porpoise, to now include common dolphin and grey seal. A candidate indicator has also been piloted, extending the assessment into Region I for harbour porpoise and grey seal (",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment on marine mammals. All these activities contribute to anthropogenic removals which is the",
+      "context_window": "whaling etc. can also cause mortality directly, indirectly or both which is decribed in the QSR 2023 thematic assessment on marine mammals. All these activities contribute to anthropogenic removals which is the sum of the additional sources of mortality (beyond natural mortality). There is currently no policy guidance on how to take into account allocation of removals limits across the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population or the other.",
+      "context_window": "Animals from both populations are at risk of being by-caught in each other’s AUs. Reported by-catch numbers in the northern Kattegat cannot be reliably assigned to one population or the other. An assessment of Kattegat and Belt Seas AU for harbour porpoises will be provided by HELCOM.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Estimates of abundance",
+      "context_window": "These surveys cover the majority of Economic Exclusive Zone (EEZ) waters in the European Atlantic but exclude offshore waters in the Portuguese EEZ. Estimates of abundance have been made for common dolphins, striped dolphins, and also for common and striped dolphins combined; the latter because there are a substantial number of sightings of ‘unidentified common or",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1)",
+      "context_window": "conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a), including: 1) The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow populations to recover to and/or maintain 80% of carrying capacity in the long term’ should be met.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is to decide an appropriate precautionary, yet practical and realistic conservation objective not only for small",
+      "context_window": "cetacean conservation objectives in relation to anthropogenic removals’. The aim of this two-part workshop is to decide an appropriate precautionary, yet practical and realistic conservation objective not only for small cetacean species (ASCOBANS 2021).",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for this indicator provides",
+      "context_window": "The Coordinated Environmental Monitoring Programme (CEMP) guideline for this indicator provides further details of the assessment method. Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Confidence",
+      "context_window": "interval (95%) lower bound* Confidence interval (95%) upper bound*",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This",
+      "context_window": "within a 100-year period\". OSPAR applies a time horizon of 100 years as recommended by ICES (2013). This conservation objective is one possible quantitative interpretation of the ASCOBANS interim objective \"to restore and/or maintain stocks/populations to 80% or more of the carrying capacity\".",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data is provided for three consecutive years (2010",
+      "context_window": "recorded in Portuguese waters of the Iberian coast according to reports from the LIFE project MarPro. Data is provided for three consecutive years (2010 to 2012) and separates two stranding network units (“north-west coast” and “south coast Fishing",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data call requesting further information on which to base the estimates (ICES 2021a). The data call",
+      "context_window": "Data At OSPAR’s request, the ICES workshop (WKMOMA) issued a data call in addition to the annual WGBYC data call requesting further information on which to base the estimates (ICES 2021a). The data call requested finer scale data which comprised observer records per haul and fishing effort data at ICES rectangle level (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current depletion levels of marine",
+      "context_window": "Thresholds are precautionary and aligned with conservation objectives which go beyond the non- deterioration principle and also aim to restore or maintain populations. Current depletion levels of marine mammal populations are largely unknown with some populations nevertheless thought to be depleted or recovering (e.g., seals;",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, an important input is the assumed population growth rate",
+      "context_window": "Likewise, improved knowledge on critical inputs for the modelling necessary to carry out a MSE would enable updates to the thresholds. In particular, an important input is the assumed population growth rate and productivity which control how fast a depleted population may recover. For example, robust values for",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pros of",
+      "context_window": "Remote Electronic Monitoring (REM) is a realistic, feasible and cost-effective venue for improved by- catch monitoring (van Helmond et al., 2019; Course et al., 2020; Basran and Sigurðsson, 2021). The pros of REM include cost savings, a better coverage (because REM can be extended to small-scale fisheries), less observer bias, and improved accuracy of self-reporting (van Helmond et al., 2019; Course et al., 2020).",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic mortality estimates (including by-catch).",
+      "context_window": "For the RLA to be robust against several uncertainties, the 30% quantile was selected (Genu et al., 2021). This is a conservative choice, made to obtain a threshold robust against possible underestimation of anthropogenic mortality estimates (including by-catch). Harbour porpoise removals limit The methods to be used to set removals limit for harbour porpoise were agreed at OSPAR BDC 2021.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021 with a view to improving the approach and deriving an anthropogenic mortality limit (or threshold)",
+      "context_window": "caveats and called for further developments. OMMEG undertook further developments of the procedure in 2021 with a view to improving the approach and deriving an anthropogenic mortality limit (or threshold) for harbour porpoise in the Greater North Sea AU (Genu et al., 2021). The conservation objective used by OMMEG for the RLA was that “the Greater North Sea harbour porpoise",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biases and/or uncertainties in abundance, mortality or productivity.",
+      "context_window": "Setting such a high standard relative to carrying capacity makes for a lower threshold, which is then compounded under conditions of biases and/or uncertainties in abundance, mortality or productivity. Future policy discussions around conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a),",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parameterisation of this objective was decided to provide a conservation objective against which future",
+      "context_window": "threat to the protection and conservation of these species and will work towards strengthening the evidence base concerning incidental by-catch by 2025 (operational objective S7.O6). The current parameterisation of this objective was decided to provide a conservation objective against which future projections of populations could be compared when exposed to different levels of by-catch, in order to define thresholds.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Irish waters were surveyed in 2015 and 2016 through the ObSERVE Programme. Results from 2016 were",
+      "context_window": "Figure f: Results from the OSPAR data call for harbour porpoise sightings in 2016 from line-transect surveys in the North-East Atlantic Irish waters were surveyed in 2015 and 2016 through the ObSERVE Programme. Results from 2016 were analysed alongside SCANS III data ( https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thresholds",
+      "context_window": "e ). Thresholds Identifying a threshold enables a comparison of the actual values against the estimated limit at which a species would be significantly impacted.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment.",
+      "context_window": "For example, pollutants or noise in the current environment may reduce the fecundity or survival of individuals of a population compared to a population in an unimpacted environment. In 2017, the OSPAR By-catch Intermediate Assessment stressed the need for conservation objectives in order to set thresholds. An existing conservation objective is therefore integrated for the present",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population (Sveegaard et al., 2015).",
+      "context_window": "The northern part of the Kattegat and Belt Seas AU is occupied by harbour porpoises from two genetically distinct populations – the North Sea population and the Kattegat / Belt Seas population (Sveegaard et al., 2015). Animals from both populations are at risk of being by-caught in each other’s AUs. Reported by-catch numbers in the northern Kattegat cannot be reliably assigned to one",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "way forward (Hammond et al., 2018).",
+      "context_window": "bycatch limits (ICES, 2013). This was then picked up by ASCOBANS in a series of workshops to identify the way forward (Hammond et al., 2018). In 2019, a joint HELCOM/OSPAR workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals discussed methodologies for indicator assessment, including",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and",
+      "context_window": "This objective is one possible quantitative interpretation of the ASCOBANS “short-term practical sub-objective” “to restore and/or maintain stocks/populations to 80% or more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and depletion. The latter parameter corresponds to the depletion level at the time of the best available survey",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depletion.",
+      "context_window": "ASCOBANS “short-term practical sub-objective” “to restore and/or maintain stocks/populations to 80% or more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and depletion. The latter parameter corresponds to the depletion level at the time of the best available survey estimate.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Introduction",
+      "context_window": "8 Assessment Method Introduction Observations of by-caught animals for this indicator assessment were collated over several years to ensure sufficient geographical coverage. The observed number of by-caught animals was modelled in order to",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conservation objectives",
+      "context_window": "total anthropogenic removal limits from multiple causes would benefit future assessments to further refine the by-catch-only thresholds. Conservation objectives OSPAR 2021 agreed on a parameterisation for the conservation objective underpinning both mPBR and RLA: \"a population should be able to recover to or be maintained at 80% of carrying capacity, with probability 0,8,",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Estimates",
+      "context_window": "https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/grey-seal-pup-production/ . Estimates were derived from grey seal counts conducted during surveys of harbour seals in their summer moult period (August), counts of grey seal pups made at breeding colonies in the autumn / winter, and counts",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For cetaceans, the conservation",
+      "context_window": "conservation objective that is suitable for model-based threshold setting procedures for marine mammals. However, that conservation objective differs between cetaceans and seals. For cetaceans, the conservation objective is 'the population should be able to recover to or be maintained at [80]% of carrying capacity, with [0,8] probability, within a [100]-year period'.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "computed as:",
+      "context_window": "11 parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is computed as: Formula b: Calculation of the RLA control rule. max(a, b) denotes the maximum between a and b. where Nbest is the best available abundance estimate and IPL is the internal protection level assumed to be",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessing the impact",
+      "context_window": "The primary human-induced cause of mortality of marine mammals in the OSPAR Maritime Area is incidental capture and entanglement in fishing gears, commonly known as by-catch. Assessing the impact of this pressure in relation to population abundance is paramount. This indicator assessment has been further developed since the Intermediate Assessment 2017 (IA2017)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(anthropogenic",
+      "context_window": "estimates Threshold values (anthropogenic removal via by- catch)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisher interviews of by-catch and entanglement events could contribute to future assessments in order to",
+      "context_window": "for these species. Further consideration of other data types to assess by-catch levels e.g., strandings data and fisher interviews of by-catch and entanglement events could contribute to future assessments in order to make best use of available data on which to base the assessment outcomes. However, further work is required to be able to integrate these data types with confidence and greater gain in confidence would result",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "simulations.",
+      "context_window": "Of primary importance are (i) the conservation objectives that the management framework should achieve; and (ii) the inputs used in the computer simulations. The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_mam_bycatch_msfd_ 2022_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberian Coast (Figure c) given the wide-ranging nature and lack of evidence of finer-scale population",
+      "context_window": "The AU used in the assessment encompasses this proposal and extends it to the boundaries of the MSFD subregions Greater North Sea, Celtic Seas, and Bay of Biscay and the Iberian Coast (Figure c) given the wide-ranging nature and lack of evidence of finer-scale population structure within the North-East Atlantic. Grey seals are also highly mobile and range over large distances in open water and between haul-out sites",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "2022 Marine Mammal By-catch Common Indicator Assessment OSPAR Commission, 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is at/above the MNPL is referred to as being at “optimum sustainable population”. The conservation",
+      "context_window": "achieve abundance equal to or greater than the Maximum Net Productivity Level (MNPL). A population that is at/above the MNPL is referred to as being at “optimum sustainable population”. The conservation objective of the MMPA is: a population will remain at, or recover to, its maximum net productivity level MNPL (typically 50% of the population’s carrying capacity), with 0,95 probability, within a 100-year period.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment period between 2015 and 2020. The ICES WKMOMA 2021 data call requested data between",
+      "context_window": "The ICES (ICES 2021a) outputs were unable to provide an estimate of harbour porpoise by-catch for the Iberian Peninsula AU due to zero reported cases of by-catch through observer programmes during the assessment period between 2015 and 2020. The ICES WKMOMA 2021 data call requested data between 2005 and 2020, and the dataset submitted by Portugal included data from several on board observer programmes in the Portuguese Iberian coast for the requested period, ranging from the annual DCF",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annually.",
+      "context_window": "22 the strandings programme which further throws into question the actual number of animals impacted annually. The low population abundance of porpoises in the Iberian Peninsula AU (estimated 2 898), coupled with a high level of gillnet fishing activity and frequent stranding records with signs of by-catch, suggests that the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator assessment Summary Results (template",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) The primary human-induced cause of mortality of marine mammals in the OSPAR Maritime Area is incidental capture and entanglement in fishing gears, commonly known as by-catch.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These values support a disparity in",
+      "context_window": "Given the potential for masking of regional impact for this species due to the large AUs, two population values were calculated for the Celtic Seas AU (OSPAR Region III). These values support a disparity in distribution within the AU, with a Nmin of 38 766 for OSPAR Region IIIa in the north, encompassing South- West Scotland, western Scotland and the Western Isles; and a Nmin of 22 014 in OSPAR Region IIIb in the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management advice (ICES, 2010) and the ICES Working Group on Marine Mammal Ecology (WGMME)",
+      "context_window": "Without these conservation objectives, ICES was unable to properly consider the impacts of these interactions in its management advice (ICES, 2010) and the ICES Working Group on Marine Mammal Ecology (WGMME) suggested that ASCOBANS be asked to consider the policy decisions required for the setting of appropriate OSPAR Commission, 2022",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations",
+      "context_window": "Maritime Area to collect data describing total by-catch monitoring/sampling effort and grey seal, harbour porpoise and common dolphin by-catch events from the years 2005 until 2020 (ICES 2021a). Observations of by-caught animals are collated over several years primarily via by-catch observer schemes but also via Remote Electronic Monitoring (REM). The number of observed dead animals is modelled, taking into",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow",
+      "context_window": "including: 1) The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow populations to recover to and/or maintain 80% of carrying capacity in the long term’ should be met. This choice drives the ambition level of the objectives as it strongly influences the population level",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019 or 2020 estimates are used.",
+      "context_window": "the newest available data, which is 2020. The assessment does not change for any species / AU whether 2019 or 2020 estimates are used. Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 18",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "context_window": "Lead Authors: Taylor, N., Authier, M. Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Figure f, Table b ). Assessment Unit Year",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The AUs for harbour porpoise have been updated since IA2017 taking into account the recommendation",
+      "context_window": "In order to define a spatial scale within which to conduct an assessment, appropriate Assessment Units (AU) within the range of each species have been agreed. The AUs for harbour porpoise have been updated since IA2017 taking into account the recommendation from a joint OSPAR-HELCOM workshop",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 850/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Given the potential for masking of regional impact for this species due to the large AUs, two population",
+      "context_window": "threshold for common dolphins in the North-East Atlantic in both 2019 and 2020. Grey seal - Celtic Seas AU (Region III) Given the potential for masking of regional impact for this species due to the large AUs, two population values were calculated for the Celtic Seas AU (OSPAR Region III). These values support a disparity in",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution:",
+      "context_window": "Grey seal abundance estimation Data for grey seal estimates were completed from the data call for the M3 / M5 seal indicators using data from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal- abundance-and-distribution/",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threat to the protection and conservation of these species and will work towards strengthening the",
+      "context_window": "work with relevant competent authorities and other stakeholders to minimise, and where possible eliminate, incidental by-catch of marine mammals, birds, turtles and fish so that it does not represent a threat to the protection and conservation of these species and will work towards strengthening the evidence base concerning incidental by-catch by 2025 (operational objective S7.O6). The current parameterisation of this objective was decided to provide a conservation objective against which future",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 26 Knowledge Gaps (extended) Overlap of harbour porpoise populations in the Kattegat Although overlapping partially with the OSPAR Maritime Area, the Kattegat and Belt Seas AU for harbour",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023/indicator-assessments/abundance-distribution-cetaceans/",
+      "context_window": "analysed alongside SCANS III data ( https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ ) to estimate populations for the Irish and Celtic Seas AU (46 797; CV = 0,14) and the West of Scotland and Ireland AU (44 261; CV = 0,14).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These",
+      "context_window": "Harbour porpoise removals limit The methods to be used to set removals limit for harbour porpoise were agreed at OSPAR BDC 2021. These vary by AU ( Table a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal-",
+      "context_window": "Data for grey seal estimates were completed from the data call for the M3 / M5 seal indicators using data from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal- abundance-and-distribution/ and Grey Seal Pup Production:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "context_window": "Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by-catch estimates for 2019 or 2020 were used.",
+      "context_window": "In all AUs, estimated by-catch exceeded the threshold. The Indicator Assessment did not change whether the by-catch estimates for 2019 or 2020 were used. Harbour porpoise - Iberian Peninsula AU OSPAR Commission, 2022",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting Authors: Banga, R., Genu, M., Gilles, A.",
+      "context_window": "Contributors Lead Authors: Taylor, N., Authier, M. Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Taylor, N., Authier, M., Banga, R., Genu, M.,  Gilles, A. 2022. Marine Mammal By-catch",
+      "page_number": 1,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The resulting consensus allows use of",
+      "context_window": "OSPAR’s Biodiversity Committee (BDC) agreed on the methodologies to be used for setting thresholds in 2021 (see Assessment Method). The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the newest available data, which is 2020.",
+      "context_window": "values. Both estimates are evidenced in the ICES (ICES 2021a) report. Although 2019 estimates are generally higher across the board, the difference is relatively small therefore the assessment is based on the newest available data, which is 2020. The assessment does not change for any species / AU whether 2019 or 2020 estimates are used.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator assessment",
+      "context_window": "Assessment type List Indicator assessment Summary Results",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is",
+      "context_window": "OSPAR Commission, 2022 11 parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is computed as: Formula b: Calculation of the RLA control rule. max(a, b) denotes the maximum between a and b.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Policy context",
+      "context_window": "Thesholds were set using state-of-the-art methods (Palialexis et al., 2021) and robust estimates of absolute abundance (Hammond et al., 2021b). Policy context This indicator assesses anthropogenic removals, of which by-catch is a leading contributor (Wade et al., 2021).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coordinated Environmental Monitoring Programme (CEMP) guideline",
+      "context_window": "thresholds for each species by AU for evaluation. The Coordinated Environmental Monitoring Programme (CEMP) guideline for this indicator provides further details of the assessment method.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR applies a time horizon of 100 years as recommended by ICES (2013) and a",
+      "context_window": "population should be able to recover to or be maintained at 80% of carrying capacity, with probability 0,8, within a 100-year period\". OSPAR applies a time horizon of 100 years as recommended by ICES (2013) and a Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 10",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold is developed.",
+      "context_window": "simulations. The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed. In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, these inputs may also indirectly reflect other human-related pressures",
+      "context_window": "The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed. In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch). For example, pollutants or noise in the current environment may",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compared to a target under different monitoring conditions.",
+      "context_window": "Threshold setting methods rely on a management strategy evaluation (MSE) framework that uses computer simulations to compare and assess the robustness of different thresholds to yield consistent outcomes compared to a target under different monitoring conditions. Of primary importance are (i) the conservation objectives that the management framework should achieve; and (ii) the inputs used in the computer",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A candidate indicator has",
+      "context_window": "This indicator assessment has been further developed since the Intermediate Assessment 2017 (IA2017) which assessed harbour porpoise, to now include common dolphin and grey seal. A candidate indicator has also been piloted, extending the assessment into Region I for harbour porpoise and grey seal (",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population or the other.",
+      "context_window": "Animals from both populations are at risk of being by-caught in each other’s AUs. Reported by-catch numbers in the northern Kattegat cannot be reliably assigned to one population or the other. An assessment of Kattegat and Belt Seas AU for harbour porpoises will be provided by HELCOM.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1)",
+      "context_window": "conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a), including: 1) The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow populations to recover to and/or maintain 80% of carrying capacity in the long term’ should be met.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for this indicator provides",
+      "context_window": "The Coordinated Environmental Monitoring Programme (CEMP) guideline for this indicator provides further details of the assessment method. Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This",
+      "context_window": "within a 100-year period\". OSPAR applies a time horizon of 100 years as recommended by ICES (2013). This conservation objective is one possible quantitative interpretation of the ASCOBANS interim objective \"to restore and/or maintain stocks/populations to 80% or more of the carrying capacity\".",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data call requesting further information on which to base the estimates (ICES 2021a). The data call",
+      "context_window": "Data At OSPAR’s request, the ICES workshop (WKMOMA) issued a data call in addition to the annual WGBYC data call requesting further information on which to base the estimates (ICES 2021a). The data call requested finer scale data which comprised observer records per haul and fishing effort data at ICES rectangle level (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, an important input is the assumed population growth rate",
+      "context_window": "Likewise, improved knowledge on critical inputs for the modelling necessary to carry out a MSE would enable updates to the thresholds. In particular, an important input is the assumed population growth rate and productivity which control how fast a depleted population may recover. For example, robust values for",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic mortality estimates (including by-catch).",
+      "context_window": "For the RLA to be robust against several uncertainties, the 30% quantile was selected (Genu et al., 2021). This is a conservative choice, made to obtain a threshold robust against possible underestimation of anthropogenic mortality estimates (including by-catch). Harbour porpoise removals limit The methods to be used to set removals limit for harbour porpoise were agreed at OSPAR BDC 2021.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biases and/or uncertainties in abundance, mortality or productivity.",
+      "context_window": "Setting such a high standard relative to carrying capacity makes for a lower threshold, which is then compounded under conditions of biases and/or uncertainties in abundance, mortality or productivity. Future policy discussions around conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a),",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Irish waters were surveyed in 2015 and 2016 through the ObSERVE Programme. Results from 2016 were",
+      "context_window": "Figure f: Results from the OSPAR data call for harbour porpoise sightings in 2016 from line-transect surveys in the North-East Atlantic Irish waters were surveyed in 2015 and 2016 through the ObSERVE Programme. Results from 2016 were analysed alongside SCANS III data ( https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment.",
+      "context_window": "For example, pollutants or noise in the current environment may reduce the fecundity or survival of individuals of a population compared to a population in an unimpacted environment. In 2017, the OSPAR By-catch Intermediate Assessment stressed the need for conservation objectives in order to set thresholds. An existing conservation objective is therefore integrated for the present",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and",
+      "context_window": "This objective is one possible quantitative interpretation of the ASCOBANS “short-term practical sub-objective” “to restore and/or maintain stocks/populations to 80% or more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and depletion. The latter parameter corresponds to the depletion level at the time of the best available survey",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Introduction",
+      "context_window": "8 Assessment Method Introduction Observations of by-caught animals for this indicator assessment were collated over several years to ensure sufficient geographical coverage. The observed number of by-caught animals was modelled in order to",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Estimates",
+      "context_window": "https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/grey-seal-pup-production/ . Estimates were derived from grey seal counts conducted during surveys of harbour seals in their summer moult period (August), counts of grey seal pups made at breeding colonies in the autumn / winter, and counts",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "computed as:",
+      "context_window": "11 parameters. Once these two parameters have been estimated, the anthropogenic mortality limit is computed as: Formula b: Calculation of the RLA control rule. max(a, b) denotes the maximum between a and b. where Nbest is the best available abundance estimate and IPL is the internal protection level assumed to be",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(anthropogenic",
+      "context_window": "estimates Threshold values (anthropogenic removal via by- catch)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "simulations.",
+      "context_window": "Of primary importance are (i) the conservation objectives that the management framework should achieve; and (ii) the inputs used in the computer simulations. The inputs used in a MSE should reflect the best available evidence on populations for which a threshold is developed.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberian Coast (Figure c) given the wide-ranging nature and lack of evidence of finer-scale population",
+      "context_window": "The AU used in the assessment encompasses this proposal and extends it to the boundaries of the MSFD subregions Greater North Sea, Celtic Seas, and Bay of Biscay and the Iberian Coast (Figure c) given the wide-ranging nature and lack of evidence of finer-scale population structure within the North-East Atlantic. Grey seals are also highly mobile and range over large distances in open water and between haul-out sites",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is at/above the MNPL is referred to as being at “optimum sustainable population”. The conservation",
+      "context_window": "achieve abundance equal to or greater than the Maximum Net Productivity Level (MNPL). A population that is at/above the MNPL is referred to as being at “optimum sustainable population”. The conservation objective of the MMPA is: a population will remain at, or recover to, its maximum net productivity level MNPL (typically 50% of the population’s carrying capacity), with 0,95 probability, within a 100-year period.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary",
+      "context_window": "List Indicator assessment Summary Results (template",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management advice (ICES, 2010) and the ICES Working Group on Marine Mammal Ecology (WGMME)",
+      "context_window": "Without these conservation objectives, ICES was unable to properly consider the impacts of these interactions in its management advice (ICES, 2010) and the ICES Working Group on Marine Mammal Ecology (WGMME) suggested that ASCOBANS be asked to consider the policy decisions required for the setting of appropriate OSPAR Commission, 2022",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow",
+      "context_window": "including: 1) The appropriate level of confidence with which the ASCOBANS (1997) conservation objective ‘to allow populations to recover to and/or maintain 80% of carrying capacity in the long term’ should be met. This choice drives the ambition level of the objectives as it strongly influences the population level",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "context_window": "Lead Authors: Taylor, N., Authier, M. Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The AUs for harbour porpoise have been updated since IA2017 taking into account the recommendation",
+      "context_window": "In order to define a spatial scale within which to conduct an assessment, appropriate Assessment Units (AU) within the range of each species have been agreed. The AUs for harbour porpoise have been updated since IA2017 taking into account the recommendation from a joint OSPAR-HELCOM workshop",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Given the potential for masking of regional impact for this species due to the large AUs, two population",
+      "context_window": "threshold for common dolphins in the North-East Atlantic in both 2019 and 2020. Grey seal - Celtic Seas AU (Region III) Given the potential for masking of regional impact for this species due to the large AUs, two population values were calculated for the Celtic Seas AU (OSPAR Region III). These values support a disparity in",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threat to the protection and conservation of these species and will work towards strengthening the",
+      "context_window": "work with relevant competent authorities and other stakeholders to minimise, and where possible eliminate, incidental by-catch of marine mammals, birds, turtles and fish so that it does not represent a threat to the protection and conservation of these species and will work towards strengthening the evidence base concerning incidental by-catch by 2025 (operational objective S7.O6). The current parameterisation of this objective was decided to provide a conservation objective against which future",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These",
+      "context_window": "Harbour porpoise removals limit The methods to be used to set removals limit for harbour porpoise were agreed at OSPAR BDC 2021. These vary by AU ( Table a",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "context_window": "Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting Authors: Banga, R., Genu, M., Gilles, A.",
+      "context_window": "Contributors Lead Authors: Taylor, N., Authier, M. Supporting Authors: Banga, R., Genu, M., Gilles, A. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Taylor, N., Authier, M., Banga, R., Genu, M.,  Gilles, A. 2022. Marine Mammal By-catch",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by-catch estimates for 2019 or 2020 were used.",
+      "context_window": "In all AUs, estimated by-catch exceeded the threshold. The Indicator Assessment did not change whether the by-catch estimates for 2019 or 2020 were used. Harbour porpoise - Iberian Peninsula AU OSPAR Commission, 2022",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal-",
+      "context_window": "Data for grey seal estimates were completed from the data call for the M3 / M5 seal indicators using data from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal- abundance-and-distribution/ and Grey Seal Pup Production:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023/indicator-assessments/abundance-distribution-cetaceans/",
+      "context_window": "analysed alongside SCANS III data ( https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ ) to estimate populations for the Irish and Celtic Seas AU (46 797; CV = 0,14) and the West of Scotland and Ireland AU (44 261; CV = 0,14).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 26 Knowledge Gaps (extended) Overlap of harbour porpoise populations in the Kattegat Although overlapping partially with the OSPAR Maritime Area, the Kattegat and Belt Seas AU for harbour",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution:",
+      "context_window": "Grey seal abundance estimation Data for grey seal estimates were completed from the data call for the M3 / M5 seal indicators using data from 2015-2020 in line with the ICES data call for by-catch data. Seal Abundance and Distribution: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/indicator-assessments/seal- abundance-and-distribution/",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 850/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment",
+      "context_window": "Figure f, Table b ). Assessment Unit Year",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019 or 2020 estimates are used.",
+      "context_window": "the newest available data, which is 2020. The assessment does not change for any species / AU whether 2019 or 2020 estimates are used. Marine Mammal By-catch (Harbour Porpoise; Common Dolphin; Grey Seal) Region II, III and IV 18",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations",
+      "context_window": "Maritime Area to collect data describing total by-catch monitoring/sampling effort and grey seal, harbour porpoise and common dolphin by-catch events from the years 2005 until 2020 (ICES 2021a). Observations of by-caught animals are collated over several years primarily via by-catch observer schemes but also via Remote Electronic Monitoring (REM). The number of observed dead animals is modelled, taking into",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These values support a disparity in",
+      "context_window": "Given the potential for masking of regional impact for this species due to the large AUs, two population values were calculated for the Celtic Seas AU (OSPAR Region III). These values support a disparity in distribution within the AU, with a Nmin of 38 766 for OSPAR Region IIIa in the north, encompassing South- West Scotland, western Scotland and the Western Isles; and a Nmin of 22 014 in OSPAR Region IIIb in the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) The primary human-induced cause of mortality of marine mammals in the OSPAR Maritime Area is incidental capture and entanglement in fishing gears, commonly known as by-catch.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annually.",
+      "context_window": "22 the strandings programme which further throws into question the actual number of animals impacted annually. The low population abundance of porpoises in the Iberian Peninsula AU (estimated 2 898), coupled with a high level of gillnet fishing activity and frequent stranding records with signs of by-catch, suggests that the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment period between 2015 and 2020. The ICES WKMOMA 2021 data call requested data between",
+      "context_window": "The ICES (ICES 2021a) outputs were unable to provide an estimate of harbour porpoise by-catch for the Iberian Peninsula AU due to zero reported cases of by-catch through observer programmes during the assessment period between 2015 and 2020. The ICES WKMOMA 2021 data call requested data between 2005 and 2020, and the dataset submitted by Portugal included data from several on board observer programmes in the Portuguese Iberian coast for the requested period, ranging from the annual DCF",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "2022 Marine Mammal By-catch Common Indicator Assessment OSPAR Commission, 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_mam_bycatch_msfd_ 2022_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisher interviews of by-catch and entanglement events could contribute to future assessments in order to",
+      "context_window": "for these species. Further consideration of other data types to assess by-catch levels e.g., strandings data and fisher interviews of by-catch and entanglement events could contribute to future assessments in order to make best use of available data on which to base the assessment outcomes. However, further work is required to be able to integrate these data types with confidence and greater gain in confidence would result",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessing the impact",
+      "context_window": "The primary human-induced cause of mortality of marine mammals in the OSPAR Maritime Area is incidental capture and entanglement in fishing gears, commonly known as by-catch. Assessing the impact of this pressure in relation to population abundance is paramount. This indicator assessment has been further developed since the Intermediate Assessment 2017 (IA2017)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For cetaceans, the conservation",
+      "context_window": "conservation objective that is suitable for model-based threshold setting procedures for marine mammals. However, that conservation objective differs between cetaceans and seals. For cetaceans, the conservation objective is 'the population should be able to recover to or be maintained at [80]% of carrying capacity, with [0,8] probability, within a [100]-year period'.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conservation objectives",
+      "context_window": "total anthropogenic removal limits from multiple causes would benefit future assessments to further refine the by-catch-only thresholds. Conservation objectives OSPAR 2021 agreed on a parameterisation for the conservation objective underpinning both mPBR and RLA: \"a population should be able to recover to or be maintained at 80% of carrying capacity, with probability 0,8,",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depletion.",
+      "context_window": "ASCOBANS “short-term practical sub-objective” “to restore and/or maintain stocks/populations to 80% or more of the carrying capacity”. The RLA estimates two parameters: population growth rate (r) and depletion. The latter parameter corresponds to the depletion level at the time of the best available survey estimate.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "way forward (Hammond et al., 2018).",
+      "context_window": "bycatch limits (ICES, 2013). This was then picked up by ASCOBANS in a series of workshops to identify the way forward (Hammond et al., 2018). In 2019, a joint HELCOM/OSPAR workshop to examine possibilities for developing indicators for incidental by-catch of birds and marine mammals discussed methodologies for indicator assessment, including",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population (Sveegaard et al., 2015).",
+      "context_window": "The northern part of the Kattegat and Belt Seas AU is occupied by harbour porpoises from two genetically distinct populations – the North Sea population and the Kattegat / Belt Seas population (Sveegaard et al., 2015). Animals from both populations are at risk of being by-caught in each other’s AUs. Reported by-catch numbers in the northern Kattegat cannot be reliably assigned to one",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thresholds",
+      "context_window": "e ). Thresholds Identifying a threshold enables a comparison of the actual values against the estimated limit at which a species would be significantly impacted.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parameterisation of this objective was decided to provide a conservation objective against which future",
+      "context_window": "threat to the protection and conservation of these species and will work towards strengthening the evidence base concerning incidental by-catch by 2025 (operational objective S7.O6). The current parameterisation of this objective was decided to provide a conservation objective against which future projections of populations could be compared when exposed to different levels of by-catch, in order to define thresholds.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021 with a view to improving the approach and deriving an anthropogenic mortality limit (or threshold)",
+      "context_window": "caveats and called for further developments. OMMEG undertook further developments of the procedure in 2021 with a view to improving the approach and deriving an anthropogenic mortality limit (or threshold) for harbour porpoise in the Greater North Sea AU (Genu et al., 2021). The conservation objective used by OMMEG for the RLA was that “the Greater North Sea harbour porpoise",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pros of",
+      "context_window": "Remote Electronic Monitoring (REM) is a realistic, feasible and cost-effective venue for improved by- catch monitoring (van Helmond et al., 2019; Course et al., 2020; Basran and Sigurðsson, 2021). The pros of REM include cost savings, a better coverage (because REM can be extended to small-scale fisheries), less observer bias, and improved accuracy of self-reporting (van Helmond et al., 2019; Course et al., 2020).",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Current depletion levels of marine",
+      "context_window": "Thresholds are precautionary and aligned with conservation objectives which go beyond the non- deterioration principle and also aim to restore or maintain populations. Current depletion levels of marine mammal populations are largely unknown with some populations nevertheless thought to be depleted or recovering (e.g., seals;",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data is provided for three consecutive years (2010",
+      "context_window": "recorded in Portuguese waters of the Iberian coast according to reports from the LIFE project MarPro. Data is provided for three consecutive years (2010 to 2012) and separates two stranding network units (“north-west coast” and “south coast Fishing",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Confidence",
+      "context_window": "interval (95%) lower bound* Confidence interval (95%) upper bound*",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is to decide an appropriate precautionary, yet practical and realistic conservation objective not only for small",
+      "context_window": "cetacean conservation objectives in relation to anthropogenic removals’. The aim of this two-part workshop is to decide an appropriate precautionary, yet practical and realistic conservation objective not only for small cetacean species (ASCOBANS 2021).",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Estimates of abundance",
+      "context_window": "These surveys cover the majority of Economic Exclusive Zone (EEZ) waters in the European Atlantic but exclude offshore waters in the Portuguese EEZ. Estimates of abundance have been made for common dolphins, striped dolphins, and also for common and striped dolphins combined; the latter because there are a substantial number of sightings of ‘unidentified common or",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment on marine mammals. All these activities contribute to anthropogenic removals which is the",
+      "context_window": "whaling etc. can also cause mortality directly, indirectly or both which is decribed in the QSR 2023 thematic assessment on marine mammals. All these activities contribute to anthropogenic removals which is the sum of the additional sources of mortality (beyond natural mortality). There is currently no policy guidance on how to take into account allocation of removals limits across the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "here",
+      "context_window": "Results for the candidate indicator for harbour porpoise and grey seal in Arctic Waters (Region I) are provided here . Four identified AUs for by-catch of harbour porpoise have been assessed against a threshold setting",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whaling etc.",
+      "context_window": "2021). However, other anthropogenic activities such as offshore construction, shipping, tourism, noise, whaling etc. can also cause mortality directly, indirectly or both which is decribed in the QSR 2023 thematic assessment on marine mammals. All these activities contribute to anthropogenic removals which is the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "context of by-catch of protected species such as marine mammals are currently understood to represent an",
+      "context_window": "contributing human activities. Given by-catch is the dominant cause of human-caused mortality, this pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the context of by-catch of protected species such as marine mammals are currently understood to represent an upper limit to total anthropogenic removals; that is, a limit beyond which the risk of failing to achieve the conservation objectives set by policy makers is unacceptable.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tuning by",
+      "context_window": "objective was achieved in a MSE framework by considering different quantiles of the posterior distribution of the removals limit as suggested in Hammond et al., (2019, page 7) or as done in Wade (1998). Tuning by choosing a quantile allowed to better take account of estimation uncertainty in parameters r and depletion. For the RLA to be robust against several uncertainties, the 30% quantile was selected (Genu et al., 2021).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(OSPAR-HELCOM, 2019) that the revised",
+      "context_window": "from a joint OSPAR-HELCOM workshop (OSPAR-HELCOM, 2019) that the revised NAMMCO -",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "evidence.",
+      "context_window": "The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence. Background (figures & tables) Figure a: By-caught harbour porpoise in a fishing net.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Future policy discussions around",
+      "context_window": "relative to carrying capacity makes for a lower threshold, which is then compounded under conditions of biases and/or uncertainties in abundance, mortality or productivity. Future policy discussions around conservation objectives must take place in order to resolve long-standing issues (ICES 2013, 2020a), including:",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the",
+      "context_window": "There is currently no policy guidance on how to take into account allocation of removals limits across the contributing human activities. Given by-catch is the dominant cause of human-caused mortality, this pressure is key in assessing impact of anthropogenic removals within a population. Thresholds in the context of by-catch of protected species such as marine mammals are currently understood to represent an upper limit to total anthropogenic removals; that is, a limit beyond which the risk of failing to achieve the",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic mortality, including by-catch. RLA incorporates information on their uncertainties.",
+      "context_window": "The RLA comprises a population model to simulate population dynamics and a control rule to estimate the mortality limit given a series of estimates of absolute abundance and anthropogenic mortality, including by-catch. RLA incorporates information on their uncertainties. Hammond et al., (2019) developed an RLA to set limits to anthropogenic mortality of harbour porpoise in the Greater North Sea AU.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species",
+      "context_window": "marine mammals and to apply relevant measures to ensure it does not have a significant negative impact on marine mammal populations (ICES 2021c). Species This indicator assesses by-catch of harbour porpoise Phocoena phocoena",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, pollutants or noise in the current environment may",
+      "context_window": "In particular, these inputs may also indirectly reflect other human-related pressures outwith the assessment focus (by-catch). For example, pollutants or noise in the current environment may reduce the fecundity or survival of individuals of a population compared to a population in an unimpacted environment.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the precautionary approach to assess impact against a calculated threshold using the best available",
+      "context_window": "to be used for setting thresholds in 2021 (see Assessment Method). The resulting consensus allows use of the precautionary approach to assess impact against a calculated threshold using the best available evidence. Background (figures & tables)",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message ..................................................................................................................................... 3",
+      "start_sentence": 49,
+      "end_sentence": 64,
+      "sentence_count": 16,
+      "page_range": "2-3",
+      "sentences": [
+        {
+          "sentence_id": 49,
+          "page_number": 2,
+          "content": "Key Message ...........................................................................................",
+          "full_length": 147
+        },
+        {
+          "sentence_id": 50,
+          "page_number": 2,
+          "content": "Background (brief) ....................................................................................",
+          "full_length": 145
+        },
+        {
+          "sentence_id": 51,
+          "page_number": 2,
+          "content": "Background (extended) .................................................................................",
+          "full_length": 140
+        },
+        {
+          "sentence_id": 52,
+          "page_number": 2,
+          "content": "Background (figures & tables) .........................................................................",
+          "full_length": 138
+        },
+        {
+          "sentence_id": 53,
+          "page_number": 2,
+          "content": "Assessment Method .....................................................................................",
+          "full_length": 141
+        }
+      ],
+      "total_sentences_in_section": 16
+    },
+    {
+      "section_name": "Key Message",
+      "start_sentence": 65,
+      "end_sentence": 71,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 65,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 66,
+          "page_number": 3,
+          "content": "This assessment concluded by-catch is a significant pressure affecting marine mammal (Harbour Porpoi...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 67,
+          "page_number": 3,
+          "content": "Common Dolphin; Grey Seal) populations in the North-East Atlantic (Greater North Sea (Region II), Ce...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 68,
+          "page_number": 3,
+          "content": "Seas (Region III), Bay of Biscay and Iberian Coast (Region IV)), with harbour porpoise and common do...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 69,
+          "page_number": 3,
+          "content": "exceeding the thresholds. Grey seal did not exceed the thresholds.",
+          "full_length": 66
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 1227,
+      "end_sentence": 1243,
+      "sentence_count": 17,
+      "page_range": "24-25",
+      "sentences": [
+        {
+          "sentence_id": 1227,
+          "page_number": 24,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1228,
+          "page_number": 24,
+          "content": "Harbour porpoise, common dolphin and grey seal are the most commonly by-caught marine mammal",
+          "full_length": 92
+        },
+        {
+          "sentence_id": 1229,
+          "page_number": 24,
+          "content": "species in the OSPAR Maritime Area according to records from observer monitoring.",
+          "full_length": 81
+        },
+        {
+          "sentence_id": 1230,
+          "page_number": 24,
+          "content": "By-catch levels are",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 1231,
+          "page_number": 24,
+          "content": "exceeding the calculated thresholds for cetaceans but not seals in the AUs assessed in the QSR 2023.",
+          "full_length": 100
+        }
+      ],
+      "total_sentences_in_section": 17
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 1244,
+      "end_sentence": 1264,
+      "sentence_count": 21,
+      "page_range": "25-25",
+      "sentences": [
+        {
+          "sentence_id": 1244,
+          "page_number": 25,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1245,
+          "page_number": 25,
+          "content": "In 2020, it was estimated that more than 7 000 harbour porpoises died as a result of by-catch in the...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 1246,
+          "page_number": 25,
+          "content": "assessed.",
+          "full_length": 9
+        },
+        {
+          "sentence_id": 1247,
+          "page_number": 25,
+          "content": "Thresholds were estimated to have been exceeded in all AUs (Greater North Sea, Western Scotland",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 1248,
+          "page_number": 25,
+          "content": "and Ireland, Irish and Celtic Seas, Iberian Peninsula) where the indicator is common (candidate indi...",
+          "full_length": 106
+        }
+      ],
+      "total_sentences_in_section": 21
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1486,
+      "end_sentence": 1819,
+      "sentence_count": 334,
+      "page_range": "29-34",
+      "sentences": [
+        {
+          "sentence_id": 1486,
+          "page_number": 29,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1487,
+          "page_number": 29,
+          "content": "ASCOBANS 1997. Towards Development of Conservation Objectives for ASCOBANS. ASCOBANS MOP 2",
+          "full_length": 90
+        },
+        {
+          "sentence_id": 1488,
+          "page_number": 29,
+          "content": "DOC.4.",
+          "full_length": 6
+        },
+        {
+          "sentence_id": 1489,
+          "page_number": 29,
+          "content": "https://www.ascobans.org/en/document/towards-development-conservation-objectives-ascobans",
+          "full_length": 89
+        },
+        {
+          "sentence_id": 1490,
+          "page_number": 29,
+          "content": "ASCOBANS 2015. Report of the Workshop on Further Development of Management Procedures for Defining",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 334
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1911,
+    "chunks_selected": 94,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message ..................................................................................................................................... 3",
+        "start_sentence": 49,
+        "end_sentence": 64,
+        "sentence_count": 16
+      },
+      {
+        "section_name": "Key Message",
+        "start_sentence": 65,
+        "end_sentence": 71,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 1227,
+        "end_sentence": 1243,
+        "sentence_count": 17
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 1244,
+        "end_sentence": 1264,
+        "sentence_count": 21
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1486,
+        "end_sentence": 1819,
+        "sentence_count": 334
+      }
+    ],
+    "total_excluded_sentences": 395
+  }
+}

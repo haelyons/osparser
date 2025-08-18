@@ -1,0 +1,1391 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of",
+      "context_window": "impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over Abundance and Distribution of Cetaceans 14 three generations, will lead to 30% decline in abundance.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The latter can be converted to threshold values that are an annual rate of decline in abundance that must",
+      "context_window": "available or the closest to the date of the Habitats Directive (Council Directive 92 / 43 / EEC)), with (i) no absolute decrease of more than 30% and (ii) a rate of decrease no greater than 30% over three generations. The latter can be converted to threshold values that are an annual rate of decline in abundance that must not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "drivers, pressures and activities impacting marine mammals is given in",
+      "context_window": "effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic Assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments will require additional abundance estimates.",
+      "context_window": "To assess trends, at least three abundance estimates are required over a relevant time scale. Robust assessments will require additional abundance estimates. To assess trends, it is necessary to consider the statistical power to detect changes (Authier et al., 2020).",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To assess trends, at least three abundance estimates are required over a relevant time scale.",
+      "context_window": "A trend is quantified as the percentage change (in abundance) over a specified time period (Link and Sauer 1997). To assess trends, at least three abundance estimates are required over a relevant time scale. Robust assessments will require additional abundance estimates.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanographic",
+      "context_window": "OSPAR Commission, 2022 9 Oceanographic Sea surface temperature",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A suite of physiographic and oceanographic covariates (",
+      "context_window": "Density surface models have been used to predict the distribution of those species for which sufficient data are available from large-scale purpose-designed surveys. A suite of physiographic and oceanographic covariates ( Table a ) was used to model, with data collated by",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Density surface models have been used to predict the distribution of those species for which sufficient data",
+      "context_window": "Metrics Species Distribution Density surface models have been used to predict the distribution of those species for which sufficient data are available from large-scale purpose-designed surveys. A suite of physiographic and oceanographic covariates (",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental covariates used in modelling included physiographic predictors (",
+      "context_window": "Distribution maps were generated from a density surface model approach (Miller et al., 2013) fitted to the collated data by OSPAR. Environmental covariates used in modelling included physiographic predictors ( e.g. ,",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species utilise the marine area in different ways, at least in summer.",
+      "context_window": "Cetaceans are distributed widely across this area and the relatively small amount of overlap in predicted high-use areas highlights how the different species utilise the marine area in different ways, at least in summer. These and other similar data have been analysed to provide abundance estimates, and trends when possible.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The annual rates of decline, if sustained over",
+      "context_window": "The latter can be converted to threshold values that are an annual rate of decline in abundance that must not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over Abundance and Distribution of Cetaceans 14",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanographic",
+      "context_window": "factors, although the interactions depend on the area and habitat type (Pierpoint, 2008; Marubini et al., 2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015). Oceanographic variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Environmental variables (",
+      "context_window": "from this model-based approach ( Bouchet et al., 2019 ). Environmental variables ( Table a ) define a new",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "High EKE relates to the",
+      "context_window": "Energy (EKE ; m/s) High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked",
+      "context_window": "variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016). A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked difference in summer distribution within the Greater North Sea, with a southern shift in the main concentrations of animals between 1994 and 2005.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As apex predators, cetaceans are an important component of marine biodiversity",
+      "context_window": "Cetaceans are distributed widely across the OSPAR Maritime Area, where thirty-six species have been recorded in recent history. As apex predators, cetaceans are an important component of marine biodiversity in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetaceans",
+      "context_window": "2022 Abundance and Distribution of Cetaceans Common Indicator Assessment OSPAR Commission, 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bouchet et al., 2019",
+      "context_window": "An extrapolation analysis in environmental space was undertaken to assess the robustness of predictions from this model-based approach ( Bouchet et al., 2019 ). Environmental variables ( Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "following a data call from OSPAR in 2021 (",
+      "context_window": "e.g. , ObSERVE) were collated following a data call from OSPAR in 2021 ( Figure a and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variables might indirectly influence the presence of porpoises through determining the presence and",
+      "context_window": "2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015). Oceanographic variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016). A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021) and decreasing numbers in the northern North Sea (Øien, 1999, 2005, 2010,",
+      "context_window": ", Gilles et al., 2009, 2011; Haelters et al., 2011; Scheidat et al., 2012; Peschko et al., 2016, Nachtsheim et al. 2021) and decreasing numbers in the northern North Sea (Øien, 1999, 2005, 2010, Hammond et al., 2013, 2021). The shift in harbour porpoise distribution is believed to be related to changes",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of nutrients and enhanced primary",
+      "context_window": "High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary production, which induce prey aggregation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on reproduction and immune function, to mortality. Effects may manifest at population level",
+      "context_window": "Cetaceans are subject to a range of human pressures, some of which have been shown to have negative impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Marine Mammals Thematic",
+      "context_window": "(Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic Assessment .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Other pressures such as chemical and noise pollution affect individual animals, though the impact",
+      "context_window": "Marine Mammal By-catch (Harbour Porpoise, Common Dolphin, Grey Seal ). Other pressures such as chemical and noise pollution affect individual animals, though the impact of these sub-lethal stress effects at the population level, independently and in combination, is not yet fully understood.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", sea surface temperature;",
+      "context_window": "bathymetry) and oceanographic variables ( e.g. , sea surface temperature; Table a ). The model was used to",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Abundance and Distribution of Cetaceans Common Indicator Assessment OSPAR Commission, 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substances. The assessment is based on updated abundance estimates from the Intermediate Assessment",
+      "context_window": "included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment 2017, and a modelling approach integrating the IA 2017 data with regional survey data for wide ranging species up to 2020.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "challenging for wide-ranging and highly mobile species: for example, the decrease in long-finned pilot whales",
+      "context_window": "enable consistent monitoring and interpretation of variations in abundance over time. This is clearly challenging for wide-ranging and highly mobile species: for example, the decrease in long-finned pilot whales and the increase in offshore bottlenose dolphins between 2005 / 2007 and 2016 are too large in magnitude for closed populations.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status, such as food web integrity.",
+      "context_window": "in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental status, such as food web integrity. Many cetaceans are widely dispersed oceanic species that are rarely detected and very difficult to monitor.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ Abundance and Distribution of Cetaceans 2 Contents",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetry) and oceanographic variables (",
+      "context_window": "e.g. , bathymetry) and oceanographic variables ( e.g. , sea surface temperature;",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "development of eddies, upwelling",
+      "context_window": "m/s) High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary production, which induce prey",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "informed by data and more by assumptions embedded in modelling choices.",
+      "context_window": "). In practice, model-based predictions that are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less informed by data and more by assumptions embedded in modelling choices. Harbour porpoise (small toothed-cetacean species group) Harbour porpoises are distributed throughout the shelf waters of the Greater North Sea, Celtic Seas and the",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predicted density distribution in the North-East Atlantic Ocean.",
+      "context_window": "Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been analysed using models that relate the density of species to features of their habitat to produce maps of predicted density distribution in the North-East Atlantic Ocean. Cetaceans are distributed widely across this area and the relatively small amount of overlap in predicted high-use areas highlights how the different",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water",
+      "context_window": "The area around the northern border of the Kattegat / Belt Sea probably contains a mix of two different populations (Sveegaard et al., 2015). The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water depth, surface salinity, temperature differences within the water column, eddy activity, current speed, OSPAR Commission, 2022",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depth, surface salinity, temperature differences within the water column, eddy activity, current speed,",
+      "context_window": "Kattegat / Belt Sea probably contains a mix of two different populations (Sveegaard et al., 2015). The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water depth, surface salinity, temperature differences within the water column, eddy activity, current speed, OSPAR Commission, 2022 17",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetacean abundance and distribution are key indicators of environmental",
+      "context_window": "As apex predators, cetaceans are an important component of marine biodiversity in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental status, such as food web integrity. Many cetaceans are widely dispersed oceanic species that are rarely",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023/indicator-assessments/abundance-distribution-cetaceans/",
+      "context_window": "Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ Abundance and Distribution of Cetaceans 2",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ranging over a larger area; and oceanic or offshore.",
+      "context_window": "subdivided into two groups (coastal and offshore) in future assessments the species could be divided into three groups related to their patterns of mobility and habitat use: truly resident in a small area; coastal - ranging over a larger area; and oceanic or offshore. The connectivity between the different groups is poorly understood, although they are considered to be distinct populations.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been analysed to provide abundance estimates, and trends when possible.",
+      "context_window": "species utilise the marine area in different ways, at least in summer. These and other similar data have been analysed to provide abundance estimates, and trends when possible. Abundance and Distribution of Cetaceans 4",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provide information about distribution and occurrence, such as with harbour porpoise, for which stranding",
+      "context_window": "animals (Authier et al., 2014; Ten Doeschate et al., 2018; ICES 2021). In some cases, strandings data can provide information about distribution and occurrence, such as with harbour porpoise, for which stranding numbers inclined steeply in the Southern North Sea due to a shift in distribution, with a relatively high level of strandings to date (IJsseldijk et al., 2020).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Maritime Area between 2005 and 2020.",
+      "context_window": "). Data were collected on dedicated line- transect surveys (either aerial or ship-based) using a distance sampling protocol, that took place within the OSPAR Maritime Area between 2005 and 2020. The first SCANS survey in 1994 focused on the Greater North Sea subregion but also covering part of the Celtic Seas subregion (",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A possible explanation for the decrease may",
+      "context_window": "A quantitative assessment against the threshold was not carried out as no trend was estimated on only two estimates. A possible explanation for the decrease may be excessive",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coarseness of surface sediments, seabed slope and ship density have been identified as relevant influencing",
+      "context_window": "OSPAR Commission, 2022 17 coarseness of surface sediments, seabed slope and ship density have been identified as relevant influencing factors, although the interactions depend on the area and habitat type (Pierpoint, 2008; Marubini et al., 2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure p",
+      "context_window": "within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021; Figure p ). Minke whale (baleen whale species group)",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure x: Sightings of Risso’s dolphin in 2016.",
+      "context_window": "Abundance and Distribution of Cetaceans 30 Figure x: Sightings of Risso’s dolphin in 2016. Figure y: Sightings of long-finned pilot whales in 2016. OSPAR Commission, 2022",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure o: (A) Average map of predicted distribution of offshore bottlenose dolphins in July between 2005 and",
+      "context_window": "24 Figure n: Sightings of white-sided dolphin in 2016. Figure o: (A) Average map of predicted distribution of offshore bottlenose dolphins in July between 2005 and 2020. OSPAR Commission, 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetaceans are subject to a range of human pressures, some of which have been shown to have negative",
+      "context_window": "areas of low abundance and / or patchy distribution (Hammond et al., 2014). Human pressures Cetaceans are subject to a range of human pressures, some of which have been shown to have negative impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_abun_dist_msfd_202 2_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "locations, mixing of water and is",
+      "context_window": "Variability over time and horizontal gradients of SST reveal front locations, mixing of water and is associated with enhanced primary production and prey aggregations",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021;",
+      "context_window": "Within the OSPAR Maritime Area, they are generally found only within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021; Figure p ).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "The collation and regular update of data from other large-scale surveys, and their careful analysis with robust models, will help address knowledge gaps in the future. Abundance and Distribution of Cetaceans 36 More than half of the coastal bottlenose dolphin AUs could not be quantitatively assessed because of a lack",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase between 1994 and 2016 (",
+      "context_window": "Figure c ) which has been surveyed three times. The design-based abundance estimates show a slight increase between 1994 and 2016 ( Table d ), but the trend was not significant using the robust method for",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "Indicator Assessment for this species of small toothed-cetacean was only possible for the North Sea AU ( Figure c ) which has been surveyed three times. The design-based abundance estimates show a slight increase between 1994 and 2016 (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subdivided into two groups (coastal and offshore) in future assessments the species could be divided into",
+      "context_window": "Defining AUs at an appropriate scale for bottlenose dolphin is challenging. While the bottlenose dolphin was subdivided into two groups (coastal and offshore) in future assessments the species could be divided into three groups related to their patterns of mobility and habitat use: truly resident in a small area; coastal - ranging over a larger area; and oceanic or offshore.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "OSPAR Commission, 2022 1 Abundance and Distribution of Cetaceans OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decline",
+      "context_window": "). This decline may be",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "García-Barón et al., (2019) evidenced higher densities of fin whale in deep",
+      "context_window": "They are rarely seen in the Greater North Sea but are commonly sighted in the Celtic Seas and Bay of Biscay and Iberian Coast (Figure w). García-Barón et al., (2019) evidenced higher densities of fin whale in deep waters of the Bay of Biscay, associated with moderate sea surface temperature, a positive sea level anomaly and high chlorophyll a concentration. Data spanning the past 30 years do not indicate any changes in",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "context_window": "Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil Hammond, Maite Louzao, Emer Rogan, Camilo Saavedra, Signe Sveegard, António Teixeira. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "slopes induce enhanced primary",
+      "context_window": "Slope (rad) Associated with currents, high slopes induce enhanced primary production or prey aggregation Aspect (rad)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 849/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil",
+      "context_window": "Contributor Lead authors: Steve Geelhoed, Matthieu Authier. Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil Hammond, Maite Louzao, Emer Rogan, Camilo Saavedra, Signe Sveegard, António Teixeira. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When abundance estimates come from models fitted to these data to generate a density surface (Miller et",
+      "context_window": "e.g. , Hammond et al., 2013; 2021). When abundance estimates come from models fitted to these data to generate a density surface (Miller et al., 2013) from which abundance is derived; these are known as model-based estimates ( e.g.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For most species, only two abundance estimates are currently available so a robust assessment of a trend",
+      "context_window": ", CODA, 2009; Hammond et al., 2002, 2013). For most species, only two abundance estimates are currently available so a robust assessment of a trend involving change from a baseline is not possible. For harbour porpoise and white-beaked dolphin in the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals",
+      "context_window": "Quality Status Report 2010 and Intermediate Assessment 2017 No comparable quantitative assessment of the distribution and abundance of wide-ranging cetaceans was included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For short-beaked common dolphin, white-beaked dolphin and minke whale the abundance estimate in 2016",
+      "context_window": "A large decline in harbour porpoise abundance was apparent between the 2005 and 2016 estimates in the Celtic and Irish Seas AU. For short-beaked common dolphin, white-beaked dolphin and minke whale the abundance estimate in 2016 is similar to the estimate in 2005 / 2007. For offshore bottlenose dolphins, a large increase in abundance is",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mediterranean Sea; Panigada et al., 2008).",
+      "context_window": "Striped dolphin (small toothed-cetacean species group) Striped dolphins have been found to prefer specific water temperatures (such as 21–24°C within the Mediterranean Sea; Panigada et al., 2008). Within the OSPAR Maritime Area, they are generally found only within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance",
+      "context_window": "Extrapolation analysis thus allows to assess the robustness of model predictions by quantifying how much the latter are informed by these data. Abundance Abundance of animals per species AU has mostly been estimated using data collected from large-scale purpose-designed aerial or shipboard surveys using line-transect distance sampling methods (Buckland et al.,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "central North Atlantic waters and the Norwegian ‘mosaic’ NILS surveys that cover the North- East North",
+      "context_window": "For species with an offshore distribution that occur outside the Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, coordination with other survey programmes such as the six-yearly NASS surveys in central North Atlantic waters and the Norwegian ‘mosaic’ NILS surveys that cover the North- East North Atlantic is desirable. Another option is to further pursue a coordinated approach to collate and standardise effort-related",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine",
+      "context_window": "Abundance and Distribution of Cetaceans OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous",
+      "context_window": "No comparable quantitative assessment of the distribution and abundance of wide-ranging cetaceans was included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment 2017, and a modelling approach integrating the IA 2017 data with regional survey data for wide ranging",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Geelhoed, S., Authier, M., Pigeault, R., Gilles, A.  2022. Abundance and Distribution of Cetaceans",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unidentified large whales (under the assumption that they correspond to fin whales), no change in",
+      "context_window": "large whales (Hammond et al., 2021). At the scale of the North-East Atlantic, and taking into account unidentified large whales (under the assumption that they correspond to fin whales), no change in abundance between 2007 and 2016 is evidenced (Hammond et al., 2021). Risso’s dolphin (deep-diver species group)",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of offshore bottlenose",
+      "context_window": "species with defined AUs (short-beaked common dolphin, white-beaked dolphin, minke whales, fin whales) no evidence of change in abundance was found in the available data. In the case of offshore bottlenose dolphins, a large increase in abundance between 2005 / 2007 and 2016 is suggested by the available evidence, although the causes behind such a large increase are unknown but require immigration as the",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA",
+      "context_window": "from dedicated aerial and shipboard surveys that used line-transect methodology to generate robust estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS- II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA (Cetacean Offshore Distribution and Abundance in the European Atlantic; CODA, 2009) and SCANS-III (Hammond et al., 2021).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "Citation Geelhoed, S., Authier, M., Pigeault, R., Gilles, A.  2022. Abundance and Distribution of Cetaceans . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure l: Sightings of short-beaked common dolphin in 2016.",
+      "context_window": "OSPAR Commission, 2022 23 Figure l: Sightings of short-beaked common dolphin in 2016. Figure m: Sightings of white-beaked dolphin in 2016. Abundance and Distribution of Cetaceans",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS-",
+      "context_window": "The data used to infer distribution and to estimate abundance of wide-ranging species were mostly derived from dedicated aerial and shipboard surveys that used line-transect methodology to generate robust estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS- II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA (Cetacean Offshore Distribution and Abundance in the European Atlantic; CODA, 2009) and SCANS-III",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "systematic aerial surveys generating robust information for the southern and central North Sea (Gilles et al.,",
+      "context_window": "organised only four times: SCANS in 1994, 2005 and 2016; CODA in 2007; A fourth SCANS survey is currently considered for the summer 2022. Although there have been some additional valuable and more frequent systematic aerial surveys generating robust information for the southern and central North Sea (Gilles et al., 2016, Nachtsheim et al. 2021), in general the time series of coordinated purpose-designed surveys for",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "White-sided dolphins are found in temperate and sub-arctic waters, where they mainly occur along the slope",
+      "context_window": "beaked dolphin does not appear to have changed since 1994 (Hammond et al., 2002, 2013, 2021). White-sided dolphin (small toothed-cetacean species group) White-sided dolphins are found in temperate and sub-arctic waters, where they mainly occur along the slope of the continental shelf at depths of 100-500 m (Reid et al., 2003). They are distributed in the western part",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea surface",
+      "context_window": "9 Oceanographic Sea surface temperature (SST) mean (°C)",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information on the presence at sea of offshore species, and it is not possible to use these data to infer",
+      "context_window": "the SCANS surveys (Hammond et al., 2002, 2013, 2021). Data on strandings have been recorded for more than 100 years, but these can provide only very limited information on the presence at sea of offshore species, and it is not possible to use these data to infer population trends without additional information on causes of death, search effort and drifting of dead animals (Authier et al., 2014; Ten Doeschate et al., 2018; ICES 2021).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical power to detect changes (Authier et al., 2020).",
+      "context_window": "assessments will require additional abundance estimates. To assess trends, it is necessary to consider the statistical power to detect changes (Authier et al., 2020). For coastal bottlenose dolphins, monitoring in several populations within AUs has been ongoing for long enough to enable an assessment of trends, while in others there are currently too few data available over a",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results URL",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been",
+      "context_window": "). Data from the systematic large-scale surveys (e.g., Small Cetaceans in the European Atlantic and North Sea SCANS in 1994; SCANS-II in 2005, SCANS-III in 2016; Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been analysed using models that relate the density of species to features of their habitat to produce maps of predicted density distribution in the North-East Atlantic Ocean.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less",
+      "context_window": "Figure j ). In practice, model-based predictions that are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less informed by data and more by assumptions embedded in modelling choices. Harbour porpoise (small toothed-cetacean species group)",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure y: Sightings of long-finned pilot whales in 2016.",
+      "context_window": "30 Figure x: Sightings of Risso’s dolphin in 2016. Figure y: Sightings of long-finned pilot whales in 2016. OSPAR Commission, 2022 31",
+      "page_number": 30,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of",
+      "context_window": "impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The latter can be converted to threshold values that are an annual rate of decline in abundance that must",
+      "context_window": "available or the closest to the date of the Habitats Directive (Council Directive 92 / 43 / EEC)), with (i) no absolute decrease of more than 30% and (ii) a rate of decrease no greater than 30% over three generations. The latter can be converted to threshold values that are an annual rate of decline in abundance that must not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments will require additional abundance estimates.",
+      "context_window": "To assess trends, at least three abundance estimates are required over a relevant time scale. Robust assessments will require additional abundance estimates. To assess trends, it is necessary to consider the statistical power to detect changes (Authier et al., 2020).",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanographic",
+      "context_window": "OSPAR Commission, 2022 9 Oceanographic Sea surface temperature",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A suite of physiographic and oceanographic covariates (",
+      "context_window": "Density surface models have been used to predict the distribution of those species for which sufficient data are available from large-scale purpose-designed surveys. A suite of physiographic and oceanographic covariates ( Table a ) was used to model, with data collated by",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental covariates used in modelling included physiographic predictors (",
+      "context_window": "Distribution maps were generated from a density surface model approach (Miller et al., 2013) fitted to the collated data by OSPAR. Environmental covariates used in modelling included physiographic predictors ( e.g. ,",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The annual rates of decline, if sustained over",
+      "context_window": "The latter can be converted to threshold values that are an annual rate of decline in abundance that must not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over Abundance and Distribution of Cetaceans 14",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Environmental variables (",
+      "context_window": "from this model-based approach ( Bouchet et al., 2019 ). Environmental variables ( Table a ) define a new",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked",
+      "context_window": "variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016). A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked difference in summer distribution within the Greater North Sea, with a southern shift in the main concentrations of animals between 1994 and 2005.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetaceans",
+      "context_window": "2022 Abundance and Distribution of Cetaceans Common Indicator Assessment OSPAR Commission, 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "following a data call from OSPAR in 2021 (",
+      "context_window": "e.g. , ObSERVE) were collated following a data call from OSPAR in 2021 ( Figure a and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2021) and decreasing numbers in the northern North Sea (Øien, 1999, 2005, 2010,",
+      "context_window": ", Gilles et al., 2009, 2011; Haelters et al., 2011; Scheidat et al., 2012; Peschko et al., 2016, Nachtsheim et al. 2021) and decreasing numbers in the northern North Sea (Øien, 1999, 2005, 2010, Hammond et al., 2013, 2021). The shift in harbour porpoise distribution is believed to be related to changes",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on reproduction and immune function, to mortality. Effects may manifest at population level",
+      "context_window": "Cetaceans are subject to a range of human pressures, some of which have been shown to have negative impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Other pressures such as chemical and noise pollution affect individual animals, though the impact",
+      "context_window": "Marine Mammal By-catch (Harbour Porpoise, Common Dolphin, Grey Seal ). Other pressures such as chemical and noise pollution affect individual animals, though the impact of these sub-lethal stress effects at the population level, independently and in combination, is not yet fully understood.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Abundance and Distribution of Cetaceans Common Indicator Assessment OSPAR Commission, 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "challenging for wide-ranging and highly mobile species: for example, the decrease in long-finned pilot whales",
+      "context_window": "enable consistent monitoring and interpretation of variations in abundance over time. This is clearly challenging for wide-ranging and highly mobile species: for example, the decrease in long-finned pilot whales and the increase in offshore bottlenose dolphins between 2005 / 2007 and 2016 are too large in magnitude for closed populations.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ Abundance and Distribution of Cetaceans 2 Contents",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "development of eddies, upwelling",
+      "context_window": "m/s) High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary production, which induce prey",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predicted density distribution in the North-East Atlantic Ocean.",
+      "context_window": "Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been analysed using models that relate the density of species to features of their habitat to produce maps of predicted density distribution in the North-East Atlantic Ocean. Cetaceans are distributed widely across this area and the relatively small amount of overlap in predicted high-use areas highlights how the different",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depth, surface salinity, temperature differences within the water column, eddy activity, current speed,",
+      "context_window": "Kattegat / Belt Sea probably contains a mix of two different populations (Sveegaard et al., 2015). The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water depth, surface salinity, temperature differences within the water column, eddy activity, current speed, OSPAR Commission, 2022 17",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023/indicator-assessments/abundance-distribution-cetaceans/",
+      "context_window": "Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr- 2023/indicator-assessments/abundance-distribution-cetaceans/ Abundance and Distribution of Cetaceans 2",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been analysed to provide abundance estimates, and trends when possible.",
+      "context_window": "species utilise the marine area in different ways, at least in summer. These and other similar data have been analysed to provide abundance estimates, and trends when possible. Abundance and Distribution of Cetaceans 4",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Maritime Area between 2005 and 2020.",
+      "context_window": "). Data were collected on dedicated line- transect surveys (either aerial or ship-based) using a distance sampling protocol, that took place within the OSPAR Maritime Area between 2005 and 2020. The first SCANS survey in 1994 focused on the Greater North Sea subregion but also covering part of the Celtic Seas subregion (",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coarseness of surface sediments, seabed slope and ship density have been identified as relevant influencing",
+      "context_window": "OSPAR Commission, 2022 17 coarseness of surface sediments, seabed slope and ship density have been identified as relevant influencing factors, although the interactions depend on the area and habitat type (Pierpoint, 2008; Marubini et al., 2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure x: Sightings of Risso’s dolphin in 2016.",
+      "context_window": "Abundance and Distribution of Cetaceans 30 Figure x: Sightings of Risso’s dolphin in 2016. Figure y: Sightings of long-finned pilot whales in 2016. OSPAR Commission, 2022",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetaceans are subject to a range of human pressures, some of which have been shown to have negative",
+      "context_window": "areas of low abundance and / or patchy distribution (Hammond et al., 2014). Human pressures Cetaceans are subject to a range of human pressures, some of which have been shown to have negative impacts at the individual level, ranging from increased stress and higher energetic costs, through sub-lethal effects on reproduction and immune function, to mortality. Effects may manifest at population level",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "locations, mixing of water and is",
+      "context_window": "Variability over time and horizontal gradients of SST reveal front locations, mixing of water and is associated with enhanced primary production and prey aggregations",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "The collation and regular update of data from other large-scale surveys, and their careful analysis with robust models, will help address knowledge gaps in the future. Abundance and Distribution of Cetaceans 36 More than half of the coastal bottlenose dolphin AUs could not be quantitatively assessed because of a lack",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c",
+      "context_window": "Indicator Assessment for this species of small toothed-cetacean was only possible for the North Sea AU ( Figure c ) which has been surveyed three times. The design-based abundance estimates show a slight increase between 1994 and 2016 (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decline",
+      "context_window": "). This decline may be",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "context_window": "Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil Hammond, Maite Louzao, Emer Rogan, Camilo Saavedra, Signe Sveegard, António Teixeira. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 849/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When abundance estimates come from models fitted to these data to generate a density surface (Miller et",
+      "context_window": "e.g. , Hammond et al., 2013; 2021). When abundance estimates come from models fitted to these data to generate a density surface (Miller et al., 2013) from which abundance is derived; these are known as model-based estimates ( e.g.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals",
+      "context_window": "Quality Status Report 2010 and Intermediate Assessment 2017 No comparable quantitative assessment of the distribution and abundance of wide-ranging cetaceans was included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mediterranean Sea; Panigada et al., 2008).",
+      "context_window": "Striped dolphin (small toothed-cetacean species group) Striped dolphins have been found to prefer specific water temperatures (such as 21–24°C within the Mediterranean Sea; Panigada et al., 2008). Within the OSPAR Maritime Area, they are generally found only within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "central North Atlantic waters and the Norwegian ‘mosaic’ NILS surveys that cover the North- East North",
+      "context_window": "For species with an offshore distribution that occur outside the Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast, coordination with other survey programmes such as the six-yearly NASS surveys in central North Atlantic waters and the Norwegian ‘mosaic’ NILS surveys that cover the North- East North Atlantic is desirable. Another option is to further pursue a coordinated approach to collate and standardise effort-related",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous",
+      "context_window": "No comparable quantitative assessment of the distribution and abundance of wide-ranging cetaceans was included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment 2017, and a modelling approach integrating the IA 2017 data with regional survey data for wide ranging",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unidentified large whales (under the assumption that they correspond to fin whales), no change in",
+      "context_window": "large whales (Hammond et al., 2021). At the scale of the North-East Atlantic, and taking into account unidentified large whales (under the assumption that they correspond to fin whales), no change in abundance between 2007 and 2016 is evidenced (Hammond et al., 2021). Risso’s dolphin (deep-diver species group)",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA",
+      "context_window": "from dedicated aerial and shipboard surveys that used line-transect methodology to generate robust estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS- II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA (Cetacean Offshore Distribution and Abundance in the European Atlantic; CODA, 2009) and SCANS-III (Hammond et al., 2021).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure l: Sightings of short-beaked common dolphin in 2016.",
+      "context_window": "OSPAR Commission, 2022 23 Figure l: Sightings of short-beaked common dolphin in 2016. Figure m: Sightings of white-beaked dolphin in 2016. Abundance and Distribution of Cetaceans",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "systematic aerial surveys generating robust information for the southern and central North Sea (Gilles et al.,",
+      "context_window": "organised only four times: SCANS in 1994, 2005 and 2016; CODA in 2007; A fourth SCANS survey is currently considered for the summer 2022. Although there have been some additional valuable and more frequent systematic aerial surveys generating robust information for the southern and central North Sea (Gilles et al., 2016, Nachtsheim et al. 2021), in general the time series of coordinated purpose-designed surveys for",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea surface",
+      "context_window": "9 Oceanographic Sea surface temperature (SST) mean (°C)",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical power to detect changes (Authier et al., 2020).",
+      "context_window": "assessments will require additional abundance estimates. To assess trends, it is necessary to consider the statistical power to detect changes (Authier et al., 2020). For coastal bottlenose dolphins, monitoring in several populations within AUs has been ongoing for long enough to enable an assessment of trends, while in others there are currently too few data available over a",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been",
+      "context_window": "). Data from the systematic large-scale surveys (e.g., Small Cetaceans in the European Atlantic and North Sea SCANS in 1994; SCANS-II in 2005, SCANS-III in 2016; Cetacean Offshore Distribution and Abundance in the European Atlantic CODA in 2007; etc.) have been analysed using models that relate the density of species to features of their habitat to produce maps of predicted density distribution in the North-East Atlantic Ocean.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure y: Sightings of long-finned pilot whales in 2016.",
+      "context_window": "30 Figure x: Sightings of Risso’s dolphin in 2016. Figure y: Sightings of long-finned pilot whales in 2016. OSPAR Commission, 2022 31",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less",
+      "context_window": "Figure j ). In practice, model-based predictions that are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less informed by data and more by assumptions embedded in modelling choices. Harbour porpoise (small toothed-cetacean species group)",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results URL",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information on the presence at sea of offshore species, and it is not possible to use these data to infer",
+      "context_window": "the SCANS surveys (Hammond et al., 2002, 2013, 2021). Data on strandings have been recorded for more than 100 years, but these can provide only very limited information on the presence at sea of offshore species, and it is not possible to use these data to infer population trends without additional information on causes of death, search effort and drifting of dead animals (Authier et al., 2014; Ten Doeschate et al., 2018; ICES 2021).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "White-sided dolphins are found in temperate and sub-arctic waters, where they mainly occur along the slope",
+      "context_window": "beaked dolphin does not appear to have changed since 1994 (Hammond et al., 2002, 2013, 2021). White-sided dolphin (small toothed-cetacean species group) White-sided dolphins are found in temperate and sub-arctic waters, where they mainly occur along the slope of the continental shelf at depths of 100-500 m (Reid et al., 2003). They are distributed in the western part",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS-",
+      "context_window": "The data used to infer distribution and to estimate abundance of wide-ranging species were mostly derived from dedicated aerial and shipboard surveys that used line-transect methodology to generate robust estimates of abundance: SCANS (Small Cetacean Abundance in the North Sea; Hammond et al., 2002), SCANS- II (Small Cetacean Abundance in the European Atlantic and North Sea; Hammond et al., 2013), CODA (Cetacean Offshore Distribution and Abundance in the European Atlantic; CODA, 2009) and SCANS-III",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "Citation Geelhoed, S., Authier, M., Pigeault, R., Gilles, A.  2022. Abundance and Distribution of Cetaceans . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of offshore bottlenose",
+      "context_window": "species with defined AUs (short-beaked common dolphin, white-beaked dolphin, minke whales, fin whales) no evidence of change in abundance was found in the available data. In the case of offshore bottlenose dolphins, a large increase in abundance between 2005 / 2007 and 2016 is suggested by the available evidence, although the causes behind such a large increase are unknown but require immigration as the",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Geelhoed, S., Authier, M., Pigeault, R., Gilles, A.  2022. Abundance and Distribution of Cetaceans",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Convention for the Protection of the Marine",
+      "context_window": "Abundance and Distribution of Cetaceans OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance",
+      "context_window": "Extrapolation analysis thus allows to assess the robustness of model predictions by quantifying how much the latter are informed by these data. Abundance Abundance of animals per species AU has mostly been estimated using data collected from large-scale purpose-designed aerial or shipboard surveys using line-transect distance sampling methods (Buckland et al.,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For short-beaked common dolphin, white-beaked dolphin and minke whale the abundance estimate in 2016",
+      "context_window": "A large decline in harbour porpoise abundance was apparent between the 2005 and 2016 estimates in the Celtic and Irish Seas AU. For short-beaked common dolphin, white-beaked dolphin and minke whale the abundance estimate in 2016 is similar to the estimate in 2005 / 2007. For offshore bottlenose dolphins, a large increase in abundance is",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For most species, only two abundance estimates are currently available so a robust assessment of a trend",
+      "context_window": ", CODA, 2009; Hammond et al., 2002, 2013). For most species, only two abundance estimates are currently available so a robust assessment of a trend involving change from a baseline is not possible. For harbour porpoise and white-beaked dolphin in the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil",
+      "context_window": "Contributor Lead authors: Steve Geelhoed, Matthieu Authier. Supporting author: Rémi Pigeault (data analyses), Anita Gilles. Julia Carlström, Jan Haelters, Phil Hammond, Maite Louzao, Emer Rogan, Camilo Saavedra, Signe Sveegard, António Teixeira. Supported by: OSPAR Marine Mammal Expert Group (OMMEG), Intersessional Correspondence",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "slopes induce enhanced primary",
+      "context_window": "Slope (rad) Associated with currents, high slopes induce enhanced primary production or prey aggregation Aspect (rad)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "García-Barón et al., (2019) evidenced higher densities of fin whale in deep",
+      "context_window": "They are rarely seen in the Greater North Sea but are commonly sighted in the Celtic Seas and Bay of Biscay and Iberian Coast (Figure w). García-Barón et al., (2019) evidenced higher densities of fin whale in deep waters of the Bay of Biscay, associated with moderate sea surface temperature, a positive sea level anomaly and high chlorophyll a concentration. Data spanning the past 30 years do not indicate any changes in",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "OSPAR Commission, 2022 1 Abundance and Distribution of Cetaceans OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subdivided into two groups (coastal and offshore) in future assessments the species could be divided into",
+      "context_window": "Defining AUs at an appropriate scale for bottlenose dolphin is challenging. While the bottlenose dolphin was subdivided into two groups (coastal and offshore) in future assessments the species could be divided into three groups related to their patterns of mobility and habitat use: truly resident in a small area; coastal - ranging over a larger area; and oceanic or offshore.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase between 1994 and 2016 (",
+      "context_window": "Figure c ) which has been surveyed three times. The design-based abundance estimates show a slight increase between 1994 and 2016 ( Table d ), but the trend was not significant using the robust method for",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021;",
+      "context_window": "Within the OSPAR Maritime Area, they are generally found only within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021; Figure p ).",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_abun_dist_msfd_202 2_06/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure o: (A) Average map of predicted distribution of offshore bottlenose dolphins in July between 2005 and",
+      "context_window": "24 Figure n: Sightings of white-sided dolphin in 2016. Figure o: (A) Average map of predicted distribution of offshore bottlenose dolphins in July between 2005 and 2020. OSPAR Commission, 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure p",
+      "context_window": "within the southern part of the Celtic Seas and in the Bay of Biscay and Iberian Coast, primarily in waters off the continental shelf (CODA, 2009; Laran et al. 2017; Hammond et al. 2021; Figure p ). Minke whale (baleen whale species group)",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A possible explanation for the decrease may",
+      "context_window": "A quantitative assessment against the threshold was not carried out as no trend was estimated on only two estimates. A possible explanation for the decrease may be excessive",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provide information about distribution and occurrence, such as with harbour porpoise, for which stranding",
+      "context_window": "animals (Authier et al., 2014; Ten Doeschate et al., 2018; ICES 2021). In some cases, strandings data can provide information about distribution and occurrence, such as with harbour porpoise, for which stranding numbers inclined steeply in the Southern North Sea due to a shift in distribution, with a relatively high level of strandings to date (IJsseldijk et al., 2020).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ranging over a larger area; and oceanic or offshore.",
+      "context_window": "subdivided into two groups (coastal and offshore) in future assessments the species could be divided into three groups related to their patterns of mobility and habitat use: truly resident in a small area; coastal - ranging over a larger area; and oceanic or offshore. The connectivity between the different groups is poorly understood, although they are considered to be distinct populations.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cetacean abundance and distribution are key indicators of environmental",
+      "context_window": "As apex predators, cetaceans are an important component of marine biodiversity in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental status, such as food web integrity. Many cetaceans are widely dispersed oceanic species that are rarely",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water",
+      "context_window": "The area around the northern border of the Kattegat / Belt Sea probably contains a mix of two different populations (Sveegaard et al., 2015). The presence of harbour porpoises is influenced by oceanographic and human pressure variables. Water depth, surface salinity, temperature differences within the water column, eddy activity, current speed, OSPAR Commission, 2022",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "informed by data and more by assumptions embedded in modelling choices.",
+      "context_window": "). In practice, model-based predictions that are extrapolations (both in environmental and geographical space) are intrinsically more fragile because less informed by data and more by assumptions embedded in modelling choices. Harbour porpoise (small toothed-cetacean species group) Harbour porpoises are distributed throughout the shelf waters of the Greater North Sea, Celtic Seas and the",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetry) and oceanographic variables (",
+      "context_window": "e.g. , bathymetry) and oceanographic variables ( e.g. , sea surface temperature;",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status, such as food web integrity.",
+      "context_window": "in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental status, such as food web integrity. Many cetaceans are widely dispersed oceanic species that are rarely detected and very difficult to monitor.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substances. The assessment is based on updated abundance estimates from the Intermediate Assessment",
+      "context_window": "included in the Quality Status Report 2010. The report highlighted human pressures on marine mammals more generally, such as by-catch, increased shipping and bioaccumulation of persistent hazardous substances. The assessment is based on updated abundance estimates from the Intermediate Assessment 2017, and a modelling approach integrating the IA 2017 data with regional survey data for wide ranging species up to 2020.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", sea surface temperature;",
+      "context_window": "bathymetry) and oceanographic variables ( e.g. , sea surface temperature; Table a ). The model was used to",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Marine Mammals Thematic",
+      "context_window": "(Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic Assessment .",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of nutrients and enhanced primary",
+      "context_window": "High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary production, which induce prey aggregation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variables might indirectly influence the presence of porpoises through determining the presence and",
+      "context_window": "2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015). Oceanographic variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016). A comparison of harbour porpoise distribution between the SCANS and SCANS-II data sets showed a marked",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bouchet et al., 2019",
+      "context_window": "An extrapolation analysis in environmental space was undertaken to assess the robustness of predictions from this model-based approach ( Bouchet et al., 2019 ). Environmental variables ( Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As apex predators, cetaceans are an important component of marine biodiversity",
+      "context_window": "Cetaceans are distributed widely across the OSPAR Maritime Area, where thirty-six species have been recorded in recent history. As apex predators, cetaceans are an important component of marine biodiversity in the North-East Atlantic Ocean. Cetacean abundance and distribution are key indicators of environmental",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "High EKE relates to the",
+      "context_window": "Energy (EKE ; m/s) High EKE relates to the development of eddies, upwelling of nutrients and enhanced primary",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanographic",
+      "context_window": "factors, although the interactions depend on the area and habitat type (Pierpoint, 2008; Marubini et al., 2009; Embling et al., 2010; Isojunno et al., 2012; Booth et al., 2013; Heinänen and Skov, 2015). Oceanographic variables might indirectly influence the presence of porpoises through determining the presence and abundance of their prey (Gilles et al., 2016).",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species utilise the marine area in different ways, at least in summer.",
+      "context_window": "Cetaceans are distributed widely across this area and the relatively small amount of overlap in predicted high-use areas highlights how the different species utilise the marine area in different ways, at least in summer. These and other similar data have been analysed to provide abundance estimates, and trends when possible.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Density surface models have been used to predict the distribution of those species for which sufficient data",
+      "context_window": "Metrics Species Distribution Density surface models have been used to predict the distribution of those species for which sufficient data are available from large-scale purpose-designed surveys. A suite of physiographic and oceanographic covariates (",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To assess trends, at least three abundance estimates are required over a relevant time scale.",
+      "context_window": "A trend is quantified as the percentage change (in abundance) over a specified time period (Link and Sauer 1997). To assess trends, at least three abundance estimates are required over a relevant time scale. Robust assessments will require additional abundance estimates.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "drivers, pressures and activities impacting marine mammals is given in",
+      "context_window": "effects on reproduction and immune function, to mortality. Effects may manifest at population level (Hammond et al., 2008; MAGRAMA, 2012; JNCC, 2013; Pirotta et al., 2018; ICES 2019). An overview of drivers, pressures and activities impacting marine mammals is given in The Marine Mammals Thematic Assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Abundance and Distribution of Cetaceans",
+      "context_window": "not be exceeded without having to wait for three generations. The annual rates of decline, if sustained over Abundance and Distribution of Cetaceans 14 three generations, will lead to 30% decline in abundance.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 45,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 78,
+      "end_sentence": 85,
+      "sentence_count": 8,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "Harbour porpoise distribution shifted southward within the Greater North Sea.",
+          "full_length": 77
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Abundance appears stable",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "except for a decline in the Irish and Celtic Seas.",
+          "full_length": 50
+        },
+        {
+          "sentence_id": 82,
+          "page_number": 3,
+          "content": "Assessed populations of coastal bottlenose dolphin appear",
+          "full_length": 57
+        }
+      ],
+      "total_sentences_in_section": 8
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 1702,
+      "end_sentence": 1720,
+      "sentence_count": 19,
+      "page_range": "34-34",
+      "sentences": [
+        {
+          "sentence_id": 1702,
+          "page_number": 34,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1703,
+          "page_number": 34,
+          "content": "Cetaceans are widely distributed in a range of habitats and are overall abundant throughout the OSPA...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 1704,
+          "page_number": 34,
+          "content": "Maritime Area.",
+          "full_length": 14
+        },
+        {
+          "sentence_id": 1705,
+          "page_number": 34,
+          "content": "For most species there are less than two comparable estimates of abundance and a robust",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 1706,
+          "page_number": 34,
+          "content": "trend assessment is not possible.",
+          "full_length": 33
+        }
+      ],
+      "total_sentences_in_section": 19
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 1721,
+      "end_sentence": 1740,
+      "sentence_count": 20,
+      "page_range": "34-35",
+      "sentences": [
+        {
+          "sentence_id": 1721,
+          "page_number": 34,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1722,
+          "page_number": 34,
+          "content": "In the Greater North Sea subregion, only harbour porpoise, white-beaked dolphin and minke whale have",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 1723,
+          "page_number": 34,
+          "content": "more than two estimates of abundance, but there is no evidence that numbers have declined (or increa...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 1724,
+          "page_number": 34,
+          "content": "since 1994.",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 1725,
+          "page_number": 34,
+          "content": "However, only for the harbour porpoise does this subregion maps to a species’ AU.",
+          "full_length": 81
+        }
+      ],
+      "total_sentences_in_section": 20
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1897,
+      "end_sentence": 2319,
+      "sentence_count": 423,
+      "page_range": "37-43",
+      "sentences": [
+        {
+          "sentence_id": 1897,
+          "page_number": 37,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1898,
+          "page_number": 37,
+          "content": "Amstrup, S.C., McDonald, T.L., Manly, B.J.F. 2010. Handbook of Capture-Recapture Analysis. Princeton",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 1899,
+          "page_number": 37,
+          "content": "University Press. 1st Edition. 494 pages.",
+          "full_length": 41
+        },
+        {
+          "sentence_id": 1900,
+          "page_number": 37,
+          "content": "ASCOBANS, 2021. Mass Killing of the Atlantic White-sided Dolphin (",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 1901,
+          "page_number": 37,
+          "content": "Lagenorhynchus acutus",
+          "full_length": 21
+        }
+      ],
+      "total_sentences_in_section": 423
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2384,
+    "chunks_selected": 97,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 78,
+        "end_sentence": 85,
+        "sentence_count": 8
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 1702,
+        "end_sentence": 1720,
+        "sentence_count": 19
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 1721,
+        "end_sentence": 1740,
+        "sentence_count": 20
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1897,
+        "end_sentence": 2319,
+        "sentence_count": 423
+      }
+    ],
+    "total_excluded_sentences": 470
+  }
+}

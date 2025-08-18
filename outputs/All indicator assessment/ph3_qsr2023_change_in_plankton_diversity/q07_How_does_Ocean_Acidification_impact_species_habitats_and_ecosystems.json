@@ -1,0 +1,1387 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "atypical composition of phytoplankton communities. This relationship between pH and phytoplankton",
+      "context_window": "). In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC",
+      "context_window": "In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an",
+      "context_window": "Table e ). In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Further analysis is necessary to quantify phytoplankton’s contribution to",
+      "context_window": "diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas.",
+      "context_window": "both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast. Decrease in pH was also highly positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas. Nutrients (a proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "strategies and planning 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "plankton community composition can help improve our understanding of how sustained long-term and/or",
+      "context_window": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean. Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Even though trends for phytoplankton and zooplankton were non-significant, it is important to monitor",
+      "context_window": "Quality status of both habitats were categorised as “Not good” for this assessment. Even though trends for phytoplankton and zooplankton were non-significant, it is important to monitor both components to confirm whether trend trajectories will carry on into the future. Across the common",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plankton species composition and abundance are continuously influenced",
+      "context_window": "play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions. As a result, plankton community composition",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provisioning and cultural services ecosystems provide to humans.",
+      "context_window": "plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating,",
+      "context_window": "Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transfer to higher trophic levels.",
+      "context_window": "Like phytoplankton, zooplankton are also extremely diverse. By feeding on phytoplankton, zooplankton play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "patterns within pelagic habitat types for each OSPAR Region, relationships between pressures and the PH3",
+      "context_window": "Across the common indicator assessment and pilot assessments, it is also important to note that despite generally consistent patterns within pelagic habitat types for each OSPAR Region, relationships between pressures and the PH3 indicator are subject to vary by location. Table e: Integration of the indicator results for the Celtic Seas (common indicator), Greater North Sea",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend",
+      "context_window": "to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For phytoplankton, the quality status of coastal",
+      "context_window": "pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats,",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlighted by recent scientific literature in the field of diversity and conservation described in the previous",
+      "context_window": "The current assessment of the PH3 indicator has addressed many of the knowledge gaps discussed in the previous assessment for IA 2017. This assessment has also addressed many of the suggestions and gaps highlighted by recent scientific literature in the field of diversity and conservation described in the previous paragraph. These improvements to the PH3 indicator methodology were partially developed as part of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Link with the PH2 indicator “Changes in phytoplankton biomass” may help",
+      "context_window": "decrease of chlorophyll- a . Link with the PH2 indicator “Changes in phytoplankton biomass” may help understanding this relationship. Regarding the results and the explanations above, the quality status of",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "obtained and possibilities for an integrated overall pelagic habitat assessment result should be investigated",
+      "context_window": "Therefore, by combining the information from these three indicators, a more holistic assessment of plankton dynamics could be obtained and possibilities for an integrated overall pelagic habitat assessment result should be investigated further.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities , Changes in Phytoplankton and",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "towards atypical composition, linked to increasing salinity.",
+      "context_window": "Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and food web indicators should help to address changes in zooplankton community composition.",
+      "context_window": "driving these changes, however this will be resource dependent. Connection with other relevant pelagic and food web indicators should help to address changes in zooplankton community composition. OSPAR Commission 2023 27 of 35",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by changes in physical, chemical, and climatic conditions.",
+      "context_window": "transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions. As a result, plankton community composition fluctuates in space and over very short time scales (e.g., hours/days).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast.",
+      "context_window": "evidence for the impact of climate variables. Natural climate variability (e.g., AMO) was a strong link for both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast. Decrease in pH was also highly positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in community composition. Consequently, the dynamics of the plankton community, and its",
+      "context_window": "Since many species respond differently to changing environmental conditions, natural and human-induced pressures can drive changes in community composition. Consequently, the dynamics of the plankton community, and its structural attributes (e.g., diversity, dominance, size structure), will differ from those of natural (undisturbed) communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats is “Not good” whereas the quality status for zooplankton remained “unknown”.",
+      "context_window": "towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats, decreasing phosphate concentration is likely to be linked with downward trend towards atypical",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "Regions. These spatial and temporal confidence indices will be implemented in future assessments. Coherence of the methodology at a regional scale: Changes in Plankton Diversity Currently, common methodologies and taxonomic guides (Avancini et al",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dataset, and separately for zooplankton and phytoplankton.",
+      "context_window": "In this assessment, bimonthly plankton data from diverse sources were used (e.g., Continuous Plankton Recorder (CPR), microscopy counts, FlowCAM). Index computation was conducted separately for each dataset, and separately for zooplankton and phytoplankton. In addition, the computation of the indices was considered independently of the taxonomic level.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to their important and diverse roles in marine ecosystems, understanding plankton dynamics is",
+      "context_window": "structural attributes (e.g., diversity, dominance, size structure), will differ from those of natural (undisturbed) communities. Due to their important and diverse roles in marine ecosystems, understanding plankton dynamics is essential for ecosystem-based management. To help assess species dominance (the most abundant taxon in relation to other taxa) which often occurs in impacted areas (e.g., Bužančić",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause of the decrease of light penetration in the water column through the increase of organic particle",
+      "context_window": "Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle load. Links with the PH2 common indicator “ Changes in Phytoplankton Biomass and Zooplankton",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "complex patterns (e.g., predator-prey interactions and fluctuations in environmental parameters, especially",
+      "context_window": "more complex to interpret than for phytoplankton. A combination of effects may be responsible for such complex patterns (e.g., predator-prey interactions and fluctuations in environmental parameters, especially in coastal areas). Further investigation is required to draw connections with the pressures responsible for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "within the variable salinity habitats, which is related to an increase in the N:P ratio.",
+      "context_window": "only (2015–2019). In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "13.2 Integrate climate change measures into national policies, strategies and planning 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Habitats (",
+      "context_window": "Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities ,",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental conditions throughout the year, including seasonal changes in temperature, water column",
+      "context_window": "by local to large-scale processes. Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009). Other processes undergo cycles",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic",
+      "context_window": "A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts. Phytoplankton and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic variation (i.e., AMO). Here, decreasing AMO (i.e., towards cooler conditions) was the most important OSPAR Commission 2023",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic habitats: richness, evenness, and dominance.",
+      "context_window": "et al ., 2021). They recommended using three categories of indices to assess pelagic habitats: richness, evenness, and dominance. Recently, the importance of spatial and temporal scales for calculating indices has also been addressed (Francé",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton",
+      "context_window": "OSPAR Commission For a more robust assessment of the pelagic habitat, information on the community structure of phytoplankton should be",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and temporal confidence indices will address the sampling effort in the pelagic habitats within OSPAR",
+      "context_window": "The confidence of the results depends strongly on the homogeneity of sampling in space and time. Spatial and temporal confidence indices will address the sampling effort in the pelagic habitats within OSPAR Regions. These spatial and temporal confidence indices will be implemented in future assessments. Coherence of the methodology at a regional scale:",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variable salinity habitat and link to sinking mixed layer depth.",
+      "context_window": "nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic",
+      "context_window": "., 2013). Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton communities as it is the most sensitive index to changes in environmental conditions",
+      "context_window": "2013). In this assessment, the Menhinick Index was chosen for assessing species richness of both phytoplankton and zooplankton communities as it is the most sensitive index to changes in environmental conditions without differentiating natural and anthropogenic sources (Budria et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "context_window": "Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. OSPAR Commission 2023",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Linking of pressures with the EQR for phytoplankton in shelf",
+      "context_window": "of the AMO on plankton diversity, the relationship has remained “unknown”, as it varies from one region to another along with community composition. Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "offshore stations (e.g., variable salinity and coastal habitats).",
+      "context_window": "Knowledge Gaps For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including offshore stations (e.g., variable salinity and coastal habitats). Appropriate training of taxonomists and ringtesting as well as the integration of semi-automated sampling techniques are recommended for the",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR",
+      "context_window": "variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR presented a downward shift toward an atypical composition as wind speed increases which might also be related to climate change.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Phytoplankton",
+      "context_window": "remained “Unknown”. A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts. Phytoplankton and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic variation (i.e., AMO). Here, decreasing AMO (i.e., towards cooler conditions) was the most important",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including",
+      "context_window": "For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including offshore stations (e.g., variable salinity and coastal habitats). Appropriate training of taxonomists and",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition. Decrease of zooplankton EQR toward an atypical community composition was observed in",
+      "context_window": "Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Because plankton community composition, distribution, and dynamics are closely linked to their",
+      "context_window": "., 2017). Spatial scales: Because plankton community composition, distribution, and dynamics are closely linked to their environment, the analysis was performed at the scale of the ‘COMP4 assessment units’ ( Figure c",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Phytoplankton",
+      "context_window": "50% Oceanic Phytoplankton ↓ 67%",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison and integration to relevant Pelagic Habitat indicators:",
+      "context_window": "et al ., 2013). Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats (",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", and this assessment on plankton diversity) consider the community at different",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities , and this assessment on plankton diversity) consider the community at different levels of community assembly, namely at the lifeform (functional) level; at the level of aggregated community properties (total biomass / abundance); and at the organism level.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "theory in which dominance phenomena and changes in community composition occur in impacted areas",
+      "context_window": "δ ’ value was used, in line with the classic theory in which dominance phenomena and changes in community composition occur in impacted areas (Howarth et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "typical community composition. A similar pattern was observed between zooplankton community",
+      "context_window": "Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed. Finally, the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the",
+      "context_window": "important variable (Eastern North Sea, Channel well mixed tidal influenced and Scottish Sea). Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle load. Links with the PH2 common indicator “",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less",
+      "context_window": "another along with community composition. Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Taxa undergo complex reactions and interactions response to variation in",
+      "context_window": "Successional processes in plankton communities are driven by local to large-scale processes. Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "permanent changes in community composition.",
+      "context_window": "significant LCBD) or episodic change in composition (non-significant trend associated with significant LCBD). This test result can also be significant while the LCBD is non-significant, indicating gradual long-term or permanent changes in community composition. Previous assessment: For the previous assessment (OSPAR Intermediate Assessment; IA2017) a pilot assessment of the PH3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In shelf habitats,",
+      "context_window": "For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats, decreasing phosphate concentration is likely to be linked with downward trend towards atypical composition for phytoplankton. Despite the best overall rank in coastal habitat, phosphate has been",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "integrated and simplified into an EQR per index. Changes in Plankton Diversity This measure compares the conditions (e.g., values of an index) of an assessment period to the conditions from a comparison period.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "focuses on the rate of change, or turnover, in species composition (Rombouts",
+      "context_window": "assessed independently. The PH3 indicator focuses on α-diversity (i.e., the diversity within a site or sample) and β-diversity, which focuses on the rate of change, or turnover, in species composition (Rombouts et al ., 2019). Caution must be",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal habitats of the Celtic Seas were determined “Not good” while the status of shelf habitats has",
+      "context_window": "understanding this relationship. Regarding the results and the explanations above, the quality status of coastal habitats of the Celtic Seas were determined “Not good” while the status of shelf habitats has remained “Unknown”. A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean.",
+      "context_window": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean. Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores.",
+      "context_window": "provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores. Like phytoplankton, zooplankton are also extremely diverse. By feeding on phytoplankton, zooplankton play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "context_window": "Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. Results (extended)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biomass/abundance (PH2) and the dynamics of phytoplankton functional groups (PH1/FW5).",
+      "context_window": "total community biomass/abundance (PH2) and the dynamics of phytoplankton functional groups (PH1/FW5). Knowledge Gaps (extended) Further development of this indicator is needed, particularly on the following points:",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Four habitats were identified: variable salinity habitat (corresponding to river plumes and",
+      "context_window": "Habitat identifications were processed following strict criteria according to surface mean salinity and their mean depth. Four habitats were identified: variable salinity habitat (corresponding to river plumes and region of freshwater influence (ROFI)), coastal habitat (nearshore areas adjacent to ROFIs with mean salinity < 34,5), shelf habitat (corresponding to offshore areas with mean depth less than 200 m and mean",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compositions that moved toward atypical community composition with increasing wind speed.",
+      "context_window": "habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed. Finally, the model between zooplankton EQR and pressures in the coastal habitats revealed that increasing SST was",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of phytoplankton indices during the assessment period (2015–",
+      "context_window": "Figure 1: Evolution of the annual EQR β of phytoplankton indices during the assessment period (2015– 2019). Low EQR β",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Zooplankton",
+      "context_window": "light attenuation, almost one third of the assessment units in this habitat exhibited phosphorus as the most important variable (Eastern North Sea, Channel well mixed tidal influenced and Scottish Sea). Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "heterotrophic species, and will therefore provide additional information for assessing pelagic habitats",
+      "context_window": ", diversity indices (based on abundance and richness) are generally calculated on the entire plankton community, including heterotrophic species, and will therefore provide additional information for assessing pelagic habitats (Domingues et al",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mixing/stratification, nutrient loading, and light availability (Chalar, 2009).",
+      "context_window": "Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009). Other processes undergo cycles over periods of days to weeks, such as meteorological events/conditions (wind, rain, cloudiness), and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "improvements have already been tested and applied as part of the French assessment of pelagic habitat for",
+      "context_window": "improvements for more intuitive interpretation of the indicator results, as described above. Most of these improvements have already been tested and applied as part of the French assessment of pelagic habitat for the MSFD in 2018 (Duflos et al",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community",
+      "context_window": "within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment",
+      "context_window": "23 of 35 OSPAR Commission Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": ", since this integration approach may obscure local relationships. Changes in Plankton Diversity Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment",
+      "context_window": "since this integration approach may obscure local relationships. Changes in Plankton Diversity Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean on the",
+      "context_window": "temperature of the North Atlantic Ocean on the timescale of several decades",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in plankton diversity",
+      "context_window": "Citation Louchart, A., Holland, M., McQuatters-Gollop, A. and Artigas, L. F. 2023. Changes in plankton diversity . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "related to climate change.",
+      "context_window": "be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR presented a downward shift toward an atypical composition as wind speed increases which might also be related to climate change. Coastal habitats were also characterised by increasing N:P ratio, while the phytoplankton EQR remained stable over the same period.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "across phytoplankton datasets (",
+      "context_window": "From 2015 to 2019 on an annual basis for the 64 COMP4 assessment units and 20 stations (from fixed- stations and stations from regular monitoring campaigns), a total of 189 calculations were undertaken across phytoplankton datasets ( Figure 1 ; 2015: 41; 2016: 42; 2017: 39; 2018: 36 and 2019: 31). 70% of the",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem functioning.",
+      "context_window": "spp. (NNS). Further analyses should determine the factors responsible for this shift and the ecological relevance of these taxa in ecosystem functioning. Computation on fixed-points stations and relation between the EQR α",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "” and the Food web candidate indicator FW2 “",
+      "context_window": "Changes in Phytoplankton Biomass and Zooplankton Abundance ” and the Food web candidate indicator FW2 “ Pilot Assessment of Primary Productivity ” may",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities , Changes in Phytoplankton and Zooplankton Communities , and this assessment on plankton diversity) consider the community at different",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton",
+      "context_window": "variables and the relation between the EQR and the most important variable for the assessment period only (2015–2019). In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity > 34,5) and oceanic/beyond shelf habitats (corresponding to offshore areas with mean depth",
+      "context_window": "region of freshwater influence (ROFI)), coastal habitat (nearshore areas adjacent to ROFIs with mean salinity < 34,5), shelf habitat (corresponding to offshore areas with mean depth less than 200 m and mean salinity > 34,5) and oceanic/beyond shelf habitats (corresponding to offshore areas with mean depth greater than 200 m). Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "2023 2023 Changes in Plankton Diversity Common Indicator Assessment Changes in Plankton Diversity",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecological state of pelagic communities.",
+      "context_window": "to a species-poor state, or which have experienced improvement of ecological state, are characterised by large community variance. Thus, the direction of the change in variance may be an indicator of the ecological state of pelagic communities. Background (extended) To quantify changes in biodiversity",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton",
+      "context_window": "positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas. Nutrients (a proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton communities in variable salinity habitat of the Greater North Sea, coastal habitats of the Celtic Seas and shelf habitats of the Celtic Seas and the Bay of Biscay and Iberian Coast.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "Changes in Plankton Diversity Common Indicator Assessment Changes in Plankton Diversity OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indices to quantify biological diversity are numerous and thus the choice of the",
+      "context_window": "composition but also to enhance the ability to detect changes in the structure of the community across seasonal and annual scales. Indices to quantify biological diversity are numerous and thus the choice of the most appropriate and the most sensitive index to calculate community diversity can be difficult. The method has been applied to deliver a common indicator assessment for the Celtic Seas.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In IA2017, the pilot assessment of PH3 was carried out using a limited amount of phytoplankton",
+      "context_window": "still in an early stage of testing, especially for zooplankton where more methodological development was needed. In IA2017, the pilot assessment of PH3 was carried out using a limited amount of phytoplankton data so that the indicator could describe the state and change in phytoplankton community composition in time but not the variability in space. Building on the work carried out by Budria",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identify which indices are able to identify changes in the community structure on annual and seasonal",
+      "context_window": "testing and validation before they can be fully accepted by the scientific community. The procedure has to identify which indices are able to identify changes in the community structure on annual and seasonal basis. In this assessment, bimonthly plankton data from diverse sources were used (e.g., Continuous Plankton",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "., 2021). Put in simpler terms, the higher the EQR of the LCBD is, the lower the LCBD, and thus the lower the rate of change in species composition. Changes in Plankton Diversity Consequently, the mean of EQRs showed that the conditions were intermediate but the EQR and consequently, the diversity, tended to decrease, congruent with the 100-Hulburt EQR.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") and zooplankton (",
+      "context_window": "Links between phytoplankton ( Figure 3 ) and zooplankton ( Figure 4 ) diversity and pressures provided",
+      "page_number": 21,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "atypical composition of phytoplankton communities. This relationship between pH and phytoplankton",
+      "context_window": "). In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an",
+      "context_window": "Table e ). In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further analysis is necessary to quantify phytoplankton’s contribution to",
+      "context_window": "diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "strategies and planning 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plankton community composition can help improve our understanding of how sustained long-term and/or",
+      "context_window": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean. Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plankton species composition and abundance are continuously influenced",
+      "context_window": "play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions. As a result, plankton community composition",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating,",
+      "context_window": "Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "patterns within pelagic habitat types for each OSPAR Region, relationships between pressures and the PH3",
+      "context_window": "Across the common indicator assessment and pilot assessments, it is also important to note that despite generally consistent patterns within pelagic habitat types for each OSPAR Region, relationships between pressures and the PH3 indicator are subject to vary by location. Table e: Integration of the indicator results for the Celtic Seas (common indicator), Greater North Sea",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For phytoplankton, the quality status of coastal",
+      "context_window": "pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats,",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Link with the PH2 indicator “Changes in phytoplankton biomass” may help",
+      "context_window": "decrease of chlorophyll- a . Link with the PH2 indicator “Changes in phytoplankton biomass” may help understanding this relationship. Regarding the results and the explanations above, the quality status of",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities , Changes in Phytoplankton and",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and food web indicators should help to address changes in zooplankton community composition.",
+      "context_window": "driving these changes, however this will be resource dependent. Connection with other relevant pelagic and food web indicators should help to address changes in zooplankton community composition. OSPAR Commission 2023 27 of 35",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast.",
+      "context_window": "evidence for the impact of climate variables. Natural climate variability (e.g., AMO) was a strong link for both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast. Decrease in pH was also highly positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats is “Not good” whereas the quality status for zooplankton remained “unknown”.",
+      "context_window": "towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats, decreasing phosphate concentration is likely to be linked with downward trend towards atypical",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dataset, and separately for zooplankton and phytoplankton.",
+      "context_window": "In this assessment, bimonthly plankton data from diverse sources were used (e.g., Continuous Plankton Recorder (CPR), microscopy counts, FlowCAM). Index computation was conducted separately for each dataset, and separately for zooplankton and phytoplankton. In addition, the computation of the indices was considered independently of the taxonomic level.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause of the decrease of light penetration in the water column through the increase of organic particle",
+      "context_window": "Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle load. Links with the PH2 common indicator “ Changes in Phytoplankton Biomass and Zooplankton",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "within the variable salinity habitats, which is related to an increase in the N:P ratio.",
+      "context_window": "only (2015–2019). In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats (",
+      "context_window": "Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities ,",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic",
+      "context_window": "A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts. Phytoplankton and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic variation (i.e., AMO). Here, decreasing AMO (i.e., towards cooler conditions) was the most important OSPAR Commission 2023",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton",
+      "context_window": "OSPAR Commission For a more robust assessment of the pelagic habitat, information on the community structure of phytoplankton should be",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variable salinity habitat and link to sinking mixed layer depth.",
+      "context_window": "nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and zooplankton communities as it is the most sensitive index to changes in environmental conditions",
+      "context_window": "2013). In this assessment, the Menhinick Index was chosen for assessing species richness of both phytoplankton and zooplankton communities as it is the most sensitive index to changes in environmental conditions without differentiating natural and anthropogenic sources (Budria et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Linking of pressures with the EQR for phytoplankton in shelf",
+      "context_window": "of the AMO on plankton diversity, the relationship has remained “unknown”, as it varies from one region to another along with community composition. Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR",
+      "context_window": "variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR presented a downward shift toward an atypical composition as wind speed increases which might also be related to climate change.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including",
+      "context_window": "For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including offshore stations (e.g., variable salinity and coastal habitats). Appropriate training of taxonomists and",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Because plankton community composition, distribution, and dynamics are closely linked to their",
+      "context_window": "., 2017). Spatial scales: Because plankton community composition, distribution, and dynamics are closely linked to their environment, the analysis was performed at the scale of the ‘COMP4 assessment units’ ( Figure c",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison and integration to relevant Pelagic Habitat indicators:",
+      "context_window": "et al ., 2013). Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats (",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "theory in which dominance phenomena and changes in community composition occur in impacted areas",
+      "context_window": "δ ’ value was used, in line with the classic theory in which dominance phenomena and changes in community composition occur in impacted areas (Howarth et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the",
+      "context_window": "important variable (Eastern North Sea, Channel well mixed tidal influenced and Scottish Sea). Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle load. Links with the PH2 common indicator “",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Taxa undergo complex reactions and interactions response to variation in",
+      "context_window": "Successional processes in plankton communities are driven by local to large-scale processes. Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In shelf habitats,",
+      "context_window": "For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”. In shelf habitats, decreasing phosphate concentration is likely to be linked with downward trend towards atypical composition for phytoplankton. Despite the best overall rank in coastal habitat, phosphate has been",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "focuses on the rate of change, or turnover, in species composition (Rombouts",
+      "context_window": "assessed independently. The PH3 indicator focuses on α-diversity (i.e., the diversity within a site or sample) and β-diversity, which focuses on the rate of change, or turnover, in species composition (Rombouts et al ., 2019). Caution must be",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean.",
+      "context_window": "Marine plankton are microscopic organisms that occur mostly in the upper layers of the ocean. Monitoring plankton community composition can help improve our understanding of how sustained long-term and/or",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "context_window": "Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. Results (extended)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Four habitats were identified: variable salinity habitat (corresponding to river plumes and",
+      "context_window": "Habitat identifications were processed following strict criteria according to surface mean salinity and their mean depth. Four habitats were identified: variable salinity habitat (corresponding to river plumes and region of freshwater influence (ROFI)), coastal habitat (nearshore areas adjacent to ROFIs with mean salinity < 34,5), shelf habitat (corresponding to offshore areas with mean depth less than 200 m and mean",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of phytoplankton indices during the assessment period (2015–",
+      "context_window": "Figure 1: Evolution of the annual EQR β of phytoplankton indices during the assessment period (2015– 2019). Low EQR β",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "heterotrophic species, and will therefore provide additional information for assessing pelagic habitats",
+      "context_window": ", diversity indices (based on abundance and richness) are generally calculated on the entire plankton community, including heterotrophic species, and will therefore provide additional information for assessing pelagic habitats (Domingues et al",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "improvements have already been tested and applied as part of the French assessment of pelagic habitat for",
+      "context_window": "improvements for more intuitive interpretation of the indicator results, as described above. Most of these improvements have already been tested and applied as part of the French assessment of pelagic habitat for the MSFD in 2018 (Duflos et al",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment",
+      "context_window": "23 of 35 OSPAR Commission Figure 4: Most important variables addressing changes in zooplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment",
+      "context_window": "since this integration approach may obscure local relationships. Changes in Plankton Diversity Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in plankton diversity",
+      "context_window": "Citation Louchart, A., Holland, M., McQuatters-Gollop, A. and Artigas, L. F. 2023. Changes in plankton diversity . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "across phytoplankton datasets (",
+      "context_window": "From 2015 to 2019 on an annual basis for the 64 COMP4 assessment units and 20 stations (from fixed- stations and stations from regular monitoring campaigns), a total of 189 calculations were undertaken across phytoplankton datasets ( Figure 1 ; 2015: 41; 2016: 42; 2017: 39; 2018: 36 and 2019: 31). 70% of the",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "” and the Food web candidate indicator FW2 “",
+      "context_window": "Changes in Phytoplankton Biomass and Zooplankton Abundance ” and the Food web candidate indicator FW2 “ Pilot Assessment of Primary Productivity ” may",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton",
+      "context_window": "variables and the relation between the EQR and the most important variable for the assessment period only (2015–2019). In the Greater North Sea, the pilot assessment results have shown an increase in the EQR for phytoplankton within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "2023 2023 Changes in Plankton Diversity Common Indicator Assessment Changes in Plankton Diversity",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton",
+      "context_window": "positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas. Nutrients (a proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton communities in variable salinity habitat of the Greater North Sea, coastal habitats of the Celtic Seas and shelf habitats of the Celtic Seas and the Bay of Biscay and Iberian Coast.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indices to quantify biological diversity are numerous and thus the choice of the",
+      "context_window": "composition but also to enhance the ability to detect changes in the structure of the community across seasonal and annual scales. Indices to quantify biological diversity are numerous and thus the choice of the most appropriate and the most sensitive index to calculate community diversity can be difficult. The method has been applied to deliver a common indicator assessment for the Celtic Seas.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identify which indices are able to identify changes in the community structure on annual and seasonal",
+      "context_window": "testing and validation before they can be fully accepted by the scientific community. The procedure has to identify which indices are able to identify changes in the community structure on annual and seasonal basis. In this assessment, bimonthly plankton data from diverse sources were used (e.g., Continuous Plankton",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") and zooplankton (",
+      "context_window": "Links between phytoplankton ( Figure 3 ) and zooplankton ( Figure 4 ) diversity and pressures provided",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "., 2021). Put in simpler terms, the higher the EQR of the LCBD is, the lower the LCBD, and thus the lower the rate of change in species composition. Changes in Plankton Diversity Consequently, the mean of EQRs showed that the conditions were intermediate but the EQR and consequently, the diversity, tended to decrease, congruent with the 100-Hulburt EQR.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In IA2017, the pilot assessment of PH3 was carried out using a limited amount of phytoplankton",
+      "context_window": "still in an early stage of testing, especially for zooplankton where more methodological development was needed. In IA2017, the pilot assessment of PH3 was carried out using a limited amount of phytoplankton data so that the indicator could describe the state and change in phytoplankton community composition in time but not the variability in space. Building on the work carried out by Budria",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "Changes in Plankton Diversity Common Indicator Assessment Changes in Plankton Diversity OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecological state of pelagic communities.",
+      "context_window": "to a species-poor state, or which have experienced improvement of ecological state, are characterised by large community variance. Thus, the direction of the change in variance may be an indicator of the ecological state of pelagic communities. Background (extended) To quantify changes in biodiversity",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity > 34,5) and oceanic/beyond shelf habitats (corresponding to offshore areas with mean depth",
+      "context_window": "region of freshwater influence (ROFI)), coastal habitat (nearshore areas adjacent to ROFIs with mean salinity < 34,5), shelf habitat (corresponding to offshore areas with mean depth less than 200 m and mean salinity > 34,5) and oceanic/beyond shelf habitats (corresponding to offshore areas with mean depth greater than 200 m). Table a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities , Changes in Phytoplankton and Zooplankton Communities , and this assessment on plankton diversity) consider the community at different",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem functioning.",
+      "context_window": "spp. (NNS). Further analyses should determine the factors responsible for this shift and the ecological relevance of these taxa in ecosystem functioning. Computation on fixed-points stations and relation between the EQR α",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "related to climate change.",
+      "context_window": "be a consequence of climate change. In coastal habitats of the Greater North Sea, zooplankton EQR presented a downward shift toward an atypical composition as wind speed increases which might also be related to climate change. Coastal habitats were also characterised by increasing N:P ratio, while the phytoplankton EQR remained stable over the same period.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Ocean on the",
+      "context_window": "temperature of the North Atlantic Ocean on the timescale of several decades",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": ", since this integration approach may obscure local relationships. Changes in Plankton Diversity Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community",
+      "context_window": "within the variable salinity habitats, which is related to an increase in the N:P ratio. Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mixing/stratification, nutrient loading, and light availability (Chalar, 2009).",
+      "context_window": "Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009). Other processes undergo cycles over periods of days to weeks, such as meteorological events/conditions (wind, rain, cloudiness), and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Zooplankton",
+      "context_window": "light attenuation, almost one third of the assessment units in this habitat exhibited phosphorus as the most important variable (Eastern North Sea, Channel well mixed tidal influenced and Scottish Sea). Zooplankton showed an upward trend in EQR as the MLD is decreasing. In shelf habitats, phytoplankton may be the cause of the decrease of light penetration in the water column through the increase of organic particle",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compositions that moved toward atypical community composition with increasing wind speed.",
+      "context_window": "habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed. Finally, the model between zooplankton EQR and pressures in the coastal habitats revealed that increasing SST was",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biomass/abundance (PH2) and the dynamics of phytoplankton functional groups (PH1/FW5).",
+      "context_window": "total community biomass/abundance (PH2) and the dynamics of phytoplankton functional groups (PH1/FW5). Knowledge Gaps (extended) Further development of this indicator is needed, particularly on the following points:",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores.",
+      "context_window": "provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores. Like phytoplankton, zooplankton are also extremely diverse. By feeding on phytoplankton, zooplankton play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal habitats of the Celtic Seas were determined “Not good” while the status of shelf habitats has",
+      "context_window": "understanding this relationship. Regarding the results and the explanations above, the quality status of coastal habitats of the Celtic Seas were determined “Not good” while the status of shelf habitats has remained “Unknown”. A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "integrated and simplified into an EQR per index. Changes in Plankton Diversity This measure compares the conditions (e.g., values of an index) of an assessment period to the conditions from a comparison period.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "permanent changes in community composition.",
+      "context_window": "significant LCBD) or episodic change in composition (non-significant trend associated with significant LCBD). This test result can also be significant while the LCBD is non-significant, indicating gradual long-term or permanent changes in community composition. Previous assessment: For the previous assessment (OSPAR Intermediate Assessment; IA2017) a pilot assessment of the PH3",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less",
+      "context_window": "another along with community composition. Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "typical community composition. A similar pattern was observed between zooplankton community",
+      "context_window": "Linking of pressures with the EQR for phytoplankton in shelf habitats revealed that increasing nitrate concentration has contributed to a downward trend towards a less typical community composition. A similar pattern was observed between zooplankton community compositions that moved toward atypical community composition with increasing wind speed. Finally, the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", and this assessment on plankton diversity) consider the community at different",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities , and this assessment on plankton diversity) consider the community at different levels of community assembly, namely at the lifeform (functional) level; at the level of aggregated community properties (total biomass / abundance); and at the organism level.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Phytoplankton",
+      "context_window": "50% Oceanic Phytoplankton ↓ 67%",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition. Decrease of zooplankton EQR toward an atypical community composition was observed in",
+      "context_window": "Unbalance between nitrogen and phosphate can alter the trophic state of pelagic habitats, resulting in changes in community composition. Decrease of zooplankton EQR toward an atypical community composition was observed in variable salinity habitat and link to sinking mixed layer depth. In some cases sinking mixed layer depth can",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Phytoplankton",
+      "context_window": "remained “Unknown”. A clear pattern emerged from the pilot assessment for the Bay of Biscay and Iberian coasts. Phytoplankton and zooplankton in oceanic habitats and zooplankton in shelf habitats were linked to natural climatic variation (i.e., AMO). Here, decreasing AMO (i.e., towards cooler conditions) was the most important",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "offshore stations (e.g., variable salinity and coastal habitats).",
+      "context_window": "Knowledge Gaps For a regional and habitat assessment, better acquisition of region-wide plankton data is required, including offshore stations (e.g., variable salinity and coastal habitats). Appropriate training of taxonomists and ringtesting as well as the integration of semi-automated sampling techniques are recommended for the",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea",
+      "context_window": "Figure 3: Most important variables addressing changes in phytoplankton diversity during the assessment period (2015-2019) within the COMP4 assessment units. This is a hybrid figure showing results of the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. OSPAR Commission 2023",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic",
+      "context_window": "., 2013). Comparison and integration to relevant Pelagic Habitat indicators: To assess the environmental status of Pelagic Habitats, each of the three OSPAR assessments on Pelagic Habitats ( Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and temporal confidence indices will address the sampling effort in the pelagic habitats within OSPAR",
+      "context_window": "The confidence of the results depends strongly on the homogeneity of sampling in space and time. Spatial and temporal confidence indices will address the sampling effort in the pelagic habitats within OSPAR Regions. These spatial and temporal confidence indices will be implemented in future assessments. Coherence of the methodology at a regional scale:",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic habitats: richness, evenness, and dominance.",
+      "context_window": "et al ., 2021). They recommended using three categories of indices to assess pelagic habitats: richness, evenness, and dominance. Recently, the importance of spatial and temporal scales for calculating indices has also been addressed (Francé",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental conditions throughout the year, including seasonal changes in temperature, water column",
+      "context_window": "by local to large-scale processes. Taxa undergo complex reactions and interactions response to variation in environmental conditions throughout the year, including seasonal changes in temperature, water column mixing/stratification, nutrient loading, and light availability (Chalar, 2009). Other processes undergo cycles",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "13.2 Integrate climate change measures into national policies, strategies and planning 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 35,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "complex patterns (e.g., predator-prey interactions and fluctuations in environmental parameters, especially",
+      "context_window": "more complex to interpret than for phytoplankton. A combination of effects may be responsible for such complex patterns (e.g., predator-prey interactions and fluctuations in environmental parameters, especially in coastal areas). Further investigation is required to draw connections with the pressures responsible for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to their important and diverse roles in marine ecosystems, understanding plankton dynamics is",
+      "context_window": "structural attributes (e.g., diversity, dominance, size structure), will differ from those of natural (undisturbed) communities. Due to their important and diverse roles in marine ecosystems, understanding plankton dynamics is essential for ecosystem-based management. To help assess species dominance (the most abundant taxon in relation to other taxa) which often occurs in impacted areas (e.g., Bužančić",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "Regions. These spatial and temporal confidence indices will be implemented in future assessments. Coherence of the methodology at a regional scale: Changes in Plankton Diversity Currently, common methodologies and taxonomic guides (Avancini et al",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in community composition. Consequently, the dynamics of the plankton community, and its",
+      "context_window": "Since many species respond differently to changing environmental conditions, natural and human-induced pressures can drive changes in community composition. Consequently, the dynamics of the plankton community, and its structural attributes (e.g., diversity, dominance, size structure), will differ from those of natural (undisturbed) communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by changes in physical, chemical, and climatic conditions.",
+      "context_window": "transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions. As a result, plankton community composition fluctuates in space and over very short time scales (e.g., hours/days).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "towards atypical composition, linked to increasing salinity.",
+      "context_window": "Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal habitats is “Not good” whereas the quality status for zooplankton remained “unknown”.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "obtained and possibilities for an integrated overall pelagic habitat assessment result should be investigated",
+      "context_window": "Therefore, by combining the information from these three indicators, a more holistic assessment of plankton dynamics could be obtained and possibilities for an integrated overall pelagic habitat assessment result should be investigated further.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlighted by recent scientific literature in the field of diversity and conservation described in the previous",
+      "context_window": "The current assessment of the PH3 indicator has addressed many of the knowledge gaps discussed in the previous assessment for IA 2017. This assessment has also addressed many of the suggestions and gaps highlighted by recent scientific literature in the field of diversity and conservation described in the previous paragraph. These improvements to the PH3 indicator methodology were partially developed as part of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend",
+      "context_window": "to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Similarly, the EQR of zooplankton composition was characterized by a downward trend towards atypical composition, linked to increasing salinity. For phytoplankton, the quality status of coastal",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transfer to higher trophic levels.",
+      "context_window": "Like phytoplankton, zooplankton are also extremely diverse. By feeding on phytoplankton, zooplankton play a major role in the marine food web, linking phytoplankton to fish, and are thus responsible for energy transfer to higher trophic levels. Plankton species composition and abundance are continuously influenced by changes in physical, chemical, and climatic conditions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "provisioning and cultural services ecosystems provide to humans.",
+      "context_window": "plankton community composition can help improve our understanding of how sustained long-term and/or rapid changes in plankton diversity can alter marine ecosystem functioning and impact the regulating, provisioning and cultural services ecosystems provide to humans. Phytoplankton are extremely diverse, varying from photosynthesising cyanobacteria, to plant-like green micro-algae, silicon-armoured diatoms, flagella-driven dinoflagellates, and calcite-plated coccolithophores.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Even though trends for phytoplankton and zooplankton were non-significant, it is important to monitor",
+      "context_window": "Quality status of both habitats were categorised as “Not good” for this assessment. Even though trends for phytoplankton and zooplankton were non-significant, it is important to monitor both components to confirm whether trend trajectories will carry on into the future. Across the common",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas.",
+      "context_window": "both phytoplankton and zooplankton in the Bay of Biscay and Iberian Coast. Decrease in pH was also highly positively correlated with the phytoplankton diversity in coastal habitats of the Celtic Seas. Nutrients (a proxy for eutrophication and water quality) were also linked directly and indirectly to the phytoplankton",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 36,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC",
+      "context_window": "In coastal habitats of the Celtic Seas, decreasing pH was correlated with a downward trend towards an atypical composition of phytoplankton communities. This relationship between pH and phytoplankton diversity should be evaluated cautiously as phytoplankton impact directly pH through the ingestion of DIC to fuel growth and reproduction. Further analysis is necessary to quantify phytoplankton’s contribution to",
+      "page_number": 28,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 4,
+    "keyword_counts": {
+      "climate change": 9,
+      "ocean acidification": 1,
+      "warming": 1,
+      "greenhouse gas": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 83,
+      "end_sentence": 87,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 83,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "No significant trends in plankton diversity were detected during 2015-2019 in the Celtic Seas (commo...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 85,
+          "page_number": 3,
+          "content": "indicator assessment), Greater North Sea (pilot assessment), and Bay of Biscay and Iberian Coast (pi...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "assessment). However, significant but transient changes occurred in one Celtic Seas (2015) and some",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "Greater North Sea (2016, 2019) assessment units.",
+          "full_length": 48
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 2485,
+      "end_sentence": 2508,
+      "sentence_count": 24,
+      "page_range": "30-30",
+      "sentences": [
+        {
+          "sentence_id": 2485,
+          "page_number": 30,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2486,
+          "page_number": 30,
+          "content": "This assessment identified changes in phytoplankton and zooplankton community composition at regiona...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 2487,
+          "page_number": 30,
+          "content": "(COMP4 assessment units) and local (discrete monitoring stations) scales.",
+          "full_length": 73
+        },
+        {
+          "sentence_id": 2488,
+          "page_number": 30,
+          "content": "While results indicate non-",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 2489,
+          "page_number": 30,
+          "content": "significant changes in phytoplankton composition during the assessment period, 2016 was characterise...",
+          "full_length": 104
+        }
+      ],
+      "total_sentences_in_section": 24
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2625,
+      "end_sentence": 2800,
+      "sentence_count": 176,
+      "page_range": "32-35",
+      "sentences": [
+        {
+          "sentence_id": 2625,
+          "page_number": 32,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2626,
+          "page_number": 32,
+          "content": "Álvarez, E., Moyano, M., López-Urrutia, A., Nogueira, E., Scharek, R. (2013) Routine determination o...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 2627,
+          "page_number": 32,
+          "content": "plankton community composition and size structure: a comparison between FlowCAM and light microscopy",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 2628,
+          "page_number": 32,
+          "content": "J. Plankton Res. 1-15.",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 2629,
+          "page_number": 32,
+          "content": "Avancini M, AM Cicero, I Di Girolamo, M Innamorati, E Magaletti, T Sertorio & T Zunini.",
+          "full_length": 87
+        }
+      ],
+      "total_sentences_in_section": 176
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2871,
+    "chunks_selected": 99,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 83,
+        "end_sentence": 87,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 2485,
+        "end_sentence": 2508,
+        "sentence_count": 24
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2625,
+        "end_sentence": 2800,
+        "sentence_count": 176
+      }
+    ],
+    "total_excluded_sentences": 205
+  }
+}

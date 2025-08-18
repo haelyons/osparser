@@ -1,0 +1,1431 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "mesures agréées pour permettre le rétablissement des espèces et habitats menacés et/ou en déclin figurant",
+      "context_window": "les travaux dans le cadre de l’objectif opérationnel S5.05 : ‘D’ici à 2025, OSPAR aura mis en œuvre toutes les mesures agréées pour permettre le rétablissement des espèces et habitats menacés et/ou en déclin figurant sur la Liste OSPAR et prendra des mesures supplémentaires si nécessaire’. Cette évaluation montre clairement",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats such as Carbonate mounds, Oceanic ridges with Hydrothermal vents and seamounts are",
+      "context_window": "more Contracting Parties identified as not being required to report, or reporting the Recommendation as not applicable. Habitats such as Carbonate mounds, Oceanic ridges with Hydrothermal vents and seamounts are occurring only in the most remote regions of the OSPAR Maritime Area. Monitoring and distribution data for",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "implement the action to introduce legislation to protect deep-sea habitats such as Seamounts, Deep-sea",
+      "context_window": "A number of reporting Contracting Parties note their use of the EU Habitats Directive and other EU legislation, and another reported using the environmental objectives of the MSFD to help implement the action to introduce legislation to protect deep-sea habitats such as Seamounts, Deep-sea sponge aggregations and Coral gardens. Two reporting Contracting Parties for Carbonate mounds identified implementation through national and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to",
+      "context_window": "should be read with Appendix 1. The Appendix provides a series of tables, spatial information reported on the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to be under threat and/or in decline, which Contracting Parties have reported on the implementation of the Recommendations, and by which means these measures have been implemented. The information",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures affecting them.",
+      "context_window": "Several Contracting Parties had struggled to implement the actions due to the technical and financial challenges with monitoring the features and the threats and pressures affecting them. Improving regional collaboration and coordination on monitoring efforts was highlighted as an important step in overcoming this difficulty.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exception so far of hydrothermal vents, but this could be because they are not a common feature within",
+      "context_window": "Area based protection is noted as being an effective for the management of deep-sea habitats with most of the Contracting Parties reporting that they have designated MPAs to protect these features (with the exception so far of hydrothermal vents, but this could be because they are not a common feature within national jurisdiction). All three of the Contracting Parties reporting implementation of the Carbonate mound",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "although it was not clear how coherent these actions are in terms of being able to compare across habitats",
+      "context_window": "Environmental Impact Assessment process. Most Contracting Parties reported actions relating to monitoring and mapping of coastal and shelf habitats, although it was not clear how coherent these actions are in terms of being able to compare across habitats and countries. Some Contracting Parties reported that habitat quality is not as widely monitored and that",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversité marine.",
+      "context_window": "et observateurs à la Commission des espèces et des habitats qu'ils considèrent comme particulièrement préoccupants afin de fixer les priorités pour son travail ultérieur sur la conservation et la protection de la biodiversité marine. La présente synthèse d’évaluation a été effectuée conformément aux exigences de rapports réguliers par les Parties contractantes en vertu de l'article 22 de la Convention OSPAR et vise à fournir des informations sur",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The location of many deep-sea features (e.g.",
+      "context_window": "reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate mounds. The location of many deep-sea features (e.g. Hydrothermal vents on Oceanic ridges, Seamounts) means they are difficult and expensive to map and monitor, depending on research activities to improve the",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of water quality under the European Union’s Marine Strategy Framework Directive (",
+      "context_window": "OSPAR Commission For the management of pressures affecting the flat oyster, one Contracting Party has taken measures through management of water quality under the European Union’s Marine Strategy Framework Directive ( 2008/56/EC , MSFD) as an approach to protect this species. There appear to be differences in how the Flat",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hydrothermal vents on Oceanic ridges, Seamounts)",
+      "context_window": "mounds. The location of many deep-sea features (e.g. Hydrothermal vents on Oceanic ridges, Seamounts) means they are difficult and expensive to map and monitor, depending on research activities to improve the knowledge base. Two Contracting Parties commented that monitoring the occurrence, distribution and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coastal and Shelf habitats",
+      "context_window": "OSPAR Commission Habitats Coastal and Shelf habitats There was a lot of valuable information communicated by Contracting Parties in their reporting against the Recommendations for coastal and shelf habitats.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the conservation and protection of marine biodiversity.",
+      "context_window": "protection. The purpose of the list is to guide the OSPAR Commission in setting priorities for its further work on the conservation and protection of marine biodiversity. OSPAR Recommendations have been adopted for almost all of the species and habitats on the OSPAR List. These Recommendations define measures that require collective and/or national actions to further the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For some deep-sea habitats that are also recognised as Vulnerable Marine Ecosystems (VME), protection is",
+      "context_window": "OSPAR network of MPAs, although at this point no activity is taking place around the vent system, so the current management measures are considered effective. For some deep-sea habitats that are also recognised as Vulnerable Marine Ecosystems (VME), protection is also afforded by measures taken by other competent organisations (i.e. are closed to bottom-contact fishing",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed coastal and shelf habitats and where they are found to be under threat",
+      "context_window": "OSPAR Commission Table 6a Habitats (coastal and shelf) - Overview of the occurrence of listed coastal and shelf habitats and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. Region",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep-sea sponge aggregations), both as a key pressure and important collaborating partner for increasing",
+      "context_window": "Lophelia Pertusa reefs, Coral gardens and Deep-sea sponge aggregations), both as a key pressure and important collaborating partner for increasing the evidence base and ensuring protection. Three Contracting Parties rely on fishermen themselves to provide information on this feature to increase the information base for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "la conformité et, dans la mesure du possible, des informations sur l'efficacité des Recommandations OSPAR",
+      "context_window": "La présente synthèse d’évaluation a été effectuée conformément aux exigences de rapports réguliers par les Parties contractantes en vertu de l'article 22 de la Convention OSPAR et vise à fournir des informations sur la conformité et, dans la mesure du possible, des informations sur l'efficacité des Recommandations OSPAR pour la protection des espèces et habitats. Cette évaluation contribue au Bilan de santé 2023.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs;",
+      "context_window": "Sabellaria spinulosa reefs; littoral chalk communities;",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are underway. For some of the species, e.g. Atlantic salmon and European eel, management plans",
+      "context_window": "for which most measures have been implemented are all listed in the EU Habitats Directive, which means that there is strong legal protection in place and conservation measures have been taken or are underway. For some of the species, e.g. Atlantic salmon and European eel, management plans are developed on an EU-level and many of the measures addressed in OSPAR overlap with the measures in these plans.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reported implementing an action have done so fully or whether they have only initiated work or whether this",
+      "context_window": "action has been fully completed or whether the implementation work is ongoing. This also adds to the difficulty in interpreting the reported information as it is not clear whether all Contracting Parties that had reported implementing an action have done so fully or whether they have only initiated work or whether this 11 of 70 OSPAR Commission",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the natural recovery of Intertidal",
+      "context_window": "intertidal mudflats, and/or create new mudflats. Several Contracting Parties report on measures to support the natural recovery of Intertidal Mytilus edulis beds. One Contracting Party reported that projects designed",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les",
+      "context_window": "La présente synthèse d’évaluation fournit des informations sur la mise en œuvre des Recommandations et sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les différences, les bons exemples et les obstacles dans la mise en œuvre des actions nationales, et présente une analyse des progrès réalisés par rapport aux actions collectives.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The actions across the Recommendations",
+      "context_window": "The Roadmap describes the various types of actions that OSPAR will work on over the coming years and provides a timetable to guide the achievement of these actions. The actions across the Recommendations have been clustered or grouped into a number of categories. These enable the implementation of the actions",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Implementation of the Recommendations for the deep-sea habitats appears to be a little more patchy, with",
+      "context_window": "For the remaining five of the more broadly distributed coastal and shelf habitats, reporting indicates implementation through legislative, administrative and negotiated actions. Implementation of the Recommendations for the deep-sea habitats appears to be a little more patchy, with more Contracting Parties identified as not being required to report, or reporting the Recommendation as not applicable.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations, and by which means these measures have been implemented. The information",
+      "context_window": "the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to be under threat and/or in decline, which Contracting Parties have reported on the implementation of the Recommendations, and by which means these measures have been implemented. The information concerning the geographic distribution of the feature by country is derived from the relevant published background documents.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate",
+      "context_window": "groupings for the deep-sea habitats: for coral gardens, deep-sea sponge aggregations and Lophelia pertusa reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate mounds. The location of many deep-sea features (e.g.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where the species occur and are considered to be under threat.",
+      "context_window": "collective action will be highly relevant. For the most part, the reporting by Contracting Parties aligns with where the species occur and are considered to be under threat. Contracting Parties report implementation via a range of means, frequently a combination of legislative, administrative, and negotiated actions.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "features, for example coastal habitats.",
+      "context_window": "actions for these species. Coordination difficulties between regional/local authorities and national authorities were reported for some features, for example coastal habitats. Contracting Parties had struggled to communicate the need for taking actions as outlined in the OSPAR measures to local authorities.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the thematic assessment for the OSPAR Quality Status Report",
+      "context_window": "provide evidence of changes in pressure.   Future work in ICG-ML will provide further regional-scale evidence on harm, to be included in the thematic assessment for the OSPAR Quality Status Report 2023. 58 of 70",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection of many listed coastal and shelf habitats.",
+      "context_window": "Common and differing approaches to implementation Several of the reporting Contracting Parties noted that national legislation has been adopted for the protection of many listed coastal and shelf habitats. Contracting Parties that are also EU Member States indicated that there are overlaps with EU legislation, including within the framework of the MSFD and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The European Native Oyster Restoration Alliance, established in 2017 to share knowledge on the science,",
+      "context_window": "Three Contracting Parties reported progress in developing projects to explore and test restoration for the Flat oyster and Oyster beds. The European Native Oyster Restoration Alliance, established in 2017 to share knowledge on the science, restoration and recovery of the species was highlighted as playing a positive role in the efforts to protect the flat oyster.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Development of a sound scientific modelling approach will require",
+      "context_window": "preparatory work on the model approach. Sophisticated modelling is to be conducted to identify key areas. Development of a sound scientific modelling approach will require input from modelling experts. Expert consultations are envisaged in 2020.",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It Is not clear to what degree there is coherence in implementation or",
+      "context_window": "OSPAR Commission regular monitoring of the habitat. It Is not clear to what degree there is coherence in implementation or sharing of experience. Many Contracting Parties reported the designation of MPAs to protect coastal and shelf habitats, noting that",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining Species and",
+      "context_window": "OSPAR List of Threatened and/or Declining Species and Habitats Seamounts",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hydrothermal vents",
+      "context_window": "habitats that form on carbonate mounds, hydrothermal vents and seamounts in the OSPAR Maritime",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lifecycle analysis that they were undertaking, highlighting that cod",
+      "context_window": "take management action on Critical Habitats. The Netherlands highlighted the link to the MPA eco-coherence connectivity and lifecycle analysis that they were undertaking, highlighting that cod was one of the species where they had the best data. BDC agreed that Action 28 should remain in the roadmap and a link",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One Contracting Party reported implementation of national legislation to protect a range of deep-sea",
+      "context_window": "regional (EU) legislation, in particular restricting fishing with bottom trawls below 800m, but allowing pelagic fishing that does not contact the bottom. One Contracting Party reported implementation of national legislation to protect a range of deep-sea habitats “The Conservation of Offshore Marine Habitats and Species Regulations, 2017”. There appears to be a good level of implementation of management actions to protect Coral gardens,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations for coastal and shelf habitats.",
+      "context_window": "Coastal and Shelf habitats There was a lot of valuable information communicated by Contracting Parties in their reporting against the Recommendations for coastal and shelf habitats. This may be because these habitats are more accessible, interact with more human activities and link to obligations within other legislative frameworks. The",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "base and provide indicators for the state and recovery of the habitat",
+      "context_window": "investigating the distribution, quality and extent of intertidal mudflats, by means of seabed habitat surveys and monitoring, in order to complete the knowledge base and provide indicators for the state and recovery of the habitat ’. The category ‘",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed deep-sea habitats and where they are found to be under threat or in decline",
+      "context_window": "N Table 6b Habitats (deep-sea) - Overview of the occurrence of listed deep-sea habitats and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. R",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat. Development of a sound scientific modelling approach will",
+      "context_window": "- preparatory work on model approach conducted. Sophisticated modelling has to be conducted to identify critical habitat. Development of a sound scientific modelling approach will require input from modelling experts. Thus, expert consultations are envisaged in 2020.",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Consider where appropriate, addressing and minimising, adverse impacts on Carbonate mounds arising from",
+      "context_window": "which this category was allocated include: - Consider where appropriate, addressing and minimising, adverse impacts on Carbonate mounds arising from human activities in areas under its national jurisdiction. -",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen",
+      "context_window": "organizations (NGOs) as well as oyster farmers. • In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen science skills for the collection of data that can be used in the condition assessment and management of MPAs and the wider marine environment.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diversité biologique de la zone maritime",
+      "context_window": "contractantes ‘ prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la diversité biologique de la zone maritime ’ et ‘ coopèrent en vue de l’adoption de programmes et mesures de",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties reporting campaigns for the Flat oyster and Flat oyster reefs with examples given,",
+      "context_window": "Contracting Parties There were commonalities also identified in the delivery of actions for raising awareness, with five Contracting Parties reporting campaigns for the Flat oyster and Flat oyster reefs with examples given, including to increase awareness in sectors that impact this feature and the need to take measures against the invasive Pacific oyster.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "the North-East Atlantic. OSPAR Commission,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "designation of MPAs for Seahorses, Lamprey and Cod, although one Contracting Party suggests that offshore",
+      "context_window": "especially with focus on vulnerable species with clumped or discrete population distribution. Examples reported within this species grouping included designation of MPAs for Seahorses, Lamprey and Cod, although one Contracting Party suggests that offshore MPAs have not proven to be an effective means to rebuild Cod stocks, another stated that Cod stocks do benefit in general from MPAs.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threatened and/or declining species and habitats",
+      "context_window": "Overview Assessment of implementation of OSPAR Recommendations for protection and conservation of threatened and/or declining species and habitats OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "legislation in place with regards to pollution control relating to offshore activities.",
+      "context_window": "OSPAR Recommendation 2016/01) and two Contracting Parties identified national legislation in place with regards to pollution control relating to offshore activities. Awareness activities targeting relevant sectors and the public are being developed and implemented widely by reporting Contracting Parties.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs and two",
+      "context_window": "provide information on this feature to increase the information base for Lophelia pertusa reefs and two Contracting Parties utilise observers onboard fishing vessels to increase the information base. There was also an interesting example for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extensive and systematic studies on plankton diversity. There has",
+      "context_window": "on Earth, but 25% of all families and 45% of all orders. Very few seamounts in the OSPAR Regions I, IV and V have been subjected to extensive and systematic studies on plankton diversity. There has been no or little research on the ecological significance of seamounts or status of these vulnerable ecosystems.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats that form on",
+      "context_window": "Compile evidence on the species and habitats that form on carbonate mounds, hydrothermal vents",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have implications for the conservation status of fish species,",
+      "context_window": "MPAs offer the potential for the reduction or removal of activities and pressures in these critical locations that may have implications for the conservation status of fish species, especially with focus on vulnerable species with clumped or discrete population distribution. Examples reported within this species grouping included",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status of the species,",
+      "context_window": "research programme to evaluate the status of the species, monitor stock recovery and track",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of fisheries measures to minimise adverse impacts on Flat oysters was reported by five",
+      "context_window": "protection through Marine Protected Areas (MPA) in their waters and four Contracting Parties reported MPAs established or proposed for the Flat oyster. The development of fisheries measures to minimise adverse impacts on Flat oysters was reported by five Contracting Parties There were commonalities also identified in the delivery of actions for raising awareness, with five",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Parties and Observers to the Commission of species and habitats that they consider to be priorities for",
+      "context_window": "List) has been developed to fulfil this commitment. The OSPAR List is based upon nominations by Contracting Parties and Observers to the Commission of species and habitats that they consider to be priorities for protection. The purpose of the list is to guide the OSPAR Commission in setting priorities for its further work",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was one of the species where they had the best data.",
+      "context_window": "highlighted the link to the MPA eco-coherence connectivity and lifecycle analysis that they were undertaking, highlighting that cod was one of the species where they had the best data. BDC agreed that Action 28 should remain in the roadmap and a link should be made to the work on eco-coherence in ICG-MPA.",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including the European eel, Allis shad and Atlantic salmon, including measures to prevent the degradation of",
+      "context_window": "Restoration/recovery/re-stocking or re- introduction actions were also reported by a number of Contracting Parties concerning diadromous species including the European eel, Allis shad and Atlantic salmon, including measures to prevent the degradation of spawning habitats and the restoration of migration routes. Eight Contracting Parties, who are also EU Member States, deploy legislation to protect Cod stocks including",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hazardous substances, and engineering solutions to remove barriers between marine and freshwater",
+      "context_window": "Atlantic salmon, noting synergies with the EU Water Framework Directive and tangible engineering solutions. The management measures identified for diadromous fish included a focus on water quality, control of hazardous substances, and engineering solutions to remove barriers between marine and freshwater environments and to facilitate safe passage where barriers cannot be removed There are a number of examples provided, with some of the measures implemented for eels included in the highlight section below.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine food web.",
+      "context_window": "cod populations, as well as their role in the marine food web. Cod II and",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la",
+      "context_window": "’, selon laquelle les Parties contractantes ‘ prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la diversité biologique de la zone maritime ’ et ‘",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several Contracting Parties indicate that they are",
+      "context_window": "This ranges for commissioning new research to improvement of regular data collections. Several Contracting Parties indicate that they are working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seamounts",
+      "context_window": "Declining Species and Habitats Seamounts I, IV, V",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they",
+      "context_window": "Invertebrates Table 1: invertebrates - Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Link with IUCN and",
+      "context_window": "monitoring and research programs. Link with IUCN and wider academic research networks",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties provided notes on how they interpreted the actions and reporting, which can also aid",
+      "context_window": "The text of the actions within the measures were drafted to enable national level interpretation. Some Contracting Parties provided notes on how they interpreted the actions and reporting, which can also aid analysis. 33 of 70",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR Commission on sites selected for inclusion as components of the OSPAR Network of Marine Protected",
+      "context_window": "- In accordance with OSPAR Recommendation 2003/3 as amended by OSPAR Recommendation 2010/2, report to the OSPAR Commission on sites selected for inclusion as components of the OSPAR Network of Marine Protected Areas and develop appropriate management plans and measures [for white skate]. -",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR issued an advice request to ICES in 2018 to assess gulper",
+      "context_window": "Implementation of this action needs to be reconsidered, considered to be addressed through a regular cycle of assessments. OSPAR issued an advice request to ICES in 2018 to assess gulper shark, leafscale gulper shark and Portuguese dogfish. Two additional advice requests were issued to ICES in 2019 to assess common",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pour le milieu marin de l’Atlantique du Nord-Est 2030 (NEAES 2030)",
+      "context_window": "Les informations dans la présente évaluation étayeront les travaux effectués dans le cadre de la S tratégie pour le milieu marin de l’Atlantique du Nord-Est 2030 (NEAES 2030) , et notamment serviront de base pour 5 of 70",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water quality",
+      "context_window": "further measures to maintain or improve water quality (contaminants and nutrients) are",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consideration, including as to whether the known hydrothermal vent area should be protected as part of the",
+      "context_window": "Hydrothermal vents are known to occur on the Reykjanes Ridge. Need for further restrictions are under consideration, including as to whether the known hydrothermal vent area should be protected as part of the OSPAR network of MPAs, although at this point no activity is taking place around the vent system, so the current management measures are considered effective.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "With regard to implementation of OSPAR Recommendations on reducing pollution from offshore drilling",
+      "context_window": "Two Contracting Parties have MPAs designated in areas where turtles are observed, and where turtles were a designated feature for one of the Contracting Parties. With regard to implementation of OSPAR Recommendations on reducing pollution from offshore drilling activities and reducing marine litter, all the reporting Contracting Parties indicated their participation in the Fishing For Litter initiative (",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A scoping study covering ca 100 surveyed seamounts has been",
+      "context_window": "Norway and UK A scoping study covering ca 100 surveyed seamounts has been completed. The study confirmed that seamounts are \"hotspots\" for biodiversity and VME's.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats",
+      "context_window": "et n'ayant pas été mises en œuvre. La présente synthèse d’évaluation fournit des informations sur la mise en œuvre des Recommandations et sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les différences, les bons exemples et les obstacles dans la mise en œuvre des actions nationales, et présente une",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The implementation of legislation to protect deep-sea habitats was variable, for some (such as Seamounts)",
+      "context_window": "knowledge base. Two Contracting Parties commented that monitoring the occurrence, distribution and status of seamounts requires expensive and complex surveys, restricting feasibility. The implementation of legislation to protect deep-sea habitats was variable, for some (such as Seamounts) legislation is being considered but not established; but has been implemented for others such as Lophelia",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by",
+      "context_window": "Table 1: invertebrates - Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. (N.B.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Strategy",
+      "context_window": "address necessary measures under the Marine Strategy Framework Directive (MSFD) with the",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES and fisheries",
+      "context_window": "Maintain cooperation with ICES and fisheries organisations to get regular advice and to",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "degradation of",
+      "context_window": "habitat destruction (e.g. caused by degradation of spawning habitats through silting due to",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conservation des écosystèmes et de la diversité biologique de la zone maritime",
+      "context_window": "développée pour répondre aux exigences de l’Annexe V à la Convention OSPAR ‘ sur la protection et la conservation des écosystèmes et de la diversité biologique de la zone maritime ’, selon laquelle les Parties contractantes ‘",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species occurs or has occurred in within the waters of that Contracting Parties.",
+      "context_window": "There are some cases where the Contracting Parties have reported that the Recommendation does not apply, but the background documents indicate the species occurs or has occurred in within the waters of that Contracting Parties. Overall engagement in the reporting of implementation appears high with some notable gaps.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for OSPAR Listed threatened and/or declining species and habitats",
+      "context_window": "OSPAR Commission 2.2 Implementation reporting requirements for OSPAR Recommendations for OSPAR Listed threatened and/or declining species and habitats The OSPAR List included 42 species and 16 habitats in 2019. OSPAR Recommendations have been adopted for almost all the features on the OSPAR List (Table 1). The features on the OSPAR List for which",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "working to improve the data that they provide to ICES to improve species assessments.",
+      "context_window": "new research to improvement of regular data collections. Several Contracting Parties indicate that they are working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for sharks and rays as an indicator for EU MSFD reporting.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep-Sea",
+      "context_window": "A, N Deep-Sea Sponge Aggregations",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seamounts located",
+      "context_window": "species and habitats supported by seamounts located within the OSPAR Maritime Area, then",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seamounts in the OSPAR Regions I, IV and V have been subjected to",
+      "context_window": "The scoping study species list represents only 1.3% of all fish species on Earth, but 25% of all families and 45% of all orders. Very few seamounts in the OSPAR Regions I, IV and V have been subjected to extensive and systematic studies on plankton diversity. There has been no or little research on the ecological significance of",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conservation of Threatened and/or Declining Species and Habitats",
+      "context_window": "McLeod, M. 2023. Overview Assessment of Implementation of OSPAR Recommendations for Protection and Conservation of Threatened and/or Declining Species and Habitats . In: OSPAR, 2023: The 2023 Quality Status Report",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cod populations, as",
+      "context_window": "stocks, including age and size structure of cod populations, as well as their role in the marine food web.",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and seamounts in the",
+      "context_window": "carbonate mounds, hydrothermal vents and seamounts in the OSPAR Maritime Area and assess",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mitigation actions",
+      "context_window": "the competence of OSPAR, effective mitigation actions against further anthropogenic",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seamounts;",
+      "context_window": "Hydrothermal vents; Seamounts; Ostrea edulis beds,",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "agreed measures to enable the recovery of OSPAR Listed threatened and/or declining species and habitats",
+      "context_window": "One of the Operational Objectives of the NEAES 2030 is that by 2025 OSPAR will have “ implemented all agreed measures to enable the recovery of OSPAR Listed threatened and/or declining species and habitats and will take additional measures as needed ”. This overview assessment provides a state of play as of 2019",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "“Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008.",
+      "context_window": "of MPAs and the wider marine environment. • “Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008. 24 of 70 OSPAR Commission",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impacts of",
+      "context_window": "existing and new measures to manage the impacts of pressures both within and outside",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seafloor (e.g. mineral",
+      "context_window": "other physical disturbance to seafloor (e.g. mineral extraction, biological and geological",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "réponses et les mesures qui figurent dans les évaluations thématiques de la biodiversité.",
+      "context_window": "Cette évaluation contribue au Bilan de santé 2023. En particulier, elle étaye les chapitres concernant les réponses et les mesures qui figurent dans les évaluations thématiques de la biodiversité. Au 2019, la Liste OSPAR comprenait 42 espèces et 16 habitats et des Recommandations OSPAR ont été adoptée pour la quasi-totalité des caractéristiques figurant sur la Liste.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the Ocean quahog, five Contracting Parties stated that the Ocean Quahog was offered some form of",
+      "context_window": "92 /43 /EEC ). For the Ocean quahog, five Contracting Parties stated that the Ocean Quahog was offered some form of protection through Marine Protected Areas (MPA) in their waters and four Contracting Parties reported MPAs established or proposed for the Flat oyster.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oyster is monitored ranging from annual surveys to ad hoc studies and via localised Environmental Impact",
+      "context_window": "2008/56/EC , MSFD) as an approach to protect this species. There appear to be differences in how the Flat oyster is monitored ranging from annual surveys to ad hoc studies and via localised Environmental Impact Assessments (EIA). c.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "declining species and habitats",
+      "context_window": "Appendix 3: Analysis of national implementation of OSPAR Recommendations for OSPAR Listed threatened and/or declining species and habitats To be completed OSPAR’s Quality Status Report",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sharks and rays as an indicator for EU MSFD reporting.",
+      "context_window": "working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for sharks and rays as an indicator for EU MSFD reporting. Data collection for some shark species appears to use a more varied approach, drawing on research projects, combining academic input and citizen science.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Intertidal",
+      "context_window": "A, N Intertidal Mudflats (2016/2)",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could be attributed to the low population densities and lack of monitoring of ocean quahog as noted later in",
+      "context_window": "the other hand, for the ocean quahog, implementation was only reported by three Contracting Parties. This could be attributed to the low population densities and lack of monitoring of ocean quahog as noted later in the report under considerations of barriers. In terms of the means of implementation of the actions, administrative actions (44%) were identified as the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of MPAs and the wider marine environment.",
+      "context_window": "In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen science skills for the collection of data that can be used in the condition assessment and management of MPAs and the wider marine environment. • “Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Carbonate",
+      "context_window": "sea sponge aggregations, Carbonate mounds, Hydrothermal",
+      "page_number": 54,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Habitats such as Carbonate mounds, Oceanic ridges with Hydrothermal vents and seamounts are",
+      "context_window": "more Contracting Parties identified as not being required to report, or reporting the Recommendation as not applicable. Habitats such as Carbonate mounds, Oceanic ridges with Hydrothermal vents and seamounts are occurring only in the most remote regions of the OSPAR Maritime Area. Monitoring and distribution data for",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to",
+      "context_window": "should be read with Appendix 1. The Appendix provides a series of tables, spatial information reported on the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to be under threat and/or in decline, which Contracting Parties have reported on the implementation of the Recommendations, and by which means these measures have been implemented. The information",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exception so far of hydrothermal vents, but this could be because they are not a common feature within",
+      "context_window": "Area based protection is noted as being an effective for the management of deep-sea habitats with most of the Contracting Parties reporting that they have designated MPAs to protect these features (with the exception so far of hydrothermal vents, but this could be because they are not a common feature within national jurisdiction). All three of the Contracting Parties reporting implementation of the Carbonate mound",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversité marine.",
+      "context_window": "et observateurs à la Commission des espèces et des habitats qu'ils considèrent comme particulièrement préoccupants afin de fixer les priorités pour son travail ultérieur sur la conservation et la protection de la biodiversité marine. La présente synthèse d’évaluation a été effectuée conformément aux exigences de rapports réguliers par les Parties contractantes en vertu de l'article 22 de la Convention OSPAR et vise à fournir des informations sur",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of water quality under the European Union’s Marine Strategy Framework Directive (",
+      "context_window": "OSPAR Commission For the management of pressures affecting the flat oyster, one Contracting Party has taken measures through management of water quality under the European Union’s Marine Strategy Framework Directive ( 2008/56/EC , MSFD) as an approach to protect this species. There appear to be differences in how the Flat",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coastal and Shelf habitats",
+      "context_window": "OSPAR Commission Habitats Coastal and Shelf habitats There was a lot of valuable information communicated by Contracting Parties in their reporting against the Recommendations for coastal and shelf habitats.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For some deep-sea habitats that are also recognised as Vulnerable Marine Ecosystems (VME), protection is",
+      "context_window": "OSPAR network of MPAs, although at this point no activity is taking place around the vent system, so the current management measures are considered effective. For some deep-sea habitats that are also recognised as Vulnerable Marine Ecosystems (VME), protection is also afforded by measures taken by other competent organisations (i.e. are closed to bottom-contact fishing",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep-sea sponge aggregations), both as a key pressure and important collaborating partner for increasing",
+      "context_window": "Lophelia Pertusa reefs, Coral gardens and Deep-sea sponge aggregations), both as a key pressure and important collaborating partner for increasing the evidence base and ensuring protection. Three Contracting Parties rely on fishermen themselves to provide information on this feature to increase the information base for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs;",
+      "context_window": "Sabellaria spinulosa reefs; littoral chalk communities;",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reported implementing an action have done so fully or whether they have only initiated work or whether this",
+      "context_window": "action has been fully completed or whether the implementation work is ongoing. This also adds to the difficulty in interpreting the reported information as it is not clear whether all Contracting Parties that had reported implementing an action have done so fully or whether they have only initiated work or whether this 11 of 70 OSPAR Commission",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les",
+      "context_window": "La présente synthèse d’évaluation fournit des informations sur la mise en œuvre des Recommandations et sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les différences, les bons exemples et les obstacles dans la mise en œuvre des actions nationales, et présente une analyse des progrès réalisés par rapport aux actions collectives.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Implementation of the Recommendations for the deep-sea habitats appears to be a little more patchy, with",
+      "context_window": "For the remaining five of the more broadly distributed coastal and shelf habitats, reporting indicates implementation through legislative, administrative and negotiated actions. Implementation of the Recommendations for the deep-sea habitats appears to be a little more patchy, with more Contracting Parties identified as not being required to report, or reporting the Recommendation as not applicable.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate",
+      "context_window": "groupings for the deep-sea habitats: for coral gardens, deep-sea sponge aggregations and Lophelia pertusa reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate mounds. The location of many deep-sea features (e.g.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "features, for example coastal habitats.",
+      "context_window": "actions for these species. Coordination difficulties between regional/local authorities and national authorities were reported for some features, for example coastal habitats. Contracting Parties had struggled to communicate the need for taking actions as outlined in the OSPAR measures to local authorities.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection of many listed coastal and shelf habitats.",
+      "context_window": "Common and differing approaches to implementation Several of the reporting Contracting Parties noted that national legislation has been adopted for the protection of many listed coastal and shelf habitats. Contracting Parties that are also EU Member States indicated that there are overlaps with EU legislation, including within the framework of the MSFD and",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Development of a sound scientific modelling approach will require",
+      "context_window": "preparatory work on the model approach. Sophisticated modelling is to be conducted to identify key areas. Development of a sound scientific modelling approach will require input from modelling experts. Expert consultations are envisaged in 2020.",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining Species and",
+      "context_window": "OSPAR List of Threatened and/or Declining Species and Habitats Seamounts",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lifecycle analysis that they were undertaking, highlighting that cod",
+      "context_window": "take management action on Critical Habitats. The Netherlands highlighted the link to the MPA eco-coherence connectivity and lifecycle analysis that they were undertaking, highlighting that cod was one of the species where they had the best data. BDC agreed that Action 28 should remain in the roadmap and a link",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations for coastal and shelf habitats.",
+      "context_window": "Coastal and Shelf habitats There was a lot of valuable information communicated by Contracting Parties in their reporting against the Recommendations for coastal and shelf habitats. This may be because these habitats are more accessible, interact with more human activities and link to obligations within other legislative frameworks. The",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed deep-sea habitats and where they are found to be under threat or in decline",
+      "context_window": "N Table 6b Habitats (deep-sea) - Overview of the occurrence of listed deep-sea habitats and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. R",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Consider where appropriate, addressing and minimising, adverse impacts on Carbonate mounds arising from",
+      "context_window": "which this category was allocated include: - Consider where appropriate, addressing and minimising, adverse impacts on Carbonate mounds arising from human activities in areas under its national jurisdiction. -",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diversité biologique de la zone maritime",
+      "context_window": "contractantes ‘ prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la diversité biologique de la zone maritime ’ et ‘ coopèrent en vue de l’adoption de programmes et mesures de",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "the North-East Atlantic. OSPAR Commission,",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threatened and/or declining species and habitats",
+      "context_window": "Overview Assessment of implementation of OSPAR Recommendations for protection and conservation of threatened and/or declining species and habitats OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs and two",
+      "context_window": "provide information on this feature to increase the information base for Lophelia pertusa reefs and two Contracting Parties utilise observers onboard fishing vessels to increase the information base. There was also an interesting example for",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats that form on",
+      "context_window": "Compile evidence on the species and habitats that form on carbonate mounds, hydrothermal vents",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status of the species,",
+      "context_window": "research programme to evaluate the status of the species, monitor stock recovery and track",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Parties and Observers to the Commission of species and habitats that they consider to be priorities for",
+      "context_window": "List) has been developed to fulfil this commitment. The OSPAR List is based upon nominations by Contracting Parties and Observers to the Commission of species and habitats that they consider to be priorities for protection. The purpose of the list is to guide the OSPAR Commission in setting priorities for its further work",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including the European eel, Allis shad and Atlantic salmon, including measures to prevent the degradation of",
+      "context_window": "Restoration/recovery/re-stocking or re- introduction actions were also reported by a number of Contracting Parties concerning diadromous species including the European eel, Allis shad and Atlantic salmon, including measures to prevent the degradation of spawning habitats and the restoration of migration routes. Eight Contracting Parties, who are also EU Member States, deploy legislation to protect Cod stocks including",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine food web.",
+      "context_window": "cod populations, as well as their role in the marine food web. Cod II and",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several Contracting Parties indicate that they are",
+      "context_window": "This ranges for commissioning new research to improvement of regular data collections. Several Contracting Parties indicate that they are working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they",
+      "context_window": "Invertebrates Table 1: invertebrates - Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties provided notes on how they interpreted the actions and reporting, which can also aid",
+      "context_window": "The text of the actions within the measures were drafted to enable national level interpretation. Some Contracting Parties provided notes on how they interpreted the actions and reporting, which can also aid analysis. 33 of 70",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR issued an advice request to ICES in 2018 to assess gulper",
+      "context_window": "Implementation of this action needs to be reconsidered, considered to be addressed through a regular cycle of assessments. OSPAR issued an advice request to ICES in 2018 to assess gulper shark, leafscale gulper shark and Portuguese dogfish. Two additional advice requests were issued to ICES in 2019 to assess common",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water quality",
+      "context_window": "further measures to maintain or improve water quality (contaminants and nutrients) are",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "With regard to implementation of OSPAR Recommendations on reducing pollution from offshore drilling",
+      "context_window": "Two Contracting Parties have MPAs designated in areas where turtles are observed, and where turtles were a designated feature for one of the Contracting Parties. With regard to implementation of OSPAR Recommendations on reducing pollution from offshore drilling activities and reducing marine litter, all the reporting Contracting Parties indicated their participation in the Fishing For Litter initiative (",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats",
+      "context_window": "et n'ayant pas été mises en œuvre. La présente synthèse d’évaluation fournit des informations sur la mise en œuvre des Recommandations et sur les moyens d’interpréter cette mise en œuvre, par rapport aux zones où les espèces et/ou les habitats sont particulièrement préoccupants dans la zone maritime OSPAR. Elle examine les similitudes, les différences, les bons exemples et les obstacles dans la mise en œuvre des actions nationales, et présente une",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The implementation of legislation to protect deep-sea habitats was variable, for some (such as Seamounts)",
+      "context_window": "knowledge base. Two Contracting Parties commented that monitoring the occurrence, distribution and status of seamounts requires expensive and complex surveys, restricting feasibility. The implementation of legislation to protect deep-sea habitats was variable, for some (such as Seamounts) legislation is being considered but not established; but has been implemented for others such as Lophelia",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Strategy",
+      "context_window": "address necessary measures under the Marine Strategy Framework Directive (MSFD) with the",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "degradation of",
+      "context_window": "habitat destruction (e.g. caused by degradation of spawning habitats through silting due to",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species occurs or has occurred in within the waters of that Contracting Parties.",
+      "context_window": "There are some cases where the Contracting Parties have reported that the Recommendation does not apply, but the background documents indicate the species occurs or has occurred in within the waters of that Contracting Parties. Overall engagement in the reporting of implementation appears high with some notable gaps.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "working to improve the data that they provide to ICES to improve species assessments.",
+      "context_window": "new research to improvement of regular data collections. Several Contracting Parties indicate that they are working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for sharks and rays as an indicator for EU MSFD reporting.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seamounts located",
+      "context_window": "species and habitats supported by seamounts located within the OSPAR Maritime Area, then",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conservation of Threatened and/or Declining Species and Habitats",
+      "context_window": "McLeod, M. 2023. Overview Assessment of Implementation of OSPAR Recommendations for Protection and Conservation of Threatened and/or Declining Species and Habitats . In: OSPAR, 2023: The 2023 Quality Status Report",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and seamounts in the",
+      "context_window": "carbonate mounds, hydrothermal vents and seamounts in the OSPAR Maritime Area and assess",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seamounts;",
+      "context_window": "Hydrothermal vents; Seamounts; Ostrea edulis beds,",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "“Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008.",
+      "context_window": "of MPAs and the wider marine environment. • “Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008. 24 of 70 OSPAR Commission",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seafloor (e.g. mineral",
+      "context_window": "other physical disturbance to seafloor (e.g. mineral extraction, biological and geological",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the Ocean quahog, five Contracting Parties stated that the Ocean Quahog was offered some form of",
+      "context_window": "92 /43 /EEC ). For the Ocean quahog, five Contracting Parties stated that the Ocean Quahog was offered some form of protection through Marine Protected Areas (MPA) in their waters and four Contracting Parties reported MPAs established or proposed for the Flat oyster.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "declining species and habitats",
+      "context_window": "Appendix 3: Analysis of national implementation of OSPAR Recommendations for OSPAR Listed threatened and/or declining species and habitats To be completed OSPAR’s Quality Status Report",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Intertidal",
+      "context_window": "A, N Intertidal Mudflats (2016/2)",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of MPAs and the wider marine environment.",
+      "context_window": "In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen science skills for the collection of data that can be used in the condition assessment and management of MPAs and the wider marine environment. • “Transition mussel sector transition and nature recovery Wadden Sea” agreement 2008.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Carbonate",
+      "context_window": "sea sponge aggregations, Carbonate mounds, Hydrothermal",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could be attributed to the low population densities and lack of monitoring of ocean quahog as noted later in",
+      "context_window": "the other hand, for the ocean quahog, implementation was only reported by three Contracting Parties. This could be attributed to the low population densities and lack of monitoring of ocean quahog as noted later in the report under considerations of barriers. In terms of the means of implementation of the actions, administrative actions (44%) were identified as the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sharks and rays as an indicator for EU MSFD reporting.",
+      "context_window": "working to improve the data that they provide to ICES to improve species assessments. There were a few reports that Contracting Parties are using population size, condition and distribution for sharks and rays as an indicator for EU MSFD reporting. Data collection for some shark species appears to use a more varied approach, drawing on research projects, combining academic input and citizen science.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oyster is monitored ranging from annual surveys to ad hoc studies and via localised Environmental Impact",
+      "context_window": "2008/56/EC , MSFD) as an approach to protect this species. There appear to be differences in how the Flat oyster is monitored ranging from annual surveys to ad hoc studies and via localised Environmental Impact Assessments (EIA). c.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "réponses et les mesures qui figurent dans les évaluations thématiques de la biodiversité.",
+      "context_window": "Cette évaluation contribue au Bilan de santé 2023. En particulier, elle étaye les chapitres concernant les réponses et les mesures qui figurent dans les évaluations thématiques de la biodiversité. Au 2019, la Liste OSPAR comprenait 42 espèces et 16 habitats et des Recommandations OSPAR ont été adoptée pour la quasi-totalité des caractéristiques figurant sur la Liste.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impacts of",
+      "context_window": "existing and new measures to manage the impacts of pressures both within and outside",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "agreed measures to enable the recovery of OSPAR Listed threatened and/or declining species and habitats",
+      "context_window": "One of the Operational Objectives of the NEAES 2030 is that by 2025 OSPAR will have “ implemented all agreed measures to enable the recovery of OSPAR Listed threatened and/or declining species and habitats and will take additional measures as needed ”. This overview assessment provides a state of play as of 2019",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mitigation actions",
+      "context_window": "the competence of OSPAR, effective mitigation actions against further anthropogenic",
+      "page_number": 60,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cod populations, as",
+      "context_window": "stocks, including age and size structure of cod populations, as well as their role in the marine food web.",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seamounts in the OSPAR Regions I, IV and V have been subjected to",
+      "context_window": "The scoping study species list represents only 1.3% of all fish species on Earth, but 25% of all families and 45% of all orders. Very few seamounts in the OSPAR Regions I, IV and V have been subjected to extensive and systematic studies on plankton diversity. There has been no or little research on the ecological significance of",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep-Sea",
+      "context_window": "A, N Deep-Sea Sponge Aggregations",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for OSPAR Listed threatened and/or declining species and habitats",
+      "context_window": "OSPAR Commission 2.2 Implementation reporting requirements for OSPAR Recommendations for OSPAR Listed threatened and/or declining species and habitats The OSPAR List included 42 species and 16 habitats in 2019. OSPAR Recommendations have been adopted for almost all the features on the OSPAR List (Table 1). The features on the OSPAR List for which",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conservation des écosystèmes et de la diversité biologique de la zone maritime",
+      "context_window": "développée pour répondre aux exigences de l’Annexe V à la Convention OSPAR ‘ sur la protection et la conservation des écosystèmes et de la diversité biologique de la zone maritime ’, selon laquelle les Parties contractantes ‘",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES and fisheries",
+      "context_window": "Maintain cooperation with ICES and fisheries organisations to get regular advice and to",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by",
+      "context_window": "Table 1: invertebrates - Overview of the occurrence of listed invertebrate species across the OSPAR Maritime Area and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. (N.B.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A scoping study covering ca 100 surveyed seamounts has been",
+      "context_window": "Norway and UK A scoping study covering ca 100 surveyed seamounts has been completed. The study confirmed that seamounts are \"hotspots\" for biodiversity and VME's.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consideration, including as to whether the known hydrothermal vent area should be protected as part of the",
+      "context_window": "Hydrothermal vents are known to occur on the Reykjanes Ridge. Need for further restrictions are under consideration, including as to whether the known hydrothermal vent area should be protected as part of the OSPAR network of MPAs, although at this point no activity is taking place around the vent system, so the current management measures are considered effective.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pour le milieu marin de l’Atlantique du Nord-Est 2030 (NEAES 2030)",
+      "context_window": "Les informations dans la présente évaluation étayeront les travaux effectués dans le cadre de la S tratégie pour le milieu marin de l’Atlantique du Nord-Est 2030 (NEAES 2030) , et notamment serviront de base pour 5 of 70",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR Commission on sites selected for inclusion as components of the OSPAR Network of Marine Protected",
+      "context_window": "- In accordance with OSPAR Recommendation 2003/3 as amended by OSPAR Recommendation 2010/2, report to the OSPAR Commission on sites selected for inclusion as components of the OSPAR Network of Marine Protected Areas and develop appropriate management plans and measures [for white skate]. -",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Link with IUCN and",
+      "context_window": "monitoring and research programs. Link with IUCN and wider academic research networks",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seamounts",
+      "context_window": "Declining Species and Habitats Seamounts I, IV, V",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la",
+      "context_window": "’, selon laquelle les Parties contractantes ‘ prennent les mesures nécessaires afin de protéger et de conserver les écosystèmes et la diversité biologique de la zone maritime ’ et ‘",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hazardous substances, and engineering solutions to remove barriers between marine and freshwater",
+      "context_window": "Atlantic salmon, noting synergies with the EU Water Framework Directive and tangible engineering solutions. The management measures identified for diadromous fish included a focus on water quality, control of hazardous substances, and engineering solutions to remove barriers between marine and freshwater environments and to facilitate safe passage where barriers cannot be removed There are a number of examples provided, with some of the measures implemented for eels included in the highlight section below.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was one of the species where they had the best data.",
+      "context_window": "highlighted the link to the MPA eco-coherence connectivity and lifecycle analysis that they were undertaking, highlighting that cod was one of the species where they had the best data. BDC agreed that Action 28 should remain in the roadmap and a link should be made to the work on eco-coherence in ICG-MPA.",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of fisheries measures to minimise adverse impacts on Flat oysters was reported by five",
+      "context_window": "protection through Marine Protected Areas (MPA) in their waters and four Contracting Parties reported MPAs established or proposed for the Flat oyster. The development of fisheries measures to minimise adverse impacts on Flat oysters was reported by five Contracting Parties There were commonalities also identified in the delivery of actions for raising awareness, with five",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have implications for the conservation status of fish species,",
+      "context_window": "MPAs offer the potential for the reduction or removal of activities and pressures in these critical locations that may have implications for the conservation status of fish species, especially with focus on vulnerable species with clumped or discrete population distribution. Examples reported within this species grouping included",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "extensive and systematic studies on plankton diversity. There has",
+      "context_window": "on Earth, but 25% of all families and 45% of all orders. Very few seamounts in the OSPAR Regions I, IV and V have been subjected to extensive and systematic studies on plankton diversity. There has been no or little research on the ecological significance of seamounts or status of these vulnerable ecosystems.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "legislation in place with regards to pollution control relating to offshore activities.",
+      "context_window": "OSPAR Recommendation 2016/01) and two Contracting Parties identified national legislation in place with regards to pollution control relating to offshore activities. Awareness activities targeting relevant sectors and the public are being developed and implemented widely by reporting Contracting Parties.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "designation of MPAs for Seahorses, Lamprey and Cod, although one Contracting Party suggests that offshore",
+      "context_window": "especially with focus on vulnerable species with clumped or discrete population distribution. Examples reported within this species grouping included designation of MPAs for Seahorses, Lamprey and Cod, although one Contracting Party suggests that offshore MPAs have not proven to be an effective means to rebuild Cod stocks, another stated that Cod stocks do benefit in general from MPAs.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties reporting campaigns for the Flat oyster and Flat oyster reefs with examples given,",
+      "context_window": "Contracting Parties There were commonalities also identified in the delivery of actions for raising awareness, with five Contracting Parties reporting campaigns for the Flat oyster and Flat oyster reefs with examples given, including to increase awareness in sectors that impact this feature and the need to take measures against the invasive Pacific oyster.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen",
+      "context_window": "organizations (NGOs) as well as oyster farmers. • In Scotland: Community Marine Biodiversity Monitoring Handbook has been created to build citizen science skills for the collection of data that can be used in the condition assessment and management of MPAs and the wider marine environment.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat. Development of a sound scientific modelling approach will",
+      "context_window": "- preparatory work on model approach conducted. Sophisticated modelling has to be conducted to identify critical habitat. Development of a sound scientific modelling approach will require input from modelling experts. Thus, expert consultations are envisaged in 2020.",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "base and provide indicators for the state and recovery of the habitat",
+      "context_window": "investigating the distribution, quality and extent of intertidal mudflats, by means of seabed habitat surveys and monitoring, in order to complete the knowledge base and provide indicators for the state and recovery of the habitat ’. The category ‘",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One Contracting Party reported implementation of national legislation to protect a range of deep-sea",
+      "context_window": "regional (EU) legislation, in particular restricting fishing with bottom trawls below 800m, but allowing pelagic fishing that does not contact the bottom. One Contracting Party reported implementation of national legislation to protect a range of deep-sea habitats “The Conservation of Offshore Marine Habitats and Species Regulations, 2017”. There appears to be a good level of implementation of management actions to protect Coral gardens,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hydrothermal vents",
+      "context_window": "habitats that form on carbonate mounds, hydrothermal vents and seamounts in the OSPAR Maritime",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It Is not clear to what degree there is coherence in implementation or",
+      "context_window": "OSPAR Commission regular monitoring of the habitat. It Is not clear to what degree there is coherence in implementation or sharing of experience. Many Contracting Parties reported the designation of MPAs to protect coastal and shelf habitats, noting that",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The European Native Oyster Restoration Alliance, established in 2017 to share knowledge on the science,",
+      "context_window": "Three Contracting Parties reported progress in developing projects to explore and test restoration for the Flat oyster and Oyster beds. The European Native Oyster Restoration Alliance, established in 2017 to share knowledge on the science, restoration and recovery of the species was highlighted as playing a positive role in the efforts to protect the flat oyster.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the thematic assessment for the OSPAR Quality Status Report",
+      "context_window": "provide evidence of changes in pressure.   Future work in ICG-ML will provide further regional-scale evidence on harm, to be included in the thematic assessment for the OSPAR Quality Status Report 2023. 58 of 70",
+      "page_number": 57,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where the species occur and are considered to be under threat.",
+      "context_window": "collective action will be highly relevant. For the most part, the reporting by Contracting Parties aligns with where the species occur and are considered to be under threat. Contracting Parties report implementation via a range of means, frequently a combination of legislative, administrative, and negotiated actions.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations, and by which means these measures have been implemented. The information",
+      "context_window": "the geographic occurrence of the features across the OSPAR Maritime Area, where they are considered to be under threat and/or in decline, which Contracting Parties have reported on the implementation of the Recommendations, and by which means these measures have been implemented. The information concerning the geographic distribution of the feature by country is derived from the relevant published background documents.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The actions across the Recommendations",
+      "context_window": "The Roadmap describes the various types of actions that OSPAR will work on over the coming years and provides a timetable to guide the achievement of these actions. The actions across the Recommendations have been clustered or grouped into a number of categories. These enable the implementation of the actions",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the natural recovery of Intertidal",
+      "context_window": "intertidal mudflats, and/or create new mudflats. Several Contracting Parties report on measures to support the natural recovery of Intertidal Mytilus edulis beds. One Contracting Party reported that projects designed",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are underway. For some of the species, e.g. Atlantic salmon and European eel, management plans",
+      "context_window": "for which most measures have been implemented are all listed in the EU Habitats Directive, which means that there is strong legal protection in place and conservation measures have been taken or are underway. For some of the species, e.g. Atlantic salmon and European eel, management plans are developed on an EU-level and many of the measures addressed in OSPAR overlap with the measures in these plans.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "la conformité et, dans la mesure du possible, des informations sur l'efficacité des Recommandations OSPAR",
+      "context_window": "La présente synthèse d’évaluation a été effectuée conformément aux exigences de rapports réguliers par les Parties contractantes en vertu de l'article 22 de la Convention OSPAR et vise à fournir des informations sur la conformité et, dans la mesure du possible, des informations sur l'efficacité des Recommandations OSPAR pour la protection des espèces et habitats. Cette évaluation contribue au Bilan de santé 2023.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overview of the occurrence of listed coastal and shelf habitats and where they are found to be under threat",
+      "context_window": "OSPAR Commission Table 6a Habitats (coastal and shelf) - Overview of the occurrence of listed coastal and shelf habitats and where they are found to be under threat or in decline across the OSPAR Maritime Area with a summary of implementation reporting by Contracting Party for 2019. Region",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on the conservation and protection of marine biodiversity.",
+      "context_window": "protection. The purpose of the list is to guide the OSPAR Commission in setting priorities for its further work on the conservation and protection of marine biodiversity. OSPAR Recommendations have been adopted for almost all of the species and habitats on the OSPAR List. These Recommendations define measures that require collective and/or national actions to further the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hydrothermal vents on Oceanic ridges, Seamounts)",
+      "context_window": "mounds. The location of many deep-sea features (e.g. Hydrothermal vents on Oceanic ridges, Seamounts) means they are difficult and expensive to map and monitor, depending on research activities to improve the knowledge base. Two Contracting Parties commented that monitoring the occurrence, distribution and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The location of many deep-sea features (e.g.",
+      "context_window": "reefs and then the second group being Seamounts, Hydrothermal vents on oceanic ridges and Carbonate mounds. The location of many deep-sea features (e.g. Hydrothermal vents on Oceanic ridges, Seamounts) means they are difficult and expensive to map and monitor, depending on research activities to improve the",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "although it was not clear how coherent these actions are in terms of being able to compare across habitats",
+      "context_window": "Environmental Impact Assessment process. Most Contracting Parties reported actions relating to monitoring and mapping of coastal and shelf habitats, although it was not clear how coherent these actions are in terms of being able to compare across habitats and countries. Some Contracting Parties reported that habitat quality is not as widely monitored and that",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures affecting them.",
+      "context_window": "Several Contracting Parties had struggled to implement the actions due to the technical and financial challenges with monitoring the features and the threats and pressures affecting them. Improving regional collaboration and coordination on monitoring efforts was highlighted as an important step in overcoming this difficulty.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "implement the action to introduce legislation to protect deep-sea habitats such as Seamounts, Deep-sea",
+      "context_window": "A number of reporting Contracting Parties note their use of the EU Habitats Directive and other EU legislation, and another reported using the environmental objectives of the MSFD to help implement the action to introduce legislation to protect deep-sea habitats such as Seamounts, Deep-sea sponge aggregations and Coral gardens. Two reporting Contracting Parties for Carbonate mounds identified implementation through national and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mesures agréées pour permettre le rétablissement des espèces et habitats menacés et/ou en déclin figurant",
+      "context_window": "les travaux dans le cadre de l’objectif opérationnel S5.05 : ‘D’ici à 2025, OSPAR aura mis en œuvre toutes les mesures agréées pour permettre le rétablissement des espèces et habitats menacés et/ou en déclin figurant sur la Liste OSPAR et prendra des mesures supplémentaires si nécessaire’. Cette évaluation montre clairement",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 121,
+      "end_sentence": 187,
+      "sentence_count": 67,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 121,
+          "page_number": 3,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 122,
+          "page_number": 3,
+          "content": "The OSPAR List of Threatened and/or Declining Species and Habitats (",
+          "full_length": 68
+        },
+        {
+          "sentence_id": 123,
+          "page_number": 3,
+          "content": "OSPAR Agreement 2008-06",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 124,
+          "page_number": 3,
+          "content": ", the OSPAR",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 125,
+          "page_number": 3,
+          "content": "List) has been developed in response to Annex V of the OSPAR Convention ‘",
+          "full_length": 73
+        }
+      ],
+      "total_sentences_in_section": 67
+    },
+    {
+      "section_name": "5. Conclusions",
+      "start_sentence": 2088,
+      "end_sentence": 2306,
+      "sentence_count": 219,
+      "page_range": "35-40",
+      "sentences": [
+        {
+          "sentence_id": 2088,
+          "page_number": 35,
+          "content": "5. Conclusions",
+          "full_length": 14
+        },
+        {
+          "sentence_id": 2089,
+          "page_number": 35,
+          "content": "Implementation reporting on Recommendations for OSPAR listed habitats and species was required in",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 2090,
+          "page_number": 35,
+          "content": "2013, 2016, and 2019.  Of the 12 Contracting Parties expected to report, nine have reported on every",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 2091,
+          "page_number": 35,
+          "content": "occasion, one has reported twice, one has reported once and one has never reported.",
+          "full_length": 83
+        },
+        {
+          "sentence_id": 2092,
+          "page_number": 35,
+          "content": "The implementation reporting round in 2019 was the first time in OSPAR history that implementation",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 219
+    }
+  ],
+  "metadata": {
+    "total_sentences": 6048,
+    "chunks_selected": 108,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 121,
+        "end_sentence": 187,
+        "sentence_count": 67
+      },
+      {
+        "section_name": "5. Conclusions",
+        "start_sentence": 2088,
+        "end_sentence": 2306,
+        "sentence_count": 219
+      }
+    ],
+    "total_excluded_sentences": 286
+  }
+}

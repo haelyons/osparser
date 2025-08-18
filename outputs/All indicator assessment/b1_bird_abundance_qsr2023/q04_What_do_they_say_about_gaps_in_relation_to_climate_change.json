@@ -1,0 +1,1307 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "The assessment",
+      "context_window": "Knowledge Gaps (brief) The assessment for Arctic Waters lacks data from Greenland, Iceland, and the Faroe Islands. The assessment for the Celtic Seas could not incorporate Irish data, as the data submitted from there were too sparse for inclusion in the assessment.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) The assessment for Arctic Waters lacks data from Greenland, Iceland, and the Faroe Islands. The assessment",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportion of a population that is monitored varies between species and between countries.",
+      "context_window": "Not all the colonies or sites in an assessment unit will be monitored and be present in the dataset. The proportion of a population that is monitored varies between species and between countries. There is a resultant bias, in that those countries where few sites are monitored are under-represented in the trends for",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Such baselines are currently not available. Knowledge Gaps (extended) Data availability and utilisation Arctic Waters (OSPAR Region I)",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "context_window": "moderate confidence in the data. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial",
+      "context_window": "At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring programmes. Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial and temporal coverage. Overall, coordination of surveys (e.g., regarding timing) between countries is lacking.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species",
+      "context_window": "period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989. However, by calculating the baseline from regression analysis on the first ten years of the time series (or",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were",
+      "context_window": "resultant bias, in that those countries where few sites are monitored are under-represented in the trends for a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were weighted according to the size of the population in that country. Each Contracting Party provided recent",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the data. The assessment is undertaken using data",
+      "context_window": "often been applied. There was moderate confidence in the data. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scarcity prior 1991.",
+      "context_window": "The time period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resultant bias, in that those countries where few sites are monitored are under-represented in the trends for",
+      "context_window": "proportion of a population that is monitored varies between species and between countries. There is a resultant bias, in that those countries where few sites are monitored are under-represented in the trends for a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has",
+      "context_window": "However, the above methods are difficult to obtain in practice, given the limited length of the time-series generally available. Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To provide greater insight into the likely impacts operating on relative breeding abundance and on relative",
+      "context_window": "breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each OSPAR Region and for each sub-division of the Greater North Sea and Arctic Waters.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not all the colonies and sites in the data provided had",
+      "context_window": "This indicator assessment requires for each species an annual estimate of either breeding or non-breeding abundance (depending on species) per site or colony. Not all the colonies and sites in the data provided had been observed every year. Missing annual observations were interpolated from the observed data using statistical models.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The baselines used in this common indicator assessment were assigned to the start of the data series being",
+      "context_window": "The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing. The baselines used in this common indicator assessment were assigned to the start of the data series being assessed. It would be more objective to set baselines that include ‘historical reference levels’, which reflect",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "possible to produce an assessment for this Region.",
+      "context_window": "Very limited data were available from the Wider Atlantic. Therefore, it was not possible to produce an assessment for this Region. The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identify potentially disruptive increases in some species that might impact on other species (ICES,",
+      "context_window": "induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES, 2008). For instance, large predatory seabird species have benefited from the provision of food from fishery discards.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "future assessments.",
+      "context_window": "the indicator. Therefore, this type of more frequent monitoring data, if available, should be provided for future assessments. The Russian Federation is not a Contracting Party to the OSPAR Convention; therefore, assessments are missing data from there.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each",
+      "context_window": "operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each OSPAR Region and for each sub-division of the Greater North Sea and Arctic Waters. Within each Region and",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment suffered from data not being delivered rather than data not existing.",
+      "context_window": "possible to produce an assessment for this Region. The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing. The baselines used in this common indicator assessment were assigned to the start of the data series being assessed.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring",
+      "context_window": "at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore. At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring programmes. Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(relative non-breeding abundance). There has been",
+      "context_window": "(relative breeding abundance) and Figure 2 (relative non-breeding abundance). There has been a decline in the proportion of breeding species achieving threshold values since the mid-2000s or earlier in all OSPAR Regions assessed, with the exception of breeding species in the Bay of Biscay and Iberian Coast",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inclusion in the assessment.",
+      "context_window": "The assessment for the Celtic Seas could not incorporate Irish data, as the data submitted from there were too sparse for inclusion in the assessment. The Bay of Biscay and Iberian coast lacked data from Portugal, as these were not submitted as annual counts.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been observed every year. Missing annual observations were interpolated from the observed data using",
+      "context_window": "abundance (depending on species) per site or colony. Not all the colonies and sites in the data provided had been observed every year. Missing annual observations were interpolated from the observed data using statistical models. The minimum number of years of counts for a particular species required for a colony or",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can serve as a prompt for management action. Rapid changes in abundance can also be used to",
+      "context_window": "Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES, 2008). For instance, large predatory seabird species have benefited from the provision of food from",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "missing data from there.",
+      "context_window": "future assessments. The Russian Federation is not a Contracting Party to the OSPAR Convention; therefore, assessments are missing data from there. Greenland and the Faroe Islands are represented in OSPAR by Denmark. None of",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the",
+      "context_window": "and temporal coverage. Overall, coordination of surveys (e.g., regarding timing) between countries is lacking. There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the indicator work on abundance, to implement this concept in the framework of national survey programmes in future years, and to develop a methodological approach for aggregating and analysing the data.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "operating in different parts of the marine environment.",
+      "context_window": "Marine Bird Abundance breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Rapid changes in abundance can indicate human-",
+      "context_window": "indicator because it is practical to measure, good for assessing long-term changes in community structure and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For future assessments, further effort",
+      "context_window": "Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort should be made by Contracting Parties to improve the estimation of baselines based on available data. Populations and subspecies",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "at sea collected from boats or planes need to be included to obtain reliable results on trends in species that",
+      "context_window": "range of land-based counts, were omitted. In future, updates of the indicator assessment data on seabirds at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore. At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast",
+      "context_window": "covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV). Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should be made by Contracting Parties to improve the estimation of baselines based on available data.",
+      "context_window": "hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort should be made by Contracting Parties to improve the estimation of baselines based on available data. Populations and subspecies Some marine bird species in this assessment belong to different flyway‐populations, biogeographical sub-",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding",
+      "context_window": "All Contracting Parties bordering the Greater North Sea have provided all their available data on breeding seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding birds. Celtic Seas (OSPAR Region III)",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data",
+      "context_window": "the outcome of the indicator, especially in situations where population declines are predominant. The time period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relative abundance",
+      "context_window": "in numbers of adult birds or breeding pairs) were converted to an indicator metric that uses a single scale (i.e., a proportion) for all species. The indicator metric is relative abundance , which is annual abundance expressed as a percentage of the baseline:",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the indicator assessment",
+      "context_window": "they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment This indicator includes information on marine bird species that, at some point in their annual life cycle, are reliant on coastal and / or offshore marine areas.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German",
+      "context_window": "Greater North Sea (OSPAR Region II) All Contracting Parties bordering the Greater North Sea have provided all their available data on breeding seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding birds.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "induced impacts and, supported by species-specific assessment threshold values for the extent of decline,",
+      "context_window": "and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Region whose values appear to be stable since mid-2000s with recent values meeting the threshold",
+      "context_window": "a decline in the proportion of breeding species achieving threshold values since the mid-2000s or earlier in all OSPAR Regions assessed, with the exception of breeding species in the Bay of Biscay and Iberian Coast Region whose values appear to be stable since mid-2000s with recent values meeting the threshold value. Non-breeding species are declining since the start of the time-series in all OSPAR Regions assessed.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989.",
+      "context_window": "scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989. However, by calculating the baseline from regression analysis on the first ten years of the time series (or using the mean 1991 to 2000 if no significant regression) rather than simply using the first year of the time",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding and non-breeding assessments therefore indicate impacts from different suites of pressures,",
+      "context_window": "OSPAR Commission Marine Bird Abundance breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to declines in their population (see ICES, 2008, 2010, 2011).",
+      "context_window": "Species-Specific threshold Values This assessment uses two different threshold values that are designed to reflect the resilience of different species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative abundance of a species to be above, either:",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "editions might enable an indicator assessment for the Region.",
+      "context_window": "Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it comprised only two species; nonetheless these data are presented separately in the expectation that future editions might enable an indicator assessment for the Region. The assessment of Arctic Waters is only based on data from Norway but includes both breeding and non-breeding abundance data from both the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Applying Regional Weightings to Abundance Trends",
+      "context_window": "outliers during the imputation and allows the inclusion in the assessment of a higher number of species that would have been otherwise discarded due to unrealistic results produced by the Thomas fit method. Applying Regional Weightings to Abundance Trends Not all the colonies or sites in an assessment unit will be monitored and be present in the dataset. The",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the methodology and",
+      "context_window": "There was high confidence in the methodology and moderate confidence in the data used in this assessment.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more",
+      "context_window": "the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population trends as an index of community health (ICES, 2008), according to the following integration rule: Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more of species that are assessed .",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Baselines",
+      "context_window": "expressed as a percentage of the baseline: relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend for the first ten years of the observed period (1991 to 2000).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator work on abundance, to implement this concept in the framework of national survey programmes",
+      "context_window": "Overall, coordination of surveys (e.g., regarding timing) between countries is lacking. There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the indicator work on abundance, to implement this concept in the framework of national survey programmes in future years, and to develop a methodological approach for aggregating and analysing the data. Marine Bird Abundance",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "because in different areas of origin they can be subject to very different pressures.",
+      "context_window": "populations or even subspecies. In particular, it is a problem to combine non-breeders in one assessment, because in different areas of origin they can be subject to very different pressures. In the future, efforts should be made to assess populations separately, provided they are distinguishable.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population",
+      "context_window": "Integration of Species-Specific Assessments The status of marine bird communities was assessed by calculating the proportion of species exceeding the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population trends as an index of community health (ICES, 2008), according to the following integration rule: Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "do so.",
+      "context_window": "to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment This indicator includes information on marine bird species that, at some point in their annual life cycle, are",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for",
+      "context_window": "threshold values that are designed to reflect the resilience of different species to population decline. It is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for species that lay one egg or above 0,7 (70% of the baseline) for species that lay more than one egg. If 75%",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of breeding or non-breeding abundance of each species are compared against assessment",
+      "context_window": "abundance’ (numbers of birds using intertidal and inshore areas during migration or over winter). Annual estimates of breeding or non-breeding abundance of each species are compared against assessment threshold values that are designed to reflect the resilience of different species to population decline. It",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it",
+      "context_window": "assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV). Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it comprised only two species; nonetheless these data are presented separately in the expectation that future editions might enable an indicator assessment for the Region.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 24 Knowledge Gaps (extended) 24 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This common indicator",
+      "context_window": "The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017) covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in future, if the proposed extension to offshore areas (see",
+      "context_window": "offshore to be monitored sufficiently by land-based counts. These species could be included in the indicator in future, if the proposed extension to offshore areas (see pilot assessment B1 Marine bird abundance – non- breeding birds offshore",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific trend plot is shown in",
+      "context_window": "being sufficient data available, for which the trends were estimated for each species. An example of species- specific trend plot is shown in Figure d. The number of species included in the sub-divisional assessments are fewer than those in the regional",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, updates of the indicator assessment data on seabirds",
+      "context_window": "For this assessment of non-breeding marine birds, species occurring mostly offshore, and thus, outside the range of land-based counts, were omitted. In future, updates of the indicator assessment data on seabirds at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "weighted according to the size of the population in that country.",
+      "context_window": "a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were weighted according to the size of the population in that country. Each Contracting Party provided recent estimates of total abundance for each species along their coastline within each of the assessment units in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold values that are designed to reflect the resilience of different species to population decline.",
+      "context_window": "Annual estimates of breeding or non-breeding abundance of each species are compared against assessment threshold values that are designed to reflect the resilience of different species to population decline. It is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to",
+      "context_window": "OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://www.ospar.org/documents?d=32794",
+      "context_window": "example, for this reason the Iberian guillemot, which is included on the OSPAR List of Threatened and/or Declining Species and Habitats ( https://www.ospar.org/documents?d=32794 ) could not be assessed by this indicator. According to the Status Assessment for Iberian guillemot (",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, it is a problem to combine non-breeders in one assessment,",
+      "context_window": "Some marine bird species in this assessment belong to different flyway‐populations, biogeographical sub- populations or even subspecies. In particular, it is a problem to combine non-breeders in one assessment, because in different areas of origin they can be subject to very different pressures. In the future, efforts",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Denmark, Germany, and the Netherlands in the Wadden Sea (Greater North Sea sub-division d) breeding",
+      "context_window": "breeding abundance, all species (for methodology see Blew and Südbeck, 2005; Kleefstra et al., 2019). 3. Denmark, Germany, and the Netherlands in the Wadden Sea (Greater North Sea sub-division d) breeding abundance, all species (for methodology see Koffijberg et al., 2020). For all other data submitted by Contracting Parties, missing annual observations were interpolated using",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017)",
+      "context_window": "Separate assessments were carried out for relative breeding abundance and relative non-breeding abundance. The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017) covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data from Norway could be included in the current assessment.",
+      "context_window": "Arctic Waters (OSPAR Region I) The Arctic sub-region contains the highest concentrations of marine birds in the North-East Atlantic but only data from Norway could be included in the current assessment. Iceland only provided national total counts of breeding birds, which are, by their nature, rare and thus too sparse to be included in the assessment.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should be made to assess populations separately, provided they are distinguishable.",
+      "context_window": "because in different areas of origin they can be subject to very different pressures. In the future, efforts should be made to assess populations separately, provided they are distinguishable. Species selection This indicator uses the abundance of marine bird species to assess the status of the marine areas they use",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend",
+      "context_window": "relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend for the first ten years of the observed period (1991 to 2000). All p-values and confidence intervals were",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance of a species to be above, either:",
+      "context_window": "species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative abundance of a species to be above, either: • 0,8 (i.e., 80% of the baseline) – for species that lay one egg; or",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessments in southern part of the Barents Sea include data from late February / early March.",
+      "context_window": "values from Wadden Sea are included, also year-round data used for the United Kingdom’s input into Greater North Sea and Celtic Seas. Assessments in southern part of the Barents Sea include data from late February / early March. Species-specific trends The species-specific trends on which this indicator assessment is based are accessible as supplementary",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator because it is practical to measure, good for assessing long-term changes in community structure",
+      "context_window": "Background (brief) Abundance (numbers of adult birds in the non-breeding season or pairs at breeding colonies) is used as an indicator because it is practical to measure, good for assessing long-term changes in community structure and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining Species and Habitats (",
+      "context_window": "For example, for this reason the Iberian guillemot, which is included on the OSPAR List of Threatened and/or Declining Species and Habitats ( https://www.ospar.org/documents?d=32794 ) could not be assessed by this",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relative abundance = annual abundance / baseline abundance",
+      "context_window": ", which is annual abundance expressed as a percentage of the baseline: relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES (2015) recommended that it is preferable to set baselines",
+      "context_window": "abundance was calculated using a baseline obtained from regression analysis or mean of the first ten years of the time series (starting in 1991). ICES (2015) recommended that it is preferable to set baselines objectively, using one of the methods (a) or (b), below. •",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 23 Knowledge Gaps (brief) 24 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent",
+      "context_window": "This indicator has gone through extensive testing and development (see ICES, 2013a,b,c,d, 2015). OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management, if increases in one species are likely to result in decreases in others.",
+      "context_window": "As a result, this upper assessment threshold value is not used as an indicator of status and is only used to provide a trigger for further research and / or management, if increases in one species are likely to result in decreases in others. Integration of Species-Specific Assessments The status of marine bird communities was assessed by calculating the proportion of species exceeding",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the data used in this assessment.",
+      "context_window": "confidence in the methodology and moderate confidence in the data used in this assessment. Table 1. Percentage of species assessed that had a relative abundance above the threshold values in each",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For this reason, the data used in this indicator",
+      "context_window": "Prior to 1991, a large amount of data would need to be interpolated and confidence in the accuracy of trends in abundance during this period was very low. For this reason, the data used in this indicator assessment were restricted to 1991 onwards. Marine Bird Abundance",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment uses two different threshold values that are designed to reflect the resilience of different",
+      "context_window": "Assessments Species-Specific threshold Values This assessment uses two different threshold values that are designed to reflect the resilience of different species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data were restricted to the period 2010-2020, a baseline could not be calculated and thus, an assessment",
+      "context_window": "Wider Atlantic Region were provided by the Azores for the common tern and the roseate tern. However, as data were restricted to the period 2010-2020, a baseline could not be calculated and thus, an assessment was not possible, not least because in the case of the roseate tern, the size of the Azores population is strongly fluctuating (Piec & Dunn 2021).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportion of species in a Region or sub-division of that Region that have achieved threshold values for",
+      "context_window": "Each species-specific estimate of annual relative abundance is compared against a threshold value. This indicator assessment is based on the proportion of species in a Region or sub-division of that Region that have achieved threshold values for relative abundance in the mean of the most recent six years of the time series. Depending on data availability,",
+      "page_number": 5,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "The assessment",
+      "context_window": "Knowledge Gaps (brief) The assessment for Arctic Waters lacks data from Greenland, Iceland, and the Faroe Islands. The assessment for the Celtic Seas could not incorporate Irish data, as the data submitted from there were too sparse for inclusion in the assessment.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportion of a population that is monitored varies between species and between countries.",
+      "context_window": "Not all the colonies or sites in an assessment unit will be monitored and be present in the dataset. The proportion of a population that is monitored varies between species and between countries. There is a resultant bias, in that those countries where few sites are monitored are under-represented in the trends for",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "context_window": "moderate confidence in the data. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial",
+      "context_window": "At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring programmes. Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial and temporal coverage. Overall, coordination of surveys (e.g., regarding timing) between countries is lacking.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were",
+      "context_window": "resultant bias, in that those countries where few sites are monitored are under-represented in the trends for a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were weighted according to the size of the population in that country. Each Contracting Party provided recent",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scarcity prior 1991.",
+      "context_window": "The time period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To provide greater insight into the likely impacts operating on relative breeding abundance and on relative",
+      "context_window": "breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each OSPAR Region and for each sub-division of the Greater North Sea and Arctic Waters.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "possible to produce an assessment for this Region.",
+      "context_window": "Very limited data were available from the Wider Atlantic. Therefore, it was not possible to produce an assessment for this Region. The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "future assessments.",
+      "context_window": "the indicator. Therefore, this type of more frequent monitoring data, if available, should be provided for future assessments. The Russian Federation is not a Contracting Party to the OSPAR Convention; therefore, assessments are missing data from there.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring",
+      "context_window": "at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore. At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring programmes. Elsewhere, there are either no at-sea surveys or those that do exist are very limited in spatial",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inclusion in the assessment.",
+      "context_window": "The assessment for the Celtic Seas could not incorporate Irish data, as the data submitted from there were too sparse for inclusion in the assessment. The Bay of Biscay and Iberian coast lacked data from Portugal, as these were not submitted as annual counts.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can serve as a prompt for management action. Rapid changes in abundance can also be used to",
+      "context_window": "Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES, 2008). For instance, large predatory seabird species have benefited from the provision of food from",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the",
+      "context_window": "and temporal coverage. Overall, coordination of surveys (e.g., regarding timing) between countries is lacking. There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the indicator work on abundance, to implement this concept in the framework of national survey programmes in future years, and to develop a methodological approach for aggregating and analysing the data.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Rapid changes in abundance can indicate human-",
+      "context_window": "indicator because it is practical to measure, good for assessing long-term changes in community structure and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "at sea collected from boats or planes need to be included to obtain reliable results on trends in species that",
+      "context_window": "range of land-based counts, were omitted. In future, updates of the indicator assessment data on seabirds at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore. At present, several Contracting Parties carry out, or plan to carry out, national at-sea monitoring",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should be made by Contracting Parties to improve the estimation of baselines based on available data.",
+      "context_window": "hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort should be made by Contracting Parties to improve the estimation of baselines based on available data. Populations and subspecies Some marine bird species in this assessment belong to different flyway‐populations, biogeographical sub-",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "relative abundance",
+      "context_window": "in numbers of adult birds or breeding pairs) were converted to an indicator metric that uses a single scale (i.e., a proportion) for all species. The indicator metric is relative abundance , which is annual abundance expressed as a percentage of the baseline:",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German",
+      "context_window": "Greater North Sea (OSPAR Region II) All Contracting Parties bordering the Greater North Sea have provided all their available data on breeding seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding birds.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Region whose values appear to be stable since mid-2000s with recent values meeting the threshold",
+      "context_window": "a decline in the proportion of breeding species achieving threshold values since the mid-2000s or earlier in all OSPAR Regions assessed, with the exception of breeding species in the Bay of Biscay and Iberian Coast Region whose values appear to be stable since mid-2000s with recent values meeting the threshold value. Non-breeding species are declining since the start of the time-series in all OSPAR Regions assessed.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding and non-breeding assessments therefore indicate impacts from different suites of pressures,",
+      "context_window": "OSPAR Commission Marine Bird Abundance breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "editions might enable an indicator assessment for the Region.",
+      "context_window": "Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it comprised only two species; nonetheless these data are presented separately in the expectation that future editions might enable an indicator assessment for the Region. The assessment of Arctic Waters is only based on data from Norway but includes both breeding and non-breeding abundance data from both the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the methodology and",
+      "context_window": "There was high confidence in the methodology and moderate confidence in the data used in this assessment.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Baselines",
+      "context_window": "expressed as a percentage of the baseline: relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend for the first ten years of the observed period (1991 to 2000).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "because in different areas of origin they can be subject to very different pressures.",
+      "context_window": "populations or even subspecies. In particular, it is a problem to combine non-breeders in one assessment, because in different areas of origin they can be subject to very different pressures. In the future, efforts should be made to assess populations separately, provided they are distinguishable.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for",
+      "context_window": "threshold values that are designed to reflect the resilience of different species to population decline. It is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for species that lay one egg or above 0,7 (70% of the baseline) for species that lay more than one egg. If 75%",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it",
+      "context_window": "assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV). Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it comprised only two species; nonetheless these data are presented separately in the expectation that future editions might enable an indicator assessment for the Region.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This common indicator",
+      "context_window": "The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017) covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "specific trend plot is shown in",
+      "context_window": "being sufficient data available, for which the trends were estimated for each species. An example of species- specific trend plot is shown in Figure d. The number of species included in the sub-divisional assessments are fewer than those in the regional",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "weighted according to the size of the population in that country.",
+      "context_window": "a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were weighted according to the size of the population in that country. Each Contracting Party provided recent estimates of total abundance for each species along their coastline within each of the assessment units in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to",
+      "context_window": "OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In particular, it is a problem to combine non-breeders in one assessment,",
+      "context_window": "Some marine bird species in this assessment belong to different flyway‐populations, biogeographical sub- populations or even subspecies. In particular, it is a problem to combine non-breeders in one assessment, because in different areas of origin they can be subject to very different pressures. In the future, efforts",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Denmark, Germany, and the Netherlands in the Wadden Sea (Greater North Sea sub-division d) breeding",
+      "context_window": "breeding abundance, all species (for methodology see Blew and Südbeck, 2005; Kleefstra et al., 2019). 3. Denmark, Germany, and the Netherlands in the Wadden Sea (Greater North Sea sub-division d) breeding abundance, all species (for methodology see Koffijberg et al., 2020). For all other data submitted by Contracting Parties, missing annual observations were interpolated using",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data from Norway could be included in the current assessment.",
+      "context_window": "Arctic Waters (OSPAR Region I) The Arctic sub-region contains the highest concentrations of marine birds in the North-East Atlantic but only data from Norway could be included in the current assessment. Iceland only provided national total counts of breeding birds, which are, by their nature, rare and thus too sparse to be included in the assessment.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend",
+      "context_window": "relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend for the first ten years of the observed period (1991 to 2000). All p-values and confidence intervals were",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessments in southern part of the Barents Sea include data from late February / early March.",
+      "context_window": "values from Wadden Sea are included, also year-round data used for the United Kingdom’s input into Greater North Sea and Celtic Seas. Assessments in southern part of the Barents Sea include data from late February / early March. Species-specific trends The species-specific trends on which this indicator assessment is based are accessible as supplementary",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining Species and Habitats (",
+      "context_window": "For example, for this reason the Iberian guillemot, which is included on the OSPAR List of Threatened and/or Declining Species and Habitats ( https://www.ospar.org/documents?d=32794 ) could not be assessed by this",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES (2015) recommended that it is preferable to set baselines",
+      "context_window": "abundance was calculated using a baseline obtained from regression analysis or mean of the first ten years of the time series (starting in 1991). ICES (2015) recommended that it is preferable to set baselines objectively, using one of the methods (a) or (b), below. •",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent",
+      "context_window": "This indicator has gone through extensive testing and development (see ICES, 2013a,b,c,d, 2015). OSPAR’s Quality Status Report (QSR) 2023 indicator threshold values may be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the data used in this assessment.",
+      "context_window": "confidence in the methodology and moderate confidence in the data used in this assessment. Table 1. Percentage of species assessed that had a relative abundance above the threshold values in each",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment uses two different threshold values that are designed to reflect the resilience of different",
+      "context_window": "Assessments Species-Specific threshold Values This assessment uses two different threshold values that are designed to reflect the resilience of different species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportion of species in a Region or sub-division of that Region that have achieved threshold values for",
+      "context_window": "Each species-specific estimate of annual relative abundance is compared against a threshold value. This indicator assessment is based on the proportion of species in a Region or sub-division of that Region that have achieved threshold values for relative abundance in the mean of the most recent six years of the time series. Depending on data availability,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data were restricted to the period 2010-2020, a baseline could not be calculated and thus, an assessment",
+      "context_window": "Wider Atlantic Region were provided by the Azores for the common tern and the roseate tern. However, as data were restricted to the period 2010-2020, a baseline could not be calculated and thus, an assessment was not possible, not least because in the case of the roseate tern, the size of the Azores population is strongly fluctuating (Piec & Dunn 2021).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For this reason, the data used in this indicator",
+      "context_window": "Prior to 1991, a large amount of data would need to be interpolated and confidence in the accuracy of trends in abundance during this period was very low. For this reason, the data used in this indicator assessment were restricted to 1991 onwards. Marine Bird Abundance",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management, if increases in one species are likely to result in decreases in others.",
+      "context_window": "As a result, this upper assessment threshold value is not used as an indicator of status and is only used to provide a trigger for further research and / or management, if increases in one species are likely to result in decreases in others. Integration of Species-Specific Assessments The status of marine bird communities was assessed by calculating the proportion of species exceeding",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 23 Knowledge Gaps (brief) 24 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relative abundance = annual abundance / baseline abundance",
+      "context_window": ", which is annual abundance expressed as a percentage of the baseline: relative abundance = annual abundance / baseline abundance Baselines Baseline values were obtained based on predictions using a generalised linear model to detect yearly trend",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator because it is practical to measure, good for assessing long-term changes in community structure",
+      "context_window": "Background (brief) Abundance (numbers of adult birds in the non-breeding season or pairs at breeding colonies) is used as an indicator because it is practical to measure, good for assessing long-term changes in community structure and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance of a species to be above, either:",
+      "context_window": "species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative abundance of a species to be above, either: • 0,8 (i.e., 80% of the baseline) – for species that lay one egg; or",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should be made to assess populations separately, provided they are distinguishable.",
+      "context_window": "because in different areas of origin they can be subject to very different pressures. In the future, efforts should be made to assess populations separately, provided they are distinguishable. Species selection This indicator uses the abundance of marine bird species to assess the status of the marine areas they use",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017)",
+      "context_window": "Separate assessments were carried out for relative breeding abundance and relative non-breeding abundance. The common indicator assessment conducted for the OSPAR Intermediate Assessment 2017 (IA 2017) covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Targeted actions for the",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Targeted actions for the protection and conservation of species, habitats and ecosystem processes",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://www.ospar.org/documents?d=32794",
+      "context_window": "example, for this reason the Iberian guillemot, which is included on the OSPAR List of Threatened and/or Declining Species and Habitats ( https://www.ospar.org/documents?d=32794 ) could not be assessed by this indicator. According to the Status Assessment for Iberian guillemot (",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threshold values that are designed to reflect the resilience of different species to population decline.",
+      "context_window": "Annual estimates of breeding or non-breeding abundance of each species are compared against assessment threshold values that are designed to reflect the resilience of different species to population decline. It is desirable for the annual ‘relative abundance’ of a species to be above 0,8 (80% of the baseline) for",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In future, updates of the indicator assessment data on seabirds",
+      "context_window": "For this assessment of non-breeding marine birds, species occurring mostly offshore, and thus, outside the range of land-based counts, were omitted. In future, updates of the indicator assessment data on seabirds at sea collected from boats or planes need to be included to obtain reliable results on trends in species that occur in substantial numbers offshore.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in future, if the proposed extension to offshore areas (see",
+      "context_window": "offshore to be monitored sufficiently by land-based counts. These species could be included in the indicator in future, if the proposed extension to offshore areas (see pilot assessment B1 Marine bird abundance – non- breeding birds offshore",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 24 Knowledge Gaps (extended) 24 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of breeding or non-breeding abundance of each species are compared against assessment",
+      "context_window": "abundance’ (numbers of birds using intertidal and inshore areas during migration or over winter). Annual estimates of breeding or non-breeding abundance of each species are compared against assessment threshold values that are designed to reflect the resilience of different species to population decline. It",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "do so.",
+      "context_window": "to proposed European Union Marine Strategy Framework Directive (MSFD) criteria threshold values, in that they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment This indicator includes information on marine bird species that, at some point in their annual life cycle, are",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population",
+      "context_window": "Integration of Species-Specific Assessments The status of marine bird communities was assessed by calculating the proportion of species exceeding the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population trends as an index of community health (ICES, 2008), according to the following integration rule: Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator work on abundance, to implement this concept in the framework of national survey programmes",
+      "context_window": "Overall, coordination of surveys (e.g., regarding timing) between countries is lacking. There is a need to develop a concept for joint survey efforts delivering the necessary data basis for the indicator work on abundance, to implement this concept in the framework of national survey programmes in future years, and to develop a methodological approach for aggregating and analysing the data. Marine Bird Abundance",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more",
+      "context_window": "the lower threshold values, as previously used for breeding seabirds in the EcoQO on seabird population trends as an index of community health (ICES, 2008), according to the following integration rule: Changes in abundance of marine birds should exceed species-specific assessment values in 75% or more of species that are assessed .",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Applying Regional Weightings to Abundance Trends",
+      "context_window": "outliers during the imputation and allows the inclusion in the assessment of a higher number of species that would have been otherwise discarded due to unrealistic results produced by the Thomas fit method. Applying Regional Weightings to Abundance Trends Not all the colonies or sites in an assessment unit will be monitored and be present in the dataset. The",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species to declines in their population (see ICES, 2008, 2010, 2011).",
+      "context_window": "Species-Specific threshold Values This assessment uses two different threshold values that are designed to reflect the resilience of different species to declines in their population (see ICES, 2008, 2010, 2011). It is desirable for the annual relative abundance of a species to be above, either:",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989.",
+      "context_window": "scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989. However, by calculating the baseline from regression analysis on the first ten years of the time series (or using the mean 1991 to 2000 if no significant regression) rather than simply using the first year of the time",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "induced impacts and, supported by species-specific assessment threshold values for the extent of decline,",
+      "context_window": "and because it changes slowly under natural conditions. Rapid changes in abundance can indicate human- induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species included in the indicator assessment",
+      "context_window": "they can also be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Species included in the indicator assessment This indicator includes information on marine bird species that, at some point in their annual life cycle, are reliant on coastal and / or offshore marine areas.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data",
+      "context_window": "the outcome of the indicator, especially in situations where population declines are predominant. The time period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding",
+      "context_window": "All Contracting Parties bordering the Greater North Sea have provided all their available data on breeding seabirds and waterbirds and on non-breeding waterbirds. Incomplete data were supplied by German Wadden Sea, because time series lasted only until 2016 in non-breeding birds and until 2017 in breeding birds. Celtic Seas (OSPAR Region III)",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast",
+      "context_window": "covered only three OSPAR Regions (Arctic Waters, Greater North Sea and Celtic Seas). This common indicator assessment for QSR 2023 is now expanded to an additional OSPAR Region: Bay of Biscay and Iberian Coast (Region IV). Data were insufficient to make a viable indicator assessment for Wider Atlantic (Region V) as it",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For future assessments, further effort",
+      "context_window": "Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort should be made by Contracting Parties to improve the estimation of baselines based on available data. Populations and subspecies",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "operating in different parts of the marine environment.",
+      "context_window": "Marine Bird Abundance breeding and non-breeding assessments therefore indicate impacts from different suites of pressures, operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "missing data from there.",
+      "context_window": "future assessments. The Russian Federation is not a Contracting Party to the OSPAR Convention; therefore, assessments are missing data from there. Greenland and the Faroe Islands are represented in OSPAR by Denmark. None of",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been observed every year. Missing annual observations were interpolated from the observed data using",
+      "context_window": "abundance (depending on species) per site or colony. Not all the colonies and sites in the data provided had been observed every year. Missing annual observations were interpolated from the observed data using statistical models. The minimum number of years of counts for a particular species required for a colony or",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(relative non-breeding abundance). There has been",
+      "context_window": "(relative breeding abundance) and Figure 2 (relative non-breeding abundance). There has been a decline in the proportion of breeding species achieving threshold values since the mid-2000s or earlier in all OSPAR Regions assessed, with the exception of breeding species in the Bay of Biscay and Iberian Coast",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment suffered from data not being delivered rather than data not existing.",
+      "context_window": "possible to produce an assessment for this Region. The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing. The baselines used in this common indicator assessment were assigned to the start of the data series being assessed.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each",
+      "context_window": "operating in different parts of the marine environment. To provide greater insight into the likely impacts operating on relative breeding abundance and on relative non-breeding abundance, species-specific assessments were integrated at different spatial scales: for each OSPAR Region and for each sub-division of the Greater North Sea and Arctic Waters. Within each Region and",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identify potentially disruptive increases in some species that might impact on other species (ICES,",
+      "context_window": "induced impacts and, supported by species-specific assessment threshold values for the extent of decline, can serve as a prompt for management action. Rapid changes in abundance can also be used to identify potentially disruptive increases in some species that might impact on other species (ICES, 2008). For instance, large predatory seabird species have benefited from the provision of food from fishery discards.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The baselines used in this common indicator assessment were assigned to the start of the data series being",
+      "context_window": "The spatial completeness of the marine bird abundance assessment suffered from data not being delivered rather than data not existing. The baselines used in this common indicator assessment were assigned to the start of the data series being assessed. It would be more objective to set baselines that include ‘historical reference levels’, which reflect",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not all the colonies and sites in the data provided had",
+      "context_window": "This indicator assessment requires for each species an annual estimate of either breeding or non-breeding abundance (depending on species) per site or colony. Not all the colonies and sites in the data provided had been observed every year. Missing annual observations were interpolated from the observed data using statistical models.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has",
+      "context_window": "However, the above methods are difficult to obtain in practice, given the limited length of the time-series generally available. Few countries were able to supply baselines for the IA 2017 and the COVID pandemic has hindered attempts by JWGBIRD to address this for the QSR 2023. For future assessments, further effort",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resultant bias, in that those countries where few sites are monitored are under-represented in the trends for",
+      "context_window": "proportion of a population that is monitored varies between species and between countries. There is a resultant bias, in that those countries where few sites are monitored are under-represented in the trends for a given assessment unit, compared to those countries where a larger proportion of sites are monitored. To remove such bias, the annual estimates of breeding and non-breeding abundance in each country were",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in the data. The assessment is undertaken using data",
+      "context_window": "often been applied. There was moderate confidence in the data. The assessment is undertaken using data with a mostly sufficient spatial coverage for the area assessed, but gaps are apparent in certain areas.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species",
+      "context_window": "period considered in the assessment was shifted forward from 1980 to 2020 to 1991 to 2020 because of data scarcity prior 1991. This could potentially risk an ‘optimistic’ bias in the indicator’s outputs, with more species reaching the threshold value relative to the baseline 1991 to 2000 than they would, relative to 1980 to 1989. However, by calculating the baseline from regression analysis on the first ten years of the time series (or",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Such baselines are currently not available. Knowledge Gaps (extended) Data availability and utilisation Arctic Waters (OSPAR Region I)",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) The assessment for Arctic Waters lacks data from Greenland, Iceland, and the Faroe Islands. The assessment",
+      "page_number": 24,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 78,
+      "end_sentence": 82,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "Marine birds are in poor status and declining in most of the OSPAR Maritime Area.",
+          "full_length": 81
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "This mainly refers to birds",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "feeding at the water surface, diving to the seafloor or foraging in shallow water / on mudflats, whe...",
+          "full_length": 110
+        },
+        {
+          "sentence_id": 82,
+          "page_number": 3,
+          "content": "feeding in the water column and herbivores are usually doing better.",
+          "full_length": 68
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 1177,
+      "end_sentence": 1192,
+      "sentence_count": 16,
+      "page_range": "23-23",
+      "sentences": [
+        {
+          "sentence_id": 1177,
+          "page_number": 23,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1178,
+          "page_number": 23,
+          "content": "Taken as a whole, marine birds (breeding and non-breeding separately and together) were below the",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1179,
+          "page_number": 23,
+          "content": "threshold value in Arctic Waters, Greater North Sea, and Celtic Seas.",
+          "full_length": 69
+        },
+        {
+          "sentence_id": 1180,
+          "page_number": 23,
+          "content": "This is a similar situation to the",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 1181,
+          "page_number": 23,
+          "content": "assessment reported for IA 2017 and in general, continues a long-term decline in status.",
+          "full_length": 88
+        }
+      ],
+      "total_sentences_in_section": 16
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 1193,
+      "end_sentence": 1245,
+      "sentence_count": 53,
+      "page_range": "23-24",
+      "sentences": [
+        {
+          "sentence_id": 1193,
+          "page_number": 23,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1194,
+          "page_number": 23,
+          "content": "Wading feeders and benthic feeders never achieved the threshold value in all Regions assessed, altho...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 1195,
+          "page_number": 23,
+          "content": "should be noted that only few benthic feeder species could be assessed.",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 1196,
+          "page_number": 23,
+          "content": "Surface-feeders were also generally",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 1197,
+          "page_number": 23,
+          "content": "in bad status, with the exception of eight species assessed in the Bay of Biscay and Iberian Coast.",
+          "full_length": 99
+        }
+      ],
+      "total_sentences_in_section": 53
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1405,
+      "end_sentence": 1501,
+      "sentence_count": 97,
+      "page_range": "27-28",
+      "sentences": [
+        {
+          "sentence_id": 1405,
+          "page_number": 27,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1406,
+          "page_number": 27,
+          "content": "ICES. 2008. Report of the Workshop on Seabird Ecological Quality Indicator, 8–9 March 2008, Lisbon,",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 1407,
+          "page_number": 27,
+          "content": "Portugal. ICES CM 2008/LRC:06. 60 pp.",
+          "full_length": 37
+        },
+        {
+          "sentence_id": 1408,
+          "page_number": 27,
+          "content": "ICES.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1409,
+          "page_number": 27,
+          "content": "2010.",
+          "full_length": 5
+        }
+      ],
+      "total_sentences_in_section": 97
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1568,
+    "chunks_selected": 91,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 78,
+        "end_sentence": 82,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 1177,
+        "end_sentence": 1192,
+        "sentence_count": 16
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 1193,
+        "end_sentence": 1245,
+        "sentence_count": 53
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1405,
+        "end_sentence": 1501,
+        "sentence_count": 97
+      }
+    ],
+    "total_excluded_sentences": 171
+  }
+}

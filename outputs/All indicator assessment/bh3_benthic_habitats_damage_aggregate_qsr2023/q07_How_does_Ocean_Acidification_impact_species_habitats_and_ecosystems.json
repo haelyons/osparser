@@ -1,0 +1,1439 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when",
+      "context_window": "the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when compared with the IA 2017. However, in the absence of direct sensitivity assessments, the aggregation of",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for full details on how sensitivity assessments are assigned to",
+      "context_window": "See the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat polygons.",
+      "context_window": "fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications",
+      "context_window": "compared with the IA 2017. However, in the absence of direct sensitivity assessments, the aggregation of sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity",
+      "context_window": "for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010). For habitats that were present in Common Indicator",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For habitats that were present in Common Indicator",
+      "context_window": "For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010). For habitats that were present in Common Indicator Assessment Units, EUNIS codes associated with the habitat definition and assessed sensitivity are summarised in",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with access to commercially sensitive habitat maps and species records from industry data, location-specific",
+      "context_window": "and habitat / species specific sensitivity evidence at the time of the assessment. Due to limitations associated with access to commercially sensitive habitat maps and species records from industry data, location-specific sensitivity evidence could not be incorporated in the current OSPAR Maritime Area scale assessment. Future",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is anticipated that data on habitat distribution and",
+      "context_window": "At present BH3 is still being investigated for its application in Arctic Waters and the Wider Atlantic, mainly due to limited data availability within these regions. It is anticipated that data on habitat distribution and sensitivity will be included at a later stage, to allow the analysis to address the wider spatial scale and assess variations in disturbance across OSPAR Regions more accurately.",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for",
+      "context_window": "Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for joining species point data, a 50 m x 50 m grid (spatially aligned with grid cell size commonly used in aggregate extraction assessments in the North-East Atlantic, e.g., by ICES WGEXT) was used.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species",
+      "context_window": "Table b: BH3 species sensitivity values derived from Tyler-Walters et al., 2018 (MarESA), Tillin & Tyler- Walters 2014a & 2014b (Sediment), and Maher & Alexander 2016; Maher et al., 2016 (Sublittoral rock). Species BH3 Sensitivity; Habitat structure changes - removal of substratum",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "per habitat type and per assessment unit.",
+      "context_window": "4. Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries assessment",
+      "context_window": "associated with their definition; the maximum sensitivity was assigned following a precautionary approach. See the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR ICG-C pressure ‘Habitat structure changes - removal of substratum (extraction)’ (",
+      "context_window": "Version 1.5 (Robson et al., 2018). Sensitivity values used in the BH3 assessment included assessments against the OSPAR ICG-C pressure ‘Habitat structure changes - removal of substratum (extraction)’ ( Table a ); relevant",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where available, species points were spatially joined to habitat polygons within grid cells and",
+      "context_window": "case) • Where available, species points were spatially joined to habitat polygons within grid cells and where more than one species point was present, only the point with the highest sensitivity value was joined. Assigning the maximum species sensitivity followed the precautionary principle which",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "context_window": "Species and habitat sensitivity derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin and Tyler-Walters, 2014a & 2014b; Tyler-Walters et al., 2018; Last et al., 2020). 3.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work",
+      "context_window": "explored in future work. Furthermore, where improved datasets become available, data-based assessments of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work to mitigate aforementioned limitations that can affect the certainty and accuracy of indicator outputs. OSPAR Commission 2023",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "context_window": "Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 110 of 116 In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A composite habitat map was developed to show the extent and distribution of habitats and their associated",
+      "context_window": "Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining Habitats assessments) A composite habitat map was developed to show the extent and distribution of habitats and their associated sensitivities for all QSR 2023 BH3 assessments. Habitats were mapped to the greatest level of detail available",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an",
+      "context_window": "Where species point data were present, the maximum value between the habitat and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted",
+      "context_window": "2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods",
+      "context_window": "110 of 116 In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "context_window": "Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. It should be noted that the details of the methods described below are only written where they deviate from",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat data incorporated into the OSPAR-scale",
+      "context_window": "The BH3 Indicator Assessment used the best available in-situ habitat data incorporated into the OSPAR-scale composite habitat map. However, the use of in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species,",
+      "context_window": "Sensitivity data A key knowledge gap identified in this assessment included the absence of sensitivity information for certain MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species, particularly in areas such as the deep-sea. More complete data on seafloor sensitivity to pressure and",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In instances where habitats had multiple EUNIS codes",
+      "context_window": "habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding MarESA sensitivity assessments to these EUNIS codes. In instances where habitats had multiple EUNIS codes associated with their definition; the maximum sensitivity was assigned following a precautionary approach. See the QSR 2023 BH3",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (please",
+      "context_window": "However, to further future assessments, additional work is required to facilitate successful translations between commonly used habitat classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (please see further details in the QSR23 BH4 report section ‘Knowledge Gaps’). Sensitivity data",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "validation with indicators such as Condition of Benthic Habitat Communities (BH2b) (OSPAR, 2018) will be",
+      "context_window": "Calibration with the results of other benthic indicators such as the Sentinels of Seabed (SoS) indicator (BH1) (Serrano et al., 2022) and validation with indicators such as Condition of Benthic Habitat Communities (BH2b) (OSPAR, 2018) will be explored in future work. Furthermore, where improved datasets become available, data-based assessments",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BH3 Sensitivity; Habitat structure",
+      "context_window": "Walters 2014a & 2014b (Sediment), and Maher & Alexander 2016; Maher et al., 2016 (Sublittoral rock). Species BH3 Sensitivity; Habitat structure changes - removal of substratum (extraction)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, habitat-specific sensitivity scores require further testing and validation to help improve",
+      "context_window": "sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "context_window": "More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding",
+      "context_window": "by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding MarESA sensitivity assessments to these EUNIS codes. In instances where habitats had multiple EUNIS codes",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species and habitats within the OSPAR Maritime Area.",
+      "context_window": "Step 4: Calculation of disturbance Step 4 of the QSR 2023 BH3 assessment involved creating a spatial layer that quantified disturbance to species and habitats within the OSPAR Maritime Area. Sensitivity (outputs of Step 2) and pressure (outputs of Step 3) layers were spatially intersected via ESRI ArcGIS software v10.1 (ESRI, 2012).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "would help increase data coverage. In addition to improved data availability, standardised habitat",
+      "context_window": "In addition, the incorporation of industry data into habitat maps, and additional survey work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments were selected and assigned to individual habitat polygons and species points (",
+      "context_window": "Walters et al., 2018). Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments were selected and assigned to individual habitat polygons and species points ( Table b ).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and",
+      "context_window": "Table g ), producing nine categories of disturbance (1–9, where 9 was the maximum). The matrix was created from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al, 2018).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More complete data on seafloor sensitivity to pressure and",
+      "context_window": "MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species, particularly in areas such as the deep-sea. More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of Benthic Habitat Communities (BH2) (OSPAR, 2018) into the BH3 method will further broaden the evidence",
+      "context_window": "benthic indicators such as the Sentinels of Seabed (SoS) indicator (BH1) (Serrano et al., 2022) and Condition of Benthic Habitat Communities (BH2) (OSPAR, 2018) into the BH3 method will further broaden the evidence base used in assessments in biogeographic regions and will be explored in future work. In the QSR assessment, the BH3 method was improved by experts collaborating through the OSPAR",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats were mapped to the greatest level of detail available",
+      "context_window": "A composite habitat map was developed to show the extent and distribution of habitats and their associated sensitivities for all QSR 2023 BH3 assessments. Habitats were mapped to the greatest level of detail available from the EUNIS 2007 classification system (EEA, 2021) using a combination of modelled and in-situ",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including the following marine assessment",
+      "context_window": "method is an agreed OSPAR Common Indicator for the Greater North Sea, the Celtic Seas and the Bay of Biscay and Iberian Coast Regions (OSPAR Regions II, III and IV; including the following marine assessment units: Central North Sea, Southern North Sea, Channel, Norwegian Trench, Kattegat, Northern Celtic Sea, Southern Celtic Sea, Gulf of Biscay, North-Iberian Atlantic, South-Iberian Atlantic, and Gulf of Cadiz,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "methodology used for the creation of the composite habitat map.",
+      "context_window": "data. Please see the QSR 2023 BH3 assessment of fishing pressure for full details on data sources and methodology used for the creation of the composite habitat map. Step 2: Assessment of Sensitivity Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats",
+      "context_window": "methodology used for the creation of the composite habitat map. Step 2: Assessment of Sensitivity Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats within the OSPAR Maritime Area to extraction pressure. For full detail of the methods used to select pressure-",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Creating a final extraction sensitivity layer using both habitat and species sensitivity data:",
+      "context_window": "4 Sediment Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and habitat sensitivity",
+      "context_window": "BHT classification for national reporting. 2. Species and habitat sensitivity derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "framework to account for resilient species present in less resilient habitats.",
+      "context_window": "base used in assessments in biogeographic regions and will be explored in future work. In the QSR assessment, the BH3 method was improved by experts collaborating through the OSPAR framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem changes in response to physical disturbance from extraction could be furthered through the",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered",
+      "context_window": "would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered disturbance assessments in EUNIS 2007 with results presented in MSFD BHT classifications to support Article 8 reporting of the EU Marine Strategy Framework Directive (MSFD).",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat",
+      "context_window": "sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the grid cell where the record was observed to maximise representativity.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 2: Confidence in the representativity of the habitat data (Three Step method)",
+      "context_window": "Step 1: Confidence in the habitat data (MESH and survey or modelled data) • Step 2: Confidence in the representativity of the habitat data (Three Step method) • Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using",
+      "context_window": "Table i . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated extraction pressure layers, developed in Step 3 (assessment period 2009 to 2020). Results",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem changes in response to physical disturbance from extraction could be furthered through the",
+      "context_window": "framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem changes in response to physical disturbance from extraction could be furthered through the greater availability of data from unimpacted areas to serve as reference when assessing sensitivity. Studies",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where species point data were absent the habitat sensitivity value was assigned as the final",
+      "context_window": "grid cell where the record was observed to maximise representativity. • Where species point data were absent the habitat sensitivity value was assigned as the final sensitivity. Full details of creating a complete sensitivity layer with both species and habitat data",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs),",
+      "context_window": "interpolated data. In addition, the incorporation of industry data into habitat maps, and additional survey work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabed geomorphology (Tyler-Walters et al.,",
+      "context_window": "2017; ICES, 2019a). In addition, ecological recovery of biota is possible, without full physical recovery of seabed geomorphology (Tyler-Walters et al., 2018; ICES, 2019a). However, it should be noted that recovery time and success are highly dependent on the nature of the dredging activity, the affected seafloor geology",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance of benthic habitats,",
+      "context_window": "7 of 116 4. Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic,",
+      "context_window": "standardised, spatially discrete data on volume extracted – quantify extraction intensity as the annual area affected by extraction activity, per unit area. The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic, identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA 2017.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat",
+      "context_window": "Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat EUNIS Extraction Sensitivity",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity",
+      "context_window": "8 of 116 Walters et al., 2018). Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments were selected and assigned to individual habitat polygons and species points ( Table b",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats.",
+      "context_window": "were summarised grouping disturbance values as ‘Low’ (disturbance categories 1-4), ‘Moderate’ (disturbance categories 5-7), and ‘High’ (disturbance categories 8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period.",
+      "context_window": "the habitat. Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period. OSPAR Commission 2023 105 of 116",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The confidence of habitat and sensitivity input data were assessed using categorical scores (‘Low’, ‘Medium’,",
+      "context_window": "Confidence assessment The confidence of habitat and sensitivity input data were assessed using categorical scores (‘Low’, ‘Medium’, and ‘High’), based on the nature of the information, and combined to give an overall confidence score for aggregate extraction sensitivity (",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat data",
+      "context_window": "possible in the assessment and will require further testing when sufficient data are available. Knowledge Gaps (extended) Habitat data The BH3 Indicator Assessment used the best available in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composite habitat map. However, the use of",
+      "context_window": "in-situ habitat data incorporated into the OSPAR-scale composite habitat map. However, the use of in-situ data at the scale of Common and Candidate Indicator",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat extent may have been underreported in areas such as the deep-sea.",
+      "context_window": "periods, reducing their associated confidence. Furthermore, it was possible that in areas of data paucity, habitat extent may have been underreported in areas such as the deep-sea. Increased coverage of current, representative in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where species point data were present, the maximum value between the habitat and species",
+      "context_window": "that can occur in high abundances in areas that have already been impacted by human activities. • Where species point data were present, the maximum value between the habitat and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats.",
+      "context_window": "categories 5-7), and ‘High’ (disturbance categories 8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat EUNIS",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "an internal OSPAR method previously developed by the Environmental Impacts of Human Activities",
+      "context_window": "Step 7: Confidence assessments To spatially represent confidence in the data, a numeric method of calculating confidence was adapted from an internal OSPAR method previously developed by the Environmental Impacts of Human Activities Committee (EIHA). A high confidence score was given a numeric value of 1, medium 0,66 and low 0,33.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian",
+      "context_window": "• The BHT with the greatest disturbance within assessment units was Offshore circalittoral rock and biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian Trench for the MSFD (>2%). However, disturbance in rock and biogenic reef BHTs needs to be considered in the context of its constituent habitats (e.g.,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inter-operability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale.",
+      "context_window": "to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the inter-operability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale. At the time of assessment, translations between EUNIS 2007 and EUNIS 2019 were not possible due to errors in",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van",
+      "context_window": "), producing nine categories of disturbance (1–9, where 9 was the maximum). The matrix was created from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al, 2018). In instances where pressure data intersected areas without sensitivity information (due to",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the QSR, ‘High’, ‘Moderate’ and ‘Low’ disturbance was greatest in Circalittoral mixed sediment",
+      "context_window": "Total disturbance was greatest in Circalittoral mixed sediment (QSR:0,46%; MSFD:0,375%). • In the QSR, ‘High’, ‘Moderate’ and ‘Low’ disturbance was greatest in Circalittoral mixed sediment (0,19%, 0,104% and 0,166%). In the MSFD, ‘High’ and ‘Moderate disturbance was greatest in Infralittoral mixed sediment (0,12% and 0,087%), but ‘Low’ disturbance was greatest in Circalittoral",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat structure",
+      "context_window": "benchmark Definition Habitat structure changes - removal of substratum",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Note that this map was created by translating EUNIS habitat codes within the OSPAR Composite Habitat",
+      "context_window": "27 of 116 Figure d: OSPAR-scale composite habitat map in the MSFD Benthic Broad Habitat Type classification. Note that this map was created by translating EUNIS habitat codes within the OSPAR Composite Habitat Map to MSFD BBHTs. Translations were conducted on the final disturbance outputs. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of",
+      "context_window": "Step 2: Confidence in the representativity of the habitat data (Three Step method) • Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of Evidence or MB0102) •",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The method for creating a final sensitivity layer for both species and habitats broadly followed that used in",
+      "context_window": "Sediment Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for joining species point data, a 50 m x 50 m grid (spatially aligned with grid cell size commonly used in aggregate",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered in the context of its constituent habitats (e.g.,",
+      "context_window": "biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian Trench for the MSFD (>2%). However, disturbance in rock and biogenic reef BHTs needs to be considered in the context of its constituent habitats (e.g., Sabellaria spinulosa ) and their limited",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 5: EUNIS to MSFD Benthic Broad Habitat Type (MSFD BHT) Translation",
+      "context_window": "20 of 116 Table h: Disturbance matrix with summary groups; ‘Low’ (1-4), ‘Moderate’ (5-7), and ‘High’ (8-9). Step 5: EUNIS to MSFD Benthic Broad Habitat Type (MSFD BHT) Translation Step 5 assigned disturbance outputs based on EUNIS habitat classification 2007 to the appropriate Broad Habitat Type (BHT) in the MSFD classification system to maximise usability of assessment results for",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological zone and substrate data available via EMODnet.",
+      "context_window": "delivery of the QSR 2023. Therefore, this assessment used EUNIS 2007 only, and translated to MSFD BHT via biological zone and substrate data available via EMODnet. Furthermore, sensitivity information available at the time of the assessment was most relevant to areas with a similar biogeography to the waters surrounding the United Kingdom, and therefore, would be improved",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was possible that reef habitats in the vicinity of extraction could have potentially benefited from the",
+      "context_window": "S. spinulosa requires sand grains which it uses to construct its tubes, and expert advice from industry highlighted that it was possible that reef habitats in the vicinity of extraction could have potentially benefited from the increased suspended sediments caused by the activity. Further research is required to better understand the",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer",
+      "context_window": "Step 6: Assessment of OSPAR Threatened and / or Declining Habitats Disturbance from aggregate extraction in OSPAR Threatened and / or Declining Habitats (OSPAR, 2008 & 2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic project on biodiversity and eutrophication assessment integration and creation of effective",
+      "context_window": "Delivered by This work was co-funded by the European Maritime and Fisheries Fund through the project: “North-east Atlantic project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining",
+      "context_window": "resources and permission for extraction / licensing is unlikely to be given due to the conservation status of the habitat. Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period. OSPAR Commission 2023",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure s15: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 44 of 116 Figure s15: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Kattegat assessment unit.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA",
+      "context_window": "affected by extraction activity, per unit area. The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic, identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA 2017. This component of the QSR 2023 BH3 assessment focusses on extraction pressure assessments only;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationships between indirect pressures, such as sediment resuspension and the distribution of biogenic",
+      "context_window": "increased suspended sediments caused by the activity. Further research is required to better understand the relationships between indirect pressures, such as sediment resuspension and the distribution of biogenic species. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure q13: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 42 of 116 Figure q13: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Channel assessment unit.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The limited availability of reference condition habitat data and",
+      "context_window": "habitat information was not available in all areas where pressure was reported, and an agreed OSPAR-scale habitat classification was not available. The limited availability of reference condition habitat data and pressure-state relationships at the regional scale resulted in the reliance on expert knowledge and extrapolation of available pressure-state data.",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see",
+      "context_window": "A composite habitat map showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3 CEMP guidelines for a detailed summary of translation process from EUNIS source data to MSFD",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showing the extent and distribution of habitats at different scales of the",
+      "context_window": "1. A composite habitat map showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs in the Southern North Sea assessment unit (",
+      "context_window": "The only OSPAR Threatened and / or Declining Habitat that intersected with extraction pressure was Sabellaria spinulosa reefs in the Southern North Sea assessment unit ( Figure bz ). Less than 2% of",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee",
+      "context_window": "Emma Curtis, Kate Wade Supported by: OSPAR Benthic Habitat Expert Group (OBHEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Delivered by",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance across all assessment units:",
+      "context_window": "(predominantly ‘Low’ - 2009 to 2010, and ‘High’ - 2011 to 2020 disturbance) and the Kattegat (predominantly ‘Low’ disturbance – 2015-2016). Habitat disturbance across all assessment units: • Disturbance occurred in 13 BHTs in the QSR and 12 in the MSFD, of these 92% and 100% had both",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure u17: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 46 of 116 Figure u17: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Southern Celtic Sea assessment unit.",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by the ICES Working Group on the Effects of Extraction of Marine Sediments on the Marine Ecosystem (ICES-",
+      "context_window": "11 of 116 To align with wider North-East Atlantic-scale assessments of aggregate extraction, such as those conducted by the ICES Working Group on the Effects of Extraction of Marine Sediments on the Marine Ecosystem (ICES- WGEXT), data were requested in a standardised 50 m x 50 m grid format. Grids of 50 m x 50 m are beneficial",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3",
+      "context_window": "showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3 CEMP guidelines for a detailed summary of translation process from EUNIS source data to MSFD BHT classification for national reporting.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table g: Disturbance matrix combining pressure and habitat sensitivity.",
+      "context_window": "a lack of EUNIS habitat data and / or sensitivity assessment), outputs were classified as ‘Unassessed Disturbance’. Table g: Disturbance matrix combining pressure and habitat sensitivity. Annual and aggregated (2009 to 2020; 2016 to 2020 assessment periods) extraction disturbance values were calculated from the corresponding annual and aggregated pressure categories.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Full details of creating a complete sensitivity layer with both species and habitat data",
+      "context_window": "Where species point data were absent the habitat sensitivity value was assigned as the final sensitivity. Full details of creating a complete sensitivity layer with both species and habitat data can be seen in the QSR BH3 fisheries assessment. Species and habitat extraction sensitivity layers were only created where extraction activity data were",
+      "page_number": 10,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 117,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat polygons.",
+      "context_window": "fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity",
+      "context_window": "for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010). For habitats that were present in Common Indicator",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with access to commercially sensitive habitat maps and species records from industry data, location-specific",
+      "context_window": "and habitat / species specific sensitivity evidence at the time of the assessment. Due to limitations associated with access to commercially sensitive habitat maps and species records from industry data, location-specific sensitivity evidence could not be incorporated in the current OSPAR Maritime Area scale assessment. Future",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for",
+      "context_window": "Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for joining species point data, a 50 m x 50 m grid (spatially aligned with grid cell size commonly used in aggregate extraction assessments in the North-East Atlantic, e.g., by ICES WGEXT) was used.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "per habitat type and per assessment unit.",
+      "context_window": "4. Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR ICG-C pressure ‘Habitat structure changes - removal of substratum (extraction)’ (",
+      "context_window": "Version 1.5 (Robson et al., 2018). Sensitivity values used in the BH3 assessment included assessments against the OSPAR ICG-C pressure ‘Habitat structure changes - removal of substratum (extraction)’ ( Table a ); relevant",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "context_window": "Species and habitat sensitivity derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin and Tyler-Walters, 2014a & 2014b; Tyler-Walters et al., 2018; Last et al., 2020). 3.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "context_window": "Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 110 of 116 In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an",
+      "context_window": "Where species point data were present, the maximum value between the habitat and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods",
+      "context_window": "110 of 116 In addition, the mapping of sensitivity could be improved through the availability of a consistent OSPAR-scale habitat classification system (including versions, e.g., EUNIS 2007, 2019, 2022) and the availability of methods to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat data incorporated into the OSPAR-scale",
+      "context_window": "The BH3 Indicator Assessment used the best available in-situ habitat data incorporated into the OSPAR-scale composite habitat map. However, the use of in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In instances where habitats had multiple EUNIS codes",
+      "context_window": "habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding MarESA sensitivity assessments to these EUNIS codes. In instances where habitats had multiple EUNIS codes associated with their definition; the maximum sensitivity was assigned following a precautionary approach. See the QSR 2023 BH3",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "validation with indicators such as Condition of Benthic Habitat Communities (BH2b) (OSPAR, 2018) will be",
+      "context_window": "Calibration with the results of other benthic indicators such as the Sentinels of Seabed (SoS) indicator (BH1) (Serrano et al., 2022) and validation with indicators such as Condition of Benthic Habitat Communities (BH2b) (OSPAR, 2018) will be explored in future work. Furthermore, where improved datasets become available, data-based assessments",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, habitat-specific sensitivity scores require further testing and validation to help improve",
+      "context_window": "sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve application to future assessments. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding",
+      "context_window": "by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of habitats were assigned using EUNIS codes associated with the habitat definition and the corresponding MarESA sensitivity assessments to these EUNIS codes. In instances where habitats had multiple EUNIS codes",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "would help increase data coverage. In addition to improved data availability, standardised habitat",
+      "context_window": "In addition, the incorporation of industry data into habitat maps, and additional survey work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and",
+      "context_window": "Table g ), producing nine categories of disturbance (1–9, where 9 was the maximum). The matrix was created from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al, 2018).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of Benthic Habitat Communities (BH2) (OSPAR, 2018) into the BH3 method will further broaden the evidence",
+      "context_window": "benthic indicators such as the Sentinels of Seabed (SoS) indicator (BH1) (Serrano et al., 2022) and Condition of Benthic Habitat Communities (BH2) (OSPAR, 2018) into the BH3 method will further broaden the evidence base used in assessments in biogeographic regions and will be explored in future work. In the QSR assessment, the BH3 method was improved by experts collaborating through the OSPAR",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including the following marine assessment",
+      "context_window": "method is an agreed OSPAR Common Indicator for the Greater North Sea, the Celtic Seas and the Bay of Biscay and Iberian Coast Regions (OSPAR Regions II, III and IV; including the following marine assessment units: Central North Sea, Southern North Sea, Channel, Norwegian Trench, Kattegat, Northern Celtic Sea, Southern Celtic Sea, Gulf of Biscay, North-Iberian Atlantic, South-Iberian Atlantic, and Gulf of Cadiz,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats",
+      "context_window": "methodology used for the creation of the composite habitat map. Step 2: Assessment of Sensitivity Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats within the OSPAR Maritime Area to extraction pressure. For full detail of the methods used to select pressure-",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species and habitat sensitivity",
+      "context_window": "BHT classification for national reporting. 2. Species and habitat sensitivity derived from resistance (ability to withstand a given pressure) and resilience (ability of a habitat to recover) (Holling, 1973; Tillin et al., 2010; BioConsult, 2013; Tillin",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered",
+      "context_window": "would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to facilitate integrated assessments across the OSPAR Maritime Area. The QSR 2023 assessment delivered disturbance assessments in EUNIS 2007 with results presented in MSFD BHT classifications to support Article 8 reporting of the EU Marine Strategy Framework Directive (MSFD).",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 2: Confidence in the representativity of the habitat data (Three Step method)",
+      "context_window": "Step 1: Confidence in the habitat data (MESH and survey or modelled data) • Step 2: Confidence in the representativity of the habitat data (Three Step method) • Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem changes in response to physical disturbance from extraction could be furthered through the",
+      "context_window": "framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem changes in response to physical disturbance from extraction could be furthered through the greater availability of data from unimpacted areas to serve as reference when assessing sensitivity. Studies",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs),",
+      "context_window": "interpolated data. In addition, the incorporation of industry data into habitat maps, and additional survey work of benthic habitats (e.g., via improved Benthic Monitoring Programmes in areas outside of MPAs), would help increase data coverage. In addition to improved data availability, standardised habitat classifications, with accurate translations to wider classification systems are of paramount importance to",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance of benthic habitats,",
+      "context_window": "7 of 116 4. Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat",
+      "context_window": "Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat EUNIS Extraction Sensitivity",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threatened and / or Declining Habitats.",
+      "context_window": "were summarised grouping disturbance values as ‘Low’ (disturbance categories 1-4), ‘Moderate’ (disturbance categories 5-7), and ‘High’ (disturbance categories 8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The confidence of habitat and sensitivity input data were assessed using categorical scores (‘Low’, ‘Medium’,",
+      "context_window": "Confidence assessment The confidence of habitat and sensitivity input data were assessed using categorical scores (‘Low’, ‘Medium’, and ‘High’), based on the nature of the information, and combined to give an overall confidence score for aggregate extraction sensitivity (",
+      "page_number": 105,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composite habitat map. However, the use of",
+      "context_window": "in-situ habitat data incorporated into the OSPAR-scale composite habitat map. However, the use of in-situ data at the scale of Common and Candidate Indicator",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where species point data were present, the maximum value between the habitat and species",
+      "context_window": "that can occur in high abundances in areas that have already been impacted by human activities. • Where species point data were present, the maximum value between the habitat and species sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "an internal OSPAR method previously developed by the Environmental Impacts of Human Activities",
+      "context_window": "Step 7: Confidence assessments To spatially represent confidence in the data, a numeric method of calculating confidence was adapted from an internal OSPAR method previously developed by the Environmental Impacts of Human Activities Committee (EIHA). A high confidence score was given a numeric value of 1, medium 0,66 and low 0,33.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inter-operability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale.",
+      "context_window": "to translate between habitat classifications accurately. This would enable Contracting Parties to ensure the inter-operability of sensitivity data to facilitate integrated assessments at a North-East Atlantic scale. At the time of assessment, translations between EUNIS 2007 and EUNIS 2019 were not possible due to errors in",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the QSR, ‘High’, ‘Moderate’ and ‘Low’ disturbance was greatest in Circalittoral mixed sediment",
+      "context_window": "Total disturbance was greatest in Circalittoral mixed sediment (QSR:0,46%; MSFD:0,375%). • In the QSR, ‘High’, ‘Moderate’ and ‘Low’ disturbance was greatest in Circalittoral mixed sediment (0,19%, 0,104% and 0,166%). In the MSFD, ‘High’ and ‘Moderate disturbance was greatest in Infralittoral mixed sediment (0,12% and 0,087%), but ‘Low’ disturbance was greatest in Circalittoral",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Note that this map was created by translating EUNIS habitat codes within the OSPAR Composite Habitat",
+      "context_window": "27 of 116 Figure d: OSPAR-scale composite habitat map in the MSFD Benthic Broad Habitat Type classification. Note that this map was created by translating EUNIS habitat codes within the OSPAR Composite Habitat Map to MSFD BBHTs. Translations were conducted on the final disturbance outputs. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The method for creating a final sensitivity layer for both species and habitats broadly followed that used in",
+      "context_window": "Sediment Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for joining species point data, a 50 m x 50 m grid (spatially aligned with grid cell size commonly used in aggregate",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 5: EUNIS to MSFD Benthic Broad Habitat Type (MSFD BHT) Translation",
+      "context_window": "20 of 116 Table h: Disturbance matrix with summary groups; ‘Low’ (1-4), ‘Moderate’ (5-7), and ‘High’ (8-9). Step 5: EUNIS to MSFD Benthic Broad Habitat Type (MSFD BHT) Translation Step 5 assigned disturbance outputs based on EUNIS habitat classification 2007 to the appropriate Broad Habitat Type (BHT) in the MSFD classification system to maximise usability of assessment results for",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was possible that reef habitats in the vicinity of extraction could have potentially benefited from the",
+      "context_window": "S. spinulosa requires sand grains which it uses to construct its tubes, and expert advice from industry highlighted that it was possible that reef habitats in the vicinity of extraction could have potentially benefited from the increased suspended sediments caused by the activity. Further research is required to better understand the",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic project on biodiversity and eutrophication assessment integration and creation of effective",
+      "context_window": "Delivered by This work was co-funded by the European Maritime and Fisheries Fund through the project: “North-east Atlantic project on biodiversity and eutrophication assessment integration and creation of effective measures (NEA PANACEA)”, financed by the European Union’s DG ENV/MSFD 2020, under agreement No. 110661/2020/839628/SUB/ENV.C.2.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure s15: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 44 of 116 Figure s15: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Kattegat assessment unit.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationships between indirect pressures, such as sediment resuspension and the distribution of biogenic",
+      "context_window": "increased suspended sediments caused by the activity. Further research is required to better understand the relationships between indirect pressures, such as sediment resuspension and the distribution of biogenic species. Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The limited availability of reference condition habitat data and",
+      "context_window": "habitat information was not available in all areas where pressure was reported, and an agreed OSPAR-scale habitat classification was not available. The limited availability of reference condition habitat data and pressure-state relationships at the regional scale resulted in the reliance on expert knowledge and extrapolation of available pressure-state data.",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showing the extent and distribution of habitats at different scales of the",
+      "context_window": "1. A composite habitat map showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee",
+      "context_window": "Emma Curtis, Kate Wade Supported by: OSPAR Benthic Habitat Expert Group (OBHEG), Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Delivered by",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure u17: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 46 of 116 Figure u17: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Southern Celtic Sea assessment unit.",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3",
+      "context_window": "showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3 CEMP guidelines for a detailed summary of translation process from EUNIS source data to MSFD BHT classification for national reporting.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Full details of creating a complete sensitivity layer with both species and habitat data",
+      "context_window": "Where species point data were absent the habitat sensitivity value was assigned as the final sensitivity. Full details of creating a complete sensitivity layer with both species and habitat data can be seen in the QSR BH3 fisheries assessment. Species and habitat extraction sensitivity layers were only created where extraction activity data were",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table g: Disturbance matrix combining pressure and habitat sensitivity.",
+      "context_window": "a lack of EUNIS habitat data and / or sensitivity assessment), outputs were classified as ‘Unassessed Disturbance’. Table g: Disturbance matrix combining pressure and habitat sensitivity. Annual and aggregated (2009 to 2020; 2016 to 2020 assessment periods) extraction disturbance values were calculated from the corresponding annual and aggregated pressure categories.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "by the ICES Working Group on the Effects of Extraction of Marine Sediments on the Marine Ecosystem (ICES-",
+      "context_window": "11 of 116 To align with wider North-East Atlantic-scale assessments of aggregate extraction, such as those conducted by the ICES Working Group on the Effects of Extraction of Marine Sediments on the Marine Ecosystem (ICES- WGEXT), data were requested in a standardised 50 m x 50 m grid format. Grids of 50 m x 50 m are beneficial",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat disturbance across all assessment units:",
+      "context_window": "(predominantly ‘Low’ - 2009 to 2010, and ‘High’ - 2011 to 2020 disturbance) and the Kattegat (predominantly ‘Low’ disturbance – 2015-2016). Habitat disturbance across all assessment units: • Disturbance occurred in 13 BHTs in the QSR and 12 in the MSFD, of these 92% and 100% had both",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs in the Southern North Sea assessment unit (",
+      "context_window": "The only OSPAR Threatened and / or Declining Habitat that intersected with extraction pressure was Sabellaria spinulosa reefs in the Southern North Sea assessment unit ( Figure bz ). Less than 2% of",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see",
+      "context_window": "A composite habitat map showing the extent and distribution of habitats at different scales of the EUNIS 2007 classification based on observational and modelled data (Castle et al., 2021). Please see ‘Step 5: EUNIS to MSFD Benthic Broad Habitat Type (BHT) Translation’ and Annex 1 of the BH3 CEMP guidelines for a detailed summary of translation process from EUNIS source data to MSFD",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure q13: Extent and distribution of habitat and benthic species sensitivities (based on resilience and",
+      "context_window": "Extent of Physical Disturbance to Benthic Habitats: Aggregate Extraction 42 of 116 Figure q13: Extent and distribution of habitat and benthic species sensitivities (based on resilience and resistance) to extraction combined within EUNIS Level 2-6 benthic habitat types, where aggregate extraction pressure data were available in the Channel assessment unit.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA",
+      "context_window": "affected by extraction activity, per unit area. The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic, identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA 2017. This component of the QSR 2023 BH3 assessment focusses on extraction pressure assessments only;",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining",
+      "context_window": "resources and permission for extraction / licensing is unlikely to be given due to the conservation status of the habitat. Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period. OSPAR Commission 2023",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer",
+      "context_window": "Step 6: Assessment of OSPAR Threatened and / or Declining Habitats Disturbance from aggregate extraction in OSPAR Threatened and / or Declining Habitats (OSPAR, 2008 & 2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological zone and substrate data available via EMODnet.",
+      "context_window": "delivery of the QSR 2023. Therefore, this assessment used EUNIS 2007 only, and translated to MSFD BHT via biological zone and substrate data available via EMODnet. Furthermore, sensitivity information available at the time of the assessment was most relevant to areas with a similar biogeography to the waters surrounding the United Kingdom, and therefore, would be improved",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered in the context of its constituent habitats (e.g.,",
+      "context_window": "biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian Trench for the MSFD (>2%). However, disturbance in rock and biogenic reef BHTs needs to be considered in the context of its constituent habitats (e.g., Sabellaria spinulosa ) and their limited",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of",
+      "context_window": "Step 2: Confidence in the representativity of the habitat data (Three Step method) • Step 3: Confidence in the habitat sensitivity assessments to a given pressure (MarESA Quality of Evidence or MB0102) •",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat structure",
+      "context_window": "benchmark Definition Habitat structure changes - removal of substratum",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van",
+      "context_window": "), producing nine categories of disturbance (1–9, where 9 was the maximum). The matrix was created from previous studies that analysed the impacts of bottom-contact pressures on sensitive species and habitats when applied at different intensities (Schroeder et al., 2008; Rondinini, 2010; BioConsult, 2013; van Loon et al, 2018). In instances where pressure data intersected areas without sensitivity information (due to",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian",
+      "context_window": "• The BHT with the greatest disturbance within assessment units was Offshore circalittoral rock and biogenic reef in the Southern North Sea for the QSR (>4%) and Infralittoral Sand in the Norwegian Trench for the MSFD (>2%). However, disturbance in rock and biogenic reef BHTs needs to be considered in the context of its constituent habitats (e.g.,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats.",
+      "context_window": "categories 5-7), and ‘High’ (disturbance categories 8-9), following the same approach as for non-OSPAR Threatened and / or Declining Habitats. Table i: BH3 assessed OSPAR Threatened and / or Declining Habitats. Habitat EUNIS",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat extent may have been underreported in areas such as the deep-sea.",
+      "context_window": "periods, reducing their associated confidence. Furthermore, it was possible that in areas of data paucity, habitat extent may have been underreported in areas such as the deep-sea. Increased coverage of current, representative in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat data",
+      "context_window": "possible in the assessment and will require further testing when sufficient data are available. Knowledge Gaps (extended) Habitat data The BH3 Indicator Assessment used the best available in-situ",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period.",
+      "context_window": "the habitat. Figure ca75: Spatial distribution of aggregated disturbance for OSPAR Threated and / or Declining Habitats (Sabellaria spinulosa reefs) in the 2009 to 2020 assessment period. OSPAR Commission 2023 105 of 116",
+      "page_number": 104,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity",
+      "context_window": "8 of 116 Walters et al., 2018). Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments were selected and assigned to individual habitat polygons and species points ( Table b",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic,",
+      "context_window": "standardised, spatially discrete data on volume extracted – quantify extraction intensity as the annual area affected by extraction activity, per unit area. The QSR 2023 BH3 assessment aims to assess the status of benthic habitats in the North-East Atlantic, identifying trends and facilitating comparisons with previous assessments; specifically, the QSR 2010 and IA 2017.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabed geomorphology (Tyler-Walters et al.,",
+      "context_window": "2017; ICES, 2019a). In addition, ecological recovery of biota is possible, without full physical recovery of seabed geomorphology (Tyler-Walters et al., 2018; ICES, 2019a). However, it should be noted that recovery time and success are highly dependent on the nature of the dredging activity, the affected seafloor geology",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where species point data were absent the habitat sensitivity value was assigned as the final",
+      "context_window": "grid cell where the record was observed to maximise representativity. • Where species point data were absent the habitat sensitivity value was assigned as the final sensitivity. Full details of creating a complete sensitivity layer with both species and habitat data",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using",
+      "context_window": "Table i . Disturbance in OSPAR Threatened and / or Declining Habitats was calculated using the aggregated extraction pressure layers, developed in Step 3 (assessment period 2009 to 2020). Results",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat",
+      "context_window": "sensitivity was assigned as the final sensitivity value. This maintained the precautionary approach aimed to mitigate the use of potentially less sensitive, opportunistic species, to represent an already impacted area. If species sensitivity was higher, and therefore, prioritised over habitat sensitivity, the species sensitivity value was only assigned to the portion of the polygon within the grid cell where the record was observed to maximise representativity.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "framework to account for resilient species present in less resilient habitats.",
+      "context_window": "base used in assessments in biogeographic regions and will be explored in future work. In the QSR assessment, the BH3 method was improved by experts collaborating through the OSPAR framework to account for resilient species present in less resilient habitats. However, understanding of ecosystem changes in response to physical disturbance from extraction could be furthered through the",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Creating a final extraction sensitivity layer using both habitat and species sensitivity data:",
+      "context_window": "4 Sediment Creating a final extraction sensitivity layer using both habitat and species sensitivity data: The method for creating a final sensitivity layer for both species and habitats broadly followed that used in the QSR 2023 BH3 fisheries assessment. However, when the habitat data was gridded in preparation for",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "methodology used for the creation of the composite habitat map.",
+      "context_window": "data. Please see the QSR 2023 BH3 assessment of fishing pressure for full details on data sources and methodology used for the creation of the composite habitat map. Step 2: Assessment of Sensitivity Step 2 of the assessment created a sensitivity layer that quantified the sensitivity of species and habitats",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats were mapped to the greatest level of detail available",
+      "context_window": "A composite habitat map was developed to show the extent and distribution of habitats and their associated sensitivities for all QSR 2023 BH3 assessments. Habitats were mapped to the greatest level of detail available from the EUNIS 2007 classification system (EEA, 2021) using a combination of modelled and in-situ",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More complete data on seafloor sensitivity to pressure and",
+      "context_window": "MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species, particularly in areas such as the deep-sea. More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments were selected and assigned to individual habitat polygons and species points (",
+      "context_window": "Walters et al., 2018). Please see the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments were selected and assigned to individual habitat polygons and species points ( Table b ).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species and habitats within the OSPAR Maritime Area.",
+      "context_window": "Step 4: Calculation of disturbance Step 4 of the QSR 2023 BH3 assessment involved creating a spatial layer that quantified disturbance to species and habitats within the OSPAR Maritime Area. Sensitivity (outputs of Step 2) and pressure (outputs of Step 3) layers were spatially intersected via ESRI ArcGIS software v10.1 (ESRI, 2012).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resistance and resilience of species and habitats, alongside additional research at relevant",
+      "context_window": "More complete data on seafloor sensitivity to pressure and knowledge of activity-pressure-receptor relationships can be acquired through improved understanding of the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BH3 Sensitivity; Habitat structure",
+      "context_window": "Walters 2014a & 2014b (Sediment), and Maher & Alexander 2016; Maher et al., 2016 (Sublittoral rock). Species BH3 Sensitivity; Habitat structure changes - removal of substratum (extraction)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (please",
+      "context_window": "However, to further future assessments, additional work is required to facilitate successful translations between commonly used habitat classifications (e.g., EUNIS 2007 and EUNIS 2019), to ensure OSPAR benthic indicator interoperability (please see further details in the QSR23 BH4 report section ‘Knowledge Gaps’). Sensitivity data",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species,",
+      "context_window": "Sensitivity data A key knowledge gap identified in this assessment included the absence of sensitivity information for certain MSFD BHTs and Other Habitat Types (OHTs), the latter including the OSPAR T&D habitats and species, particularly in areas such as the deep-sea. More complete data on seafloor sensitivity to pressure and",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Calculation of potential disturbance is based on the intensity of pressures and degree of habitat",
+      "context_window": "Calculation of potential disturbance of benthic habitats, per habitat type and per assessment unit. Calculation of potential disturbance is based on the intensity of pressures and degree of habitat sensitivity per pressure type. It should be noted that the details of the methods described below are only written where they deviate from",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted",
+      "context_window": "2019) was assessed using the OSPAR Habitats in the North-East Atlantic Ocean - 2020 Polygons layer (EMODnet, 2020). The layer is a compilation of OSPAR Threatened and / or Declining Habitats data submitted by OSPAR Contracting Parties and is a separate data product to the composite habitat map. Sensitivity of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A composite habitat map was developed to show the extent and distribution of habitats and their associated",
+      "context_window": "Step 1: Composite habitat map (not including OSPAR Threatened and / or Declining Habitats assessments) A composite habitat map was developed to show the extent and distribution of habitats and their associated sensitivities for all QSR 2023 BH3 assessments. Habitats were mapped to the greatest level of detail available",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work",
+      "context_window": "explored in future work. Furthermore, where improved datasets become available, data-based assessments of the effects physical pressures have on benthic faunal and floral receptors will be explored in future work to mitigate aforementioned limitations that can affect the certainty and accuracy of indicator outputs. OSPAR Commission 2023",
+      "page_number": 110,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Where available, species points were spatially joined to habitat polygons within grid cells and",
+      "context_window": "case) • Where available, species points were spatially joined to habitat polygons within grid cells and where more than one species point was present, only the point with the highest sensitivity value was joined. Assigning the maximum species sensitivity followed the precautionary principle which",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries assessment",
+      "context_window": "associated with their definition; the maximum sensitivity was assigned following a precautionary approach. See the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species",
+      "context_window": "Table b: BH3 species sensitivity values derived from Tyler-Walters et al., 2018 (MarESA), Tillin & Tyler- Walters 2014a & 2014b (Sediment), and Maher & Alexander 2016; Maher et al., 2016 (Sublittoral rock). Species BH3 Sensitivity; Habitat structure changes - removal of substratum",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is anticipated that data on habitat distribution and",
+      "context_window": "At present BH3 is still being investigated for its application in Arctic Waters and the Wider Atlantic, mainly due to limited data availability within these regions. It is anticipated that data on habitat distribution and sensitivity will be included at a later stage, to allow the analysis to address the wider spatial scale and assess variations in disturbance across OSPAR Regions more accurately.",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For habitats that were present in Common Indicator",
+      "context_window": "For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity was assigned following Tillin & Tyler-Walters (2010). For habitats that were present in Common Indicator Assessment Units, EUNIS codes associated with the habitat definition and assessed sensitivity are summarised in",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications",
+      "context_window": "compared with the IA 2017. However, in the absence of direct sensitivity assessments, the aggregation of sensitivity from EUNIS levels 4-6 to levels 2-3, and the translations between EUNIS and MSFD classifications may have resulted in both an over and underestimation of the sensitivity of individual BHT polygons. Therefore, habitat-specific sensitivity scores require further testing and validation to help improve",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for full details on how sensitivity assessments are assigned to",
+      "context_window": "See the QSR 2023 BH3 fisheries assessment for full details on how sensitivity assessments are assigned to habitat polygons. For habitats without MarESA assessments (e.g., carbonate mounds, coral gardens, and seamounts) sensitivity",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 116,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when",
+      "context_window": "the resistance and resilience of species and habitats, alongside additional research at relevant spatiotemporal scales (e.g., EUNIS Levels 4, 5 and 6). The QSR 2023 BH3 assessment enabled detailed biotope-resolution sensitivity and disturbance assessments, which improves the accuracy of outputs when compared with the IA 2017. However, in the absence of direct sensitivity assessments, the aggregation of",
+      "page_number": 109,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 116,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 90,
+      "end_sentence": 98,
+      "sentence_count": 9,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "A risk assessment based on available data showed that direct seafloor disturbance caused by aggregat...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "extraction was localised, with less than 0,5% of the area of each habitat disturbed.",
+          "full_length": 84
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "Sabellaria spinulosa",
+          "full_length": 20
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "is the",
+          "full_length": 6
+        }
+      ],
+      "total_sentences_in_section": 9
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 2511,
+      "end_sentence": 2532,
+      "sentence_count": 22,
+      "page_range": "106-107",
+      "sentences": [
+        {
+          "sentence_id": 2511,
+          "page_number": 106,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2512,
+          "page_number": 107,
+          "content": "OSPAR Commission 2023",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2513,
+          "page_number": 107,
+          "content": "107 of 116",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2514,
+          "page_number": 107,
+          "content": "Disturbance from aggregate extraction was limited in extent, with high-intensity pressure localised ...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 2515,
+          "page_number": 107,
+          "content": "discrete licensed areas, where permitted by regulators.  Disturbance could only be calculated where",
+          "full_length": 99
+        }
+      ],
+      "total_sentences_in_section": 22
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 2533,
+      "end_sentence": 2634,
+      "sentence_count": 102,
+      "page_range": "107-108",
+      "sentences": [
+        {
+          "sentence_id": 2533,
+          "page_number": 107,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2534,
+          "page_number": 107,
+          "content": "The BH3 QSR 2023 assessment evaluated physical disturbance to benthic habitats in the North-East Atl...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 2535,
+          "page_number": 107,
+          "content": "from bottom-contact fishing and commercial aggregate extraction; this component of the assessment wa...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 2536,
+          "page_number": 107,
+          "content": "for aggregate extraction only and was the first quantitative evaluation of physical disturbance caus...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 2537,
+          "page_number": 107,
+          "content": "extraction pressure using the BH3 method.",
+          "full_length": 41
+        }
+      ],
+      "total_sentences_in_section": 102
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2770,
+      "end_sentence": 3188,
+      "sentence_count": 419,
+      "page_range": "111-116",
+      "sentences": [
+        {
+          "sentence_id": 2770,
+          "page_number": 111,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2771,
+          "page_number": 111,
+          "content": "BioConsult (2013).",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 2772,
+          "page_number": 111,
+          "content": "Seafloor integrity - Physical damage, having regard to substrate characteristics (Descriptor",
+          "full_length": 92
+        },
+        {
+          "sentence_id": 2773,
+          "page_number": 111,
+          "content": "6).",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 2774,
+          "page_number": 111,
+          "content": "A conceptual approach for the assessment of indicator 6.1.2: ‘Extent of the seafloor significantly a...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 419
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3255,
+    "chunks_selected": 101,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 90,
+        "end_sentence": 98,
+        "sentence_count": 9
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 2511,
+        "end_sentence": 2532,
+        "sentence_count": 22
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 2533,
+        "end_sentence": 2634,
+        "sentence_count": 102
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2770,
+        "end_sentence": 3188,
+        "sentence_count": 419
+      }
+    ],
+    "total_excluded_sentences": 552
+  }
+}

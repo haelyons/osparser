@@ -1,0 +1,1512 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "over short time scales can have immediate consequences for higher trophic levels, whereas gradual change",
+      "context_window": "loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in water temperature was also strongly linked",
+      "context_window": "that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature were most frequently detected in shelf and oceanic pelagic habitats.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment.",
+      "context_window": "Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change ( Figure 3",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "that increased sea surface temperatures were linked to declining abundances of plankton lifeforms,",
+      "context_window": "Figure 3 ). Modelling results have shown that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Many of these pressures are influenced indirectly by climate change (",
+      "context_window": "Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change ( Figure 3 ). Modelling results have shown",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "particularly small and large copepods in the Atlantic.",
+      "context_window": "). Modelling results have shown that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in the abundances of plankton lifeforms",
+      "context_window": "), can reveal plankton community responses to factors such as nutrient loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH. Changes in pH can be linked to changes",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At the North-East Atlantic regional scale, plankton community changes are strongly linked to",
+      "context_window": "over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global",
+      "context_window": "Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. In shelf areas a similar increase in meroplankton abundance has been observed in response to",
+      "page_number": 30,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "aspects of ecosystem function.",
+      "context_window": "Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance of key lifeforms and evaluating how environmental pressures co-varied with changes in lifeform",
+      "context_window": ", 2020a). For the current assessment a simplified approach was developed, based on measuring long-term changes in the abundance of key lifeforms and evaluating how environmental pressures co-varied with changes in lifeform abundance. A long-term perspective helped improve confidence in establishing links to environmental pressures. Short-term changes within the assessment period were also evaluated to identify emerging",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direct impacts, they can also be linked to greater stratification and resulting nutrient limitation.",
+      "context_window": "were most frequently detected in shelf and oceanic pelagic habitats. While increasing temperatures can have direct impacts, they can also be linked to greater stratification and resulting nutrient limitation. Changes in Phytoplankton and Zooplankton Communities Figure 3: COMP4 assessment units for eight plankton lifeforms, coloured by a categorisation of the most",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "over decades can indicate long term shifts in important aspects of ecosystem functioning.",
+      "context_window": "Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are also exhibiting decreasing abundance trends linked to temperature increase, while large and small",
+      "context_window": "Table l ), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "loading from human activities and climate-driven change.",
+      "context_window": "Figure 1 ), can reveal plankton community responses to factors such as nutrient loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various",
+      "context_window": "e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature",
+      "context_window": "particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature were most frequently detected in shelf and oceanic pelagic habitats. While increasing temperatures can have",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators",
+      "context_window": "aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators (changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton (fully planktonic) and meroplankton (only part of the lifecycle is planktonic, the remainder is benthic) (see",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining abundance trends in dinoflagellates, as well as large and",
+      "context_window": "), declining abundance of diatoms in variable salinity habitats have been observed and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "small copepods in coastal habitats were linked to temperature increases. Declining abundance of",
+      "context_window": "and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), holoplankton, large and small copepods in shelf areas",
+      "context_window": "In the Bay of Biscay and Iberian Coast region ( Table l ), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally",
+      "context_window": "in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN, Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change (",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "holoplankton in coastal areas may also be linked to decreasing pH.",
+      "context_window": "small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH. Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "While increasing temperatures can have direct impacts, they can also be linked to greater stratification and resulting nutrient limitation. Changes in Phytoplankton and Zooplankton Communities Figure 3: COMP4 assessment units for eight plankton lifeforms, coloured by a categorisation of the most important environmental variable to predict lifeform abundance (see key in Table c). Patterned",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures.",
+      "context_window": "), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region. Table l: Integration of the indicator results for OSPAR Region IV – Bay of Biscay and Iberian Coast.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Trends for variable salinity habitats were not assessed due to the limited data available for this region.",
+      "context_window": "are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region. Table l: Integration of the indicator results for OSPAR Region IV – Bay of Biscay and Iberian Coast. An",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Simultaneous declines in the abundance of",
+      "context_window": ") are increasing in abundance and the increasing trends are closely linked to rising sea surface temperatures. Simultaneous declines in the abundance of holopankton in shelf regions have also been linked to temperature increase. Table j: Integration of the indicator results for OSPAR Region II – Greater North Sea.",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "trends are closely linked to rising sea surface temperatures.",
+      "context_window": "Table j ) are increasing in abundance and the increasing trends are closely linked to rising sea surface temperatures. Simultaneous declines in the abundance of holopankton in shelf regions have also been linked to temperature increase.",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in plankton",
+      "context_window": "Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported either directly or indirectly by plankton.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2: By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton",
+      "context_window": "These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators (changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton (fully planktonic) and meroplankton (only part of the lifecycle is planktonic, the remainder is benthic) (see also Gowen",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in environmental variables and change in lifeform abundance.",
+      "context_window": "current assessment. Further scientific research will be required to explore direct mechanistic links between change in environmental variables and change in lifeform abundance. It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in",
+      "context_window": "combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental conditions.",
+      "context_window": "over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "between climatic and anthropogenic pressures with changes in pelagic habitats and plankton",
+      "context_window": "• Examining national datasets at a finer spatiotemporal scale, which will help establish clearer links between climatic and anthropogenic pressures with changes in pelagic habitats and plankton diversity; •",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in",
+      "context_window": "assimilation. However, model results suggest that they were more apparent in coastal regions. Changes in diatom and dinoflagellate abundance in these assessment units were mainly linked to increases in the N:P ratio, driven by reductions in phosphorous concentrations. Of the 182 significant trends in lifeform",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "temperature, while decreasing abundance of holoplankton and dinoflagellates may be linked to reductions",
+      "context_window": "warming. In shelf areas a similar increase in meroplankton abundance has been observed in response to temperature, while decreasing abundance of holoplankton and dinoflagellates may be linked to reductions in pH and  increases in the N:P ratio, respectively. Table k: Integration of the indicator results for OSPAR Region III – Celtic Seas.",
+      "page_number": 30,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Spatial patterns in the direction of change for",
+      "context_window": "dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods are declining in abundance throughout the North-East Atlantic. Spatial patterns in the direction of change for both small and large copepods closely match those of the diatoms. Conversely, meroplankton demonstrate",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), declining abundance of diatoms in variable salinity habitats have been observed",
+      "context_window": "In the Celtic Seas ( Table k ), declining abundance of diatoms in variable salinity habitats have been observed and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication.",
+      "context_window": "The precise combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats.",
+      "context_window": "habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Short generational times, small size and, for phytoplankton, direct dependence",
+      "context_window": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods",
+      "context_window": "Figure 2 ) indicate that most plankton lifeforms, including diatoms, dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods are declining in abundance throughout the North-East Atlantic. Spatial patterns in the direction of change for",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological",
+      "context_window": "change in environmental variables and change in lifeform abundance. It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could help link both the pelagic and food webs assessments in terms of identified changes",
+      "context_window": "consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment. This could help link both the pelagic and food webs assessments in terms of identified changes and impacts. Knowledge Gaps (Extended)",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN,",
+      "context_window": "Newly apparent trends which have emerged within the current assessment period include declining abundance of large copepods in the Atlantic Seasonally Stratified assessment unit, increasing fish larvae/eggs in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN, Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment addresses plausible links between environmental pressures and long term changes in",
+      "context_window": "Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported",
+      "context_window": "on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported either directly or indirectly by plankton. Indicators based on plankton lifeforms, planktonic organisms with",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and impacts.",
+      "context_window": "assessment. This could help link both the pelagic and food webs assessments in terms of identified changes and impacts. Knowledge Gaps (Extended) The following work needs to be taken forward to address the knowledge gaps and improve the assessment",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator,",
+      "context_window": "changes in ecologically relevant pairs of lifeforms in the form of a lifeform pairs index. The precise combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator change is",
+      "context_window": "change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or",
+      "page_number": 21,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "plankton communities.",
+      "context_window": "monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats",
+      "context_window": "It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment. This could help link both the pelagic and food webs assessments in terms of identified changes",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats can reveal spatial patterns of environmental change.",
+      "context_window": "dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For other lifeforms and",
+      "context_window": "). Holoplankton also show evidence of continued decline in the Atlantic Seasonally Stratified assessment unit. For other lifeforms and assessment units, changes in abundance in line with long-term trends were not detectable within the five- year assessment period, however, five years is likely insufficient for a robust assessment of environmental",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton",
+      "context_window": "environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic habitats can be defined according to key water column features, such as",
+      "context_window": "At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "important changes to seasonal trajectories which did not contribute to detectable trends in mean annual",
+      "context_window": "The PI also showed poor overlap with patterns in the Kendall statistic for individual lifeform abundances, which indicates there were important changes to seasonal trajectories which did not contribute to detectable trends in mean annual abundance. Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators of ecosystem state.",
+      "context_window": "Background Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Obtaining pressure datasets that would present an indicator of predation on plankton from higher",
+      "context_window": "Investigating the impacts of long-term changes in lifeform abundance on pelagic food webs; • Obtaining pressure datasets that would present an indicator of predation on plankton from higher trophic levels (e.g., forage fish density); •",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "important changes to seasonal trajectories which did not contribute to detectable trends in mean annual abundance. Changes in Phytoplankton and Zooplankton Communities Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment units and fixed-point stations in the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment",
+      "context_window": "For holoplankton and meroplankton the greatest changes were along the Atlantic on the northern coast of Spain (Noratlantic Area NOR-NorO1) and in the Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment units were caused by increasing trends in holoplankton winter abundance. Large and small copepods demonstrated a similar pattern to that of holoplankton and meroplankton.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation (NAO), monthly values were applied identically across all assessment units since these variables have basin- scale influence likely to cover most of the assessment region.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of climate change and other human pressures on plankton communities. This QSR 2023 assessment",
+      "context_window": "The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could not yet be made as additional work was needed to investigate environmental pressures and potential impacts of climate change and other human pressures on plankton communities. This QSR 2023 assessment addresses plausible links between environmental pressures and long-term changes in plankton communities. Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III),",
+      "context_window": "Obtaining high quality plankton monitoring data for several pelagic habitat types which were underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relating change in lifeform abundance to trends in environmental pressures and climate indices.",
+      "context_window": "types or lifeforms; (ii) spatially division of plankton samples to construct distinct time-series of lifeform abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv) relating change in lifeform abundance to trends in environmental pressures and climate indices. The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could not yet be made as additional work was needed to investigate environmental pressures and potential impacts",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to the impact of an anthropogenic pressure, the status of this habitat is “Not good”.",
+      "context_window": "“Unknown” by default. In cases when change has been detected and that change can be confidently linked to the impact of an anthropogenic pressure, the status of this habitat is “Not good”. Table i: Biodiversity status categories and colours used for the interpretation, by expert judgement, of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underrepresented in this assessment. In particular there is a need for: zooplankton data for",
+      "context_window": "• Obtaining high quality plankton monitoring data for several pelagic habitat types which were underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direction of change detected across assessment units and fixed-point stations within each pelagic habitat",
+      "context_window": "Table b. To meet this objective, the focus was on the primary direction of change detected across assessment units and fixed-point stations within each pelagic habitat category for each of the 8 high confidence plankton lifeforms highlighted in this assessment. The mean",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lifeforms, assessing lifeforms separately is more suitable for evaluating gradual change over time.",
+      "context_window": ", 2019). While studying lifeform pairs can be helpful for detecting changes in the annual cycle of ecologically linked lifeforms, assessing lifeforms separately is more suitable for evaluating gradual change over time. It is simpler to interpret results of an analysis of correlation between lifeform abundance and environmental pressures,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important",
+      "context_window": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitat types within OSPAR Regions II, III and IV.",
+      "context_window": "Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of changes occurring across pelagic habitat types within OSPAR Regions II, III and IV. This required indicator results for each OSPAR Region to be integrated according to the following pelagic habitat categories: variable",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log 10",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "links with environmental pressures at large spatial scales, the lifeform pairs indicator was also evaluated for",
+      "context_window": "Lifeform pairs indicator approach: Although this assessment focused primarily on long-term trends in lifeform abundance due to their stronger links with environmental pressures at large spatial scales, the lifeform pairs indicator was also evaluated for the current assessment (which constitutes the PH1 indicator as originally defined in IA2017). Tett",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Where in-situ data were available (total nitrogen, nitrate, phosphate, total phosphorous, silicate) they were evaluated instead of the Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom",
+      "context_window": "Figure k ) between the assessment period (2015 to 2019) and the comparison period (1960 to 2014) reveals that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates. Diatoms and dinoflagellates showed the most stability within the Channel well mixed, Meuse and Elbe plume",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and ocean acidification (Keys",
+      "context_window": "et al ., 2019), and ocean acidification (Keys et al. , 2018). Indicators based on functional groups have been proven relevant",
+      "page_number": 5,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "While this method is suitable for detecting changes in the annual cycle of ecologically linked lifeforms, it is",
+      "context_window": "(see below) and examined differences in the relative abundances of ecologically relevant lifeform pairs between a past comparison period (2004 to 2008) and a contemporary assessment period (2009 to 2014). While this method is suitable for detecting changes in the annual cycle of ecologically linked lifeforms, it is Changes in Phytoplankton and Zooplankton Communities less suited to evaluating gradual change over time.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1: Long term monthly and annual log",
+      "context_window": "plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log 10 transformed abundance time-series for eight plankton",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates.",
+      "context_window": ") between the assessment period (2015 to 2019) and the comparison period (1960 to 2014) reveals that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates. Diatoms and dinoflagellates showed the most stability within the Channel well mixed, Meuse and Elbe plume assessment units.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Because plankton community composition, distribution, and dynamics are closely linked to their",
+      "context_window": "Spatial Scale: Changes in Phytoplankton and Zooplankton Communities Because plankton community composition, distribution, and dynamics are closely linked to their environment, the analysis was performed at the scale of the ‘COMP4 assessment units’ (COMP4 v8a; Figure",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "addresses plausible links between environmental pressures and long-term changes in plankton communities.",
+      "context_window": "not yet be made as additional work was needed to investigate environmental pressures and potential impacts of climate change and other human pressures on plankton communities. This QSR 2023 assessment addresses plausible links between environmental pressures and long-term changes in plankton communities. Assessment Method Previous assessment",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In addition to studying change in individual lifeforms, these concepts can be extended to investigating",
+      "context_window": "Both abundance and biomass data can be used to inform lifeform time series, depending on the lifeform in question and data availability from monitoring programmes. In addition to studying change in individual lifeforms, these concepts can be extended to investigating changes in ecologically relevant pairs of lifeforms in the form of a lifeform pairs index. The precise",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For holoplankton and meroplankton the greatest",
+      "context_window": "gelatinous zooplankton to form any conclusions, however there was evidence of important changes in the Norwegian Trench and Kattegat Coastal assessment units. For holoplankton and meroplankton the greatest changes were along the Atlantic on the northern coast of Spain (Noratlantic Area NOR-NorO1) and in the Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decline in abundance in the Northern North Sea (see Results (Extended);",
+      "context_window": "Assessment units filled in white indicate insufficient data to evaluate a trend. Over the current assessment period (2015 to 2019), CPR data indicates dinoflagellates have continued to decline in abundance in the Northern North Sea (see Results (Extended); Figure j ). Holoplankton also show",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment",
+      "context_window": "abundance. Changes in Phytoplankton and Zooplankton Communities Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment units and fixed-point stations in the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast. River",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Not all datasets included in PLET reliably record key species (e.g.: CPR does not record",
+      "context_window": "forms high biomass blooms which strips the water column of oxygen which can be fatal to other lifeforms (Barnes et al., 2015). • Not all datasets included in PLET reliably record key species (e.g.: CPR does not record Alexandrium )",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Examining the direction and magnitude of changes in lifeform abundance over time across pelagic",
+      "context_window": "depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV);",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In cases when change has been detected and that change can be confidently linked",
+      "context_window": "Following this logic, the status of pelagic habitats should be considered “Unknown” by default. In cases when change has been detected and that change can be confidently linked to the impact of an anthropogenic pressure, the status of this habitat is “Not good”. Table i:",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv)",
+      "context_window": "The main features of the method are: (i) the grouping of planktonic taxa into functional types or lifeforms; (ii) spatially division of plankton samples to construct distinct time-series of lifeform abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv) relating change in lifeform abundance to trends in environmental pressures and climate indices. The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fixed-point stations representing variable salinity habitats within OSPAR Region II.",
+      "context_window": "confidence, spatial representativeness were then reported, and most likely links to environmental pressures. As an example, changes in dinoflagellate abundance were assessed across 4 COMP4 assessment units and 4 fixed-point stations representing variable salinity habitats within OSPAR Region II. If 1 decreasing trend, 4 increasing trends, and 3 instances of no trend were detected across these locations, an increasing net trend",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable",
+      "context_window": "variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV); •",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finally, to report links to environmental pressures which can drive changes in lifeform abundance for the net",
+      "context_window": "Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in lifeform abundance for the net trend, environmental variables for each location based on their relative variable importance were ranked, with 1 assigned to the variable with highest importance, 2 to the variable with second highest importance",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seasonal nature of plankton production and the succession of species in seasonally stratifying seas, result in",
+      "context_window": "interannual variability); and (ii) long-term variability that might result from environmental pressure. The seasonal nature of plankton production and the succession of species in seasonally stratifying seas, result in this trajectory tending in a certain direction (as plankton growth increases in spring and declines during autumn), such that the trajectory tends towards its starting point.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled environmental variables.",
+      "context_window": "available (total nitrogen, nitrate, phosphate, total phosphorous, silicate) they were evaluated instead of the Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation (NAO), monthly values were applied identically across all assessment units since these variables have basin-",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV);",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV); • Determination of the traits for many plankton species – for some species even information about",
+      "page_number": 34,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "over short time scales can have immediate consequences for higher trophic levels, whereas gradual change",
+      "context_window": "loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment.",
+      "context_window": "Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change ( Figure 3",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Many of these pressures are influenced indirectly by climate change (",
+      "context_window": "Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change ( Figure 3 ). Modelling results have shown",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in the abundances of plankton lifeforms",
+      "context_window": "), can reveal plankton community responses to factors such as nutrient loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At the North-East Atlantic regional scale, plankton community changes are strongly linked to",
+      "context_window": "over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aspects of ecosystem function.",
+      "context_window": "Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direct impacts, they can also be linked to greater stratification and resulting nutrient limitation.",
+      "context_window": "were most frequently detected in shelf and oceanic pelagic habitats. While increasing temperatures can have direct impacts, they can also be linked to greater stratification and resulting nutrient limitation. Changes in Phytoplankton and Zooplankton Communities Figure 3: COMP4 assessment units for eight plankton lifeforms, coloured by a categorisation of the most",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are also exhibiting decreasing abundance trends linked to temperature increase, while large and small",
+      "context_window": "Table l ), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various",
+      "context_window": "e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators",
+      "context_window": "aspects of ecosystem function. These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators (changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton (fully planktonic) and meroplankton (only part of the lifecycle is planktonic, the remainder is benthic) (see",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "small copepods in coastal habitats were linked to temperature increases. Declining abundance of",
+      "context_window": "and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally",
+      "context_window": "in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN, Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally (e.g., precipitation, wind speed) and internally (e.g., pH, water temperature) on the marine environment. Many of these pressures are influenced indirectly by climate change (",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "While increasing temperatures can have direct impacts, they can also be linked to greater stratification and resulting nutrient limitation. Changes in Phytoplankton and Zooplankton Communities Figure 3: COMP4 assessment units for eight plankton lifeforms, coloured by a categorisation of the most important environmental variable to predict lifeform abundance (see key in Table c). Patterned",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trends for variable salinity habitats were not assessed due to the limited data available for this region.",
+      "context_window": "are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region. Table l: Integration of the indicator results for OSPAR Region IV – Bay of Biscay and Iberian Coast. An",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "trends are closely linked to rising sea surface temperatures.",
+      "context_window": "Table j ) are increasing in abundance and the increasing trends are closely linked to rising sea surface temperatures. Simultaneous declines in the abundance of holopankton in shelf regions have also been linked to temperature increase.",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in plankton",
+      "context_window": "Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported either directly or indirectly by plankton.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton",
+      "context_window": "These include, for example: the transfer of energy from primary to secondary producers (changes in phytoplankton and zooplankton); the pathway of energy flow and top predators (changes in gelatinous zooplankton and fish larvae); benthic / pelagic coupling, i.e., changes in holoplankton (fully planktonic) and meroplankton (only part of the lifecycle is planktonic, the remainder is benthic) (see also Gowen",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental conditions.",
+      "context_window": "over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in",
+      "context_window": "assimilation. However, model results suggest that they were more apparent in coastal regions. Changes in diatom and dinoflagellate abundance in these assessment units were mainly linked to increases in the N:P ratio, driven by reductions in phosphorous concentrations. Of the 182 significant trends in lifeform",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperature, while decreasing abundance of holoplankton and dinoflagellates may be linked to reductions",
+      "context_window": "warming. In shelf areas a similar increase in meroplankton abundance has been observed in response to temperature, while decreasing abundance of holoplankton and dinoflagellates may be linked to reductions in pH and  increases in the N:P ratio, respectively. Table k: Integration of the indicator results for OSPAR Region III – Celtic Seas.",
+      "page_number": 30,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "), declining abundance of diatoms in variable salinity habitats have been observed",
+      "context_window": "In the Celtic Seas ( Table k ), declining abundance of diatoms in variable salinity habitats have been observed and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats.",
+      "context_window": "habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods",
+      "context_window": "Figure 2 ) indicate that most plankton lifeforms, including diatoms, dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods are declining in abundance throughout the North-East Atlantic. Spatial patterns in the direction of change for",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could help link both the pelagic and food webs assessments in terms of identified changes",
+      "context_window": "consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment. This could help link both the pelagic and food webs assessments in terms of identified changes and impacts. Knowledge Gaps (Extended)",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment addresses plausible links between environmental pressures and long term changes in",
+      "context_window": "Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and impacts.",
+      "context_window": "assessment. This could help link both the pelagic and food webs assessments in terms of identified changes and impacts. Knowledge Gaps (Extended) The following work needs to be taken forward to address the knowledge gaps and improve the assessment",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator change is",
+      "context_window": "change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or",
+      "page_number": 21,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats",
+      "context_window": "It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment. This could help link both the pelagic and food webs assessments in terms of identified changes",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For other lifeforms and",
+      "context_window": "). Holoplankton also show evidence of continued decline in the Atlantic Seasonally Stratified assessment unit. For other lifeforms and assessment units, changes in abundance in line with long-term trends were not detectable within the five- year assessment period, however, five years is likely insufficient for a robust assessment of environmental",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic habitats can be defined according to key water column features, such as",
+      "context_window": "At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators of ecosystem state.",
+      "context_window": "Background Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "important changes to seasonal trajectories which did not contribute to detectable trends in mean annual abundance. Changes in Phytoplankton and Zooplankton Communities Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment units and fixed-point stations in the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation (NAO), monthly values were applied identically across all assessment units since these variables have basin- scale influence likely to cover most of the assessment region.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III),",
+      "context_window": "Obtaining high quality plankton monitoring data for several pelagic habitat types which were underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to the impact of an anthropogenic pressure, the status of this habitat is “Not good”.",
+      "context_window": "“Unknown” by default. In cases when change has been detected and that change can be confidently linked to the impact of an anthropogenic pressure, the status of this habitat is “Not good”. Table i: Biodiversity status categories and colours used for the interpretation, by expert judgement, of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "direction of change detected across assessment units and fixed-point stations within each pelagic habitat",
+      "context_window": "Table b. To meet this objective, the focus was on the primary direction of change detected across assessment units and fixed-point stations within each pelagic habitat category for each of the 8 high confidence plankton lifeforms highlighted in this assessment. The mean",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important",
+      "context_window": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log 10",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Where in-situ data were available (total nitrogen, nitrate, phosphate, total phosphorous, silicate) they were evaluated instead of the Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and ocean acidification (Keys",
+      "context_window": "et al ., 2019), and ocean acidification (Keys et al. , 2018). Indicators based on functional groups have been proven relevant",
+      "page_number": 5,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Figure 1: Long term monthly and annual log",
+      "context_window": "plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log 10 transformed abundance time-series for eight plankton",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Because plankton community composition, distribution, and dynamics are closely linked to their",
+      "context_window": "Spatial Scale: Changes in Phytoplankton and Zooplankton Communities Because plankton community composition, distribution, and dynamics are closely linked to their environment, the analysis was performed at the scale of the ‘COMP4 assessment units’ (COMP4 v8a; Figure",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition to studying change in individual lifeforms, these concepts can be extended to investigating",
+      "context_window": "Both abundance and biomass data can be used to inform lifeform time series, depending on the lifeform in question and data availability from monitoring programmes. In addition to studying change in individual lifeforms, these concepts can be extended to investigating changes in ecologically relevant pairs of lifeforms in the form of a lifeform pairs index. The precise",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decline in abundance in the Northern North Sea (see Results (Extended);",
+      "context_window": "Assessment units filled in white indicate insufficient data to evaluate a trend. Over the current assessment period (2015 to 2019), CPR data indicates dinoflagellates have continued to decline in abundance in the Northern North Sea (see Results (Extended); Figure j ). Holoplankton also show",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "• Not all datasets included in PLET reliably record key species (e.g.: CPR does not record",
+      "context_window": "forms high biomass blooms which strips the water column of oxygen which can be fatal to other lifeforms (Barnes et al., 2015). • Not all datasets included in PLET reliably record key species (e.g.: CPR does not record Alexandrium )",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In cases when change has been detected and that change can be confidently linked",
+      "context_window": "Following this logic, the status of pelagic habitats should be considered “Unknown” by default. In cases when change has been detected and that change can be confidently linked to the impact of an anthropogenic pressure, the status of this habitat is “Not good”. Table i:",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fixed-point stations representing variable salinity habitats within OSPAR Region II.",
+      "context_window": "confidence, spatial representativeness were then reported, and most likely links to environmental pressures. As an example, changes in dinoflagellate abundance were assessed across 4 COMP4 assessment units and 4 fixed-point stations representing variable salinity habitats within OSPAR Region II. If 1 decreasing trend, 4 increasing trends, and 3 instances of no trend were detected across these locations, an increasing net trend",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finally, to report links to environmental pressures which can drive changes in lifeform abundance for the net",
+      "context_window": "Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in lifeform abundance for the net trend, environmental variables for each location based on their relative variable importance were ranked, with 1 assigned to the variable with highest importance, 2 to the variable with second highest importance",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled environmental variables.",
+      "context_window": "available (total nitrogen, nitrate, phosphate, total phosphorous, silicate) they were evaluated instead of the Changes in Phytoplankton and Zooplankton Communities modelled environmental variables. For Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation (NAO), monthly values were applied identically across all assessment units since these variables have basin-",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV);",
+      "context_window": "Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV); • Determination of the traits for many plankton species – for some species even information about",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seasonal nature of plankton production and the succession of species in seasonally stratifying seas, result in",
+      "context_window": "interannual variability); and (ii) long-term variability that might result from environmental pressure. The seasonal nature of plankton production and the succession of species in seasonally stratifying seas, result in this trajectory tending in a certain direction (as plankton growth increases in spring and declines during autumn), such that the trajectory tends towards its starting point.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable",
+      "context_window": "variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV); •",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv)",
+      "context_window": "The main features of the method are: (i) the grouping of planktonic taxa into functional types or lifeforms; (ii) spatially division of plankton samples to construct distinct time-series of lifeform abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv) relating change in lifeform abundance to trends in environmental pressures and climate indices. The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities zooplankton data for coastal habitats and both phytoplankton and zooplankton data for variable salinity habitats in the Bay of Biscay and Iberian Coast (OSPAR Region IV);",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Examining the direction and magnitude of changes in lifeform abundance over time across pelagic",
+      "context_window": "depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment",
+      "context_window": "abundance. Changes in Phytoplankton and Zooplankton Communities Figure k: Plankton lifeform pairs indicator (PI) for four lifeform pairs displayed over COMP4 assessment units and fixed-point stations in the Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast. River",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For holoplankton and meroplankton the greatest",
+      "context_window": "gelatinous zooplankton to form any conclusions, however there was evidence of important changes in the Norwegian Trench and Kattegat Coastal assessment units. For holoplankton and meroplankton the greatest changes were along the Atlantic on the northern coast of Spain (Noratlantic Area NOR-NorO1) and in the Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "addresses plausible links between environmental pressures and long-term changes in plankton communities.",
+      "context_window": "not yet be made as additional work was needed to investigate environmental pressures and potential impacts of climate change and other human pressures on plankton communities. This QSR 2023 assessment addresses plausible links between environmental pressures and long-term changes in plankton communities. Assessment Method Previous assessment",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates.",
+      "context_window": ") between the assessment period (2015 to 2019) and the comparison period (1960 to 2014) reveals that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates. Diatoms and dinoflagellates showed the most stability within the Channel well mixed, Meuse and Elbe plume assessment units.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While this method is suitable for detecting changes in the annual cycle of ecologically linked lifeforms, it is",
+      "context_window": "(see below) and examined differences in the relative abundances of ecologically relevant lifeform pairs between a past comparison period (2004 to 2008) and a contemporary assessment period (2009 to 2014). While this method is suitable for detecting changes in the annual cycle of ecologically linked lifeforms, it is Changes in Phytoplankton and Zooplankton Communities less suited to evaluating gradual change over time.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom",
+      "context_window": "Figure k ) between the assessment period (2015 to 2019) and the comparison period (1960 to 2014) reveals that changes in diatoms and dinoflagellates were greatest in coastal waters surrounding the United Kingdom and within the Norwegian Trench, driven by reduced summer and autumn abundances of dinoflagellates. Diatoms and dinoflagellates showed the most stability within the Channel well mixed, Meuse and Elbe plume",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "links with environmental pressures at large spatial scales, the lifeform pairs indicator was also evaluated for",
+      "context_window": "Lifeform pairs indicator approach: Although this assessment focused primarily on long-term trends in lifeform abundance due to their stronger links with environmental pressures at large spatial scales, the lifeform pairs indicator was also evaluated for the current assessment (which constitutes the PH1 indicator as originally defined in IA2017). Tett",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitat types within OSPAR Regions II, III and IV.",
+      "context_window": "Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of changes occurring across pelagic habitat types within OSPAR Regions II, III and IV. This required indicator results for each OSPAR Region to be integrated according to the following pelagic habitat categories: variable",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lifeforms, assessing lifeforms separately is more suitable for evaluating gradual change over time.",
+      "context_window": ", 2019). While studying lifeform pairs can be helpful for detecting changes in the annual cycle of ecologically linked lifeforms, assessing lifeforms separately is more suitable for evaluating gradual change over time. It is simpler to interpret results of an analysis of correlation between lifeform abundance and environmental pressures,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underrepresented in this assessment. In particular there is a need for: zooplankton data for",
+      "context_window": "• Obtaining high quality plankton monitoring data for several pelagic habitat types which were underrepresented in this assessment. In particular there is a need for: zooplankton data for variable salinity habitats in the Greater North Sea and Celtic Seas (OSPAR Regions II and III), Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relating change in lifeform abundance to trends in environmental pressures and climate indices.",
+      "context_window": "types or lifeforms; (ii) spatially division of plankton samples to construct distinct time-series of lifeform abundance; (iii) using a robust nonparametric test to quantify long term changes in lifeform abundance; (iv) relating change in lifeform abundance to trends in environmental pressures and climate indices. The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could not yet be made as additional work was needed to investigate environmental pressures and potential impacts",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of climate change and other human pressures on plankton communities. This QSR 2023 assessment",
+      "context_window": "The OSPAR Intermediate Assessment 2017 (IA2017) stated that conclusions on the trends observed could not yet be made as additional work was needed to investigate environmental pressures and potential impacts of climate change and other human pressures on plankton communities. This QSR 2023 assessment addresses plausible links between environmental pressures and long-term changes in plankton communities. Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment",
+      "context_window": "For holoplankton and meroplankton the greatest changes were along the Atlantic on the northern coast of Spain (Noratlantic Area NOR-NorO1) and in the Norwegian Trench. Widespread changes in the Dogger Bank, Eastern and Southern North Sea assessment units were caused by increasing trends in holoplankton winter abundance. Large and small copepods demonstrated a similar pattern to that of holoplankton and meroplankton.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Obtaining pressure datasets that would present an indicator of predation on plankton from higher",
+      "context_window": "Investigating the impacts of long-term changes in lifeform abundance on pelagic food webs; • Obtaining pressure datasets that would present an indicator of predation on plankton from higher trophic levels (e.g., forage fish density); •",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "important changes to seasonal trajectories which did not contribute to detectable trends in mean annual",
+      "context_window": "The PI also showed poor overlap with patterns in the Kendall statistic for individual lifeform abundances, which indicates there were important changes to seasonal trajectories which did not contribute to detectable trends in mean annual abundance. Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton",
+      "context_window": "environmental conditions. Pelagic habitats can be defined according to key water column features, such as depth, freshwater influence, stratification, and based on spatially consistent patterns in phytoplankton dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats can reveal spatial patterns of environmental change.",
+      "context_window": "dynamics. Examining the direction and magnitude of changes in lifeform abundance over time across pelagic habitats can reveal spatial patterns of environmental change. Similarly, trends determined from regular monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plankton communities.",
+      "context_window": "monitoring of fixed-point stations can be compared to trends in surrounding and adjacent pelagic habitats. This assessment addresses plausible links between environmental pressures and long term changes in plankton communities. Changes in Phytoplankton and Zooplankton Communities Figure 1: Long term monthly and annual log",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator,",
+      "context_window": "changes in ecologically relevant pairs of lifeforms in the form of a lifeform pairs index. The precise combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported",
+      "context_window": "on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton communities can affect higher food web levels, such as shellfish, fish, and seabirds, which are supported either directly or indirectly by plankton. Indicators based on plankton lifeforms, planktonic organisms with",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN,",
+      "context_window": "Newly apparent trends which have emerged within the current assessment period include declining abundance of large copepods in the Atlantic Seasonally Stratified assessment unit, increasing fish larvae/eggs in the Scottish Sea and Coastal UK 1 regions, and declining diatom abundance at Norderney (NLWKN, Germany). Changes in lifeform abundance were linked to variation in environmental pressures, acting both externally",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological",
+      "context_window": "change in environmental variables and change in lifeform abundance. It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological consequences of changing lifeform abundance on higher trophic levels, not considered in the pelagic habitats assessment.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Short generational times, small size and, for phytoplankton, direct dependence",
+      "context_window": "Plankton (microscopic algae and animals) form the base of marine food webs, making them important indicators of ecosystem state. Short generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, make plankton well-suited for detecting environmental change. Changes in plankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication.",
+      "context_window": "The precise combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Spatial patterns in the direction of change for",
+      "context_window": "dinoflagellates, holoplankton, fish larvae/eggs, and large (adult ≥2 mm) and small (adult <2 mm) copepods are declining in abundance throughout the North-East Atlantic. Spatial patterns in the direction of change for both small and large copepods closely match those of the diatoms. Conversely, meroplankton demonstrate",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "between climatic and anthropogenic pressures with changes in pelagic habitats and plankton",
+      "context_window": "• Examining national datasets at a finer spatiotemporal scale, which will help establish clearer links between climatic and anthropogenic pressures with changes in pelagic habitats and plankton diversity; •",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in",
+      "context_window": "combination of lifeforms composing the pairs will depend on the habitat and the objective of the indicator, e.g., as a measure for change in pelagic habitats, food webs, seafloor integrity or eutrophication. Change in the abundance of ecologically linked lifeforms over time can also provide an indication of changes in various aspects of ecosystem function.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in environmental variables and change in lifeform abundance.",
+      "context_window": "current assessment. Further scientific research will be required to explore direct mechanistic links between change in environmental variables and change in lifeform abundance. It may also be useful to examine the rate and direction of change in the Plankton Index with respect to each lifeform pair, as well as the ecological",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2: By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Simultaneous declines in the abundance of",
+      "context_window": ") are increasing in abundance and the increasing trends are closely linked to rising sea surface temperatures. Simultaneous declines in the abundance of holopankton in shelf regions have also been linked to temperature increase. Table j: Integration of the indicator results for OSPAR Region II – Greater North Sea.",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures.",
+      "context_window": "), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures. Trends for variable salinity habitats were not assessed due to the limited data available for this region. Table l: Integration of the indicator results for OSPAR Region IV – Bay of Biscay and Iberian Coast.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "holoplankton in coastal areas may also be linked to decreasing pH.",
+      "context_window": "small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH. Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), holoplankton, large and small copepods in shelf areas",
+      "context_window": "In the Bay of Biscay and Iberian Coast region ( Table l ), holoplankton, large and small copepods in shelf areas are also exhibiting decreasing abundance trends linked to temperature increase, while large and small copepods in oceanic / beyond shelf habitats are experiencing declines linked to increasing temperatures.",
+      "page_number": 31,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Declining abundance trends in dinoflagellates, as well as large and",
+      "context_window": "), declining abundance of diatoms in variable salinity habitats have been observed and linked to the increase in the N:P ratio. Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature",
+      "context_window": "particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature were most frequently detected in shelf and oceanic pelagic habitats. While increasing temperatures can have",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "loading from human activities and climate-driven change.",
+      "context_window": "Figure 1 ), can reveal plankton community responses to factors such as nutrient loading from human activities and climate-driven change. Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "over decades can indicate long term shifts in important aspects of ecosystem functioning.",
+      "context_window": "Changes in the abundances of plankton lifeforms over short time scales can have immediate consequences for higher trophic levels, whereas gradual change over decades can indicate long term shifts in important aspects of ecosystem functioning. At the North-East Atlantic regional scale, plankton community changes are strongly linked to environmental conditions.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance of key lifeforms and evaluating how environmental pressures co-varied with changes in lifeform",
+      "context_window": ", 2020a). For the current assessment a simplified approach was developed, based on measuring long-term changes in the abundance of key lifeforms and evaluating how environmental pressures co-varied with changes in lifeform abundance. A long-term perspective helped improve confidence in establishing links to environmental pressures. Short-term changes within the assessment period were also evaluated to identify emerging",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global",
+      "context_window": "Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. In shelf areas a similar increase in meroplankton abundance has been observed in response to",
+      "page_number": 30,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Declining abundance trends in dinoflagellates, as well as large and small copepods in coastal habitats were linked to temperature increases. Declining abundance of Changes in Phytoplankton and Zooplankton Communities holoplankton in coastal areas may also be linked to decreasing pH. Changes in pH can be linked to changes",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "particularly small and large copepods in the Atlantic.",
+      "context_window": "). Modelling results have shown that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that increased sea surface temperatures were linked to declining abundances of plankton lifeforms,",
+      "context_window": "Figure 3 ). Modelling results have shown that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change in water temperature was also strongly linked",
+      "context_window": "that increased sea surface temperatures were linked to declining abundances of plankton lifeforms, particularly small and large copepods in the Atlantic. Change in water temperature was also strongly linked to increasing meroplankton abundance within the Eastern North Sea. Impacts of increasing temperature were most frequently detected in shelf and oceanic pelagic habitats.",
+      "page_number": 25,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 7,
+    "keyword_counts": {
+      "climate change": 7,
+      "ocean acidification": 2,
+      "warming": 2,
+      "temperature increase": 2,
+      "carbon dioxide": 1,
+      "hypoxia": 1,
+      "anoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 86,
+      "end_sentence": 92,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "Between 2015 and 2019 plankton functional groups experienced significant changes in abundance, refle...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 88,
+          "page_number": 3,
+          "content": "a continuation of long-term trends.",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 3,
+          "content": "Larvae of benthic invertebrates increased, while other groups mostly",
+          "full_length": 68
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "decreased.",
+          "full_length": 10
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 3343,
+      "end_sentence": 3365,
+      "sentence_count": 23,
+      "page_range": "32-32",
+      "sentences": [
+        {
+          "sentence_id": 3343,
+          "page_number": 32,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3344,
+          "page_number": 32,
+          "content": "Pelagic habitats have changed considerably over the past 60 years, with widespread declines in key l...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 3345,
+          "page_number": 32,
+          "content": "over much of the North-East Atlantic.",
+          "full_length": 37
+        },
+        {
+          "sentence_id": 3346,
+          "page_number": 32,
+          "content": "Within the short assessment period itself (2015 to 2019) only some",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 3347,
+          "page_number": 32,
+          "content": "changes could be detected – long time-series are critical to separating change from background varia...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 23
+    },
+    {
+      "section_name": "Conclusion (Extended)",
+      "start_sentence": 3366,
+      "end_sentence": 3414,
+      "sentence_count": 49,
+      "page_range": "32-33",
+      "sentences": [
+        {
+          "sentence_id": 3366,
+          "page_number": 32,
+          "content": "Conclusion (Extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 3367,
+          "page_number": 32,
+          "content": "This assessment indicates spatial and temporal variability in the plankton community for eight ecolo...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 3368,
+          "page_number": 32,
+          "content": "important planktonic lifeforms.",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 3369,
+          "page_number": 32,
+          "content": "While there were clear increasing and decreasing trends in the abundance of",
+          "full_length": 75
+        },
+        {
+          "sentence_id": 3370,
+          "page_number": 32,
+          "content": "lifeforms across the North-East Atlantic, the overall trend was predominantly decreasing for diatoms...",
+          "full_length": 101
+        }
+      ],
+      "total_sentences_in_section": 49
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3468,
+      "end_sentence": 3644,
+      "sentence_count": 177,
+      "page_range": "34-36",
+      "sentences": [
+        {
+          "sentence_id": 3468,
+          "page_number": 34,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3469,
+          "page_number": 34,
+          "content": "Barnes, M. K., G. H. Tilstone, T. J. Smyth, C. E. Widdicombe, J. Gloël, C. Robinson, J. Kaiser, and ...",
+          "full_length": 114
+        },
+        {
+          "sentence_id": 3470,
+          "page_number": 34,
+          "content": "2015. Drivers and effects of",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 3471,
+          "page_number": 34,
+          "content": "Karenia mikimotoi",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 3472,
+          "page_number": 34,
+          "content": "blooms in the western English Channel. Progress in",
+          "full_length": 50
+        }
+      ],
+      "total_sentences_in_section": 177
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3716,
+    "chunks_selected": 102,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 86,
+        "end_sentence": 92,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 3343,
+        "end_sentence": 3365,
+        "sentence_count": 23
+      },
+      {
+        "section_name": "Conclusion (Extended)",
+        "start_sentence": 3366,
+        "end_sentence": 3414,
+        "sentence_count": 49
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3468,
+        "end_sentence": 3644,
+        "sentence_count": 177
+      }
+    ],
+    "total_excluded_sentences": 256
+  }
+}

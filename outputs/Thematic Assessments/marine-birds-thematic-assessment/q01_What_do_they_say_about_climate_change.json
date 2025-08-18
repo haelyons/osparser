@@ -1,0 +1,1899 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "These pressures have resulted in documented changes in",
+      "context_window": "It leads to rising sea level and temperatures, changes in the amount of rainfall and reduced sea-ice coverage, among other effects. These pressures have resulted in documented changes in marine ecosystems, see: Climate Change Thematic Assessment",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "It leads to rising sea level and temperatures, changes in the amount of rainfall and",
+      "context_window": "A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it. It leads to rising sea level and temperatures, changes in the amount of rainfall and reduced sea-ice coverage, among other effects. These pressures have resulted in documented changes in",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "of work that will be drafted in consultation with the OSPAR / HELCOM / ICES Joint Working Group on Marine Birds and will help to build a coherent response. Climate change has been identified in this assessment as the main cause of the continuing declines in the status of marine birds in the North-East Atlantic.",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "show that its over-winter survival is lower following winters with increased sea-surface",
+      "context_window": "Some of the best evidence of climate-induced changes to demographic rates (adult survival, breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface temperatures (SST), with reduced breeding success one year later (Frederiksen et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change may impact abundance, distribution and the timing of occurrence, particularly in",
+      "context_window": "particularly so for upland and more northern species. • Climate change may impact abundance, distribution and the timing of occurrence, particularly in migration and in wintering areas (Pavón-Jordán et al",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland",
+      "context_window": "• More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST) (Howells",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressure on marine birds from climate",
+      "context_window": "Climate change mitigation underlies all other responses, and without such action adaptation is likely to be ineffective. The pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. As part of its efforts to ensure sustainable use of the marine environment, OSPAR has",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "has declined over the last three decades, linked to changes in Sea Surface Temperature (SST)",
+      "context_window": "More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST) (Howells et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to",
+      "context_window": "Pelagic Habitats Thematic Assessment , the indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to declining abundances of planktonic lifeforms, particularly small and large copepods, across the North-East Atlantic.",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identified climate-change impacts as an increasing pressure on marine",
+      "context_window": "The Quality Status Report 2010 identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts:",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "remit, mitigation underlies all other responses, and without such action adaptation is likely to be ineffective, see: Climate Change .",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change mitigation underlies all other responses,",
+      "context_window": "has been identified in this assessment as the main cause of the continuing declines in the status of marine birds in the North-East Atlantic. Climate change mitigation underlies all other responses, and without such action adaptation is likely to be ineffective. The pressure on marine birds from climate",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., (2020) concluded that, while the principal mechanism for climate-induced declines in",
+      "context_window": "Mitchell et al ., (2020) concluded that, while the principal mechanism for climate-induced declines in seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that",
+      "context_window": "Johnston et al ., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In the birds’ Arctic breeding grounds, climate change impacts on food supply",
+      "context_window": "contraction of the wintering range of Arctic-breeding species in response to milder winters further north resulting from climate change. In the birds’ Arctic breeding grounds, climate change impacts on food supply have reduced productivity and increased mortality from predation. Only a few benthic-feeding seaduck species, which feed on invertebrates - mainly molluscs in or on the",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change and its indirect effects, such as oceanographic shifts",
+      "context_window": "The breeding populations of the thick-billed murre (Brünnich‘s guillemot) in Svalbard, East Greenland and northern Norway are currently declining. Climate change and its indirect effects, such as oceanographic shifts in the wintering grounds resulting in reduced food supplies, are believed to be driving this negative trend. Further threats in some areas include hunting, disturbance by predators, as well as chemical and oil pollution.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts:",
+      "context_window": "identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \" Impacts on seabirds are likely to be more important through changes in their food supply than through",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "declining abundances of planktonic lifeforms, particularly small and large copepods, across the",
+      "context_window": ", the indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to declining abundances of planktonic lifeforms, particularly small and large copepods, across the North-East Atlantic. •",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change appears to continue",
+      "context_window": "The status of black-legged kittiwake breeding populations is still declining in Arctic Waters and the Greater North Sea and is also declining in the Celtic Seas and the Bay of Biscay. Climate change appears to continue to affect food supply in the Arctic, Greater North Sea and the Iberian coast, as well as in wintering areas partly outside the OSPAR Region.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the",
+      "context_window": "Climate Change Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it. It leads to rising sea level and temperatures, changes in the amount of rainfall and",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "the strongest evidence of long term impacts of climate change in seabirds comes from studies in which",
+      "context_window": "et al ., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature. This",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "Quality Status Report 2010 identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \"",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabird population size than climate-mediated prey availability.",
+      "context_window": "., (2021) further conclude that there is also evidence for impacts of short- term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "range in the Bay of Biscay and Celtic Seas appears consistent with climate change predictions.",
+      "context_window": "Food webs Thematic Assessment – Response Section – Case study ). A northward contraction in breeding range in the Bay of Biscay and Celtic Seas appears consistent with climate change predictions. The breeding populations of the thick-billed murre (Brünnich‘s guillemot) in Svalbard, East Greenland and northern Norway are currently declining.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The synopsis of this 2023 report is that the pressure on marine birds from climate change is being",
+      "context_window": "OSPAR Commission change. The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate",
+      "context_window": "The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics. Seabirds",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change may affect waterbird populations while they are in their northern / Arctic breeding",
+      "context_window": "Waterbirds • Climate change may affect waterbird populations while they are in their northern / Arctic breeding grounds, on their migration stopovers and in their wintering grounds. Waterbirds that breed in temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts,",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Projected rises in mean sea-level as a result of climate change are expected to impact the extent",
+      "context_window": "northern breeding grounds. • Projected rises in mean sea-level as a result of climate change are expected to impact the extent and quality of waterbird habitats. What has changed since the last Quality Status Report",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "weather events).",
+      "context_window": "Arctic skua, which the authors predict will cease to breed there by 2050 (though the mechanism for this is likely to be direct physiological intolerance to heat rather than prey effects or nest loss due to extreme weather events). Steep declines of greater than 50% of abundance were predicted for fulmar, puffin, Arctic tern, little tern, Sandwich tern and storm-petrel, although the latter three species have results which are",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts,",
+      "context_window": "Climate change may affect waterbird populations while they are in their northern / Arctic breeding grounds, on their migration stopovers and in their wintering grounds. Waterbirds that breed in temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts, particularly so for upland and more northern species. •",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Some of the best evidence of climate-induced changes to demographic rates (adult survival,",
+      "context_window": "., 2021). • Some of the best evidence of climate-induced changes to demographic rates (adult survival, breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacts are mediated through changes in prey associated with changes in sea surface temperature.",
+      "context_window": "., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature. This has been demonstrated in systems where the predominant prey is sandeels. (Frederiksen",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Impacts on seabirds are likely to be more important through changes in their food supply than through",
+      "context_window": "In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \" Impacts on seabirds are likely to be more important through changes in their food supply than through losses of nests due to changed weather \".",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suggest that climate change is driving at least some of the observed declines in their prey.",
+      "context_window": "this varies with region. Links between seabird breeding productivity and increasing sea temperatures strongly suggest that climate change is driving at least some of the observed declines in their prey. Over-fishing has also played a part in some regions in the past and fisheries are currently competing with seabirds for sandeels",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "The relative ranking of pressures changes when impact is considered. Climate change, leading to prey depletion and habitat loss pressures, ranks highly (see the Climate Change Thematic Assessment for detail on contributing human activities).",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "implications for management. While the focus for responses to climate change lies outside of OSPAR’s",
+      "context_window": "Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s 66 of 80 OSPAR Commission",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change has pervasive and fundamental implications for marine bird communities, including",
+      "context_window": "Assessment - Response - Gaps and Opportunities . Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "More recent evidence suggests that other seabird species’ food supply is also affected by climate-",
+      "context_window": "North-East Atlantic. • More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST)",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What has changed since the last Quality Status Report",
+      "context_window": "Projected rises in mean sea-level as a result of climate change are expected to impact the extent and quality of waterbird habitats. What has changed since the last Quality Status Report The Quality Status Report 2010",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "events become more frequent – as has been proposed in many climatic forecasts – then such impacts may",
+      "context_window": "seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may become more important. Mitchell",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The main mechanism for climate-change impacts on seabirds is change to their food supply and / or",
+      "context_window": "OSPAR Commission • The main mechanism for climate-change impacts on seabirds is change to their food supply and / or availability, though there is growing evidence that severe weather events also play an important role, for example in nest survival, but also in the survival of adults trying to forage during storms",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they also identify that if such",
+      "context_window": "term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may become more important.",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "resulting from climate change.",
+      "context_window": "Celtic Seas and 40% in the North Sea. This regional difference is consistent with a north-eastward contraction of the wintering range of Arctic-breeding species in response to milder winters further north resulting from climate change. In the birds’ Arctic breeding grounds, climate change impacts on food supply have reduced productivity and increased mortality from predation.",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Shifts in distribution, mediated by temperature changes, have been seen within the OSPAR",
+      "context_window": "., 2019). • Shifts in distribution, mediated by temperature changes, have been seen within the OSPAR Maritime Area and more generally within Europe, with waders and wildfowl species during the winter increasingly concentrated in north-eastern areas with, for example, fewer reaching south-",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "activities and the sensitivity of the species.",
+      "context_window": "Their relative importance varies greatly between species and OSPAR Regions, depending on the extent of the respective activities and the sensitivity of the species. Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region, including indirect effects on food supply and direct effects on bird physiology; given its importance the effects",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes in plankton abundance, distribution and timing (Wanless",
+      "context_window": "et al ., 2017). The recruitment of sandeels is in turn influenced by climate-induced changes in plankton abundance, distribution and timing (Wanless et al ., 2018). There have been",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence – High; Consensus – Medium",
+      "context_window": "Regional summary of likely cumulative effects: Confidence Assessment: Evidence – High; Consensus – Medium While the weighted bow-tie analyses displayed in the Sankey diagrams have been produced at the North- East Atlantic scale, consideration can be given to where regional differences may arise by cross-referencing",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate",
+      "context_window": "Atlantic Environment Strategy: • Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification;",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "., 2017). The recruitment of sandeels is in turn influenced by climate-induced",
+      "context_window": "Eerkes-Medrano et al ., 2017). The recruitment of sandeels is in turn influenced by climate-induced changes in plankton abundance, distribution and timing (Wanless et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the",
+      "context_window": "OSPAR Commission every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant”.",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting;",
+      "context_window": "birds and associated ecosystem services. The predominant pressures on marine birds are prey depletion caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting; mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g., collisions with wind turbines); and disturbance caused by multiple activities.",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "effects from human activities on ecosystem state and ecosystem services is critical in order to explicitly apply",
+      "context_window": "ecosystem services. A better understanding of this complexity in the causes and consequences of cumulative effects from human activities on ecosystem state and ecosystem services is critical in order to explicitly apply the ecosystem approach so as to target management measures appropriately. The evidence underpinning the analyses described in this section is drawn from the Driver, Activity, Pressure,",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change",
+      "context_window": "• Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification; •",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Pressures from",
+      "context_window": "Confidence Assessment: Evidence – Medium; Consensus – Medium Pressures from human activities have been demonstrated in the assessments for this QSR to be widely",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "section based on analysis of \"Exposure\" (comprising spatial and temporal overlap) and \"Consequence\" (comprising pressure persistence, likely impact and ecosystem recovery potential), see: Cumulative Effects . Some differences in the relative rankings of individual pressures were highlighted, and a caveat inserted, in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the suitability of breeding locations, breeding success and prey availability, with major",
+      "context_window": ". Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s 66 of 80",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "and ocean acidification;",
+      "context_window": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification; • Strategic Objective 2 to prevent pollution by hazardous substances (and the work of the Hazardous",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "change.",
+      "context_window": "4 of 80 OSPAR Commission change. The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Climate Change Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Regional summary of likely cumulative effects:",
+      "context_window": "CEMP Guideline . Regional summary of likely cumulative effects: Confidence Assessment: Evidence – High; Consensus – Medium",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change effects on marine birds",
+      "context_window": "Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "mechanisms, including the effects of climate-mediated water-column stratification on kittiwake",
+      "context_window": "• While most research has focused on SST-mediated changes, recent evidence has emerged of other mechanisms, including the effects of climate-mediated water-column stratification on kittiwake breeding success (Carroll et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term, extreme, weather events have an important effect.",
+      "context_window": "., (2020) concluded that, while the principal mechanism for climate-induced declines in seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect. How has the change happened? There is some evidence that the observed rate of change in the abundance of “true seabirds” since 2010",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "top three most important threats. In the OSPAR region specifically, climate change is identified as",
+      "context_window": "et al ., (2019) in a major global review of threats to seabirds, identified climate change in the top three most important threats. In the OSPAR region specifically, climate change is identified as important driver of change, for example in the United Kingdom (e.g. Pearce-Higgins et al",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change is also having a direct effect on marine birds that is evident through changes in the range and",
+      "context_window": "also played a part in some regions in the past and fisheries are currently competing with seabirds for sandeels in the Greater North Sea. Climate change is also having a direct effect on marine birds that is evident through changes in the range and distribution of some species. There has been a north-eastward shift in the wintering range of many wader",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., (2019) in a major global review of threats to seabirds, identified climate change in the",
+      "context_window": "Dias et al ., (2019) in a major global review of threats to seabirds, identified climate change in the top three most important threats. In the OSPAR region specifically, climate change is identified as important driver of change, for example in the United Kingdom (e.g. Pearce-Higgins",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "which the patterns shown by the QSR indicators are attributable to climate change impacts is not known.",
+      "context_window": "et al ., 2008) the degree to which the patterns shown by the QSR indicators are attributable to climate change impacts is not known.",
+      "page_number": 78,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Atlantic Environment Strategy:",
+      "context_window": "given that these pressures and the associated human activities are widespread in the North-East Atlantic. The exposure scores support the importance that OSPAR places on these pressures under the North-East Atlantic Environment Strategy: • Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and pollution remain serious threats",
+      "context_window": "The breeding success of the OSPAR listed sub-species of lesser black-backed gull has been exceptionally low in recent years at the breeding sites in northern Norway. Climate change and pollution remain serious threats and the pressure from predators at breeding colonies appears to be increasing. The status of black-legged kittiwake breeding populations is still declining in Arctic Waters and the Greater",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Did the foreseen change happen?",
+      "context_window": "status of marine birds in the OSPAR Maritime Area. Did the foreseen change happen? It is more likely than not that the change foreseen above did happen, though there is increasing evidence that loss of nests due to extreme weather might be playing an increasingly important part.",
+      "page_number": 76,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "northward shifts in the distribution of sandeels’ key copepod prey, caused by climate change",
+      "context_window": "et al ., 2018). There have been northward shifts in the distribution of sandeels’ key copepod prey, caused by climate change (Reygondeau and Beaugrand, 2011). As discussed in the ( Pelagic Habitats Thematic Assessment",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Our need to address climate change - a major cause of marine bird declines - has led to unintended additional",
+      "context_window": "The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional pressures on marine birds. Since the 2010 Quality Status Report there has been considerable expansion of",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "As well as climate-mediated changes in the abundance of seabird prey, there have also been",
+      "context_window": "., 2015). • As well as climate-mediated changes in the abundance of seabird prey, there have also been mismatches between the timing of the occurrence of seabird prey and periods of peak energy demand (e.g. chick-rearing) (Burthe",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whether they are working in terms of achieving the ambitions set out in the",
+      "context_window": "their implementation. This section aims to describe the progress made in implementing these measures and whether they are working in terms of achieving the ambitions set out in the North-East Atlantic Environment Strategy 2030 (NEAES 2030)",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recognising that any measures to reduce impacts whilst critical to ecosystem health could have",
+      "context_window": "OSPAR Commission • recognising that any measures to reduce impacts whilst critical to ecosystem health could have potential consequences for our ability to maintain ecosystem services to meet society’s needs, which in turn has consequences for the viability of human activities in the North-East Atlantic;",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, changes in food supply and",
+      "context_window": "both scenarios would to some degree impact both indicators, i.e., breeding abundance (B1) and breeding productivity (B3), albeit probably over different time-scales. For example, changes in food supply and accessibility might impact adult survival and therefore B1, but also impact food supply to chicks (B3). Similarly, reductions in nest survival impact directly on B3 but also, with increasing effect in later years, on",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of state changes on ecosystem services (right-hand side). However, there is currently insufficient",
+      "context_window": "Figure CE.1 shows the complex combinations of human and pressures on state changes (left-hand side) and of state changes on ecosystem services (right-hand side). However, there is currently insufficient understanding and evidence to be able to directly track from left to right, hence the single bar in the centre. This should be a focus of study to inform future assessments.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "I – Impact (on ecosystem services) 39 R – Response 45 Cumulative Effects",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is more likely than not that the change foreseen above did happen, though there is increasing evidence",
+      "context_window": "of marine birds in the OSPAR Maritime Area. Did the foreseen change happen? It is more likely than not that the change foreseen above did happen, though there is increasing evidence that loss of nests due to extreme weather might be playing an increasingly important part. It is not possible to distinguish with any certainty between these two scenarios by reference to changes in",
+      "page_number": 76,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on",
+      "context_window": "et al ., (2021) further conclude that there is also evidence for impacts of short- term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "temperatures (SST), with reduced breeding success one year later (Frederiksen",
+      "context_window": "breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface temperatures (SST), with reduced breeding success one year later (Frederiksen et al ., 2004, 2005,",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "These pressures have resulted in documented changes in marine ecosystems, see: Climate Change Thematic Assessment . The section below summarises the main impacts of climate change on marine birds.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "How has the change happened?",
+      "context_window": "seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect. How has the change happened? There is some evidence that the observed rate of change in the abundance of “true seabirds” since 2010 has not been as negative or severe as was predicted by models that forecast changes up to 2050.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential consequences for our ability to maintain ecosystem services to meet society’s needs,",
+      "context_window": "• recognising that any measures to reduce impacts whilst critical to ecosystem health could have potential consequences for our ability to maintain ecosystem services to meet society’s needs, which in turn has consequences for the viability of human activities in the North-East Atlantic; •",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proved unable to adjust their timing of breeding optimally in response to changing climate conditions",
+      "context_window": "B1 (fewer chicks are recruited into the breeding population). It should also be noted that marine birds have proved unable to adjust their timing of breeding optimally in response to changing climate conditions (Keogan et al",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g.,",
+      "context_window": "The predominant pressures on marine birds are prey depletion caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting; mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g., collisions with wind turbines); and disturbance caused by multiple activities. Other important pressures are",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 81,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Information is provided",
+      "context_window": ". The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region,",
+      "context_window": "importance varies greatly between species and OSPAR Regions, depending on the extent of the respective activities and the sensitivity of the species. Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region, including indirect effects on food supply and direct effects on bird physiology; given its importance the effects are detailed in a dedicated",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "It should be noted that there are likely to be biases in terms of the location of evidence for climate-change",
+      "context_window": "However, even if there had been a change between these two assessments, the degree to which it might have been attributable to climate change impacts would, of course, not be known. It should be noted that there are likely to be biases in terms of the location of evidence for climate-change effects in seabirds, particularly towards studies in the central North Sea (and in particular around the Isle of May in SE Scotland, where sandeels are the dominant prey). As the OSPAR Maritime Area is large and",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The section below summarises the main impacts of climate change on marine birds.",
+      "context_window": "Climate Change Thematic Assessment . The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "change due to their different ecological characteristics.",
+      "context_window": "Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics. Seabirds •",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": ". The pressures from climate change in the OSPAR region are exacerbated by the",
+      "context_window": "more detail: Climate Change . The pressures from climate change in the OSPAR region are exacerbated by the following additional pressures: Disturbance of species (e.g. where they breed, rest and feed) due to human presence",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "pressures on marine birds.",
+      "context_window": "exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional pressures on marine birds. Since the 2010 Quality Status Report there has been considerable expansion of renewable energy infrastructure, especially offshore wind farms, particularly in the Greater North Sea.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "To understand the effectiveness of a measure, there needs to be an understanding of whether the response",
+      "context_window": "It has, however, been difficult to objectively assess the level of implementation of many actions under the Recommendations, and not possible to evaluate whether or not these have been effective. To understand the effectiveness of a measure, there needs to be an understanding of whether the response reduces human activity or pressure, and whether this results in a positive change in the status of the feature in question.",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected climate change on seabird populations (i.e.",
+      "context_window": "et al ., (2021) provided the first assessment of the projected (from 2010 to 2050) impact of expected climate change on seabird populations (i.e. “true seabirds”) in the North-East Atlantic. 15 of the",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG), and OSPAR Commission",
+      "context_window": "(BDC), Intersessional Correspondence Group on the Quality Status Report (ICG-QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook (ICG-EcoC), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG), and OSPAR Commission Secretariat. Delivered by",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "adapt",
+      "context_window": "mitigate and adapt to the effects of climate change have resulted in:",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "North-East Atlantic Environment",
+      "context_window": "This section aims to describe the progress made in implementing these measures and whether they are working in terms of achieving the ambitions set out in the North-East Atlantic Environment Strategy 2030 (NEAES 2030) . It attempts to set OSPAR’s responses in the wider policy context and to examine",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences of change in the ecosystem, linking these to impacts on ecosystem services.",
+      "context_window": "weighting exercise, an indicative assessment of cumulative effects has been undertaken (see: CEMP Guideline for details) as a first step to describing the potential pathways of the cumulative causes and consequences of change in the ecosystem, linking these to impacts on ecosystem services. The Marine Birds Thematic Assessment describes the connectivity between the relevant DAPSIR components.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduces human activity or pressure, and whether this results in a positive change in the status of the feature",
+      "context_window": "under the Recommendations, and not possible to evaluate whether or not these have been effective. To understand the effectiveness of a measure, there needs to be an understanding of whether the response reduces human activity or pressure, and whether this results in a positive change in the status of the feature in question. One of the challenges to understanding these Recommendations is that each addresses many",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., (2022) summarised the main mechanisms for climate-change impacts on seabirds",
+      "context_window": "Hakkinen et al ., (2022) summarised the main mechanisms for climate-change impacts on seabirds in western Europe and ranked their importance according to questionnaire responses gathered from seabird conservation practitioners (",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "including indirect effects on food supply and direct effects on bird physiology; given its importance the effects are detailed in a dedicated Climate Change section. The main other pressures affecting marine birds, according to the main reporting sources, are direct",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "losses of nests due to changed weather",
+      "context_window": "\" Impacts on seabirds are likely to be more important through changes in their food supply than through losses of nests due to changed weather \". The section below provides some considerations relating to the QSR 2010 projections based on the current",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from seabird conservation practitioners (",
+      "context_window": "., (2022) summarised the main mechanisms for climate-change impacts on seabirds in western Europe and ranked their importance according to questionnaire responses gathered from seabird conservation practitioners ( Table CC.1 ).",
+      "page_number": 74,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "These pressures have resulted in documented changes in",
+      "context_window": "It leads to rising sea level and temperatures, changes in the amount of rainfall and reduced sea-ice coverage, among other effects. These pressures have resulted in documented changes in marine ecosystems, see: Climate Change Thematic Assessment",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "of work that will be drafted in consultation with the OSPAR / HELCOM / ICES Joint Working Group on Marine Birds and will help to build a coherent response. Climate change has been identified in this assessment as the main cause of the continuing declines in the status of marine birds in the North-East Atlantic.",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change may impact abundance, distribution and the timing of occurrence, particularly in",
+      "context_window": "particularly so for upland and more northern species. • Climate change may impact abundance, distribution and the timing of occurrence, particularly in migration and in wintering areas (Pavón-Jordán et al",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The pressure on marine birds from climate",
+      "context_window": "Climate change mitigation underlies all other responses, and without such action adaptation is likely to be ineffective. The pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. As part of its efforts to ensure sustainable use of the marine environment, OSPAR has",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to",
+      "context_window": "Pelagic Habitats Thematic Assessment , the indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to declining abundances of planktonic lifeforms, particularly small and large copepods, across the North-East Atlantic.",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "remit, mitigation underlies all other responses, and without such action adaptation is likely to be ineffective, see: Climate Change .",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., (2020) concluded that, while the principal mechanism for climate-induced declines in",
+      "context_window": "Mitchell et al ., (2020) concluded that, while the principal mechanism for climate-induced declines in seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the birds’ Arctic breeding grounds, climate change impacts on food supply",
+      "context_window": "contraction of the wintering range of Arctic-breeding species in response to milder winters further north resulting from climate change. In the birds’ Arctic breeding grounds, climate change impacts on food supply have reduced productivity and increased mortality from predation. Only a few benthic-feeding seaduck species, which feed on invertebrates - mainly molluscs in or on the",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts:",
+      "context_window": "identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \" Impacts on seabirds are likely to be more important through changes in their food supply than through",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change appears to continue",
+      "context_window": "The status of black-legged kittiwake breeding populations is still declining in Arctic Waters and the Greater North Sea and is also declining in the Celtic Seas and the Bay of Biscay. Climate change appears to continue to affect food supply in the Arctic, Greater North Sea and the Iberian coast, as well as in wintering areas partly outside the OSPAR Region.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the strongest evidence of long term impacts of climate change in seabirds comes from studies in which",
+      "context_window": "et al ., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature. This",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "seabird population size than climate-mediated prey availability.",
+      "context_window": "., (2021) further conclude that there is also evidence for impacts of short- term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "The synopsis of this 2023 report is that the pressure on marine birds from climate change is being",
+      "context_window": "OSPAR Commission change. The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change may affect waterbird populations while they are in their northern / Arctic breeding",
+      "context_window": "Waterbirds • Climate change may affect waterbird populations while they are in their northern / Arctic breeding grounds, on their migration stopovers and in their wintering grounds. Waterbirds that breed in temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts,",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "weather events).",
+      "context_window": "Arctic skua, which the authors predict will cease to breed there by 2050 (though the mechanism for this is likely to be direct physiological intolerance to heat rather than prey effects or nest loss due to extreme weather events). Steep declines of greater than 50% of abundance were predicted for fulmar, puffin, Arctic tern, little tern, Sandwich tern and storm-petrel, although the latter three species have results which are",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "Some of the best evidence of climate-induced changes to demographic rates (adult survival,",
+      "context_window": "., 2021). • Some of the best evidence of climate-induced changes to demographic rates (adult survival, breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts on seabirds are likely to be more important through changes in their food supply than through",
+      "context_window": "In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \" Impacts on seabirds are likely to be more important through changes in their food supply than through losses of nests due to changed weather \".",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "The relative ranking of pressures changes when impact is considered. Climate change, leading to prey depletion and habitat loss pressures, ranks highly (see the Climate Change Thematic Assessment for detail on contributing human activities).",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change has pervasive and fundamental implications for marine bird communities, including",
+      "context_window": "Assessment - Response - Gaps and Opportunities . Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "What has changed since the last Quality Status Report",
+      "context_window": "Projected rises in mean sea-level as a result of climate change are expected to impact the extent and quality of waterbird habitats. What has changed since the last Quality Status Report The Quality Status Report 2010",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The main mechanism for climate-change impacts on seabirds is change to their food supply and / or",
+      "context_window": "OSPAR Commission • The main mechanism for climate-change impacts on seabirds is change to their food supply and / or availability, though there is growing evidence that severe weather events also play an important role, for example in nest survival, but also in the survival of adults trying to forage during storms",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resulting from climate change.",
+      "context_window": "Celtic Seas and 40% in the North Sea. This regional difference is consistent with a north-eastward contraction of the wintering range of Arctic-breeding species in response to milder winters further north resulting from climate change. In the birds’ Arctic breeding grounds, climate change impacts on food supply have reduced productivity and increased mortality from predation.",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "activities and the sensitivity of the species.",
+      "context_window": "Their relative importance varies greatly between species and OSPAR Regions, depending on the extent of the respective activities and the sensitivity of the species. Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region, including indirect effects on food supply and direct effects on bird physiology; given its importance the effects",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Evidence – High; Consensus – Medium",
+      "context_window": "Regional summary of likely cumulative effects: Confidence Assessment: Evidence – High; Consensus – Medium While the weighted bow-tie analyses displayed in the Sankey diagrams have been produced at the North- East Atlantic scale, consideration can be given to where regional differences may arise by cross-referencing",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2017). The recruitment of sandeels is in turn influenced by climate-induced",
+      "context_window": "Eerkes-Medrano et al ., 2017). The recruitment of sandeels is in turn influenced by climate-induced changes in plankton abundance, distribution and timing (Wanless et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting;",
+      "context_window": "birds and associated ecosystem services. The predominant pressures on marine birds are prey depletion caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting; mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g., collisions with wind turbines); and disturbance caused by multiple activities.",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change",
+      "context_window": "• Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification; •",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "section based on analysis of \"Exposure\" (comprising spatial and temporal overlap) and \"Consequence\" (comprising pressure persistence, likely impact and ecosystem recovery potential), see: Cumulative Effects . Some differences in the relative rankings of individual pressures were highlighted, and a caveat inserted, in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and ocean acidification;",
+      "context_window": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification; • Strategic Objective 2 to prevent pollution by hazardous substances (and the work of the Hazardous",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Climate Change Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change effects on marine birds",
+      "context_window": "Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "term, extreme, weather events have an important effect.",
+      "context_window": "., (2020) concluded that, while the principal mechanism for climate-induced declines in seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect. How has the change happened? There is some evidence that the observed rate of change in the abundance of “true seabirds” since 2010",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change is also having a direct effect on marine birds that is evident through changes in the range and",
+      "context_window": "also played a part in some regions in the past and fisheries are currently competing with seabirds for sandeels in the Greater North Sea. Climate change is also having a direct effect on marine birds that is evident through changes in the range and distribution of some species. There has been a north-eastward shift in the wintering range of many wader",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "which the patterns shown by the QSR indicators are attributable to climate change impacts is not known.",
+      "context_window": "et al ., 2008) the degree to which the patterns shown by the QSR indicators are attributable to climate change impacts is not known.",
+      "page_number": 78,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and pollution remain serious threats",
+      "context_window": "The breeding success of the OSPAR listed sub-species of lesser black-backed gull has been exceptionally low in recent years at the breeding sites in northern Norway. Climate change and pollution remain serious threats and the pressure from predators at breeding colonies appears to be increasing. The status of black-legged kittiwake breeding populations is still declining in Arctic Waters and the Greater",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "northward shifts in the distribution of sandeels’ key copepod prey, caused by climate change",
+      "context_window": "et al ., 2018). There have been northward shifts in the distribution of sandeels’ key copepod prey, caused by climate change (Reygondeau and Beaugrand, 2011). As discussed in the ( Pelagic Habitats Thematic Assessment",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As well as climate-mediated changes in the abundance of seabird prey, there have also been",
+      "context_window": "., 2015). • As well as climate-mediated changes in the abundance of seabird prey, there have also been mismatches between the timing of the occurrence of seabird prey and periods of peak energy demand (e.g. chick-rearing) (Burthe",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recognising that any measures to reduce impacts whilst critical to ecosystem health could have",
+      "context_window": "OSPAR Commission • recognising that any measures to reduce impacts whilst critical to ecosystem health could have potential consequences for our ability to maintain ecosystem services to meet society’s needs, which in turn has consequences for the viability of human activities in the North-East Atlantic;",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of state changes on ecosystem services (right-hand side). However, there is currently insufficient",
+      "context_window": "Figure CE.1 shows the complex combinations of human and pressures on state changes (left-hand side) and of state changes on ecosystem services (right-hand side). However, there is currently insufficient understanding and evidence to be able to directly track from left to right, hence the single bar in the centre. This should be a focus of study to inform future assessments.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is more likely than not that the change foreseen above did happen, though there is increasing evidence",
+      "context_window": "of marine birds in the OSPAR Maritime Area. Did the foreseen change happen? It is more likely than not that the change foreseen above did happen, though there is increasing evidence that loss of nests due to extreme weather might be playing an increasingly important part. It is not possible to distinguish with any certainty between these two scenarios by reference to changes in",
+      "page_number": 76,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "temperatures (SST), with reduced breeding success one year later (Frederiksen",
+      "context_window": "breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface temperatures (SST), with reduced breeding success one year later (Frederiksen et al ., 2004, 2005,",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "How has the change happened?",
+      "context_window": "seabird abundance in the United Kingdom is reductions in food supply, there is growing evidence that short term, extreme, weather events have an important effect. How has the change happened? There is some evidence that the observed rate of change in the abundance of “true seabirds” since 2010 has not been as negative or severe as was predicted by models that forecast changes up to 2050.",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proved unable to adjust their timing of breeding optimally in response to changing climate conditions",
+      "context_window": "B1 (fewer chicks are recruited into the breeding population). It should also be noted that marine birds have proved unable to adjust their timing of breeding optimally in response to changing climate conditions (Keogan et al",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 81,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region,",
+      "context_window": "importance varies greatly between species and OSPAR Regions, depending on the extent of the respective activities and the sensitivity of the species. Climate change has pervasive and fundamental implications for marine birds throughout the OSPAR region, including indirect effects on food supply and direct effects on bird physiology; given its importance the effects are detailed in a dedicated",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The section below summarises the main impacts of climate change on marine birds.",
+      "context_window": "Climate Change Thematic Assessment . The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": ". The pressures from climate change in the OSPAR region are exacerbated by the",
+      "context_window": "more detail: Climate Change . The pressures from climate change in the OSPAR region are exacerbated by the following additional pressures: Disturbance of species (e.g. where they breed, rest and feed) due to human presence",
+      "page_number": 18,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "To understand the effectiveness of a measure, there needs to be an understanding of whether the response",
+      "context_window": "It has, however, been difficult to objectively assess the level of implementation of many actions under the Recommendations, and not possible to evaluate whether or not these have been effective. To understand the effectiveness of a measure, there needs to be an understanding of whether the response reduces human activity or pressure, and whether this results in a positive change in the status of the feature in question.",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG), and OSPAR Commission",
+      "context_window": "(BDC), Intersessional Correspondence Group on the Quality Status Report (ICG-QSR), Intersessional Correspondence Group on Ecosystem Assessment Outlook (ICG-EcoC), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG), and OSPAR Commission Secretariat. Delivered by",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "North-East Atlantic Environment",
+      "context_window": "This section aims to describe the progress made in implementing these measures and whether they are working in terms of achieving the ambitions set out in the North-East Atlantic Environment Strategy 2030 (NEAES 2030) . It attempts to set OSPAR’s responses in the wider policy context and to examine",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduces human activity or pressure, and whether this results in a positive change in the status of the feature",
+      "context_window": "under the Recommendations, and not possible to evaluate whether or not these have been effective. To understand the effectiveness of a measure, there needs to be an understanding of whether the response reduces human activity or pressure, and whether this results in a positive change in the status of the feature in question. One of the challenges to understanding these Recommendations is that each addresses many",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "including indirect effects on food supply and direct effects on bird physiology; given its importance the effects are detailed in a dedicated Climate Change section. The main other pressures affecting marine birds, according to the main reporting sources, are direct",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "from seabird conservation practitioners (",
+      "context_window": "., (2022) summarised the main mechanisms for climate-change impacts on seabirds in western Europe and ranked their importance according to questionnaire responses gathered from seabird conservation practitioners ( Table CC.1 ).",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "losses of nests due to changed weather",
+      "context_window": "\" Impacts on seabirds are likely to be more important through changes in their food supply than through losses of nests due to changed weather \". The section below provides some considerations relating to the QSR 2010 projections based on the current",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., (2022) summarised the main mechanisms for climate-change impacts on seabirds",
+      "context_window": "Hakkinen et al ., (2022) summarised the main mechanisms for climate-change impacts on seabirds in western Europe and ranked their importance according to questionnaire responses gathered from seabird conservation practitioners (",
+      "page_number": 74,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences of change in the ecosystem, linking these to impacts on ecosystem services.",
+      "context_window": "weighting exercise, an indicative assessment of cumulative effects has been undertaken (see: CEMP Guideline for details) as a first step to describing the potential pathways of the cumulative causes and consequences of change in the ecosystem, linking these to impacts on ecosystem services. The Marine Birds Thematic Assessment describes the connectivity between the relevant DAPSIR components.",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "adapt",
+      "context_window": "mitigate and adapt to the effects of climate change have resulted in:",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "expected climate change on seabird populations (i.e.",
+      "context_window": "et al ., (2021) provided the first assessment of the projected (from 2010 to 2050) impact of expected climate change on seabird populations (i.e. “true seabirds”) in the North-East Atlantic. 15 of the",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "pressures on marine birds.",
+      "context_window": "exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional pressures on marine birds. Since the 2010 Quality Status Report there has been considerable expansion of renewable energy infrastructure, especially offshore wind farms, particularly in the Greater North Sea.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change due to their different ecological characteristics.",
+      "context_window": "Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics. Seabirds •",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "It should be noted that there are likely to be biases in terms of the location of evidence for climate-change",
+      "context_window": "However, even if there had been a change between these two assessments, the degree to which it might have been attributable to climate change impacts would, of course, not be known. It should be noted that there are likely to be biases in terms of the location of evidence for climate-change effects in seabirds, particularly towards studies in the central North Sea (and in particular around the Isle of May in SE Scotland, where sandeels are the dominant prey). As the OSPAR Maritime Area is large and",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Information is provided",
+      "context_window": ". The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g.,",
+      "context_window": "The predominant pressures on marine birds are prey depletion caused by prevailing environmental conditions (e.g., climate change), fishing and shellfish harvesting; mortality from fishing (incidental by-catch) and climate change (e.g., storm ‘wrecks’) and other activities (e.g., collisions with wind turbines); and disturbance caused by multiple activities. Other important pressures are",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "potential consequences for our ability to maintain ecosystem services to meet society’s needs,",
+      "context_window": "• recognising that any measures to reduce impacts whilst critical to ecosystem health could have potential consequences for our ability to maintain ecosystem services to meet society’s needs, which in turn has consequences for the viability of human activities in the North-East Atlantic; •",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "These pressures have resulted in documented changes in marine ecosystems, see: Climate Change Thematic Assessment . The section below summarises the main impacts of climate change on marine birds.",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on",
+      "context_window": "et al ., (2021) further conclude that there is also evidence for impacts of short- term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "I – Impact (on ecosystem services) 39 R – Response 45 Cumulative Effects",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, changes in food supply and",
+      "context_window": "both scenarios would to some degree impact both indicators, i.e., breeding abundance (B1) and breeding productivity (B3), albeit probably over different time-scales. For example, changes in food supply and accessibility might impact adult survival and therefore B1, but also impact food supply to chicks (B3). Similarly, reductions in nest survival impact directly on B3 but also, with increasing effect in later years, on",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whether they are working in terms of achieving the ambitions set out in the",
+      "context_window": "their implementation. This section aims to describe the progress made in implementing these measures and whether they are working in terms of achieving the ambitions set out in the North-East Atlantic Environment Strategy 2030 (NEAES 2030)",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our need to address climate change - a major cause of marine bird declines - has led to unintended additional",
+      "context_window": "The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance. Our need to address climate change - a major cause of marine bird declines - has led to unintended additional pressures on marine birds. Since the 2010 Quality Status Report there has been considerable expansion of",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Did the foreseen change happen?",
+      "context_window": "status of marine birds in the OSPAR Maritime Area. Did the foreseen change happen? It is more likely than not that the change foreseen above did happen, though there is increasing evidence that loss of nests due to extreme weather might be playing an increasingly important part.",
+      "page_number": 76,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "Atlantic Environment Strategy:",
+      "context_window": "given that these pressures and the associated human activities are widespread in the North-East Atlantic. The exposure scores support the importance that OSPAR places on these pressures under the North-East Atlantic Environment Strategy: • Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "., (2019) in a major global review of threats to seabirds, identified climate change in the",
+      "context_window": "Dias et al ., (2019) in a major global review of threats to seabirds, identified climate change in the top three most important threats. In the OSPAR region specifically, climate change is identified as important driver of change, for example in the United Kingdom (e.g. Pearce-Higgins",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "top three most important threats. In the OSPAR region specifically, climate change is identified as",
+      "context_window": "et al ., (2019) in a major global review of threats to seabirds, identified climate change in the top three most important threats. In the OSPAR region specifically, climate change is identified as important driver of change, for example in the United Kingdom (e.g. Pearce-Higgins et al",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "mechanisms, including the effects of climate-mediated water-column stratification on kittiwake",
+      "context_window": "• While most research has focused on SST-mediated changes, recent evidence has emerged of other mechanisms, including the effects of climate-mediated water-column stratification on kittiwake breeding success (Carroll et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regional summary of likely cumulative effects:",
+      "context_window": "CEMP Guideline . Regional summary of likely cumulative effects: Confidence Assessment: Evidence – High; Consensus – Medium",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change.",
+      "context_window": "4 of 80 OSPAR Commission change. The synopsis of this 2023 report is that the pressure on marine birds from climate change is being exacerbated by additional pressures from direct mortality, habitat loss / degradation and disturbance.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes in the suitability of breeding locations, breeding success and prey availability, with major",
+      "context_window": ". Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s 66 of 80",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Pressures from",
+      "context_window": "Confidence Assessment: Evidence – Medium; Consensus – Medium Pressures from human activities have been demonstrated in the assessments for this QSR to be widely",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects from human activities on ecosystem state and ecosystem services is critical in order to explicitly apply",
+      "context_window": "ecosystem services. A better understanding of this complexity in the causes and consequences of cumulative effects from human activities on ecosystem state and ecosystem services is critical in order to explicitly apply the ecosystem approach so as to target management measures appropriately. The evidence underpinning the analyses described in this section is drawn from the Driver, Activity, Pressure,",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the",
+      "context_window": "OSPAR Commission every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant”.",
+      "page_number": 55,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate",
+      "context_window": "Atlantic Environment Strategy: • Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification;",
+      "page_number": 70,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "changes in plankton abundance, distribution and timing (Wanless",
+      "context_window": "et al ., 2017). The recruitment of sandeels is in turn influenced by climate-induced changes in plankton abundance, distribution and timing (Wanless et al ., 2018). There have been",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Shifts in distribution, mediated by temperature changes, have been seen within the OSPAR",
+      "context_window": "., 2019). • Shifts in distribution, mediated by temperature changes, have been seen within the OSPAR Maritime Area and more generally within Europe, with waders and wildfowl species during the winter increasingly concentrated in north-eastern areas with, for example, fewer reaching south-",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they also identify that if such",
+      "context_window": "term extreme weather events (e.g., on nest survival) but that to date this has been less impactful on seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may become more important.",
+      "page_number": 77,
+      "keyword_hits": {
+        "extreme weather": 1
+      }
+    },
+    {
+      "core_sentence": "events become more frequent – as has been proposed in many climatic forecasts – then such impacts may",
+      "context_window": "seabird population size than climate-mediated prey availability. However, they also identify that if such events become more frequent – as has been proposed in many climatic forecasts – then such impacts may become more important. Mitchell",
+      "page_number": 77,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "More recent evidence suggests that other seabird species’ food supply is also affected by climate-",
+      "context_window": "North-East Atlantic. • More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST)",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "implications for management. While the focus for responses to climate change lies outside of OSPAR’s",
+      "context_window": "Climate change has pervasive and fundamental implications for marine bird communities, including changes in the suitability of breeding locations, breeding success and prey availability, with major implications for management. While the focus for responses to climate change lies outside of OSPAR’s 66 of 80 OSPAR Commission",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "suggest that climate change is driving at least some of the observed declines in their prey.",
+      "context_window": "this varies with region. Links between seabird breeding productivity and increasing sea temperatures strongly suggest that climate change is driving at least some of the observed declines in their prey. Over-fishing has also played a part in some regions in the past and fisheries are currently competing with seabirds for sandeels",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "impacts are mediated through changes in prey associated with changes in sea surface temperature.",
+      "context_window": "., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature. This has been demonstrated in systems where the predominant prey is sandeels. (Frederiksen",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts,",
+      "context_window": "Climate change may affect waterbird populations while they are in their northern / Arctic breeding grounds, on their migration stopovers and in their wintering grounds. Waterbirds that breed in temperate parts of the OSPAR Maritime Area may also be subject to climate-change impacts, particularly so for upland and more northern species. •",
+      "page_number": 75,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Projected rises in mean sea-level as a result of climate change are expected to impact the extent",
+      "context_window": "northern breeding grounds. • Projected rises in mean sea-level as a result of climate change are expected to impact the extent and quality of waterbird habitats. What has changed since the last Quality Status Report",
+      "page_number": 76,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate",
+      "context_window": "The section below summarises the main impacts of climate change on marine birds. Information is provided separately for seabirds and waterbirds, as these two groups are likely to be differentially affected by climate change due to their different ecological characteristics. Seabirds",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "range in the Bay of Biscay and Celtic Seas appears consistent with climate change predictions.",
+      "context_window": "Food webs Thematic Assessment – Response Section – Case study ). A northward contraction in breeding range in the Bay of Biscay and Celtic Seas appears consistent with climate change predictions. The breeding populations of the thick-billed murre (Brünnich‘s guillemot) in Svalbard, East Greenland and northern Norway are currently declining.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "Quality Status Report 2010 identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts: \"",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the",
+      "context_window": "Climate Change Climate change effects on marine birds A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it. It leads to rising sea level and temperatures, changes in the amount of rainfall and",
+      "page_number": 74,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "declining abundances of planktonic lifeforms, particularly small and large copepods, across the",
+      "context_window": ", the indicator results for QSR 2023 reveal that increasing sea surface temperatures are linked to declining abundances of planktonic lifeforms, particularly small and large copepods, across the North-East Atlantic. •",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change and its indirect effects, such as oceanographic shifts",
+      "context_window": "The breeding populations of the thick-billed murre (Brünnich‘s guillemot) in Svalbard, East Greenland and northern Norway are currently declining. Climate change and its indirect effects, such as oceanographic shifts in the wintering grounds resulting in reduced food supplies, are believed to be driving this negative trend. Further threats in some areas include hunting, disturbance by predators, as well as chemical and oil pollution.",
+      "page_number": 37,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that",
+      "context_window": "Johnston et al ., (2021), in a review of climate-change impacts on seabirds in the Celtic Sea, concluded that the strongest evidence of long term impacts of climate change in seabirds comes from studies in which impacts are mediated through changes in prey associated with changes in sea surface temperature.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change mitigation underlies all other responses,",
+      "context_window": "has been identified in this assessment as the main cause of the continuing declines in the status of marine birds in the North-East Atlantic. Climate change mitigation underlies all other responses, and without such action adaptation is likely to be ineffective. The pressure on marine birds from climate",
+      "page_number": 9,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "identified climate-change impacts as an increasing pressure on marine",
+      "context_window": "The Quality Status Report 2010 identified climate-change impacts as an increasing pressure on marine ecosystems. In relation to seabirds, the QSR 2010 made the following projection for climate-change impacts:",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "has declined over the last three decades, linked to changes in Sea Surface Temperature (SST)",
+      "context_window": "More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST) (Howells et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland",
+      "context_window": "• More recent evidence suggests that other seabird species’ food supply is also affected by climate- change impacts; the proportion of sandeels in the diet of seabirds in a colony in South East Scotland has declined over the last three decades, linked to changes in Sea Surface Temperature (SST) (Howells",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "show that its over-winter survival is lower following winters with increased sea-surface",
+      "context_window": "Some of the best evidence of climate-induced changes to demographic rates (adult survival, breeding success) of seabirds comes from the black-legged kittiwake, a surface-feeder. Studies show that its over-winter survival is lower following winters with increased sea-surface temperatures (SST), with reduced breeding success one year later (Frederiksen et al",
+      "page_number": 75,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It leads to rising sea level and temperatures, changes in the amount of rainfall and",
+      "context_window": "A changing climate acts as a pressure on the marine ecosystem (including the OSPAR Maritime Area) and the human activities within it. It leads to rising sea level and temperatures, changes in the amount of rainfall and reduced sea-ice coverage, among other effects. These pressures have resulted in documented changes in",
+      "page_number": 74,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 4,
+    "keyword_counts": {
+      "climate change": 73,
+      "ocean acidification": 5,
+      "warming": 1,
+      "extreme weather": 5
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Impacts on ecosystem services: key messages",
+      "start_sentence": 2001,
+      "end_sentence": 2002,
+      "sentence_count": 2,
+      "page_range": "40-40",
+      "sentences": [
+        {
+          "sentence_id": 2001,
+          "page_number": 40,
+          "content": "Impacts on ecosystem services: key messages",
+          "full_length": 43
+        },
+        {
+          "sentence_id": 2002,
+          "page_number": 40,
+          "content": "The schematic in",
+          "full_length": 16
+        }
+      ],
+      "total_sentences_in_section": 2
+    },
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 91,
+      "end_sentence": 115,
+      "sentence_count": 25,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "Marine birds in the OSPAR Maritime Area are not in good status. Widespread declines in breeding",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "productivity and population abundance have been observed in all OSPAR Regions assessed. Most marine",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "birds were already not in good status in 2010 but additional deterioration has been observed for man...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 3,
+          "content": "species in the current assessment.",
+          "full_length": 34
+        }
+      ],
+      "total_sentences_in_section": 25
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 801,
+      "end_sentence": 822,
+      "sentence_count": 22,
+      "page_range": "15-15",
+      "sentences": [
+        {
+          "sentence_id": 801,
+          "page_number": 15,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 802,
+          "page_number": 15,
+          "content": "Danil, K. and St Leger, J.A.",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 803,
+          "page_number": 15,
+          "content": "(2011).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 804,
+          "page_number": 15,
+          "content": "Seabird and dolphin mortality associated with underwater detonation",
+          "full_length": 67
+        },
+        {
+          "sentence_id": 805,
+          "page_number": 15,
+          "content": "exercises. Marine Technology Society Journal, 45(6), pp.89-95",
+          "full_length": 61
+        }
+      ],
+      "total_sentences_in_section": 22
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1215,
+      "end_sentence": 1534,
+      "sentence_count": 320,
+      "page_range": "22-25",
+      "sentences": [
+        {
+          "sentence_id": 1215,
+          "page_number": 22,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1216,
+          "page_number": 22,
+          "content": "Anderson, O.R.J., Small, C.J., Croxall, J.P., Dunn, E.K., Sullivan, B.J., Yates, O. and Black, A.",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1217,
+          "page_number": 22,
+          "content": "(2011).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 1218,
+          "page_number": 22,
+          "content": "Global",
+          "full_length": 6
+        },
+        {
+          "sentence_id": 1219,
+          "page_number": 22,
+          "content": "seabird bycatch in longline fisheries. Endangered Species Research 14: 91–106.",
+          "full_length": 78
+        }
+      ],
+      "total_sentences_in_section": 320
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2236,
+      "end_sentence": 2355,
+      "sentence_count": 120,
+      "page_range": "44-45",
+      "sentences": [
+        {
+          "sentence_id": 2236,
+          "page_number": 44,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2237,
+          "page_number": 44,
+          "content": "Aquaculture Advisory Council (2022).",
+          "full_length": 36
+        },
+        {
+          "sentence_id": 2238,
+          "page_number": 44,
+          "content": "Recommendation on the predation by birds in relation with shellfish",
+          "full_length": 67
+        },
+        {
+          "sentence_id": 2239,
+          "page_number": 44,
+          "content": "farming.",
+          "full_length": 8
+        },
+        {
+          "sentence_id": 2240,
+          "page_number": 44,
+          "content": "AAC",
+          "full_length": 3
+        }
+      ],
+      "total_sentences_in_section": 120
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3502,
+      "end_sentence": 3593,
+      "sentence_count": 92,
+      "page_range": "66-66",
+      "sentences": [
+        {
+          "sentence_id": 3502,
+          "page_number": 66,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3503,
+          "page_number": 66,
+          "content": "Addamo, A. M., Laroche, P. and Hanke, G. (2017).",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 3504,
+          "page_number": 66,
+          "content": "Top Marine Beach Litter Items in Europe",
+          "full_length": 39
+        },
+        {
+          "sentence_id": 3505,
+          "page_number": 66,
+          "content": ", EUR 29249 EN.",
+          "full_length": 15
+        },
+        {
+          "sentence_id": 3506,
+          "page_number": 66,
+          "content": "Joint Research Centre. Luxembourg: Publications Office of the European Union. Available at:",
+          "full_length": 91
+        }
+      ],
+      "total_sentences_in_section": 92
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 4045,
+      "end_sentence": 4081,
+      "sentence_count": 37,
+      "page_range": "73-74",
+      "sentences": [
+        {
+          "sentence_id": 4045,
+          "page_number": 73,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4046,
+          "page_number": 73,
+          "content": "Cormier, R., Elliott, M. and Rice, J.",
+          "full_length": 37
+        },
+        {
+          "sentence_id": 4047,
+          "page_number": 73,
+          "content": "(2019).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 4048,
+          "page_number": 73,
+          "content": "Putting on a Bow-tie to sort out who does what and why in the",
+          "full_length": 61
+        },
+        {
+          "sentence_id": 4049,
+          "page_number": 73,
+          "content": "complex arena of marine policy and management.",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 37
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 4366,
+      "end_sentence": 4535,
+      "sentence_count": 170,
+      "page_range": "78-80",
+      "sentences": [
+        {
+          "sentence_id": 4366,
+          "page_number": 78,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4367,
+          "page_number": 78,
+          "content": "Austin, G.E.",
+          "full_length": 12
+        },
+        {
+          "sentence_id": 4368,
+          "page_number": 78,
+          "content": "and Rehfisch, M.M.",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 4369,
+          "page_number": 78,
+          "content": "(2005).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 4370,
+          "page_number": 78,
+          "content": "Shifting nonbreeding distributions of migratory fauna in relation to",
+          "full_length": 68
+        }
+      ],
+      "total_sentences_in_section": 170
+    }
+  ],
+  "metadata": {
+    "total_sentences": 4556,
+    "chunks_selected": 105,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Impacts on ecosystem services: key messages",
+        "start_sentence": 2001,
+        "end_sentence": 2002,
+        "sentence_count": 2
+      },
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 91,
+        "end_sentence": 115,
+        "sentence_count": 25
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 801,
+        "end_sentence": 822,
+        "sentence_count": 22
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1215,
+        "end_sentence": 1534,
+        "sentence_count": 320
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2236,
+        "end_sentence": 2355,
+        "sentence_count": 120
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3502,
+        "end_sentence": 3593,
+        "sentence_count": 92
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 4045,
+        "end_sentence": 4081,
+        "sentence_count": 37
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 4366,
+        "end_sentence": 4535,
+        "sentence_count": 170
+      }
+    ],
+    "total_excluded_sentences": 788
+  }
+}

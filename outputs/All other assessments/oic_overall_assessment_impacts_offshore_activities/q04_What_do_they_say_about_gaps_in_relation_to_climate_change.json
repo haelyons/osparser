@@ -1,0 +1,1453 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "ecosystem level exist.",
+      "context_window": "OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or ecosystem level exist. It should only be seen as an indication that there is a lack of evidence and that further investigations are needed to establish whether such relationships exist.",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Linking the estimated risk levels calculated through RBA to possible impacts in the receiving",
+      "context_window": "5.2 What measures are still challenging? • Linking the estimated risk levels calculated through RBA to possible impacts in the receiving environment is a step that has not yet been addressed. •",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prevention and update as appropriate in the context of [additional pressures from] climate",
+      "context_window": "Task: Undertake a review of OSPAR measures and actions relevant to OIC on pollution prevention and update as appropriate in the context of [additional pressures from] climate change and ocean acidification. Carbon dioxide storage",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Undertake a review of OSPAR measures and actions relevant to OIC on pollution prevention and update as appropriate in the context of [additional pressures from] climate change and ocean acidification. Carbon dioxide storage S12.03:",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "context_window": "dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not",
+      "context_window": "The main purpose is however to have risk management tools to identify the right measures for site specific risk reductions. Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information on the actual impacts on marine biota, but the Recommendation includes a step of performing",
+      "context_window": "investigations of possible biological impacts on marine biota. The risk assessment step will not in itself provide information on the actual impacts on marine biota, but the Recommendation includes a step of performing environmental monitoring in order to detect changes in the receiving environment and to verify the impact hypothesis.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon",
+      "context_window": "Carbon dioxide storage S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of",
+      "context_window": "Climate change S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the development of national and international actions.",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the",
+      "context_window": "S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the development of national and international actions. Task:",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information",
+      "context_window": "S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage impacts.",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon",
+      "context_window": "storage site which may have negative effects on the receptors in the marine environment if CO 2 leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate",
+      "context_window": "S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "There are two large scale CO",
+      "context_window": "2 storage projects has been identified. There are two large scale CO 2 storage projects currently operating in the OSPAR Maritime Area",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on human activities, pressures, sensitive receptors and habitats, and use the results to inform the",
+      "context_window": "By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage impacts. Task",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in methane and SO",
+      "context_window": "While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly in methane and SO 2 emissions. Over the 2009 – 2019 period:",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1 What measures have been effective?",
+      "context_window": "environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective? The following measures can be seen as effective, based on the progress and improvements: •",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The need to improve the reporting to OSPAR on environmental monitoring from CO",
+      "context_window": "number of full-scale projects so far, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. The need to improve the reporting to OSPAR on environmental monitoring from CO 2 storage projects",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment is a step that has not yet been addressed.",
+      "context_window": "• Linking the estimated risk levels calculated through RBA to possible impacts in the receiving environment is a step that has not yet been addressed. • Whilst progress has been made in reducing the use and discharge of chemicals identified as",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on environmental monitoring from CO",
+      "context_window": "leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO 2 storage projects has been identified.",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Contracting Parties. Since 2009 there has been a significant change in the way atmospheric emissions",
+      "context_window": "OSPAR does not specifically regulate atmospheric emissions from the oil and gas industry. However, there are a number of relevant EU Directives and international conventions which apply to OSPAR Contracting Parties. Since 2009 there has been a significant change in the way atmospheric emissions are managed with ongoing strengthening of the European Union Emissions Trading Scheme (EU-ETS), Industrial Emissions Directive (2010/75), Medium Combustion Plant Directive (2015/2193) and Sulphur",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.10 Carbon dioxide storage",
+      "context_window": "4. Mitigation and monitoring (19 projects) 5. Technology development (4 projects). 2.10 Carbon dioxide storage In order to allow the storage of CO 2",
+      "page_number": 28,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Historical monitoring has demonstrated that the impacts",
+      "context_window": "Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts of the placement of structures on the seabed. Historical monitoring has demonstrated that the impacts are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "difficult to compare risk levels.",
+      "context_window": "The RBA work will continue, and further development and refinement of the methods used will be made. Since the OSPAR Recommendation 2012/5 allows for different approaches and methods it is difficult to compare risk levels. The main purpose is however to have risk management tools to identify the right measures for site specific risk reductions.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental monitoring in order to detect changes in the receiving environment and to verify the impact",
+      "context_window": "The risk assessment step will not in itself provide information on the actual impacts on marine biota, but the Recommendation includes a step of performing environmental monitoring in order to detect changes in the receiving environment and to verify the impact hypothesis. The first step in the RBA calculation can be done either by using simple dilution factors or by 3-dimensional",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "no such causal relationships between impacts at organism level and impacts at population or",
+      "context_window": "exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or ecosystem level exist. It should only be seen as an indication that there is a lack of evidence and that",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a next stage to RBA, a task has been identified to assess the environmental risk",
+      "context_window": "Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk posed by the discharge of naturally occurring substances and added substances in order to identify and adopt measures to reduce the risk to the environment from discharges of PW.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An explanation could be that some fish species",
+      "context_window": "of PAH and biomarkers of exposure have not been identified consistently in wild fish, whether caught outside, or in, production field areas in the North Sea. An explanation could be that some fish species actively avoid plumes containing elevated levels of PAHs, which makes it difficult to assess the impact on wild fish population from observations made on caged fish. The typical modest responses on the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime",
+      "context_window": "accumulation and scouring of sediment and the appearance of pans is dependent on local and pipeline specific conditions. Designated protected areas, particularly those containing habitats such as sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Figure 2:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential impacts.",
+      "context_window": "industry, the oil and gas industry has made measurable progress and improvements in reducing the environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective? The following measures can be seen as effective, based on the progress and improvements:",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to",
+      "context_window": "are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy/muddy areas. Pipelines, platform legs and subsea templates may act as shelter for fish and other mobile marine organisms, and provide a habitat for benthic organisms usually",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained",
+      "context_window": "Task: Review the monitoring of carbon dioxide stored in geological formations to help evaluate the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained permanently in geological formations. Assessment of the impacts of the offshore oil and gas industry on the marine environment",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "previously absent benthic species.",
+      "context_window": "equilibrium is achieved depending on the new local conditions. During the re-establishment of the area, it is also possible that specific diversity will increase due to the colonisation of hard structures by previously absent benthic species. Due to differences in bottom topography, geology, water mass movement and other environmental factors such as sensitive benthic species and habitats (particularly cold water corals and sponges), the",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.2.10 Carbon dioxide storage",
+      "context_window": "injure or even kill marine life. Documented effects on marine life vary greatly from very subtle behavioural changes, avoidance reaction, hearing loss, injury and death in extreme cases. 1.2.10 Carbon dioxide storage Storage of carbon dioxide (CO 2",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "out has not been achieved. Recognising that more needs to be done to reduce discharges of",
+      "context_window": "Whilst progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, phase- out has not been achieved. Recognising that more needs to be done to reduce discharges of substitution chemicals a new deadline to phase out by 1 January 2026 has been agreed. •",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the",
+      "context_window": "seen at biomarker level. However, the causality between the biomarkers and toxic effects and impact at organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While atmospheric emissions are not covered by OSPAR measures there have been overall reductions",
+      "context_window": "Chemical spills 3.5 Atmospheric emissions While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly in methane and SO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas which have been adversely affected.",
+      "context_window": "51 to safeguard human health and to conserve marine ecosystems and, when practicable, restore marine areas which have been adversely affected. The North-East Atlantic Environment Strategy 2030 adopted at the OSPAR Ministerial meeting in Cascais on 1 October 2021 set-out the following Operational Objectives that are relevant for OIC:",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to allow the storage of CO",
+      "context_window": "5. Technology development (4 projects). 2.10 Carbon dioxide storage In order to allow the storage of CO 2 in geological formations, Contracting Parties to the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "the benthic ecosystem (though not necessarily significant). The following text is extracted from the",
+      "context_window": "platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the report: The majority of stations scored relatively high and above 90.",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "commitments it is expected that emissions from offshore installations will continue to fall.",
+      "context_window": "United Kingdom it is 35,5% and 3,4% respectively. As national and EU legislation is introduced to address local, regional and international Net Zero commitments it is expected that emissions from offshore installations will continue to fall. 17 National CO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR",
+      "context_window": "2 leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO 2",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "carrying out effective, coordinated environmental monitoring to evaluate any regional effects",
+      "context_window": "Task : Develop a monitoring programme for offshore activities, with a view to Contracting Parties carrying out effective, coordinated environmental monitoring to evaluate any regional effects by 2028, including effects on ecosystems. Noise",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in geological formations, Contracting Parties to the OSPAR",
+      "context_window": "In order to allow the storage of CO 2 in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to the Annexes to the OSPAR Convention in 2007. In order to ensure environmentally safe storage of CO",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental impact. However, there are areas where it may be possible to further reduce the",
+      "context_window": "Since QSR 2010 and because of implementation of OSPAR measures by Contracting Parties and industry, the oil and gas industry has made measurable progress and improvements in reducing the environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective?",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What do we do next?",
+      "context_window": "Decision 2007/2 has not yet been undertaken. 5. What do we do next? Since QSR 2010 and because of implementation of OSPAR measures by Contracting Parties and industry, the oil and gas industry has made measurable progress and improvements in reducing the",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts",
+      "context_window": "43 4.1.2 Physical impacts on the seabed Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts of the placement of structures on the seabed. Historical monitoring has demonstrated that the impacts",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions by the offshore oil and gas industry as a proportion of Contracting",
+      "context_window": "The contribution to CO 2 emissions by the offshore oil and gas industry as a proportion of Contracting Parties national emissions varies depending on the size of the oil and gas industry in the Contracting Party",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with",
+      "context_window": "Assessment of the impacts of the offshore oil and gas industry on the marine environment 28 the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with OSPAR Guidelines for Risk Assessment and Management of Storage of CO 2",
+      "page_number": 29,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "unclear, but could be due to an increase in phytoplankton growth caused by fertilisation (with e.g.",
+      "context_window": ") were found to be compensating for the stress, maintaining reproductive development such as spawning status. The mechanism for compensation is unclear, but could be due to an increase in phytoplankton growth caused by fertilisation (with e.g. ammonia in PW) or a toxicity-related reduction in planktonic grazing pressure, both leading to increased food availability to mussels.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "timescales.",
+      "context_window": "Historical monitoring has demonstrated that the impacts are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy/muddy areas. Pipelines, platform legs and subsea templates may act as",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PW in the marine environment, the results can be used as a tool to target the different investigations",
+      "context_window": "aim of finding appropriate measures to reduce the risk to levels, where the calculations show it is adequately controlled. While RBA cannot be used as basis for an assessment of the actual impact of PW in the marine environment, the results can be used as a tool to target the different investigations of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3.5 Atmospheric emissions",
+      "context_window": "Figure 14: Chemical spills 3.5 Atmospheric emissions While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In relation to progress against the North-East Atlantic Environment Strategy 2010 – 2020 thematic",
+      "context_window": "of the OSPAR Maritime Area as a whole, particularly in areas of Region II where there are high levels of oil and gas activity. In relation to progress against the North-East Atlantic Environment Strategy 2010 – 2020 thematic objectives: •",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental monitoring",
+      "context_window": "microplastics, contained in offshore chemicals and, where necessary, develop measures to control or phase out their use. Environmental monitoring S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to",
+      "context_window": "PW in the marine environment, the results can be used as a tool to target the different investigations of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added chemicals, different discharge factors, dilution and dispersion models, the results from installations",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added",
+      "context_window": "of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added chemicals, different discharge factors, dilution and dispersion models, the results from installations within, and especially between the Contracting Parties cannot be compared. Nevertheless, a main",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Parties national emissions varies depending on the size of the oil and gas industry in the Contracting",
+      "context_window": "2 emissions by the offshore oil and gas industry as a proportion of Contracting Parties national emissions varies depending on the size of the oil and gas industry in the Contracting Party 17",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions",
+      "context_window": "2. What has been done? The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions and discharges from oil and gas industry with the OSPAR Maritime Area. As of 2020, there are 15 7",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical",
+      "context_window": "monitoring data collected around Danish offshore oil and gas platforms“. A method based on Marine Strategy Framework Directive descriptors was for the first time used around Danish oil and gas platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Review the monitoring of carbon dioxide stored in geological formations to help evaluate",
+      "context_window": "marine environment, human health and other legitimate uses of the maritime area. Task: Review the monitoring of carbon dioxide stored in geological formations to help evaluate the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained permanently in geological formations.",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "counteracted by aging fields with decreasing hydrocarbon production and increasing water",
+      "context_window": "of produced water discharged and average dispersed oil concentrations. Reinjection of produced water has increased by 49% from 2009 to 2019, but the effect of this is counteracted by aging fields with decreasing hydrocarbon production and increasing water production. Continuous improvement in lowering dispersed oil in produced water discharges is also challenging due to a number of factors including older installations (Pre-2001) not designed to meet",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "posed by the discharge of naturally occurring substances and added substances in order to identify",
+      "context_window": "yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk posed by the discharge of naturally occurring substances and added substances in order to identify and adopt measures to reduce the risk to the environment from discharges of PW. 3.2 Chemicals",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for substitution since the introduction of OSPAR Recommendation 2006/3 more needs to be done to",
+      "context_window": "of these substitution chemicals has decreased from 1 753 tonnes to 1 162 tonnes, a 35% reduction. Whilst progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3 more needs to be done to reduce discharges of substitution chemicals. 0",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.3 Priorities for action in the future",
+      "context_window": "limited number of full-scale projects so far, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. 5.3 Priorities for action in the future OSPAR will continue to take all possible steps to prevent and eliminate pollution and adopt the necessary measures to protect the maritime area against the adverse effects of human activities so as",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Agree on an approach and develop an action plan to promote and advance the development of decommissioning technologies. Climate change S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "impact of noise on marine mammals currently vary and there is international recognition of the need",
+      "context_window": "should be present prior to the commencement of activities. However, the application of these measures is likely to be very varied within the OSPAR area as guidelines to prevent or minimise the impact of noise on marine mammals currently vary and there is international recognition of the need for more consistent, evidence-based, guidance. 3.9 Carbon dioxide storage",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Due to differences in bottom topography, geology, water mass movement and other environmental",
+      "context_window": "area, it is also possible that specific diversity will increase due to the colonisation of hard structures by previously absent benthic species. Due to differences in bottom topography, geology, water mass movement and other environmental factors such as sensitive benthic species and habitats (particularly cold water corals and sponges), the Assessment of the impacts of the offshore oil and gas industry on the marine environment",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to produced water discharges, and to help Contracting Parties in identifying and adopting",
+      "context_window": "Task: Apply a harmonised method of assessing environmental risk (risk based approach) relating to produced water discharges, and to help Contracting Parties in identifying and adopting measures to reduce the risk to the environment from discharges of produced water. Task:",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "components in the discharge",
+      "context_window": "component-based level, as the risk contribution for each of the components in the discharge can be calculated in the risk modelling.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If a WET based approach is",
+      "context_window": "single time point during the 30- day simulation period. If a WET based approach is applied, using WET data, the risk can also be expressed as",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions of nitrous oxides.",
+      "context_window": "Content Directive (2012/33). National legislation by some Contracting Parties has also looked to reduce emissions of nitrous oxides. 2.7 Decommissioning The 1998 OSPAR Ministerial Meeting in Sintra, Portugal, adopted OSPAR Decision 98/3 on the disposal",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacted areas there is a gradual change in the species composition of benthic communities until",
+      "context_window": "areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in deeper colder water areas. There are few pipelines that are trenched and buried in these areas. In impacted areas there is a gradual change in the species composition of benthic communities until equilibrium is achieved depending on the new local conditions. During the re-establishment of the area, it is also possible that specific diversity will increase due to the colonisation of hard structures by",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ireland the contribution from oil and gas ranges from 0,001 – 0,2% of total national emissions. For",
+      "context_window": "17 . For Contracting Parties with a small offshore industry footprint such as Spain, Germany and Ireland the contribution from oil and gas ranges from 0,001 – 0,2% of total national emissions. For Denmark and the Netherlands, it is an average of 4,9% and 1,1% respectively, while in Norway and the United Kingdom it is 35,5% and 3,4% respectively.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The seabed in these areas",
+      "context_window": "Exploration and development activities within Region V, the wider Atlantic have been limited with only one installation which is reported to contribute to emissions and discharges. The seabed in these areas comprises largely muds and clays with areas containing cold water corals. Some parts of the Region are important for seabirds and marine mammals.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions. Over the 2009 – 2019 period:",
+      "context_window": "in methane and SO 2 emissions. Over the 2009 – 2019 period: • CO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "covering the Fladen Ground and Mid North Sea High",
+      "context_window": "Two linked regional sediment and fauna surveys were undertaken December 2015 - January 2016 and covering the Fladen Ground and Mid North Sea High (MNSH) areas marked on Figure 12. Monitoring programme and method",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underneath the pipeline when the seabed topography changes due to sediment movement. In these",
+      "context_window": "is a risk that upheaval buckling may occur along certain areas of the line. Free-spans may also occur underneath the pipeline when the seabed topography changes due to sediment movement. In these situations, it is critical for the integrity of the lines and safety of fishermen to place gravel or concrete mattresses along those parts of the line. In areas of soft sediment this activity introduces a hard",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "at organism and population levels remains to be proven. Other anthropogenic factors are difficult to",
+      "context_window": "Despite the large volumes of PW released, the effects of the constituents appear to be low and mainly seen at biomarker level. However, the causality between the biomarkers and toxic effects and impact at organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increases in areas close to the studied platforms.",
+      "context_window": "Seabed monitoring Both Danish and Norwegian studies observe that the sediment concentration of petrogenic PAHs increases in areas close to the studied platforms. However, at 70% of the stations, the dominant form of PAH in the sediment surface was pyrogenic, indicating that the main sources are the intensive",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is a risk that upheaval buckling may occur along certain areas of the line.",
+      "context_window": "line, but once buried, pipelines usually have insignificant impacts. However, once a pipeline is laid there is a risk that upheaval buckling may occur along certain areas of the line. Free-spans may also occur underneath the pipeline when the seabed topography changes due to sediment movement. In these",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3.9 Carbon dioxide storage",
+      "context_window": "impact of noise on marine mammals currently vary and there is international recognition of the need for more consistent, evidence-based, guidance. 3.9 Carbon dioxide storage There are only two full scale projects with CO 2",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "regional and local ice studies.",
+      "context_window": "authorities and the oil and gas industry. Studies on ice are carried out at authority level, together with regional and local ice studies. Seismic investigations have been carried out. Exploration drilling has",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to achieve, by 2020, a reduction of oil in produced water discharged into the sea to a level which will",
+      "context_window": "objectives: • to achieve, by 2020, a reduction of oil in produced water discharged into the sea to a level which will adequately ensure that each of those discharges will present no harm to the marine environment OSPAR Commission, 2022",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "industry in the OSPAR Maritime Area, and the extent to which the discharges may be contributing to",
+      "context_window": "including plastics and microplastics, it is considered relevant to monitor the amount of plastic or microplastic substances contained in offshore chemicals discharged by the offshore oil and gas industry in the OSPAR Maritime Area, and the extent to which the discharges may be contributing to the wider marine litter issue. In addition, although protection materials such as sand/grout bags and",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on",
+      "context_window": "Strategy Framework Directive descriptors was for the first time used around Danish oil and gas platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the report:",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The contribution to CO",
+      "context_window": "2 emissions have decreased 33%. The contribution to CO 2 emissions by the offshore oil and gas industry as a proportion of Contracting",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "studies found that the concentration in sediments of petrogenic PAH increases in the areas close to",
+      "context_window": "may adsorb to the sediment, especially in shallow water or a downward trajectory of the PW plume. Sediment monitoring has been performed by several Contracting Parties. Both Danish and Norwegian studies found that the concentration in sediments of petrogenic PAH increases in the areas close to the platforms. Biological diversity and evenness have been studied in samples from the Danish platforms, and changes to the seabed fauna and quality were found to be local and short term and the",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.2 What measures are still challenging?",
+      "context_window": "footings of one steel installation and three gravity-based concrete installations were under consideration. 5.2 What measures are still challenging? • Linking the estimated risk levels calculated through RBA to possible impacts in the receiving",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in",
+      "context_window": "In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna re-colonises within a year or two. In areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in deeper colder water areas. There are few pipelines that are trenched and buried in these areas. In impacted areas there is a gradual change in the species composition of benthic communities until",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from CO",
+      "context_window": ") in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. The pressures from CO 2 storage, inter-alia development and decommisioning activities, could be",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.6 Atmospheric emissions",
+      "context_window": "OSPAR Recommendation 2003/5 and such management systems are required to consider how installations are operated to minimise impact on the environment, including the prevention of spills. 2.6 Atmospheric emissions OSPAR does not specifically regulate atmospheric emissions from the oil and gas industry. However, there are a number of relevant EU Directives and international conventions which apply to OSPAR",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discharges reported by Denmark, Germany and Ireland contributed with about 3%",
+      "context_window": "In 2018 the relative contributions of discharges in PW (using Ra-226 as an indicator), were Norway 50%, United Kingdom 36%, the Netherlands 11%. The discharges reported by Denmark, Germany and Ireland contributed with about 3% 5 .",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What has been done?",
+      "context_window": "projects in the United Kingdom. 2. What has been done? The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions and discharges from oil and gas industry with the OSPAR Maritime Area. As of 2020, there are 15",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "natural conditions in the different OSPAR Regions.",
+      "context_window": "44 potential problems in introducing these structures will meet different challenges depending on the natural conditions in the different OSPAR Regions. Decommissioning of pipelines and removal of installations and associated infrastructure can cause sediment disturbance and subsequent localised impacts.",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In areas of soft sediments, where",
+      "context_window": "substrate into the environment. Benthic communities will be impacted for a variable period of time. In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna re-colonises within a year or two. In areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fact box 4: Danish sediment monitoring:",
+      "context_window": "OSPAR Commission, 2022 41 Fact box 4: Danish sediment monitoring: In Denmark, chemical and biological monitoring was performed around the following four installations in 2018; the Gorm platform, the Tyra E platform, the Dan F platform and the South Arne platform.",
+      "page_number": 42,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "ecosystem level exist.",
+      "context_window": "OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or ecosystem level exist. It should only be seen as an indication that there is a lack of evidence and that further investigations are needed to establish whether such relationships exist.",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prevention and update as appropriate in the context of [additional pressures from] climate",
+      "context_window": "Task: Undertake a review of OSPAR measures and actions relevant to OIC on pollution prevention and update as appropriate in the context of [additional pressures from] climate change and ocean acidification. Carbon dioxide storage",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "context_window": "dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained permanently in the storage complex and will not lead to any significant adverse consequences for the marine environment, human health and other legitimate uses of the maritime area.",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "information on the actual impacts on marine biota, but the Recommendation includes a step of performing",
+      "context_window": "investigations of possible biological impacts on marine biota. The risk assessment step will not in itself provide information on the actual impacts on marine biota, but the Recommendation includes a step of performing environmental monitoring in order to detect changes in the receiving environment and to verify the impact hypothesis.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of",
+      "context_window": "Climate change S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the development of national and international actions.",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information",
+      "context_window": "S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage impacts.",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate",
+      "context_window": "S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will evaluate the effectiveness of OSPAR measures to ensure that carbon dioxide streams are retained",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "on human activities, pressures, sensitive receptors and habitats, and use the results to inform the",
+      "context_window": "By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine ecosystems of the North-East Atlantic, taking into account relevant spatial and temporal information on human activities, pressures, sensitive receptors and habitats, and use the results to inform the establishment of measures and actions to prevent, reduce or otherwise manage impacts. Task",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1 What measures have been effective?",
+      "context_window": "environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective? The following measures can be seen as effective, based on the progress and improvements: •",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment is a step that has not yet been addressed.",
+      "context_window": "• Linking the estimated risk levels calculated through RBA to possible impacts in the receiving environment is a step that has not yet been addressed. • Whilst progress has been made in reducing the use and discharge of chemicals identified as",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contracting Parties. Since 2009 there has been a significant change in the way atmospheric emissions",
+      "context_window": "OSPAR does not specifically regulate atmospheric emissions from the oil and gas industry. However, there are a number of relevant EU Directives and international conventions which apply to OSPAR Contracting Parties. Since 2009 there has been a significant change in the way atmospheric emissions are managed with ongoing strengthening of the European Union Emissions Trading Scheme (EU-ETS), Industrial Emissions Directive (2010/75), Medium Combustion Plant Directive (2015/2193) and Sulphur",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Historical monitoring has demonstrated that the impacts",
+      "context_window": "Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts of the placement of structures on the seabed. Historical monitoring has demonstrated that the impacts are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales.",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental monitoring in order to detect changes in the receiving environment and to verify the impact",
+      "context_window": "The risk assessment step will not in itself provide information on the actual impacts on marine biota, but the Recommendation includes a step of performing environmental monitoring in order to detect changes in the receiving environment and to verify the impact hypothesis. The first step in the RBA calculation can be done either by using simple dilution factors or by 3-dimensional",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "no such causal relationships between impacts at organism level and impacts at population or",
+      "context_window": "exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or ecosystem level exist. It should only be seen as an indication that there is a lack of evidence and that",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An explanation could be that some fish species",
+      "context_window": "of PAH and biomarkers of exposure have not been identified consistently in wild fish, whether caught outside, or in, production field areas in the North Sea. An explanation could be that some fish species actively avoid plumes containing elevated levels of PAHs, which makes it difficult to assess the impact on wild fish population from observations made on caged fish. The typical modest responses on the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential impacts.",
+      "context_window": "industry, the oil and gas industry has made measurable progress and improvements in reducing the environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective? The following measures can be seen as effective, based on the progress and improvements:",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained",
+      "context_window": "Task: Review the monitoring of carbon dioxide stored in geological formations to help evaluate the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained permanently in geological formations. Assessment of the impacts of the offshore oil and gas industry on the marine environment",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "1.2.10 Carbon dioxide storage",
+      "context_window": "injure or even kill marine life. Documented effects on marine life vary greatly from very subtle behavioural changes, avoidance reaction, hearing loss, injury and death in extreme cases. 1.2.10 Carbon dioxide storage Storage of carbon dioxide (CO 2",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the",
+      "context_window": "seen at biomarker level. However, the causality between the biomarkers and toxic effects and impact at organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that no such causal relationships between impacts at organism level and impacts at population or",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas which have been adversely affected.",
+      "context_window": "51 to safeguard human health and to conserve marine ecosystems and, when practicable, restore marine areas which have been adversely affected. The North-East Atlantic Environment Strategy 2030 adopted at the OSPAR Ministerial meeting in Cascais on 1 October 2021 set-out the following Operational Objectives that are relevant for OIC:",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the benthic ecosystem (though not necessarily significant). The following text is extracted from the",
+      "context_window": "platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the report: The majority of stations scored relatively high and above 90.",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR",
+      "context_window": "2 leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO 2",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "in geological formations, Contracting Parties to the OSPAR",
+      "context_window": "In order to allow the storage of CO 2 in geological formations, Contracting Parties to the OSPAR Convention adopted amendments to the Annexes to the OSPAR Convention in 2007. In order to ensure environmentally safe storage of CO",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What do we do next?",
+      "context_window": "Decision 2007/2 has not yet been undertaken. 5. What do we do next? Since QSR 2010 and because of implementation of OSPAR measures by Contracting Parties and industry, the oil and gas industry has made measurable progress and improvements in reducing the",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions by the offshore oil and gas industry as a proportion of Contracting",
+      "context_window": "The contribution to CO 2 emissions by the offshore oil and gas industry as a proportion of Contracting Parties national emissions varies depending on the size of the oil and gas industry in the Contracting Party",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unclear, but could be due to an increase in phytoplankton growth caused by fertilisation (with e.g.",
+      "context_window": ") were found to be compensating for the stress, maintaining reproductive development such as spawning status. The mechanism for compensation is unclear, but could be due to an increase in phytoplankton growth caused by fertilisation (with e.g. ammonia in PW) or a toxicity-related reduction in planktonic grazing pressure, both leading to increased food availability to mussels.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PW in the marine environment, the results can be used as a tool to target the different investigations",
+      "context_window": "aim of finding appropriate measures to reduce the risk to levels, where the calculations show it is adequately controlled. While RBA cannot be used as basis for an assessment of the actual impact of PW in the marine environment, the results can be used as a tool to target the different investigations of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In relation to progress against the North-East Atlantic Environment Strategy 2010 – 2020 thematic",
+      "context_window": "of the OSPAR Maritime Area as a whole, particularly in areas of Region II where there are high levels of oil and gas activity. In relation to progress against the North-East Atlantic Environment Strategy 2010 – 2020 thematic objectives: •",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to",
+      "context_window": "PW in the marine environment, the results can be used as a tool to target the different investigations of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added chemicals, different discharge factors, dilution and dispersion models, the results from installations",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions",
+      "context_window": "2. What has been done? The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions and discharges from oil and gas industry with the OSPAR Maritime Area. As of 2020, there are 15 7",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Review the monitoring of carbon dioxide stored in geological formations to help evaluate",
+      "context_window": "marine environment, human health and other legitimate uses of the maritime area. Task: Review the monitoring of carbon dioxide stored in geological formations to help evaluate the effectiveness of OSPAR measures in ensuring that carbon dioxide streams are retained permanently in geological formations.",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "posed by the discharge of naturally occurring substances and added substances in order to identify",
+      "context_window": "yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk posed by the discharge of naturally occurring substances and added substances in order to identify and adopt measures to reduce the risk to the environment from discharges of PW. 3.2 Chemicals",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.3 Priorities for action in the future",
+      "context_window": "limited number of full-scale projects so far, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. 5.3 Priorities for action in the future OSPAR will continue to take all possible steps to prevent and eliminate pollution and adopt the necessary measures to protect the maritime area against the adverse effects of human activities so as",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact of noise on marine mammals currently vary and there is international recognition of the need",
+      "context_window": "should be present prior to the commencement of activities. However, the application of these measures is likely to be very varied within the OSPAR area as guidelines to prevent or minimise the impact of noise on marine mammals currently vary and there is international recognition of the need for more consistent, evidence-based, guidance. 3.9 Carbon dioxide storage",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "to produced water discharges, and to help Contracting Parties in identifying and adopting",
+      "context_window": "Task: Apply a harmonised method of assessing environmental risk (risk based approach) relating to produced water discharges, and to help Contracting Parties in identifying and adopting measures to reduce the risk to the environment from discharges of produced water. Task:",
+      "page_number": 52,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If a WET based approach is",
+      "context_window": "single time point during the 30- day simulation period. If a WET based approach is applied, using WET data, the risk can also be expressed as",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacted areas there is a gradual change in the species composition of benthic communities until",
+      "context_window": "areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in deeper colder water areas. There are few pipelines that are trenched and buried in these areas. In impacted areas there is a gradual change in the species composition of benthic communities until equilibrium is achieved depending on the new local conditions. During the re-establishment of the area, it is also possible that specific diversity will increase due to the colonisation of hard structures by",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The seabed in these areas",
+      "context_window": "Exploration and development activities within Region V, the wider Atlantic have been limited with only one installation which is reported to contribute to emissions and discharges. The seabed in these areas comprises largely muds and clays with areas containing cold water corals. Some parts of the Region are important for seabirds and marine mammals.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "covering the Fladen Ground and Mid North Sea High",
+      "context_window": "Two linked regional sediment and fauna surveys were undertaken December 2015 - January 2016 and covering the Fladen Ground and Mid North Sea High (MNSH) areas marked on Figure 12. Monitoring programme and method",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "at organism and population levels remains to be proven. Other anthropogenic factors are difficult to",
+      "context_window": "Despite the large volumes of PW released, the effects of the constituents appear to be low and mainly seen at biomarker level. However, the causality between the biomarkers and toxic effects and impact at organism and population levels remains to be proven. Other anthropogenic factors are difficult to exclude when assessing the impact of PW in marine ecosystems. Whilst the conclusions from the OSPAR Quality Status Report 2010 are still valid, it should be emphasised that it does not imply that",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is a risk that upheaval buckling may occur along certain areas of the line.",
+      "context_window": "line, but once buried, pipelines usually have insignificant impacts. However, once a pipeline is laid there is a risk that upheaval buckling may occur along certain areas of the line. Free-spans may also occur underneath the pipeline when the seabed topography changes due to sediment movement. In these",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regional and local ice studies.",
+      "context_window": "authorities and the oil and gas industry. Studies on ice are carried out at authority level, together with regional and local ice studies. Seismic investigations have been carried out. Exploration drilling has",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "industry in the OSPAR Maritime Area, and the extent to which the discharges may be contributing to",
+      "context_window": "including plastics and microplastics, it is considered relevant to monitor the amount of plastic or microplastic substances contained in offshore chemicals discharged by the offshore oil and gas industry in the OSPAR Maritime Area, and the extent to which the discharges may be contributing to the wider marine litter issue. In addition, although protection materials such as sand/grout bags and",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The contribution to CO",
+      "context_window": "2 emissions have decreased 33%. The contribution to CO 2 emissions by the offshore oil and gas industry as a proportion of Contracting",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.2 What measures are still challenging?",
+      "context_window": "footings of one steel installation and three gravity-based concrete installations were under consideration. 5.2 What measures are still challenging? • Linking the estimated risk levels calculated through RBA to possible impacts in the receiving",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from CO",
+      "context_window": ") in geological formations including depleted oil and gas reservoirs and saline aquifers is an emerging offshore activity. The pressures from CO 2 storage, inter-alia development and decommisioning activities, could be",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discharges reported by Denmark, Germany and Ireland contributed with about 3%",
+      "context_window": "In 2018 the relative contributions of discharges in PW (using Ra-226 as an indicator), were Norway 50%, United Kingdom 36%, the Netherlands 11%. The discharges reported by Denmark, Germany and Ireland contributed with about 3% 5 .",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "natural conditions in the different OSPAR Regions.",
+      "context_window": "44 potential problems in introducing these structures will meet different challenges depending on the natural conditions in the different OSPAR Regions. Decommissioning of pipelines and removal of installations and associated infrastructure can cause sediment disturbance and subsequent localised impacts.",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fact box 4: Danish sediment monitoring:",
+      "context_window": "OSPAR Commission, 2022 41 Fact box 4: Danish sediment monitoring: In Denmark, chemical and biological monitoring was performed around the following four installations in 2018; the Gorm platform, the Tyra E platform, the Dan F platform and the South Arne platform.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In areas of soft sediments, where",
+      "context_window": "substrate into the environment. Benthic communities will be impacted for a variable period of time. In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna re-colonises within a year or two. In areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What has been done?",
+      "context_window": "projects in the United Kingdom. 2. What has been done? The OSPAR Commission has put in place a significant number of measures aimed at reducing emissions and discharges from oil and gas industry with the OSPAR Maritime Area. As of 2020, there are 15",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.6 Atmospheric emissions",
+      "context_window": "OSPAR Recommendation 2003/5 and such management systems are required to consider how installations are operated to minimise impact on the environment, including the prevention of spills. 2.6 Atmospheric emissions OSPAR does not specifically regulate atmospheric emissions from the oil and gas industry. However, there are a number of relevant EU Directives and international conventions which apply to OSPAR",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in",
+      "context_window": "In areas of soft sediments, where most pipelines are trenched and buried, the soft bottom fauna re-colonises within a year or two. In areas of harder substrates the recovery of benthic communities may take longer, up to 10 years in deeper colder water areas. There are few pipelines that are trenched and buried in these areas. In impacted areas there is a gradual change in the species composition of benthic communities until",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "studies found that the concentration in sediments of petrogenic PAH increases in the areas close to",
+      "context_window": "may adsorb to the sediment, especially in shallow water or a downward trajectory of the PW plume. Sediment monitoring has been performed by several Contracting Parties. Both Danish and Norwegian studies found that the concentration in sediments of petrogenic PAH increases in the areas close to the platforms. Biological diversity and evenness have been studied in samples from the Danish platforms, and changes to the seabed fauna and quality were found to be local and short term and the",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on",
+      "context_window": "Strategy Framework Directive descriptors was for the first time used around Danish oil and gas platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the report:",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to achieve, by 2020, a reduction of oil in produced water discharged into the sea to a level which will",
+      "context_window": "objectives: • to achieve, by 2020, a reduction of oil in produced water discharged into the sea to a level which will adequately ensure that each of those discharges will present no harm to the marine environment OSPAR Commission, 2022",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3.9 Carbon dioxide storage",
+      "context_window": "impact of noise on marine mammals currently vary and there is international recognition of the need for more consistent, evidence-based, guidance. 3.9 Carbon dioxide storage There are only two full scale projects with CO 2",
+      "page_number": 40,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "increases in areas close to the studied platforms.",
+      "context_window": "Seabed monitoring Both Danish and Norwegian studies observe that the sediment concentration of petrogenic PAHs increases in areas close to the studied platforms. However, at 70% of the stations, the dominant form of PAH in the sediment surface was pyrogenic, indicating that the main sources are the intensive",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underneath the pipeline when the seabed topography changes due to sediment movement. In these",
+      "context_window": "is a risk that upheaval buckling may occur along certain areas of the line. Free-spans may also occur underneath the pipeline when the seabed topography changes due to sediment movement. In these situations, it is critical for the integrity of the lines and safety of fishermen to place gravel or concrete mattresses along those parts of the line. In areas of soft sediment this activity introduces a hard",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions. Over the 2009 – 2019 period:",
+      "context_window": "in methane and SO 2 emissions. Over the 2009 – 2019 period: • CO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ireland the contribution from oil and gas ranges from 0,001 – 0,2% of total national emissions. For",
+      "context_window": "17 . For Contracting Parties with a small offshore industry footprint such as Spain, Germany and Ireland the contribution from oil and gas ranges from 0,001 – 0,2% of total national emissions. For Denmark and the Netherlands, it is an average of 4,9% and 1,1% respectively, while in Norway and the United Kingdom it is 35,5% and 3,4% respectively.",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions of nitrous oxides.",
+      "context_window": "Content Directive (2012/33). National legislation by some Contracting Parties has also looked to reduce emissions of nitrous oxides. 2.7 Decommissioning The 1998 OSPAR Ministerial Meeting in Sintra, Portugal, adopted OSPAR Decision 98/3 on the disposal",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "components in the discharge",
+      "context_window": "component-based level, as the risk contribution for each of the components in the discharge can be calculated in the risk modelling.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to differences in bottom topography, geology, water mass movement and other environmental",
+      "context_window": "area, it is also possible that specific diversity will increase due to the colonisation of hard structures by previously absent benthic species. Due to differences in bottom topography, geology, water mass movement and other environmental factors such as sensitive benthic species and habitats (particularly cold water corals and sponges), the Assessment of the impacts of the offshore oil and gas industry on the marine environment",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Agree on an approach and develop an action plan to promote and advance the development of decommissioning technologies. Climate change S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "for substitution since the introduction of OSPAR Recommendation 2006/3 more needs to be done to",
+      "context_window": "of these substitution chemicals has decreased from 1 753 tonnes to 1 162 tonnes, a 35% reduction. Whilst progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3 more needs to be done to reduce discharges of substitution chemicals. 0",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "counteracted by aging fields with decreasing hydrocarbon production and increasing water",
+      "context_window": "of produced water discharged and average dispersed oil concentrations. Reinjection of produced water has increased by 49% from 2009 to 2019, but the effect of this is counteracted by aging fields with decreasing hydrocarbon production and increasing water production. Continuous improvement in lowering dispersed oil in produced water discharges is also challenging due to a number of factors including older installations (Pre-2001) not designed to meet",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical",
+      "context_window": "monitoring data collected around Danish offshore oil and gas platforms“. A method based on Marine Strategy Framework Directive descriptors was for the first time used around Danish oil and gas platforms to assess the Environmental Status (EnS); a score that integrates biological and chemical sediment data. Quantitative deviation from reference areas is indicative of some degree of impact on the benthic ecosystem (though not necessarily significant). The following text is extracted from the",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Parties national emissions varies depending on the size of the oil and gas industry in the Contracting",
+      "context_window": "2 emissions by the offshore oil and gas industry as a proportion of Contracting Parties national emissions varies depending on the size of the oil and gas industry in the Contracting Party 17",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added",
+      "context_window": "of such impacts, like environmental monitoring, in the sea around the offshore installations. Risk levels of PW discharges in the OSPAR area have been reported through the yearly reporting to OSPAR’s Offshore Industry Committee (OIC). Due to differences in the available information on added chemicals, different discharge factors, dilution and dispersion models, the results from installations within, and especially between the Contracting Parties cannot be compared. Nevertheless, a main",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental monitoring",
+      "context_window": "microplastics, contained in offshore chemicals and, where necessary, develop measures to control or phase out their use. Environmental monitoring S7.O1: By 2028 OSPAR will further develop methods for the analysis of cumulative effects in the marine",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3.5 Atmospheric emissions",
+      "context_window": "Figure 14: Chemical spills 3.5 Atmospheric emissions While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "timescales.",
+      "context_window": "Historical monitoring has demonstrated that the impacts are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy/muddy areas. Pipelines, platform legs and subsea templates may act as",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with",
+      "context_window": "Assessment of the impacts of the offshore oil and gas industry on the marine environment 28 the Storage of Carbon Dioxide Streams in Geological Formations was adopted in 2007 along with OSPAR Guidelines for Risk Assessment and Management of Storage of CO 2",
+      "page_number": 29,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts",
+      "context_window": "43 4.1.2 Physical impacts on the seabed Contracting Parties do not undertake extensive monitoring programmes to assess the physical impacts of the placement of structures on the seabed. Historical monitoring has demonstrated that the impacts",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental impact. However, there are areas where it may be possible to further reduce the",
+      "context_window": "Since QSR 2010 and because of implementation of OSPAR measures by Contracting Parties and industry, the oil and gas industry has made measurable progress and improvements in reducing the environmental impact. However, there are areas where it may be possible to further reduce the potential impacts. 5.1 What measures have been effective?",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carrying out effective, coordinated environmental monitoring to evaluate any regional effects",
+      "context_window": "Task : Develop a monitoring programme for offshore activities, with a view to Contracting Parties carrying out effective, coordinated environmental monitoring to evaluate any regional effects by 2028, including effects on ecosystems. Noise",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "commitments it is expected that emissions from offshore installations will continue to fall.",
+      "context_window": "United Kingdom it is 35,5% and 3,4% respectively. As national and EU legislation is introduced to address local, regional and international Net Zero commitments it is expected that emissions from offshore installations will continue to fall. 17 National CO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to allow the storage of CO",
+      "context_window": "5. Technology development (4 projects). 2.10 Carbon dioxide storage In order to allow the storage of CO 2 in geological formations, Contracting Parties to the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "While atmospheric emissions are not covered by OSPAR measures there have been overall reductions",
+      "context_window": "Chemical spills 3.5 Atmospheric emissions While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly in methane and SO",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "out has not been achieved. Recognising that more needs to be done to reduce discharges of",
+      "context_window": "Whilst progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, phase- out has not been achieved. Recognising that more needs to be done to reduce discharges of substitution chemicals a new deadline to phase out by 1 January 2026 has been agreed. •",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "previously absent benthic species.",
+      "context_window": "equilibrium is achieved depending on the new local conditions. During the re-establishment of the area, it is also possible that specific diversity will increase due to the colonisation of hard structures by previously absent benthic species. Due to differences in bottom topography, geology, water mass movement and other environmental factors such as sensitive benthic species and habitats (particularly cold water corals and sponges), the",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to",
+      "context_window": "are largely transient, with re-colonisation of disturbed seabed habitats occurring within relatively short timescales. The creation of hard bottom substrate can, over time, give an opportunity for new benthic species to colonise the former sandy/muddy areas. Pipelines, platform legs and subsea templates may act as shelter for fish and other mobile marine organisms, and provide a habitat for benthic organisms usually",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime",
+      "context_window": "accumulation and scouring of sediment and the appearance of pans is dependent on local and pipeline specific conditions. Designated protected areas, particularly those containing habitats such as sandbanks and biogenic reefs, are likely to be more sensitive to these changes than the wider maritime area. Figure 2:",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a next stage to RBA, a task has been identified to assess the environmental risk",
+      "context_window": "Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk posed by the discharge of naturally occurring substances and added substances in order to identify and adopt measures to reduce the risk to the environment from discharges of PW.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "difficult to compare risk levels.",
+      "context_window": "The RBA work will continue, and further development and refinement of the methods used will be made. Since the OSPAR Recommendation 2012/5 allows for different approaches and methods it is difficult to compare risk levels. The main purpose is however to have risk management tools to identify the right measures for site specific risk reductions.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.10 Carbon dioxide storage",
+      "context_window": "4. Mitigation and monitoring (19 projects) 5. Technology development (4 projects). 2.10 Carbon dioxide storage In order to allow the storage of CO 2",
+      "page_number": 28,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "on environmental monitoring from CO",
+      "context_window": "leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO 2 storage projects has been identified.",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The need to improve the reporting to OSPAR on environmental monitoring from CO",
+      "context_window": "number of full-scale projects so far, an evaluation of the effectiveness of OSPAR Decision 2007/2 has not yet been undertaken. The need to improve the reporting to OSPAR on environmental monitoring from CO 2 storage projects",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in methane and SO",
+      "context_window": "While atmospheric emissions are not covered by OSPAR measures there have been overall reductions in all reported atmospheric emissions across the OSPAR area over the last 10 years, most significantly in methane and SO 2 emissions. Over the 2009 – 2019 period:",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are two large scale CO",
+      "context_window": "2 storage projects has been identified. There are two large scale CO 2 storage projects currently operating in the OSPAR Maritime Area",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon",
+      "context_window": "storage site which may have negative effects on the receptors in the marine environment if CO 2 leakage were to occur. Whilst scientific knowledge of the environmental risks of storage of carbon dioxide in geological formations is developing, the need to improve and refine the reporting to OSPAR on environmental monitoring from CO",
+      "page_number": 16,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the",
+      "context_window": "S10.O3: In 2023, and every 6 years thereafter, OSPAR will assess the current and projected impacts of climate change and ocean acidification on the OSPAR Maritime Area and its uses, to inform the development of national and international actions. Task:",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon",
+      "context_window": "Carbon dioxide storage S12.03: By 2024 OSPAR will review the results of monitoring that is undertaken in relation to carbon dioxide storage to assess whether the monitoring techniques deployed are adequate to demonstrate that carbon dioxide streams are retained permanently in the storage complex. By 2026 OSPAR will",
+      "page_number": 54,
+      "keyword_hits": {
+        "carbon dioxide": 3
+      }
+    },
+    {
+      "core_sentence": "Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not",
+      "context_window": "The main purpose is however to have risk management tools to identify the right measures for site specific risk reductions. Linking the estimated risk levels to possible impacts in the receiving environment is a step that has not yet been addressed. As a next stage to RBA, a task has been identified to assess the environmental risk",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Undertake a review of OSPAR measures and actions relevant to OIC on pollution prevention and update as appropriate in the context of [additional pressures from] climate change and ocean acidification. Carbon dioxide storage S12.03:",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Linking the estimated risk levels calculated through RBA to possible impacts in the receiving",
+      "context_window": "5.2 What measures are still challenging? • Linking the estimated risk levels calculated through RBA to possible impacts in the receiving environment is a step that has not yet been addressed. •",
+      "page_number": 51,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 4,
+    "keyword_counts": {
+      "climate change": 4,
+      "ocean acidification": 3,
+      "carbon dioxide": 14,
+      "co2": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "EXECUTIVE SUMMARY ...................................................................................................................................... 4",
+      "start_sentence": 51,
+      "end_sentence": 216,
+      "sentence_count": 166,
+      "page_range": "3-5",
+      "sentences": [
+        {
+          "sentence_id": 51,
+          "page_number": 3,
+          "content": "EXECUTIVE SUMMARY .....................................................................................",
+          "full_length": 154
+        },
+        {
+          "sentence_id": 52,
+          "page_number": 3,
+          "content": "RÉCAPITULATIF .........................................................................................",
+          "full_length": 161
+        },
+        {
+          "sentence_id": 53,
+          "page_number": 3,
+          "content": "1.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 54,
+          "page_number": 3,
+          "content": "WHAT ARE THE PROBLEMS?",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 55,
+          "page_number": 3,
+          "content": "ARE THEY THE SAME IN ALL OSPAR REGIONS?",
+          "full_length": 39
+        }
+      ],
+      "total_sentences_in_section": 166
+    },
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 217,
+      "end_sentence": 257,
+      "sentence_count": 41,
+      "page_range": "5-5",
+      "sentences": [
+        {
+          "sentence_id": 217,
+          "page_number": 5,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 218,
+          "page_number": 5,
+          "content": "Offshore oil and gas activities have developed in the OSPAR area over the past 50 years.",
+          "full_length": 88
+        },
+        {
+          "sentence_id": 219,
+          "page_number": 5,
+          "content": "Environmental",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 220,
+          "page_number": 5,
+          "content": "impacts can occur throughout the lifecycle of these activities, exploration, production and decommis...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 221,
+          "page_number": 5,
+          "content": "Impact can arise from discharge of produced water, oil, chemicals, drilling muds and cuttings, physi...",
+          "full_length": 110
+        }
+      ],
+      "total_sentences_in_section": 41
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2671,
+      "end_sentence": 2828,
+      "sentence_count": 158,
+      "page_range": "55-56",
+      "sentences": [
+        {
+          "sentence_id": 2671,
+          "page_number": 55,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2672,
+          "page_number": 55,
+          "content": "BEIS, 2016.",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 2673,
+          "page_number": 55,
+          "content": "Offshore Energy Strategic Environmental Assessment 3, Environmental Report.",
+          "full_length": 75
+        },
+        {
+          "sentence_id": 2674,
+          "page_number": 55,
+          "content": "Department for Business,",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 2675,
+          "page_number": 55,
+          "content": "Energy and Industrial Strategy (BEIS), UK.",
+          "full_length": 42
+        }
+      ],
+      "total_sentences_in_section": 158
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2850,
+    "chunks_selected": 99,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "EXECUTIVE SUMMARY ...................................................................................................................................... 4",
+        "start_sentence": 51,
+        "end_sentence": 216,
+        "sentence_count": 166
+      },
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 217,
+        "end_sentence": 257,
+        "sentence_count": 41
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2671,
+        "end_sentence": 2828,
+        "sentence_count": 158
+      }
+    ],
+    "total_excluded_sentences": 365
+  }
+}

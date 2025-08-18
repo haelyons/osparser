@@ -1,0 +1,1205 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator.",
+      "context_window": "Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps are still under discussion.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "produced which indicate where there is greater or lesser confidence in the model predictions.",
+      "context_window": "Evaluate the excess level maps and produce confidence maps Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be",
+      "context_window": "6. Evaluate the excess level maps and produce confidence maps Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for cod were used to calculate the risk-of-impact indices (see",
+      "context_window": "are most vulnerable. As an example, cod spawning areas (source: IMR, Norway) and the major spawning months (spring) for cod were used to calculate the risk-of-impact indices (see Figure 10 ).",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detailed assessment of areas of special interest.",
+      "context_window": "Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a detailed assessment of areas of special interest. This is not part of the first North Sea indicator assessment. 6.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine protected areas (MPAs) will be specifically considered.",
+      "context_window": "The assessment will focus on the whole North Sea, but also sub-regions may be chosen. Marine protected areas (MPAs) will be specifically considered. MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas. 1.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "needs to be made.",
+      "context_window": "that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made. The maps for continuous noise show large spatial variations. An assessment for the North Sea as one assessment area",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment, however.",
+      "context_window": "insight compared to the other bands. Selection of appropriate band for assessment is beyond the scope of this assessment, however. Since the assessment concerns a pressure indicator only, no indicator species have been selected. It is simply assumed that the band selected is relevant to the major species.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact Assessment (EIA) Directive (2014/52/EU)",
+      "context_window": "o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental Impact Assessment (EIA) Directive (2014/52/EU) o OSPAR Biological Diversity and Ecosystems Strategy 2010",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other purposes for measurements are identified (Fischer et al., 2021), e.g.",
+      "context_window": "OSPAR Commission to validate the modelling. Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a detailed assessment of areas of special interest.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries,",
+      "context_window": "feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "feasible minimum of ecological quality in relation to the human activities in the North Sea.",
+      "context_window": "pressure levels as well and may be more appropriate for other OSPAR Regions than Region II. There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To analyse regional differences in more details the pressure curve can also be calculated for sub-regions.",
+      "context_window": "The corresponding indices vary from 0,18 to 0,30. The year index is 0,24. To analyse regional differences in more details the pressure curve can also be calculated for sub-regions. Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "Biological Diversity and Ecosystems - Management of specific human pressures Relevant OSPAR Documentation",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They should be developed in collaboration",
+      "context_window": "interference). At this moment these maps are not available for most species. They should be developed in collaboration with marine biologists. Distribution maps can be a proxy for habitat suitability, but also spawning areas, where animals",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressure curves and indices show a monotonous correlation with environmental",
+      "context_window": "Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cooperation at Union level, taking into account regional or sub-regional specificities.” OSPAR has adopted Criterion",
+      "context_window": "populations of marine animals.” At present, there are no quantitative targets for GES, although these are expected to be defined since the Directive requires that “Member States shall establish threshold values for these levels through cooperation at Union level, taking into account regional or sub-regional specificities.” OSPAR has adopted Criterion D11C2 as an OSPAR Common Indicator for carrying out its Quality Status Report (QSR) 2023. The assessment will be based on the OSPAR monitoring strategy (Snoek et al., 2015), which has been elaborated in the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas.",
+      "context_window": "North Sea, but also sub-regions may be chosen. Marine protected areas (MPAs) will be specifically considered. MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas. 1. Collect information on human activities",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental",
+      "context_window": "Environmental agreements o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental Impact Assessment (EIA) Directive (2014/52/EU) o",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental agreements",
+      "context_window": "Other human activities • Environmental agreements o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions.",
+      "context_window": "To analyse regional differences in more details the pressure curve can also be calculated for sub-regions. Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions. For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Management of specific human",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Management of specific human pressures Relevant",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure by continuous noise.",
+      "context_window": "some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region). There is a",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Also the pressure curve is presented for marine",
+      "context_window": "For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07. Also the pressure curve is presented for marine protected areas (MPAs) under the Natura 2000 network. Figure 8",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Major differences could be",
+      "context_window": "OSPAR Commission The modelling results were validated with the measurements of the JOMOPANS project. Major differences could be attributed to: •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are",
+      "context_window": "through further validation of its general principles. The further development will be based on results achieved in the EU MSFD (Common Implementation Strategy (CIS) process. A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to validate the modelling.",
+      "context_window": "6 of 18 OSPAR Commission to validate the modelling. Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At present these steps",
+      "context_window": "produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps are still under discussion. Underwater sound varies with time and space and therefore evaluation needs to be done on statistical parameters of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as a pollutant and subsequent actions need to be taken.",
+      "context_window": "for marine life, yet the overall impact of sound on marine life is largely unknown. Underwater noise is now recognised as a pollutant and subsequent actions need to be taken. Moreover, underwater sound can carry over large distances depending on its properties and properties of the dynamic marine environment being thus a transnational phenomenon.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "context_window": "A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the assessment by selection of an appropriate frequency band for the assessment and can be narrow band (1/3 octave) or",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "List Biological Diversity and Ecosystems - Management of specific human pressures Relevant OSPAR",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that can be potentially affected and on populations of relevant species.",
+      "context_window": "Knowledge Gaps (brief) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "criteria.",
+      "context_window": "animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective criteria. From these effects masking (for marine mammals) is best known and the influence of continuous noise on the signal-to-noise ratio can be calculated directly.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other human activities",
+      "context_window": "Offshore wind o Other human activities • Environmental agreements",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Animals use sound to navigate, find food, communicate with potential partners",
+      "context_window": "For marine animals, such as whales, fish and even invertebrates, the auditory senses are very important. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can disturb one or more of these biological functions essential to animal survival.",
+      "context_window": "navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more of these biological functions essential to animal survival. Sound is therefore directly relevant for marine life, yet the overall impact of sound on marine life is largely unknown.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "List Pilot Assessment Thematic Activity List Biological Diversity and Ecosystems - Management of specific human",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shipping and windfarm development.",
+      "context_window": "Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise. The validation process highlighted the complexity of analysis and limitations in both the field measurements and the",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Pilot Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of a risk-of-impact indicator the cutoff level should be chosen on the expected impact for an indicator species.",
+      "context_window": "Figure 5 the dominance is shown for a cutoff level of 20 dB. In case of a risk-of-impact indicator the cutoff level should be chosen on the expected impact for an indicator species. For this assessment of the pressure indicator a value of 20 dB is chosen.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "/2022",
+      "context_window": "Publication Number: 886 /2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief) ..................................................................................................... 3",
+      "context_window": "Contents Key Message…………… .................................................................................................. 3 Background (brief) ..................................................................................................... 3 Background (extended) .............................................................................................. 3 Assessment Method .................................................................................................. 5",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea.",
+      "context_window": "OSPAR Commission Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North Sea.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Man-made noise",
+      "context_window": "Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more of these biological functions essential to animal survival. Sound is therefore directly relevant",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the methodology used and",
+      "context_window": "There is a moderate confidence in the methodology used and moderate confidence in the data availability.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References………..……………………………………………………………………….………………………..17",
+      "context_window": "Knowledge Gaps (brief) ............................................................................................ 15 Knowledge Gaps (extended) .................................................................................... 15 References………..……………………………………………………………………….………………………..17 Assessment Metadata.............................................................................................. 17 3 of 18",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental management: good knowledge of the effects of noise on marine life (biological relevance and",
+      "context_window": "marine environment being thus a transnational phenomenon. Two major elements have to be considered for environmental management: good knowledge of the effects of noise on marine life (biological relevance and significance of sound) and good knowledge of sound properties, and its spatial and temporal distribution (physical conditions).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual",
+      "context_window": "The models used for this assessment are not suited to very shallow water and intertidal areas. Knowledge Gaps (extended) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic",
+      "context_window": "Other effects, like disturbance, can lead to assessing absolute sound pressure levels as well and may be more appropriate for other OSPAR Regions than Region II. There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "5 of 18 OSPAR Commission Assessment Method Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of noise in the environment.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate confidence",
+      "context_window": "moderate confidence in the methodology used and moderate confidence in the data availability. Results (extended)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate confidence",
+      "context_window": "Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region). There is a moderate confidence in the methodology used and moderate confidence",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Offshore wind",
+      "context_window": "Shipping routes o Offshore wind o Other human activities",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discussed in detail.",
+      "context_window": "further development will be based on results achieved in the EU MSFD (Common Implementation Strategy (CIS) process. A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata.............................................................................................. 17",
+      "context_window": "Knowledge Gaps (extended) .................................................................................... 15 References………..……………………………………………………………………….………………………..17 Assessment Metadata.............................................................................................. 17 3 of 18 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the southern North Sea a pressure",
+      "context_window": "Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions. For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07. Also the pressure curve is presented for marine",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species",
+      "context_window": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "context_window": "At the moment of drafting this assessment no information on continuous noise in OSPAR Region IV (Bay of Biscay and Iberian Coast) and the Channel was available. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the assessment by selection of an appropriate frequency band for the assessment and can be narrow band (1/3 octave) or",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure index. A subdivision of the North Sea needs to be determined. This can be based on:",
+      "context_window": "The regional subdivision described by Kinneging and Tougaard (2021) illustrates the regional differences and their effect on the pressure index. A subdivision of the North Sea needs to be determined. This can be based on: • Ecological characteristics",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The choice of species to assess in the North Sea",
+      "context_window": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made. The maps for continuous noise show large spatial variations.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "noise the indices may not be directly compared anyway.",
+      "context_window": "depicted from 0% to 100%) and thus normalised to 1. Because of the different character of continuous noise to impulsive noise the indices may not be directly compared anyway. Results (brief) The results of this assessment have been based on the EU funded JOMOPANS (Joint Monitoring Programme for Ambient",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North",
+      "context_window": "17 of 18 OSPAR Commission Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North Sea.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise.",
+      "context_window": "knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise. The validation process highlighted the complexity of analysis and limitations in both the field measurements and the acoustic modelling which could be improved upon (Putland et al., 2021).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "animals and the whole population.",
+      "context_window": "Knowledge Gaps (extended) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective criteria.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and as a warning against various threats.",
+      "context_window": "the auditory senses are very important. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic abilities and sound characteristics.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of",
+      "context_window": "OSPAR Commission Assessment Method Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of noise in the environment. Masking is closely related to the signal-to-noise ratio, i.e.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Noise) has planned to develop a risk-of-impact indicator for continuous noise.",
+      "context_window": "acoustic modelling which could be improved upon (Putland et al., 2021). As a next step in the assessment of continuous noise, OSPAR’s Intersessional Correspondence Group on Noise (ICG Noise) has planned to develop a risk-of-impact indicator for continuous noise. In a risk-of-impact indicator noise maps are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats Directive (Council Directive 92/43/EEC) and Natura2000",
+      "context_window": ", ACCOBAMS (Agreement on the Conservation of Cetaceans of the Black Sea, Mediterranean Sea and contiguous Atlantic Area)Agreements Habitats Directive (Council Directive 92/43/EEC) and Natura2000 Figure 1: 90% of all cargo is transported by ships. Source: picrepro.com",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It will be evaluated whether these areas with special environmental protection also provide less pressure from",
+      "context_window": "shows the Dominance maps overlayed with the chosen MPAs. It will be evaluated whether these areas with special environmental protection also provide less pressure from continuous noise. The pressure curves for the subregions, the MPAs and the whole North Sea are plotted in",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for",
+      "context_window": "• Generator/ platform noise Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "geographic",
+      "context_window": "The spatial and temporal parameters are to be set by specifying time (e.g. season) and space (e.g. geographic area). This will help determine the spatial and temporal resolution for the input and output data.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Note that a different normalisation is chosen compared to Merchant",
+      "context_window": "The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Note that a different normalisation is chosen compared to Merchant et al., (2018). Here the index is calculated as the area below the pressure curve, where the axes range from 0 to 1 (and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Animals use sound to",
+      "context_window": "invertebrates, the auditory senses are very important. Underwater visibility is usually very low. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment area whether good environmental status  is reached or not.",
+      "context_window": "Underwater noise can vary greatly in time and space. Ultimately the aim of an assessment is to establish for an assessment area whether good environmental status  is reached or not. The maps presented in Figure 2, Figure 3",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human",
+      "context_window": "Noise) has planned to develop a risk-of-impact indicator for continuous noise. In a risk-of-impact indicator noise maps are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human 16 of 18 OSPAR Commission",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Man-made noise can disturb one or more species depending on acoustic",
+      "context_window": "Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic abilities and sound characteristics. Sound sources can be categorised as continuous or impulsive.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments/quality-status-reports/qsr-2023/indicator-assessments/ambient-noise-pilot",
+      "context_window": "the Northeast Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/ambient-noise-pilot 2 of 18 OSPAR Commission",
+      "page_number": 1,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator.",
+      "context_window": "Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps are still under discussion.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be",
+      "context_window": "6. Evaluate the excess level maps and produce confidence maps Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detailed assessment of areas of special interest.",
+      "context_window": "Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a detailed assessment of areas of special interest. This is not part of the first North Sea indicator assessment. 6.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "needs to be made.",
+      "context_window": "that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made. The maps for continuous noise show large spatial variations. An assessment for the North Sea as one assessment area",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact Assessment (EIA) Directive (2014/52/EU)",
+      "context_window": "o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental Impact Assessment (EIA) Directive (2014/52/EU) o OSPAR Biological Diversity and Ecosystems Strategy 2010",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries,",
+      "context_window": "feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To analyse regional differences in more details the pressure curve can also be calculated for sub-regions.",
+      "context_window": "The corresponding indices vary from 0,18 to 0,30. The year index is 0,24. To analyse regional differences in more details the pressure curve can also be calculated for sub-regions. Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They should be developed in collaboration",
+      "context_window": "interference). At this moment these maps are not available for most species. They should be developed in collaboration with marine biologists. Distribution maps can be a proxy for habitat suitability, but also spawning areas, where animals",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cooperation at Union level, taking into account regional or sub-regional specificities.” OSPAR has adopted Criterion",
+      "context_window": "populations of marine animals.” At present, there are no quantitative targets for GES, although these are expected to be defined since the Directive requires that “Member States shall establish threshold values for these levels through cooperation at Union level, taking into account regional or sub-regional specificities.” OSPAR has adopted Criterion D11C2 as an OSPAR Common Indicator for carrying out its Quality Status Report (QSR) 2023. The assessment will be based on the OSPAR monitoring strategy (Snoek et al., 2015), which has been elaborated in the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental",
+      "context_window": "Environmental agreements o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental Impact Assessment (EIA) Directive (2014/52/EU) o",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions.",
+      "context_window": "To analyse regional differences in more details the pressure curve can also be calculated for sub-regions. Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions. For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure by continuous noise.",
+      "context_window": "some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region). There is a",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Major differences could be",
+      "context_window": "OSPAR Commission The modelling results were validated with the measurements of the JOMOPANS project. Major differences could be attributed to: •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to validate the modelling.",
+      "context_window": "6 of 18 OSPAR Commission to validate the modelling. Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as a pollutant and subsequent actions need to be taken.",
+      "context_window": "for marine life, yet the overall impact of sound on marine life is largely unknown. Underwater noise is now recognised as a pollutant and subsequent actions need to be taken. Moreover, underwater sound can carry over large distances depending on its properties and properties of the dynamic marine environment being thus a transnational phenomenon.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "List Biological Diversity and Ecosystems - Management of specific human pressures Relevant OSPAR",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "criteria.",
+      "context_window": "animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective criteria. From these effects masking (for marine mammals) is best known and the influence of continuous noise on the signal-to-noise ratio can be calculated directly.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Animals use sound to navigate, find food, communicate with potential partners",
+      "context_window": "For marine animals, such as whales, fish and even invertebrates, the auditory senses are very important. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "List Pilot Assessment Thematic Activity List Biological Diversity and Ecosystems - Management of specific human",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2022",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Pilot Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "/2022",
+      "context_window": "Publication Number: 886 /2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief) ..................................................................................................... 3",
+      "context_window": "Contents Key Message…………… .................................................................................................. 3 Background (brief) ..................................................................................................... 3 Background (extended) .............................................................................................. 3 Assessment Method .................................................................................................. 5",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Man-made noise",
+      "context_window": "Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more of these biological functions essential to animal survival. Sound is therefore directly relevant",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental management: good knowledge of the effects of noise on marine life (biological relevance and",
+      "context_window": "marine environment being thus a transnational phenomenon. Two major elements have to be considered for environmental management: good knowledge of the effects of noise on marine life (biological relevance and significance of sound) and good knowledge of sound properties, and its spatial and temporal distribution (physical conditions).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic",
+      "context_window": "Other effects, like disturbance, can lead to assessing absolute sound pressure levels as well and may be more appropriate for other OSPAR Regions than Region II. There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate confidence",
+      "context_window": "moderate confidence in the methodology used and moderate confidence in the data availability. Results (extended)",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Offshore wind",
+      "context_window": "Shipping routes o Offshore wind o Other human activities",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata.............................................................................................. 17",
+      "context_window": "Knowledge Gaps (extended) .................................................................................... 15 References………..……………………………………………………………………….………………………..17 Assessment Metadata.............................................................................................. 17 3 of 18 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species",
+      "context_window": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure index. A subdivision of the North Sea needs to be determined. This can be based on:",
+      "context_window": "The regional subdivision described by Kinneging and Tougaard (2021) illustrates the regional differences and their effect on the pressure index. A subdivision of the North Sea needs to be determined. This can be based on: • Ecological characteristics",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "noise the indices may not be directly compared anyway.",
+      "context_window": "depicted from 0% to 100%) and thus normalised to 1. Because of the different character of continuous noise to impulsive noise the indices may not be directly compared anyway. Results (brief) The results of this assessment have been based on the EU funded JOMOPANS (Joint Monitoring Programme for Ambient",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North",
+      "context_window": "17 of 18 OSPAR Commission Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North Sea.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "animals and the whole population.",
+      "context_window": "Knowledge Gaps (extended) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective criteria.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of",
+      "context_window": "OSPAR Commission Assessment Method Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of noise in the environment. Masking is closely related to the signal-to-noise ratio, i.e.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats Directive (Council Directive 92/43/EEC) and Natura2000",
+      "context_window": ", ACCOBAMS (Agreement on the Conservation of Cetaceans of the Black Sea, Mediterranean Sea and contiguous Atlantic Area)Agreements Habitats Directive (Council Directive 92/43/EEC) and Natura2000 Figure 1: 90% of all cargo is transported by ships. Source: picrepro.com",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for",
+      "context_window": "• Generator/ platform noise Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Note that a different normalisation is chosen compared to Merchant",
+      "context_window": "The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Note that a different normalisation is chosen compared to Merchant et al., (2018). Here the index is calculated as the area below the pressure curve, where the axes range from 0 to 1 (and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment area whether good environmental status  is reached or not.",
+      "context_window": "Underwater noise can vary greatly in time and space. Ultimately the aim of an assessment is to establish for an assessment area whether good environmental status  is reached or not. The maps presented in Figure 2, Figure 3",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Man-made noise can disturb one or more species depending on acoustic",
+      "context_window": "Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic abilities and sound characteristics. Sound sources can be categorised as continuous or impulsive.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments/quality-status-reports/qsr-2023/indicator-assessments/ambient-noise-pilot",
+      "context_window": "the Northeast Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/ambient-noise-pilot 2 of 18 OSPAR Commission",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human",
+      "context_window": "Noise) has planned to develop a risk-of-impact indicator for continuous noise. In a risk-of-impact indicator noise maps are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human 16 of 18 OSPAR Commission",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Animals use sound to",
+      "context_window": "invertebrates, the auditory senses are very important. Underwater visibility is usually very low. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "geographic",
+      "context_window": "The spatial and temporal parameters are to be set by specifying time (e.g. season) and space (e.g. geographic area). This will help determine the spatial and temporal resolution for the input and output data.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It will be evaluated whether these areas with special environmental protection also provide less pressure from",
+      "context_window": "shows the Dominance maps overlayed with the chosen MPAs. It will be evaluated whether these areas with special environmental protection also provide less pressure from continuous noise. The pressure curves for the subregions, the MPAs and the whole North Sea are plotted in",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Noise) has planned to develop a risk-of-impact indicator for continuous noise.",
+      "context_window": "acoustic modelling which could be improved upon (Putland et al., 2021). As a next step in the assessment of continuous noise, OSPAR’s Intersessional Correspondence Group on Noise (ICG Noise) has planned to develop a risk-of-impact indicator for continuous noise. In a risk-of-impact indicator noise maps are overlayed with maps of habitat suitability (where are the conditions for marine animals best without human",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and as a warning against various threats.",
+      "context_window": "the auditory senses are very important. Animals use sound to navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more species depending on acoustic abilities and sound characteristics.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise.",
+      "context_window": "knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise. The validation process highlighted the complexity of analysis and limitations in both the field measurements and the acoustic modelling which could be improved upon (Putland et al., 2021).",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment of the North-East Atlantic (the",
+      "context_window": "OSPAR Convention The Convention for the Protection of the Marine Environment of the North-East Atlantic (the “OSPAR Convention”) was opened for signature at the Ministerial Meeting of the former Oslo and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The choice of species to assess in the North Sea",
+      "context_window": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made. The maps for continuous noise show large spatial variations.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "context_window": "At the moment of drafting this assessment no information on continuous noise in OSPAR Region IV (Bay of Biscay and Iberian Coast) and the Channel was available. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the assessment by selection of an appropriate frequency band for the assessment and can be narrow band (1/3 octave) or",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the southern North Sea a pressure",
+      "context_window": "Kinneging and Tougaard (2021) describe the pressure curves for a number of OSPAR sub-regions. For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07. Also the pressure curve is presented for marine",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discussed in detail.",
+      "context_window": "further development will be based on results achieved in the EU MSFD (Common Implementation Strategy (CIS) process. A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "moderate confidence",
+      "context_window": "Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region). There is a moderate confidence in the methodology used and moderate confidence",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "5 of 18 OSPAR Commission Assessment Method Masking by noise is the reduction of listening and communication space of marine organisms due to increased levels of noise in the environment.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual",
+      "context_window": "The models used for this assessment are not suited to very shallow water and intertidal areas. Knowledge Gaps (extended) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both individual animals and the whole population. The choice of species to assess in the North Sea needs to be made based on objective",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References………..……………………………………………………………………….………………………..17",
+      "context_window": "Knowledge Gaps (brief) ............................................................................................ 15 Knowledge Gaps (extended) .................................................................................... 15 References………..……………………………………………………………………….………………………..17 Assessment Metadata.............................................................................................. 17 3 of 18",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the methodology used and",
+      "context_window": "There is a moderate confidence in the methodology used and moderate confidence in the data availability.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea.",
+      "context_window": "OSPAR Commission Figure 11: Pressure curves for continuous noise in the North Sea and for the cod spawning areas within the North Sea.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of a risk-of-impact indicator the cutoff level should be chosen on the expected impact for an indicator species.",
+      "context_window": "Figure 5 the dominance is shown for a cutoff level of 20 dB. In case of a risk-of-impact indicator the cutoff level should be chosen on the expected impact for an indicator species. For this assessment of the pressure indicator a value of 20 dB is chosen.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shipping and windfarm development.",
+      "context_window": "Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries, shipping and windfarm development. An interdisciplinary effort is needed to get a better view on the good environmental status in relation to noise. The validation process highlighted the complexity of analysis and limitations in both the field measurements and the",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can disturb one or more of these biological functions essential to animal survival.",
+      "context_window": "navigate, find food, communicate with potential partners and as a warning against various threats. Man-made noise can disturb one or more of these biological functions essential to animal survival. Sound is therefore directly relevant for marine life, yet the overall impact of sound on marine life is largely unknown.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other human activities",
+      "context_window": "Offshore wind o Other human activities • Environmental agreements",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that can be potentially affected and on populations of relevant species.",
+      "context_window": "Knowledge Gaps (brief) The major knowledge gaps for continuous noise concern the effects of continuous noise on marine life, both on species that can be potentially affected and on populations of relevant species. The choice of species to assess in the North Sea needs to be made.",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "context_window": "A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum. This must be included in the assessment by selection of an appropriate frequency band for the assessment and can be narrow band (1/3 octave) or",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At present these steps",
+      "context_window": "produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps are still under discussion. Underwater sound varies with time and space and therefore evaluation needs to be done on statistical parameters of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are",
+      "context_window": "through further validation of its general principles. The further development will be based on results achieved in the EU MSFD (Common Implementation Strategy (CIS) process. A guidance on methodology and criteria is currently being finalised by the EU MSFD TG-Noise where open issues are discussed in detail. Different indicator species are sensitive in different parts of the frequency spectrum.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Also the pressure curve is presented for marine",
+      "context_window": "For the southern North Sea a pressure index of 0,40 is found, while the Dogger Bank has an index of 0,07. Also the pressure curve is presented for marine protected areas (MPAs) under the Natura 2000 network. Figure 8",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems - Management of specific human",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems - Management of specific human pressures Relevant",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental agreements",
+      "context_window": "Other human activities • Environmental agreements o Strategic Environmental Assessment (SEA) Directive (2001/42/EC) and Environmental",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas.",
+      "context_window": "North Sea, but also sub-regions may be chosen. Marine protected areas (MPAs) will be specifically considered. MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas. 1. Collect information on human activities",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressure curves and indices show a monotonous correlation with environmental",
+      "context_window": "Finally, pressure curves and indices were calculated, which showed the seasonal differences, as well as differences for some sub-regions in the North Sea. The pressure curves and indices show a monotonous correlation with environmental pressure by continuous noise. Finally, the noise was analysed for all North Sea MPAs (as one disconnected sub-region).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "Biological Diversity and Ecosystems - Management of specific human pressures Relevant OSPAR Documentation",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "feasible minimum of ecological quality in relation to the human activities in the North Sea.",
+      "context_window": "pressure levels as well and may be more appropriate for other OSPAR Regions than Region II. There is a lack of knowledge concerning the ecological situation in an undisturbed North Sea or even about a realistic feasible minimum of ecological quality in relation to the human activities in the North Sea. Furthermore, there is lack of knowledge concerning the cumulative impact on the ecosystem of human activities in the North Sea, like fisheries,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other purposes for measurements are identified (Fischer et al., 2021), e.g.",
+      "context_window": "OSPAR Commission to validate the modelling. Other purposes for measurements are identified (Fischer et al., 2021), e.g. for a detailed assessment of areas of special interest.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment, however.",
+      "context_window": "insight compared to the other bands. Selection of appropriate band for assessment is beyond the scope of this assessment, however. Since the assessment concerns a pressure indicator only, no indicator species have been selected. It is simply assumed that the band selected is relevant to the major species.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine protected areas (MPAs) will be specifically considered.",
+      "context_window": "The assessment will focus on the whole North Sea, but also sub-regions may be chosen. Marine protected areas (MPAs) will be specifically considered. MPAs will also explicitly be considered to allow for estimation of pressure in comparison to other areas. 1.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for cod were used to calculate the risk-of-impact indices (see",
+      "context_window": "are most vulnerable. As an example, cod spawning areas (source: IMR, Norway) and the major spawning months (spring) for cod were used to calculate the risk-of-impact indices (see Figure 10 ).",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "produced which indicate where there is greater or lesser confidence in the model predictions.",
+      "context_window": "Evaluate the excess level maps and produce confidence maps Using the sound scape maps and the measurements, a validation is performed, and confidence maps will be produced which indicate where there is greater or lesser confidence in the model predictions. Van Oostveen et al., (2020) also describe subsequent steps towards a risk-of-impact indicator. At present these steps",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 60,
+      "end_sentence": 65,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 60,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 61,
+          "page_number": 3,
+          "content": "Shipping noise is dominant in the underwater soundscape of the North Sea.",
+          "full_length": 73
+        },
+        {
+          "sentence_id": 62,
+          "page_number": 3,
+          "content": "In the southern part and along the major",
+          "full_length": 40
+        },
+        {
+          "sentence_id": 63,
+          "page_number": 3,
+          "content": "shipping routes the noise exceeds the natural sound by more than 20 dB for more than 50% of the time...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 64,
+          "page_number": 3,
+          "content": "Marine",
+          "full_length": 6
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 505,
+      "end_sentence": 521,
+      "sentence_count": 17,
+      "page_range": "14-14",
+      "sentences": [
+        {
+          "sentence_id": 505,
+          "page_number": 14,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 506,
+          "page_number": 14,
+          "content": "Continuous noise should be evaluated in both time and space.",
+          "full_length": 60
+        },
+        {
+          "sentence_id": 507,
+          "page_number": 14,
+          "content": "The maps of Excess Level show that almost all over the",
+          "full_length": 54
+        },
+        {
+          "sentence_id": 508,
+          "page_number": 14,
+          "content": "North Sea shipping noise causes a median Excess Level of 6 dB or more, but the major increase of 20 ...",
+          "full_length": 114
+        },
+        {
+          "sentence_id": 509,
+          "page_number": 14,
+          "content": "concentrated in the southern part of the North Sea and along the major shipping routes.",
+          "full_length": 87
+        }
+      ],
+      "total_sentences_in_section": 17
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 522,
+      "end_sentence": 561,
+      "sentence_count": 40,
+      "page_range": "14-15",
+      "sentences": [
+        {
+          "sentence_id": 522,
+          "page_number": 14,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 523,
+          "page_number": 14,
+          "content": "This assessment concerns the analysis for OSPAR Region II (excluding the Channel), the North Sea.",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 524,
+          "page_number": 14,
+          "content": "It is based on the",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 525,
+          "page_number": 14,
+          "content": "results of the JOMOPANS project.",
+          "full_length": 32
+        },
+        {
+          "sentence_id": 526,
+          "page_number": 14,
+          "content": "When data from the JONAS project become available an analysis of the Channel and",
+          "full_length": 80
+        }
+      ],
+      "total_sentences_in_section": 40
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 634,
+      "end_sentence": 668,
+      "sentence_count": 35,
+      "page_range": "17-17",
+      "sentences": [
+        {
+          "sentence_id": 634,
+          "page_number": 17,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 635,
+          "page_number": 17,
+          "content": "All JOMOPANS reports are available on the JOMOPANS website:",
+          "full_length": 59
+        },
+        {
+          "sentence_id": 636,
+          "page_number": 17,
+          "content": "https://northsearegion.eu/jomopans",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 637,
+          "page_number": 17,
+          "content": "Fischer, J-G., Kühnel, D., Basan, F. (2021) JOMOPANS measurement guidelines.",
+          "full_length": 76
+        },
+        {
+          "sentence_id": 638,
+          "page_number": 17,
+          "content": "Report of the EU INTERREG  Joint",
+          "full_length": 32
+        }
+      ],
+      "total_sentences_in_section": 35
+    }
+  ],
+  "metadata": {
+    "total_sentences": 736,
+    "chunks_selected": 82,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 60,
+        "end_sentence": 65,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 505,
+        "end_sentence": 521,
+        "sentence_count": 17
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 522,
+        "end_sentence": 561,
+        "sentence_count": 40
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 634,
+        "end_sentence": 668,
+        "sentence_count": 35
+      }
+    ],
+    "total_excluded_sentences": 98
+  }
+}

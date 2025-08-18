@@ -1,0 +1,1355 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "atmosphere and the ocean, affecting the local and global climate through the accumulation and",
+      "context_window": "Global climate regulation: Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for",
+      "context_window": "climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Also, the toxicity of pollutants may",
+      "context_window": "temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change also contributes to oxygen depletion (hypoxia and",
+      "context_window": "Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and anoxia) in the marine environment, which can increase the uptake of methylmercury in food webs and in several cases has also been found to increase the toxicity of contaminants.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "increase with increasing temperatures.",
+      "context_window": "hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and anoxia) in the marine environment, which can increase the uptake of methylmercury in food webs and in",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "There is substantial evidence that increases in",
+      "context_window": "OSPAR Commission OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Strategic objectives 10, 11 and 12 on climate change.",
+      "context_window": "11 of 30 OSPAR Commission OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change effects.",
+      "context_window": "Change Thematic Assessment in this QSR places hazardous substances into the more general framework of climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility",
+      "context_window": "temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature alone has been shown to affect the volatilisation of pesticides and of POPs such as Dioxins, DDT, PCDD/Fs, PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility and transportability (Kibria et al., 2021). The side effect of temperature rise is more rain, which leads to floods",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "temperature and extreme events may enhance the release, transportation, and mobilisation of both",
+      "context_window": "OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide).",
+      "context_window": "Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response Many regulations have been put in place to prevent contamination, both internationally by OSPAR and the",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest",
+      "context_window": "The pH change would most likely mainly be a problem in freshwater, where there is low buffer capacity. For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest fires and reduced ocean circulation, will increase methylmercury production in sediments, leading to higher releases from anoxic sediments to the overlying water columns.",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "(which again is possibly linked to climate change).",
+      "context_window": "In some places, DDT has been found to increase in shellfish, and this has been linked to DDT mobilisation in the soil owing to increased precipitation (which again is possibly linked to climate change). Older, more toxic insecticides such as organophosphates 18 of 30",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The risks posed by climate change induced increases in pressures and contaminant concentration levels are",
+      "context_window": "29 of 30 OSPAR Commission The risks posed by climate change induced increases in pressures and contaminant concentration levels are reducing the effects of the efforts to reduce inputs, particularly that from the historic contaminants stored in sediments.",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "contaminants.",
+      "context_window": "In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "hydrophobic and hydrophilic pollutants in the marine environment.",
+      "context_window": "There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "releases from anoxic sediments to the overlying water columns.",
+      "context_window": "For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest fires and reduced ocean circulation, will increase methylmercury production in sediments, leading to higher releases from anoxic sediments to the overlying water columns. Forest fires increase the release of mercury stored in soils on land, and higher atmospheric residence time and winds increase the long-range",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher",
+      "context_window": "in this QSR places hazardous substances into the more general framework of climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "potential to",
+      "context_window": "Changes to hydrological conditions both have the potential to (re)mobilise hazardous substances adsorbed to sediments, making them available to affect biota.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature",
+      "context_window": "contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature alone has been shown to affect the volatilisation of pesticides and of POPs such as Dioxins, DDT, PCDD/Fs, PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if",
+      "context_window": "concentrations, with few exceptions, are either increasing (Southern North Sea, English Channel) or stable. Table S.2: Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if current trends continue. A hyphen indicates that there were not enough data for the analysis.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment.",
+      "context_window": "Another side effect is the introduction of pest species in agricultural land, which can increase demand for pesticides in colder regions and thus increase their run-off to the marine environment. Finally, increased wind speeds and storms lead to the erosion of coastal landfill sites, the resuspension of coastal sediments and the erosion of coastline in general, releasing the hazardous substances",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes to hydrological conditions",
+      "context_window": "Physical disturbance to seabed and Changes to hydrological conditions both have the potential to",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current trends continue.",
+      "context_window": "Table S.2: Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if current trends continue. A hyphen indicates that there were not enough data for the analysis. The sub-",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "they store into the marine environment.",
+      "context_window": "Finally, increased wind speeds and storms lead to the erosion of coastal landfill sites, the resuspension of coastal sediments and the erosion of coastline in general, releasing the hazardous substances they store into the marine environment. Decreasing pH in seawater could lead to higher release of metals from sediment– since most metals are more soluble at lower pH– into the water phase and the biological community.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "I – Impact (on Ecosystem Services) 22 R – Response 24 Cumulative Effects",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response Many regulations have been put in place to prevent contamination, both internationally by OSPAR and the EU, and nationally by each Contracting Party.",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "R – Response 24 Cumulative Effects 26 Climate Change",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Global climate regulation:",
+      "context_window": "hazardous substances potentially compromise the provision of this ecosystem service. • Global climate regulation: Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The side effect of temperature rise is more rain, which leads to floods",
+      "context_window": "PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility and transportability (Kibria et al., 2021). The side effect of temperature rise is more rain, which leads to floods and higher run-offs of metals and POPs. Another side effect is the introduction of pest species in agricultural",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to combat the spread of hazardous substances will be cancelled out by climate change effects.",
+      "context_window": "several cases has also been found to increase the toxicity of contaminants. Thus, there is a risk that the efforts to combat the spread of hazardous substances will be cancelled out by climate change effects. D - Drivers Societal drivers that lead to the spread of hazardous substances",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Change Thematic Assessment",
+      "context_window": "The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment in this QSR places hazardous substances into the more general framework of climate change effects.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "and results, refer to the",
+      "context_window": "Time trends were also assessed. (For more details on method and results, refer to the CHASE Assessment )",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat",
+      "context_window": "‑ Eco-C), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat Citation OSPAR, 2023.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Eco-C), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat Citation OSPAR, 2023. Hazardous Substances Thematic Assessment",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to higher temperatures.",
+      "context_window": "The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at stations.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pH change would most",
+      "context_window": "The effects would probably not be great, given that most seawaters are above pH 7,5 and thus not inherently acidic. The pH change would most likely mainly be a problem in freshwater, where there is low buffer capacity. For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "The generally upward time trends for fish and shellfish could be due to internal release from",
+      "context_window": "from air and rivers are decreasing, which is also reflected in the decreasing mercury concentrations found in sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate",
+      "context_window": "Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment in this QSR places hazardous substances into the more general framework of",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "are at high risk of collapse over the coming 100 years (Desforges",
+      "context_window": ". As a result, the killer whale populations of the Canary Islands, Greenland, the Strait of Gibraltar, and the United Kingdom are at high risk of collapse over the coming 100 years (Desforges et al ., 2018). In both cases, a significant",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from",
+      "context_window": "Status of Regions based on OHAT model and confidence for the number of stations/time trends for each Region; this is a fair estimate of the confidence for each assessment The pressures from Physical disturbance to seabed and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "released during storm events, dredging operations and shipping, which can have a major influence on",
+      "context_window": "Local drivers such as industries and wastewater from major cities, and consumer products, can influence locally, but there are also hotspots of historic pollution, buried in sediments and released during storm events, dredging operations and shipping, which can have a major influence on shipping lanes and harbours. Land use and agriculture can have a more general impact, either via run-off or",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The QSR 2010 did not include any climate change issues in relation to hazardous substances. The",
+      "context_window": "Thematic Assessments). Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "The focus is now shifting to chemicals",
+      "context_window": "using non-renewable resources, not only in Western Europe but also from the long-range transportation of emissions from China, India and Russia, particularly from coal burning. The focus is now shifting to chemicals for domestic use and waste products from other sectors and industrial production, such as pharmaceuticals and personal care products.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats Thematic Assessment",
+      "context_window": "biodiversity state through effects on mortality, reduced breeding success and species fitness (see Benthic Habitats Thematic Assessment , Fish Thematic Assessment",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing",
+      "context_window": "sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Other possible, but uncertain, impacts on ecosystem services:",
+      "context_window": "fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and clean. Other possible, but uncertain, impacts on ecosystem services: • Water quality regulation:",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below",
+      "context_window": "PAHs Although mean concentrations of polycyclic aromatic hydrocarbons (PAHs) in shellfish and sediment, and of PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below levels likely to harm marine species. Concentrations are decreasing or stable in all but one (Irish and Scottish",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could lead to similar constant oil pollution",
+      "context_window": "Future oil production in the Arctic could lead to similar constant oil pollution and the ensuing increased shipping in Arctic waters would increase the risk of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. Hazardous substances can also combine with other pressures to collectively affect marine species and habitats. The assessment of cumulative effects is considered in the biodiversity thematic assessments (",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could indicate an",
+      "context_window": "OSPAR Commission levels have been observed for both the Southern North Sea and the English Channel. This could indicate an increase in the bioavailability of contaminants and reduced sedimentation or the re-release from sediment of buried contaminants.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CONtaminants of Emerging Concern",
+      "context_window": "One of the main tools used to follow this up has been the COnNECT ( CONtaminants of Emerging Concern and Threat ) project",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment.",
+      "context_window": "), shows that those from air and rivers are decreasing, which is also reflected in the decreasing mercury concentrations found in sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These can lead to changes in state through",
+      "context_window": "and pressures relating to increasing levels of contaminants in sediment (e.g., PBDE, PAH, PCB, metals, organotins), in biota (PBDE, PAH, PCB, metals, organotins, etc). These can lead to changes in state through effects on mortality, reduced breeding success and species fitness, or loss of most sensitive species (e.g., marine snails due to organotin).",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Cumulative Effects 26 Climate Change 28 References",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "component of the ecosystem is lost, affecting the regulation and maintenance of marine food webs",
+      "context_window": "et al ., 2018). In both cases, a significant component of the ecosystem is lost, affecting the regulation and maintenance of marine food webs negatively. For most marine populations, for example most fish stocks, there is no hard evidence that",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels likely to harm marine species.",
+      "context_window": "Although mean concentrations of polycyclic aromatic hydrocarbons (PAHs) in shellfish and sediment, and of PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below levels likely to harm marine species. Concentrations are decreasing or stable in all but one (Irish and Scottish West Coast sediment) of the areas assessed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I – Impact (on Ecosystem Services)",
+      "context_window": "S – State 20 I – Impact (on Ecosystem Services) 22 R – Response",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmospheric and riverine inputs",
+      "context_window": "Example of mercury input to the North Sea The OSPAR ‘other assessment’ of atmospheric and riverine inputs describes the pathways by which these hazardous substances enter the marine environment. The",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992",
+      "context_window": "OSPAR Maritime Area. Under the Paris Convention, the signatory countries agreed to eliminate pollution by organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992 became OSPAR. In total, 65 OSPAR Decisions and Recommendations have been adopted targeting point and diffuse sources",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on several indicators.",
+      "context_window": "Integrated assessment using CHASE (State) A mathematical method, CHASE, was used to make an integrated assessment of sediment and biota based on several indicators. Following this analysis, the status was classified as either good (contaminant 21 of 30",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "known effects on other species.",
+      "context_window": "Other persistent organic pollutants, such as PBDEs, can be found in high concentration in marine mammals. While the decreased fecundity in those species has not yet been attributed to these substances, they have known effects on other species. These all potentially cumulatively impact the abundance, demography, and distribution of marine mammals.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further analyses",
+      "context_window": "To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. Hazardous substances can also combine with other pressures to collectively affect marine species and",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, it could also be related to a change in the general biological condition at",
+      "context_window": "sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at stations. Continuation of the current dependence on coal in Russia, China, and India for power generation,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations increase the demand for food",
+      "context_window": ". Growing global populations increase the demand for food , which is met by agriculture, aquaculture and fishing. Aquaculture and agricultural run-off can introduce contaminants into the marine environment (further information in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Preventing pollution is a world-wide task and more knowledge on occurrence and effects is needed",
+      "context_window": "OSPAR Commission Q5. What do we do next? Preventing pollution is a world-wide task and more knowledge on occurrence and effects is needed Building on its  strategic objectives for 2010-2020, OSPAR has set new strategic objectives for 2020-2030, including the following new operational objectives for this period, as listed in the North-East Atlantic",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While the decreased fecundity in those species has not yet been attributed to these substances, they have",
+      "context_window": "OSPAR Commission Other persistent organic pollutants, such as PBDEs, can be found in high concentration in marine mammals. While the decreased fecundity in those species has not yet been attributed to these substances, they have known effects on other species. These all potentially cumulatively impact the abundance, demography, and distribution of marine",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Under the Paris Convention, the signatory countries agreed to eliminate pollution by",
+      "context_window": "OSPAR Commission OSPAR Maritime Area. Under the Paris Convention, the signatory countries agreed to eliminate pollution by organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992 became OSPAR.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic waters would increase the risk of",
+      "context_window": "could lead to similar constant oil pollution and the ensuing increased shipping in Arctic waters would increase the risk of shipping accidents.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Threat",
+      "context_window": "COnNECT ( CONtaminants of Emerging Concern and Threat ) project run by a consortium of Contracting Parties together with the NORMAN network. Here,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "slow to lead to a change in status in the foreseeable future.",
+      "context_window": "with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next 10-20 years, while in the others, either no significant improvement can be detected or improvement is too slow to lead to a change in status in the foreseeable future. No Regions with currently good status are in danger of taking on poor status.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine mammal populations",
+      "context_window": "OSPAR Commission trophic levels of the food web, but is stable or increasing in many marine mammal populations . As a result, the killer whale populations of the Canary Islands, Greenland, the Strait of Gibraltar, and the United Kingdom",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "Coastal development could disturb seabed sediment (e.g., through dredging of contaminated sediments from shipping lanes and harbours). Cumulative Effects The bow-tie diagram aligns with the DAPSIR narrative in the Thematic Assessment. Provisional confidence",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "processes, they are sometimes (extremely) persistent and degrade very slowly by natural processes in the",
+      "context_window": "Persistent organic pollutants Many of these pollutants are exclusively man-made; they are not found in nature or produced by natural processes, they are sometimes (extremely) persistent and degrade very slowly by natural processes in the marine environment. Most of these substances have chemical properties that cause them to be excreted very slowly, so that they bioaccumulate in long-lived organisms such as fish.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean",
+      "context_window": "Following the bans on the use of tributyltin in antifouling paints there has been a marked improvement in the reproductive condition of marine snails since QSR 2010 over the assessment period 2008–2020. Mean concentrations in sediment have measurably reduced, at the rate of approximately -10% per year, in the Southern North Sea, but no monitoring station is yet significantly below the EQS value proposed by Sweden",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from human activities collectively contribute to the presence of hazardous substances in",
+      "context_window": "Environmental impacts: • The pressures from human activities collectively contribute to the presence of hazardous substances in sediments and biota and lead to measurable biological effects",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next",
+      "context_window": "Table S.2 ). Among the Regions with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next 10-20 years, while in the others, either no significant improvement can be detected or improvement is too slow to lead to a change in status in the foreseeable future.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and",
+      "context_window": "This may also affect commercial fishing, as well as have a negative impact on cultural services: the existence of official advice against eating local fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and clean. Other possible, but uncertain, impacts on ecosystem services:",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Marine Mammal Thematic Assessments). Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Societal drivers that lead to the spread of hazardous substances",
+      "context_window": "to combat the spread of hazardous substances will be cancelled out by climate change effects. D - Drivers Societal drivers that lead to the spread of hazardous substances The main drivers in human activities leading to contamination from hazardous substances are power production, long-range transport and legacy contamination in sediments.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "human activities thematic assessment",
+      "context_window": ", which is met by agriculture, aquaculture and fishing. Aquaculture and agricultural run-off can introduce contaminants into the marine environment (further information in the human activities thematic assessment ). Growing populations also increase the demand for housing and utilities, in turn increasing the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment of cumulative effects is considered in the biodiversity thematic assessments",
+      "context_window": "Hazardous substances can also combine with other pressures to collectively affect marine species and habitats. The assessment of cumulative effects is considered in the biodiversity thematic assessments ( Benthic Habitats",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic levels of the food web, but is stable or increasing in many",
+      "context_window": "24 of 30 OSPAR Commission trophic levels of the food web, but is stable or increasing in many marine mammal populations . As a result,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The need for follow-up of the situation is",
+      "context_window": "analysis. Normalisation is not employed all over the OSPAR Region. The need for follow-up of the situation is still apparent. I – Impact (on Ecosystem Services)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Industrial atmospheric",
+      "context_window": "- Society’s need for trade and movement of goods, stable economies, industrial processes, materials, and health and well-being are drivers of industrial uses. Industrial atmospheric emissions and direct discharges into the sea can lead to the input of substances into the environment, and long-range transport can be a major contributor to the North Sea area.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact fish in all aquatic environments in terms of reproduction, development and/or survival of offspring,",
+      "context_window": "Food web transfer and bioaccumulation of pollutants in fish tissues (e.g., metals, persistent organic pollutants and organochlorine contaminants) can adversely impact fish in all aquatic environments in terms of reproduction, development and/or survival of offspring, and cause population declines (Hamilton et al., 2016). Marine Birds",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is an overall increasing trend for pollution in the",
+      "context_window": "Regions (Region II and eastern parts of Regions III and IV) increasing trends are being observed in some locations for selected substances like mercury. There is an overall increasing trend for pollution in the 9 of 30 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They may have properties that",
+      "context_window": "marine environment. Most of these substances have chemical properties that cause them to be excreted very slowly, so that they bioaccumulate in long-lived organisms such as fish. They may have properties that cause biomagnification, meaning that their concentrations become higher in predators than in their prey, so that those concentrations then increase as the substance moves up the food web. Nevertheless, recent",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "individually and cumulatively to biodiversity state changes.  These Thematic Assessments concern:",
+      "context_window": "Some Thematic Assessments have identified human activities which contribute to hazardous substance pressures that have the potential to contribute individually and cumulatively to biodiversity state changes.  These Thematic Assessments concern: Benthic Habitats :",
+      "page_number": 27,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "atmosphere and the ocean, affecting the local and global climate through the accumulation and",
+      "context_window": "Global climate regulation: Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Also, the toxicity of pollutants may",
+      "context_window": "temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "increase with increasing temperatures.",
+      "context_window": "hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and anoxia) in the marine environment, which can increase the uptake of methylmercury in food webs and in",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Strategic objectives 10, 11 and 12 on climate change.",
+      "context_window": "11 of 30 OSPAR Commission OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility",
+      "context_window": "temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature alone has been shown to affect the volatilisation of pesticides and of POPs such as Dioxins, DDT, PCDD/Fs, PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility and transportability (Kibria et al., 2021). The side effect of temperature rise is more rain, which leads to floods",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide).",
+      "context_window": "Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response Many regulations have been put in place to prevent contamination, both internationally by OSPAR and the",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "(which again is possibly linked to climate change).",
+      "context_window": "In some places, DDT has been found to increase in shellfish, and this has been linked to DDT mobilisation in the soil owing to increased precipitation (which again is possibly linked to climate change). Older, more toxic insecticides such as organophosphates 18 of 30",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "contaminants.",
+      "context_window": "In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "releases from anoxic sediments to the overlying water columns.",
+      "context_window": "For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest fires and reduced ocean circulation, will increase methylmercury production in sediments, leading to higher releases from anoxic sediments to the overlying water columns. Forest fires increase the release of mercury stored in soils on land, and higher atmospheric residence time and winds increase the long-range",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "potential to",
+      "context_window": "Changes to hydrological conditions both have the potential to (re)mobilise hazardous substances adsorbed to sediments, making them available to affect biota.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if",
+      "context_window": "concentrations, with few exceptions, are either increasing (Southern North Sea, English Channel) or stable. Table S.2: Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if current trends continue. A hyphen indicates that there were not enough data for the analysis.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes to hydrological conditions",
+      "context_window": "Physical disturbance to seabed and Changes to hydrological conditions both have the potential to",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "I – Impact (on Ecosystem Services) 22 R – Response 24 Cumulative Effects",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "R – Response 24 Cumulative Effects 26 Climate Change",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The side effect of temperature rise is more rain, which leads to floods",
+      "context_window": "PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility and transportability (Kibria et al., 2021). The side effect of temperature rise is more rain, which leads to floods and higher run-offs of metals and POPs. Another side effect is the introduction of pest species in agricultural",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Change Thematic Assessment",
+      "context_window": "The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment in this QSR places hazardous substances into the more general framework of climate change effects.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat",
+      "context_window": "‑ Eco-C), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat Citation OSPAR, 2023.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to higher temperatures.",
+      "context_window": "The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at stations.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The generally upward time trends for fish and shellfish could be due to internal release from",
+      "context_window": "from air and rivers are decreasing, which is also reflected in the decreasing mercury concentrations found in sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are at high risk of collapse over the coming 100 years (Desforges",
+      "context_window": ". As a result, the killer whale populations of the Canary Islands, Greenland, the Strait of Gibraltar, and the United Kingdom are at high risk of collapse over the coming 100 years (Desforges et al ., 2018). In both cases, a significant",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "released during storm events, dredging operations and shipping, which can have a major influence on",
+      "context_window": "Local drivers such as industries and wastewater from major cities, and consumer products, can influence locally, but there are also hotspots of historic pollution, buried in sediments and released during storm events, dredging operations and shipping, which can have a major influence on shipping lanes and harbours. Land use and agriculture can have a more general impact, either via run-off or",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The focus is now shifting to chemicals",
+      "context_window": "using non-renewable resources, not only in Western Europe but also from the long-range transportation of emissions from China, India and Russia, particularly from coal burning. The focus is now shifting to chemicals for domestic use and waste products from other sectors and industrial production, such as pharmaceuticals and personal care products.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing",
+      "context_window": "sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other possible, but uncertain, impacts on ecosystem services:",
+      "context_window": "fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and clean. Other possible, but uncertain, impacts on ecosystem services: • Water quality regulation:",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "could lead to similar constant oil pollution",
+      "context_window": "Future oil production in the Arctic could lead to similar constant oil pollution and the ensuing increased shipping in Arctic waters would increase the risk of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This could indicate an",
+      "context_window": "OSPAR Commission levels have been observed for both the Southern North Sea and the English Channel. This could indicate an increase in the bioavailability of contaminants and reduced sedimentation or the re-release from sediment of buried contaminants.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediment.",
+      "context_window": "), shows that those from air and rivers are decreasing, which is also reflected in the decreasing mercury concentrations found in sediment. The generally upward time trends for fish and shellfish could be due to internal release from sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Cumulative Effects 26 Climate Change 28 References",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "levels likely to harm marine species.",
+      "context_window": "Although mean concentrations of polycyclic aromatic hydrocarbons (PAHs) in shellfish and sediment, and of PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below levels likely to harm marine species. Concentrations are decreasing or stable in all but one (Irish and Scottish West Coast sediment) of the areas assessed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmospheric and riverine inputs",
+      "context_window": "Example of mercury input to the North Sea The OSPAR ‘other assessment’ of atmospheric and riverine inputs describes the pathways by which these hazardous substances enter the marine environment. The",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on several indicators.",
+      "context_window": "Integrated assessment using CHASE (State) A mathematical method, CHASE, was used to make an integrated assessment of sediment and biota based on several indicators. Following this analysis, the status was classified as either good (contaminant 21 of 30",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further analyses",
+      "context_window": "To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. Hazardous substances can also combine with other pressures to collectively affect marine species and",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations increase the demand for food",
+      "context_window": ". Growing global populations increase the demand for food , which is met by agriculture, aquaculture and fishing. Aquaculture and agricultural run-off can introduce contaminants into the marine environment (further information in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While the decreased fecundity in those species has not yet been attributed to these substances, they have",
+      "context_window": "OSPAR Commission Other persistent organic pollutants, such as PBDEs, can be found in high concentration in marine mammals. While the decreased fecundity in those species has not yet been attributed to these substances, they have known effects on other species. These all potentially cumulatively impact the abundance, demography, and distribution of marine",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic waters would increase the risk of",
+      "context_window": "could lead to similar constant oil pollution and the ensuing increased shipping in Arctic waters would increase the risk of shipping accidents.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "slow to lead to a change in status in the foreseeable future.",
+      "context_window": "with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next 10-20 years, while in the others, either no significant improvement can be detected or improvement is too slow to lead to a change in status in the foreseeable future. No Regions with currently good status are in danger of taking on poor status.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "Coastal development could disturb seabed sediment (e.g., through dredging of contaminated sediments from shipping lanes and harbours). Cumulative Effects The bow-tie diagram aligns with the DAPSIR narrative in the Thematic Assessment. Provisional confidence",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean",
+      "context_window": "Following the bans on the use of tributyltin in antifouling paints there has been a marked improvement in the reproductive condition of marine snails since QSR 2010 over the assessment period 2008–2020. Mean concentrations in sediment have measurably reduced, at the rate of approximately -10% per year, in the Southern North Sea, but no monitoring station is yet significantly below the EQS value proposed by Sweden",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next",
+      "context_window": "Table S.2 ). Among the Regions with poor status, the Irish Sea may possibly progress from poor to good environmental status during the next 10-20 years, while in the others, either no significant improvement can be detected or improvement is too slow to lead to a change in status in the foreseeable future.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Marine Mammal Thematic Assessments). Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "human activities thematic assessment",
+      "context_window": ", which is met by agriculture, aquaculture and fishing. Aquaculture and agricultural run-off can introduce contaminants into the marine environment (further information in the human activities thematic assessment ). Growing populations also increase the demand for housing and utilities, in turn increasing the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic levels of the food web, but is stable or increasing in many",
+      "context_window": "24 of 30 OSPAR Commission trophic levels of the food web, but is stable or increasing in many marine mammal populations . As a result,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Industrial atmospheric",
+      "context_window": "- Society’s need for trade and movement of goods, stable economies, industrial processes, materials, and health and well-being are drivers of industrial uses. Industrial atmospheric emissions and direct discharges into the sea can lead to the input of substances into the environment, and long-range transport can be a major contributor to the North Sea area.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is an overall increasing trend for pollution in the",
+      "context_window": "Regions (Region II and eastern parts of Regions III and IV) increasing trends are being observed in some locations for selected substances like mercury. There is an overall increasing trend for pollution in the 9 of 30 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "individually and cumulatively to biodiversity state changes.  These Thematic Assessments concern:",
+      "context_window": "Some Thematic Assessments have identified human activities which contribute to hazardous substance pressures that have the potential to contribute individually and cumulatively to biodiversity state changes.  These Thematic Assessments concern: Benthic Habitats :",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They may have properties that",
+      "context_window": "marine environment. Most of these substances have chemical properties that cause them to be excreted very slowly, so that they bioaccumulate in long-lived organisms such as fish. They may have properties that cause biomagnification, meaning that their concentrations become higher in predators than in their prey, so that those concentrations then increase as the substance moves up the food web. Nevertheless, recent",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact fish in all aquatic environments in terms of reproduction, development and/or survival of offspring,",
+      "context_window": "Food web transfer and bioaccumulation of pollutants in fish tissues (e.g., metals, persistent organic pollutants and organochlorine contaminants) can adversely impact fish in all aquatic environments in terms of reproduction, development and/or survival of offspring, and cause population declines (Hamilton et al., 2016). Marine Birds",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The need for follow-up of the situation is",
+      "context_window": "analysis. Normalisation is not employed all over the OSPAR Region. The need for follow-up of the situation is still apparent. I – Impact (on Ecosystem Services)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment of cumulative effects is considered in the biodiversity thematic assessments",
+      "context_window": "Hazardous substances can also combine with other pressures to collectively affect marine species and habitats. The assessment of cumulative effects is considered in the biodiversity thematic assessments ( Benthic Habitats",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Societal drivers that lead to the spread of hazardous substances",
+      "context_window": "to combat the spread of hazardous substances will be cancelled out by climate change effects. D - Drivers Societal drivers that lead to the spread of hazardous substances The main drivers in human activities leading to contamination from hazardous substances are power production, long-range transport and legacy contamination in sediments.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and",
+      "context_window": "This may also affect commercial fishing, as well as have a negative impact on cultural services: the existence of official advice against eating local fish may lead to a feeling of loss of natural heritage because the ecosystem no longer appears pristine and clean. Other possible, but uncertain, impacts on ecosystem services:",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pressures from human activities collectively contribute to the presence of hazardous substances in",
+      "context_window": "Environmental impacts: • The pressures from human activities collectively contribute to the presence of hazardous substances in sediments and biota and lead to measurable biological effects",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "processes, they are sometimes (extremely) persistent and degrade very slowly by natural processes in the",
+      "context_window": "Persistent organic pollutants Many of these pollutants are exclusively man-made; they are not found in nature or produced by natural processes, they are sometimes (extremely) persistent and degrade very slowly by natural processes in the marine environment. Most of these substances have chemical properties that cause them to be excreted very slowly, so that they bioaccumulate in long-lived organisms such as fish.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine mammal populations",
+      "context_window": "OSPAR Commission trophic levels of the food web, but is stable or increasing in many marine mammal populations . As a result, the killer whale populations of the Canary Islands, Greenland, the Strait of Gibraltar, and the United Kingdom",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Threat",
+      "context_window": "COnNECT ( CONtaminants of Emerging Concern and Threat ) project run by a consortium of Contracting Parties together with the NORMAN network. Here,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Under the Paris Convention, the signatory countries agreed to eliminate pollution by",
+      "context_window": "OSPAR Commission OSPAR Maritime Area. Under the Paris Convention, the signatory countries agreed to eliminate pollution by organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992 became OSPAR.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Preventing pollution is a world-wide task and more knowledge on occurrence and effects is needed",
+      "context_window": "OSPAR Commission Q5. What do we do next? Preventing pollution is a world-wide task and more knowledge on occurrence and effects is needed Building on its  strategic objectives for 2010-2020, OSPAR has set new strategic objectives for 2020-2030, including the following new operational objectives for this period, as listed in the North-East Atlantic",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, it could also be related to a change in the general biological condition at",
+      "context_window": "sediment to water and marine organisms or to a change in the uptake of metals by fish and shellfish owing to higher temperatures. However, it could also be related to a change in the general biological condition at stations. Continuation of the current dependence on coal in Russia, China, and India for power generation,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "known effects on other species.",
+      "context_window": "Other persistent organic pollutants, such as PBDEs, can be found in high concentration in marine mammals. While the decreased fecundity in those species has not yet been attributed to these substances, they have known effects on other species. These all potentially cumulatively impact the abundance, demography, and distribution of marine mammals.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992",
+      "context_window": "OSPAR Maritime Area. Under the Paris Convention, the signatory countries agreed to eliminate pollution by organohalogen compounds, mercury and cadmium. These agreements formed the basis for what in 1992 became OSPAR. In total, 65 OSPAR Decisions and Recommendations have been adopted targeting point and diffuse sources",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I – Impact (on Ecosystem Services)",
+      "context_window": "S – State 20 I – Impact (on Ecosystem Services) 22 R – Response",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "component of the ecosystem is lost, affecting the regulation and maintenance of marine food webs",
+      "context_window": "et al ., 2018). In both cases, a significant component of the ecosystem is lost, affecting the regulation and maintenance of marine food webs negatively. For most marine populations, for example most fish stocks, there is no hard evidence that",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These can lead to changes in state through",
+      "context_window": "and pressures relating to increasing levels of contaminants in sediment (e.g., PBDE, PAH, PCB, metals, organotins), in biota (PBDE, PAH, PCB, metals, organotins, etc). These can lead to changes in state through effects on mortality, reduced breeding success and species fitness, or loss of most sensitive species (e.g., marine snails due to organotin).",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "CONtaminants of Emerging Concern",
+      "context_window": "One of the main tools used to follow this up has been the COnNECT ( CONtaminants of Emerging Concern and Threat ) project",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats.",
+      "context_window": "and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. Hazardous substances can also combine with other pressures to collectively affect marine species and habitats. The assessment of cumulative effects is considered in the biodiversity thematic assessments (",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below",
+      "context_window": "PAHs Although mean concentrations of polycyclic aromatic hydrocarbons (PAHs) in shellfish and sediment, and of PAH bile metabolites in fish are above background concentrations in most assessed areas, they are below levels likely to harm marine species. Concentrations are decreasing or stable in all but one (Irish and Scottish",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Habitats Thematic Assessment",
+      "context_window": "biodiversity state through effects on mortality, reduced breeding success and species fitness (see Benthic Habitats Thematic Assessment , Fish Thematic Assessment",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The QSR 2010 did not include any climate change issues in relation to hazardous substances. The",
+      "context_window": "Thematic Assessments). Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "The pressures from",
+      "context_window": "Status of Regions based on OHAT model and confidence for the number of stations/time trends for each Region; this is a fair estimate of the confidence for each assessment The pressures from Physical disturbance to seabed and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate",
+      "context_window": "Climate Change The QSR 2010 did not include any climate change issues in relation to hazardous substances. The Climate Change Thematic Assessment in this QSR places hazardous substances into the more general framework of",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "The pH change would most",
+      "context_window": "The effects would probably not be great, given that most seawaters are above pH 7,5 and thus not inherently acidic. The pH change would most likely mainly be a problem in freshwater, where there is low buffer capacity. For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Eco-C), Intersessional Correspondence Group on Economic and Social Analysis (ICG-ESA), Climate Change Expert Group (CCEG) and the OSPAR Commission Secretariat Citation OSPAR, 2023. Hazardous Substances Thematic Assessment",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and results, refer to the",
+      "context_window": "Time trends were also assessed. (For more details on method and results, refer to the CHASE Assessment )",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to combat the spread of hazardous substances will be cancelled out by climate change effects.",
+      "context_window": "several cases has also been found to increase the toxicity of contaminants. Thus, there is a risk that the efforts to combat the spread of hazardous substances will be cancelled out by climate change effects. D - Drivers Societal drivers that lead to the spread of hazardous substances",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Global climate regulation:",
+      "context_window": "hazardous substances potentially compromise the provision of this ecosystem service. • Global climate regulation: Marine ecosystems help to regulate the chemical composition of the atmosphere and the ocean, affecting the local and global climate through the accumulation and",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "R – Response",
+      "context_window": "atmosphere and the ocean, affecting the local and global climate through the accumulation and retention of carbon dioxide and other GHGs (e.g., methane, nitrous oxide). R – Response Many regulations have been put in place to prevent contamination, both internationally by OSPAR and the EU, and nationally by each Contracting Party.",
+      "page_number": 24,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "they store into the marine environment.",
+      "context_window": "Finally, increased wind speeds and storms lead to the erosion of coastal landfill sites, the resuspension of coastal sediments and the erosion of coastline in general, releasing the hazardous substances they store into the marine environment. Decreasing pH in seawater could lead to higher release of metals from sediment– since most metals are more soluble at lower pH– into the water phase and the biological community.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current trends continue.",
+      "context_window": "Table S.2: Summary of CHASE integrated analyses of status in 2020, as well as predicted status in 2030 if current trends continue. A hyphen indicates that there were not enough data for the analysis. The sub-",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment.",
+      "context_window": "Another side effect is the introduction of pest species in agricultural land, which can increase demand for pesticides in colder regions and thus increase their run-off to the marine environment. Finally, increased wind speeds and storms lead to the erosion of coastal landfill sites, the resuspension of coastal sediments and the erosion of coastline in general, releasing the hazardous substances",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature",
+      "context_window": "contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected temperature increase of around 2˚C would increase reaction rates by about 20%. Increased temperature alone has been shown to affect the volatilisation of pesticides and of POPs such as Dioxins, DDT, PCDD/Fs, PCBs and PAHs, but also degradation (e.g., hydrolysation of pesticides), thereby increasing global mobility",
+      "page_number": 28,
+      "keyword_hits": {
+        "temperature increase": 1
+      }
+    },
+    {
+      "core_sentence": "In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher",
+      "context_window": "in this QSR places hazardous substances into the more general framework of climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "hydrophobic and hydrophilic pollutants in the marine environment.",
+      "context_window": "There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may increase with increasing temperatures.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The risks posed by climate change induced increases in pressures and contaminant concentration levels are",
+      "context_window": "29 of 30 OSPAR Commission The risks posed by climate change induced increases in pressures and contaminant concentration levels are reducing the effects of the efforts to reduce inputs, particularly that from the historic contaminants stored in sediments.",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest",
+      "context_window": "The pH change would most likely mainly be a problem in freshwater, where there is low buffer capacity. For mercury, it has been suggested that the increasing temperatures, with related increasing hypoxia, forest fires and reduced ocean circulation, will increase methylmercury production in sediments, leading to higher releases from anoxic sediments to the overlying water columns.",
+      "page_number": 28,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "temperature and extreme events may enhance the release, transportation, and mobilisation of both",
+      "context_window": "OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment. Also, the toxicity of pollutants may",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change effects.",
+      "context_window": "Change Thematic Assessment in this QSR places hazardous substances into the more general framework of climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "There is substantial evidence that increases in",
+      "context_window": "OSPAR Commission OSPAR Strategic objectives 10, 11 and 12 on climate change. There is substantial evidence that increases in temperature and extreme events may enhance the release, transportation, and mobilisation of both hydrophobic and hydrophilic pollutants in the marine environment.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change also contributes to oxygen depletion (hypoxia and",
+      "context_window": "Also, the toxicity of pollutants may increase with increasing temperatures. Climate change also contributes to oxygen depletion (hypoxia and anoxia) in the marine environment, which can increase the uptake of methylmercury in food webs and in several cases has also been found to increase the toxicity of contaminants.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for",
+      "context_window": "climate change effects. In general, temperature increases result in higher chemical reaction rates and could therefore lead to higher biological uptake, because of the higher growth rate in warmer waters and the higher reaction rates for contaminants. As a rule of thumb, an increase of 10˚C roughly doubles the reaction rates, so the expected",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 6,
+    "keyword_counts": {
+      "climate change": 14,
+      "ocean acidification": 1,
+      "temperature increase": 1,
+      "carbon dioxide": 1,
+      "hypoxia": 2,
+      "anoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 91,
+      "end_sentence": 152,
+      "sentence_count": 62,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "Since 1998, including under the NEAES 2010-2020 Strategy, OSPAR’s objective for Hazardous Substances...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "been “",
+          "full_length": 6
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "to prevent pollution of the OSPAR Maritime Area by continuously reducing discharges, emissions and",
+          "full_length": 98
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 3,
+          "content": "losses of hazardous substances, with the ultimate aim to achieve concentrations in the marine enviro...",
+          "full_length": 105
+        }
+      ],
+      "total_sentences_in_section": 62
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1408,
+      "end_sentence": 1484,
+      "sentence_count": 77,
+      "page_range": "29-30",
+      "sentences": [
+        {
+          "sentence_id": 1408,
+          "page_number": 29,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1409,
+          "page_number": 29,
+          "content": "Beyer, J., Goksoyr, A., Hjermann, D.O., Klungsoyr, J.",
+          "full_length": 53
+        },
+        {
+          "sentence_id": 1410,
+          "page_number": 29,
+          "content": "2020.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1411,
+          "page_number": 29,
+          "content": "Environmental effects of offshore produced water",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 1412,
+          "page_number": 29,
+          "content": "discharges: A review focused on the Norwegian continental shelf. Marine Environmental Research 162",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 77
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1532,
+    "chunks_selected": 91,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 91,
+        "end_sentence": 152,
+        "sentence_count": 62
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1408,
+        "end_sentence": 1484,
+        "sentence_count": 77
+      }
+    ],
+    "total_excluded_sentences": 139
+  }
+}

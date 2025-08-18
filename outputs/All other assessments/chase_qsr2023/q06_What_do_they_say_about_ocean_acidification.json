@@ -1,0 +1,1099 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Development and testing of a prototype tool for integrated assessment of chemical status in",
+      "context_window": "Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016).",
+      "context_window": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016). Development and testing of a prototype tool for integrated assessment of chemical status in marine environments.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other",
+      "context_window": "It integrates the indicators by adding the ratios of measured concentration to target values and dividing by the square root of the number of indicators, to ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environments.",
+      "context_window": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016). Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment , 188(2), 115.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and",
+      "context_window": "OSPAR Commission Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental monitoring and assessment",
+      "context_window": "Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment , 188(2), 115. https://doi.org/10.1007/s10661-016-5121-x",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4:",
+      "context_window": "10 of 12 OSPAR Commission Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay .",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators with low impact.",
+      "context_window": "measured concentration to target values and dividing by the square root of the number of indicators, to ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substances and biological effects (Andersen et al., 2010).",
+      "context_window": "Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010). It integrates the indicators by adding the ratios of measured concentration to target values and dividing by the square root of the number of indicators, to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Status and Trend Hazardous",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "good environmental status.",
+      "context_window": "above the CHASE score of 1. This indicates that almost the whole OSPAR region II-IV are a long way from a good environmental status. A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additive statistical model fitted to the available CRs.",
+      "context_window": "'s are not available in some regions due to a lack of data. Such missing values are ‘filled in’ using an additive statistical model fitted to the available CRs. This gives a balanced CHASE estimate for all regions. Only regions where there are CRs for more than half the indicators are included in the final results (this",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described in the text.",
+      "context_window": "2,64 Table 2 CHASE CR and CS values for biota. Red numbers are filled in based on other indicators as described in the text. 9 of 12 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the",
+      "context_window": "This indicates that almost the whole OSPAR region II-IV are a long way from a good environmental status. A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made. For the sediments, the trend was slightly",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment in relation to hazardous substances using the indicator-based assessments on individual",
+      "context_window": "The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010). It integrates the indicators by adding the ratios of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting authors: Brendan McHugh and Anne Sorensen",
+      "context_window": "Contributors Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and",
+      "context_window": "Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several other ways of assessing the overall status have been tried (Andersen et",
+      "context_window": "ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool. In the original CHASE tool, the confidence of the CHASE tool was linked to the indicator and target values,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), with the upper confidence limit",
+      "context_window": "assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit for the Barents Sea and Irish and Scottish West Coast above “good”, but the point estimate in “good” status.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators.",
+      "context_window": "i of each indicator (i) to its target value divided by the square root of the number of indicators. This is done for biota and sediment separately, and then the results are combined using the same method.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and is likely to move below 1 in the next ten years.",
+      "context_window": "i s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line (",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As CS is calculated for biota and sediment individually, the overall CS is",
+      "context_window": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This is done for biota and sediment separately, and then the results are combined using the",
+      "context_window": "of each indicator (i) to its target value divided by the square root of the number of indicators. This is done for biota and sediment separately, and then the results are combined using the same method. The approach was first used in HELCOM Holistic Assessment (HOLAS) (Andersen et al., 2010).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine",
+      "context_window": "Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above",
+      "context_window": "𝑛𝑛 𝑖𝑖=1 A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Extended",
+      "context_window": "et al., 2010). 2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann",
+      "context_window": "l´Union européenne Contributors Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE.",
+      "context_window": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation Larsen, M.M., Fryer, R., Hjermann, D., McHugh, B. and Sorensen, A. 2022. Status and Trend hazardous",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the",
+      "context_window": "Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For",
+      "context_window": "Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For the other regions, the increasing mercury trend (see Heavy Metals Indicator Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The starting point is the modelled CS for the region in",
+      "context_window": "s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line ( Figure 4",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule",
+      "context_window": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule sous-région présentant un bon état écologique. Pour le biote, les données de 13 sous-régions étaient disponibles, et seules trois sous-régions présentaient un bon état écologique.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hazardous Substances and Eutrophication Committee.",
+      "context_window": "Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation Larsen, M.M., Fryer, R., Hjermann, D., McHugh, B. and Sorensen, A. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023 assessment.",
+      "context_window": "given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the",
+      "context_window": "For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pour",
+      "context_window": "Récapitulatif L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule sous-région présentant un bon état écologique. Pour le biote, les données de 13 sous-régions étaient",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lower confidence, and using non-ecotoxicologically based targets like background assessment values was",
+      "context_window": "so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB",
+      "context_window": "This gives a balanced CHASE estimate for all regions. Only regions where there are CRs for more than half the indicators are included in the final results (this excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB and mercury measured). An upper 95% confidence limit on the CS was calculated based on the uncertainty",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM",
+      "context_window": "2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were",
+      "context_window": "al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool. In the original CHASE tool, the confidence of the CHASE tool was linked to the indicator and target values, so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trend Hazardous Substances using CHASE",
+      "context_window": "significant trends, with a significantly increasing trend observed for the Southern North Sea, so no change in status for the other regions can be expected within the next 20 years. Status and Trend Hazardous Substances using CHASE 8 of 12 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above",
+      "context_window": "Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included. A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. The main objective of CHASE was to develop a method that would not result in CS<1 if the CR of one or more indicators is above one.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "given low confidence.",
+      "context_window": "considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The starting point is the 2020",
+      "context_window": "Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020 CS value per region calculated in the Status above, with the vertical line representing the uncertainty for this number, and the timetrend including 95% confidence limit on the horizontal axes.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "7.",
+      "context_window": "It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values. 7.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "does the factor.",
+      "context_window": "This “safety” factor based on n has no ecotoxicological meaning but the risk of additive negative impact expectedly increases with the number of substances, as does the factor. 5 of 12 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2)",
+      "context_window": "As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2) 𝐶𝐶𝐶𝐶= 1/√2(𝐶𝐶𝐶𝐶 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the sediments, the trend was slightly",
+      "context_window": "A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made. For the sediments, the trend was slightly downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trend Hazardous Substances using CHASE",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status- reports/qsr-2023/other-assessments/chase Status and Trend Hazardous Substances using CHASE 2 of 12 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For",
+      "context_window": "downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years.",
+      "context_window": "For the sediments, the trend was slightly downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 912/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This way to define confidence is not used in OSPAR’s Quality Status Report (QSR)",
+      "context_window": "lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References ........................................................................................................................................... 11",
+      "context_window": "Knowledge Gaps .................................................................................................................................. 11 7. References ........................................................................................................................................... 11 3 of 12 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay .",
+      "context_window": "Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020 CS value per region calculated in the Status above, with the vertical line representing the uncertainty for this number, and the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and mercury measured).",
+      "context_window": "Only regions where there are CRs for more than half the indicators are included in the final results (this excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB and mercury measured). An upper 95% confidence limit on the CS was calculated based on the uncertainty in the individual Cr",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The fill-in",
+      "context_window": "modelled CS. For indicators, where no measurements had been performed, an extrapolated value was filled in. The fill-in procedure was based on an additive mixed model with region and determinand as explanatory variables. (Variance components were a residual term plus estimation variance assumed known).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "). The overall CHASE assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit for the Barents Sea and Irish and Scottish West Coast above “good”, but the point estimate in “good”",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "s to see if the CS is decreasing",
+      "context_window": "Trends in the CHASE CS were modelled using the trends in the individual CR i s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "then calculated as:",
+      "context_window": "one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2) 𝐶𝐶𝐶𝐶= 1/√2(𝐶𝐶𝐶𝐶",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.",
+      "context_window": "summarising each of these individually and then aggregating to a final CS for all chemical inputs (Andersen et al., 2010). 2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020 with the 95% uncertainty from the regional assessment indicated as a vertical line (",
+      "context_window": "and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line ( Figure 4 ), the 95%",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years.",
+      "context_window": "biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For the other regions, the increasing mercury trend (see",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Publication Number: 912/2022",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 912/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some CR",
+      "context_window": "The background for each indicator is given in the individual indicator assessments. Some CR i 's are not available in some regions due to a lack of data.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), but no time trend data for the Iberian Sea. For biota, six indicators were used,",
+      "context_window": "six subregions ( Table 1 ), but no time trend data for the Iberian Sea. For biota, six indicators were used, including the biological effect imposex (VDS), in twelve regions ( Table 2",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "<1 has to be accepted and discussed.",
+      "context_window": "be developed, and the fact that CS>1 is possible even with all CR i <1 has to be accepted and discussed. It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment for biota indicated three of 12 areas in good status (",
+      "context_window": "Imposex Indicator Assessment ). The overall CHASE assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/quality-status-",
+      "context_window": "In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status- reports/qsr-2023/other-assessments/chase Status and Trend Hazardous Substances using CHASE",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Convention OSPAR",
+      "context_window": "Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom. Convention OSPAR La Convention pour la protection du milieu marin de l´Atlantique du Nord-Est, dite Convention OSPAR, a",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the",
+      "context_window": "i <1 has to be accepted and discussed. It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values. 7.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators CR included.",
+      "context_window": "2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included. A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. The main objective of CHASE was to develop a method that would not",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016).",
+      "context_window": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016). Development and testing of a prototype tool for integrated assessment of chemical status in marine environments.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environments.",
+      "context_window": "Gustavson, K., Haarich, M., Kallenbach, E. M., Mannio, J., Strand, J., & Korpinen, S. (2016). Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment , 188(2), 115.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental monitoring and assessment",
+      "context_window": "Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment , 188(2), 115. https://doi.org/10.1007/s10661-016-5121-x",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators with low impact.",
+      "context_window": "measured concentration to target values and dividing by the square root of the number of indicators, to ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022 Status and Trend Hazardous",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "additive statistical model fitted to the available CRs.",
+      "context_window": "'s are not available in some regions due to a lack of data. Such missing values are ‘filled in’ using an additive statistical model fitted to the available CRs. This gives a balanced CHASE estimate for all regions. Only regions where there are CRs for more than half the indicators are included in the final results (this",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the",
+      "context_window": "This indicates that almost the whole OSPAR region II-IV are a long way from a good environmental status. A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made. For the sediments, the trend was slightly",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supporting authors: Brendan McHugh and Anne Sorensen",
+      "context_window": "Contributors Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several other ways of assessing the overall status have been tried (Andersen et",
+      "context_window": "ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool. In the original CHASE tool, the confidence of the CHASE tool was linked to the indicator and target values,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators.",
+      "context_window": "i of each indicator (i) to its target value divided by the square root of the number of indicators. This is done for biota and sediment separately, and then the results are combined using the same method.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As CS is calculated for biota and sediment individually, the overall CS is",
+      "context_window": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine",
+      "context_window": "Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Extended",
+      "context_window": "et al., 2010). 2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann",
+      "context_window": "l´Union européenne Contributors Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Citation",
+      "context_window": "Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation Larsen, M.M., Fryer, R., Hjermann, D., McHugh, B. and Sorensen, A. 2022. Status and Trend hazardous",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For",
+      "context_window": "Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For the other regions, the increasing mercury trend (see Heavy Metals Indicator Assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule",
+      "context_window": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule sous-région présentant un bon état écologique. Pour le biote, les données de 13 sous-régions étaient disponibles, et seules trois sous-régions présentaient un bon état écologique.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023 assessment.",
+      "context_window": "given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pour",
+      "context_window": "Récapitulatif L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule sous-région présentant un bon état écologique. Pour le biote, les données de 13 sous-régions étaient",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB",
+      "context_window": "This gives a balanced CHASE estimate for all regions. Only regions where there are CRs for more than half the indicators are included in the final results (this excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB and mercury measured). An upper 95% confidence limit on the CS was calculated based on the uncertainty",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were",
+      "context_window": "al., 2016), but the only robust way found was using the square root n method, now dubbed the CHASE tool. In the original CHASE tool, the confidence of the CHASE tool was linked to the indicator and target values, so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above",
+      "context_window": "Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included. A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. The main objective of CHASE was to develop a method that would not result in CS<1 if the CR of one or more indicators is above one.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The starting point is the 2020",
+      "context_window": "Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020 CS value per region calculated in the Status above, with the vertical line representing the uncertainty for this number, and the timetrend including 95% confidence limit on the horizontal axes.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "does the factor.",
+      "context_window": "This “safety” factor based on n has no ecotoxicological meaning but the risk of additive negative impact expectedly increases with the number of substances, as does the factor. 5 of 12 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(2)",
+      "context_window": "As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2) 𝐶𝐶𝐶𝐶= 1/√2(𝐶𝐶𝐶𝐶 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trend Hazardous Substances using CHASE",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status- reports/qsr-2023/other-assessments/chase Status and Trend Hazardous Substances using CHASE 2 of 12 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years.",
+      "context_window": "For the sediments, the trend was slightly downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This way to define confidence is not used in OSPAR’s Quality Status Report (QSR)",
+      "context_window": "lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay .",
+      "context_window": "Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020 CS value per region calculated in the Status above, with the vertical line representing the uncertainty for this number, and the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The fill-in",
+      "context_window": "modelled CS. For indicators, where no measurements had been performed, an extrapolated value was filled in. The fill-in procedure was based on an additive mixed model with region and determinand as explanatory variables. (Variance components were a residual term plus estimation variance assumed known).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "s to see if the CS is decreasing",
+      "context_window": "Trends in the CHASE CS were modelled using the trends in the individual CR i s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.",
+      "context_window": "summarising each of these individually and then aggregating to a final CS for all chemical inputs (Andersen et al., 2010). 2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years.",
+      "context_window": "biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For the other regions, the increasing mercury trend (see",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some CR",
+      "context_window": "The background for each indicator is given in the individual indicator assessments. Some CR i 's are not available in some regions due to a lack of data.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "<1 has to be accepted and discussed.",
+      "context_window": "be developed, and the fact that CS>1 is possible even with all CR i <1 has to be accepted and discussed. It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/quality-status-",
+      "context_window": "In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status- reports/qsr-2023/other-assessments/chase Status and Trend Hazardous Substances using CHASE",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the",
+      "context_window": "i <1 has to be accepted and discussed. It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values. 7.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators CR included.",
+      "context_window": "2023 assessment. Instead, statistically defined uncertainty is calculated based on the uncertainties of the indicators CR included. A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. The main objective of CHASE was to develop a method that would not",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Convention OSPAR",
+      "context_window": "Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom. Convention OSPAR La Convention pour la protection du milieu marin de l´Atlantique du Nord-Est, dite Convention OSPAR, a",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment for biota indicated three of 12 areas in good status (",
+      "context_window": "Imposex Indicator Assessment ). The overall CHASE assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), but no time trend data for the Iberian Sea. For biota, six indicators were used,",
+      "context_window": "six subregions ( Table 1 ), but no time trend data for the Iberian Sea. For biota, six indicators were used, including the biological effect imposex (VDS), in twelve regions ( Table 2",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Publication Number: 912/2022",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 912/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020 with the 95% uncertainty from the regional assessment indicated as a vertical line (",
+      "context_window": "and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line ( Figure 4 ), the 95%",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "then calculated as:",
+      "context_window": "one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is then calculated as: (2) 𝐶𝐶𝐶𝐶= 1/√2(𝐶𝐶𝐶𝐶",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "). The overall CHASE assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit for the Barents Sea and Irish and Scottish West Coast above “good”, but the point estimate in “good”",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and mercury measured).",
+      "context_window": "Only regions where there are CRs for more than half the indicators are included in the final results (this excludes biota data from the Gulf of Cadiz with only Hg measured and the Norwegian Sea with only PCB and mercury measured). An upper 95% confidence limit on the CS was calculated based on the uncertainty in the individual Cr",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References ........................................................................................................................................... 11",
+      "context_window": "Knowledge Gaps .................................................................................................................................. 11 7. References ........................................................................................................................................... 11 3 of 12 OSPAR Commission",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or",
+      "context_window": "www.ospar.org Publication Number: 912/2022 © OSPAR Commission, 2022. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For",
+      "context_window": "downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the sediments, the trend was slightly",
+      "context_window": "A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made. For the sediments, the trend was slightly downwards, significantly so in the Irish Sea, the Northern North Sea and the Southern North Sea, but the Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "La reproduction de tout ou partie de ce rapport dans une publication peut être",
+      "context_window": "partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2022. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "7.",
+      "context_window": "It should also be noted that Denmark has reservations regarding the OSPAR EAC and ERL values used in the CHASE assessment, and future implementation should preferably be based on EQS values. 7.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "given low confidence.",
+      "context_window": "considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR) 2023 assessment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trend Hazardous Substances using CHASE",
+      "context_window": "significant trends, with a significantly increasing trend observed for the Southern North Sea, so no change in status for the other regions can be expected within the next 20 years. Status and Trend Hazardous Substances using CHASE 8 of 12 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM",
+      "context_window": "2. Background Extended The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lower confidence, and using non-ecotoxicologically based targets like background assessment values was",
+      "context_window": "so that Environmental Quality Standards (EQS) values from the EU Water Framework Directive were considered the gold standard and assigned high confidence, whereas national target values were assigned lower confidence, and using non-ecotoxicologically based targets like background assessment values was given low confidence. This way to define confidence is not used in OSPAR’s Quality Status Report (QSR)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the",
+      "context_window": "For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years. For",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hazardous Substances and Eutrophication Committee.",
+      "context_window": "Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation Larsen, M.M., Fryer, R., Hjermann, D., McHugh, B. and Sorensen, A. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The starting point is the modelled CS for the region in",
+      "context_window": "s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line ( Figure 4",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the",
+      "context_window": "Irish Sea had an indication of possibly coming to a good environmental status in the next 10-20 years. For biota, there are significantly decreasing trends in the Irish Sea, the Iberian Sea and the Celtic Sea, where the Celtic Sea will probably be in good status in 10 years, the Irish Sea is close to “good” status, but despite the decrease in the Iberian Sea, the indication is that it will still not reach “good” status in the next 20 years.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE.",
+      "context_window": "L'impact combiné des indicateurs de biote et de sédiments a été calculé à l'aide de la méthode CHASE. Pour les sédiments, sept sous-régions disposaient de données permettant de calculer le score CHASE, une seule",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above",
+      "context_window": "𝑛𝑛 𝑖𝑖=1 A CS<1 is considered “good” status, whereas CS>1 means that at least one of the individual CRs is above one, or several are close to one. As CS is calculated for biota and sediment individually, the overall CS is",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This is done for biota and sediment separately, and then the results are combined using the",
+      "context_window": "of each indicator (i) to its target value divided by the square root of the number of indicators. This is done for biota and sediment separately, and then the results are combined using the same method. The approach was first used in HELCOM Holistic Assessment (HOLAS) (Andersen et al., 2010).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and is likely to move below 1 in the next ten years.",
+      "context_window": "i s to see if the CS is decreasing and is likely to move below 1 in the next ten years. The starting point is the modelled CS for the region in 2020 with the 95% uncertainty from the regional assessment indicated as a vertical line (",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), with the upper confidence limit",
+      "context_window": "assessment for biota indicated three of 12 areas in good status ( Figure 2 ), with the upper confidence limit for the Barents Sea and Irish and Scottish West Coast above “good”, but the point estimate in “good” status.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and",
+      "context_window": "Lead authors: Martin M. Larsen, Rob Fryer and Dag Hjermann Supporting authors: Brendan McHugh and Anne Sorensen Supported by: Monitoring and on Trends and Effects of Substances in the Marine Environment and Hazardous Substances and Eutrophication Committee. Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment in relation to hazardous substances using the indicator-based assessments on individual",
+      "context_window": "The HELCOM Hazardous Substances Status Assessment Tool (CHASE) was developed for the HELCOM Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010). It integrates the indicators by adding the ratios of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described in the text.",
+      "context_window": "2,64 Table 2 CHASE CR and CS values for biota. Red numbers are filled in based on other indicators as described in the text. 9 of 12 OSPAR Commission",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "good environmental status.",
+      "context_window": "above the CHASE score of 1. This indicates that almost the whole OSPAR region II-IV are a long way from a good environmental status. A time trend for the CHASE assessment of the regions was calculated, based on the time trends of the individual indicators, and a forecast of 10 years was made.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substances and biological effects (Andersen et al., 2010).",
+      "context_window": "Holistic Assessment (HOLAS) in 2010, with the aim of documenting the overall status of the marine environment in relation to hazardous substances using the indicator-based assessments on individual substances and biological effects (Andersen et al., 2010). It integrates the indicators by adding the ratios of measured concentration to target values and dividing by the square root of the number of indicators, to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4:",
+      "context_window": "10 of 12 OSPAR Commission Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay .",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and",
+      "context_window": "OSPAR Commission Figure 4: Time trend based on the individual indicators for biota, with significant (p<0.05) downward trends for the Irish Sea and the Iberian Sea but upward trends in the Southern North Sea, Channel and Northern bay of Biscay . The starting point is the 2020",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other",
+      "context_window": "It integrates the indicators by adding the ratios of measured concentration to target values and dividing by the square root of the number of indicators, to ensure that “dilution” of indicators with high impact (e.g., ratios larger than five) cannot be hidden by other indicators with low impact. Several other ways of assessing the overall status have been tried (Andersen et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Development and testing of a prototype tool for integrated assessment of chemical status in",
+      "context_window": "Development and testing of a prototype tool for integrated assessment of chemical status in marine environments. Environmental monitoring and assessment",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 13,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 71,
+      "end_sentence": 76,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 71,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 72,
+          "page_number": 3,
+          "content": "The combined impact of biota and sediments indicators was calculated using the CHASE method. For",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 73,
+          "page_number": 3,
+          "content": "sediments, seven subregions had data to calculate the CHASE score, with only one subregion having go...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 74,
+          "page_number": 3,
+          "content": "environmental status.",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 75,
+          "page_number": 3,
+          "content": "For biota, data from 13 subregions were available, with only three subregions having",
+          "full_length": 84
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 477,
+      "end_sentence": 499,
+      "sentence_count": 23,
+      "page_range": "10-11",
+      "sentences": [
+        {
+          "sentence_id": 477,
+          "page_number": 10,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 478,
+          "page_number": 10,
+          "content": "Combining the indicators for mercury, cadmium, lead, polycyclic aromatic hydrocarbons (PAHs), non-pl...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 479,
+          "page_number": 10,
+          "content": "CBs, CB118 and PBDE’s in sediment with mercury, PAHs, non-planar CBs, CB118, PBDE’s and imposex VDS",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 480,
+          "page_number": 10,
+          "content": "indicator it is evident, that only for the Irish and Scottish West Coast, a good status can be achie...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 481,
+          "page_number": 10,
+          "content": "The",
+          "full_length": 3
+        }
+      ],
+      "total_sentences_in_section": 23
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 514,
+      "end_sentence": 515,
+      "sentence_count": 2,
+      "page_range": "11-11",
+      "sentences": [
+        {
+          "sentence_id": 514,
+          "page_number": 11,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 515,
+          "page_number": 11,
+          "content": "Andersen, J. H., Murray, C., Larsen, M. M., Green, N., Høgåsen, T., Dahlgren, E., Garnaga-Budrė, G.,",
+          "full_length": 100
+        }
+      ],
+      "total_sentences_in_section": 2
+    }
+  ],
+  "metadata": {
+    "total_sentences": 551,
+    "chunks_selected": 78,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 71,
+        "end_sentence": 76,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 477,
+        "end_sentence": 499,
+        "sentence_count": 23
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 514,
+        "end_sentence": 515,
+        "sentence_count": 2
+      }
+    ],
+    "total_excluded_sentences": 31
+  }
+}

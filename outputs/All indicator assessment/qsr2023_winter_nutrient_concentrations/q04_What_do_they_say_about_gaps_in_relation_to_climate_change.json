@@ -1,0 +1,1278 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "It is unclear whether the limited data availability in these",
+      "context_window": "Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual data are apparent in some assessment areas.",
+      "context_window": "‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach is clearly not in accordance with our ecological",
+      "context_window": "Currently, the same deviation (50%) is used for all indicators and areas. This approach is clearly not in accordance with our ecological knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data gaps through additional data sources and data types, e.g., modelled nutrient data.",
+      "context_window": "Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve the technical quality of the tool to include more indicators and to refine the calculation procedures.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low variability can be sampled infrequently, while efforts are concentrated in regions where variability is",
+      "context_window": "This probably indicates well-designed, risk-based monitoring programmes. Offshore areas with low variability can be sampled infrequently, while efforts are concentrated in regions where variability is greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment. Results (brief)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve",
+      "context_window": "considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve the technical quality of the tool to include more indicators and to refine the calculation procedures. This",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Limitations in the availability of",
+      "context_window": "Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in ‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One of the main knowledge gaps is still the estimation of threshold values.",
+      "context_window": "One of the main knowledge gaps is still the estimation of threshold values. Currently, the same deviation (50%) is used for all indicators and areas.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fewer data in an assessment area often result in lower standard deviations compared to areas with",
+      "context_window": "Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river plumes. Fewer data in an assessment area often result in lower standard deviations compared to areas with more data. This probably indicates well-designed, risk-based monitoring programmes.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrients between assessment units.",
+      "context_window": "knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Dealing with data gaps",
+      "context_window": "The strongest decreasing trend for the number of data has been observed in river plumes, showing a pronounced decrease since 2004 and a subsequent lower level of data. Dealing with data gaps OSPAR 2022 11",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "important and needs further investigation, in particular when the state of estuarine ecosystems improve as a consequence of the efforts under the Water Framework Directive. Knowledge Gaps (extended) COMP4 is the first assessment that uses common threshold values based on a harmonised modelling approach. However, for some areas the model results for a reference situation were not realistic, so",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In oceanic areas, the",
+      "context_window": "number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The role of estuaries and the coastal zone in removal of nutrients is",
+      "context_window": "Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast important and needs further investigation, in particular when the state of estuarine ecosystems improve as",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "context_window": "Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base. Results (extended)",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Identifying causal links between these disturbances and nutrient enrichment can be complicated by other",
+      "context_window": "biodiversity, blooms of nuisance algae or macroalgae, decrease in water clarity and decrease in fish stocks due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations. Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures. Cumulative effects, including climate change, may have similar effects on biological communities",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "COMPEAT (e.g., by weighing of individual years instead of period means) in future.",
+      "context_window": "Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Declining monitoring frequency in some areas and reduced sampling activities in general should be",
+      "context_window": "This is an important aspect in the context of required nutrient reductions and necessary measures to accomplish them. Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail",
+      "context_window": "needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of",
+      "context_window": "This approach is clearly not in accordance with our ecological knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to use them due to an insufficient data base.",
+      "context_window": "overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base. Results (extended) The development of winter DIN concentrations during the different assessment periods of COMP1 (1990-",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered for future assessments, and solutions should be investigated to fill existing and potential future",
+      "context_window": "aspect in the context of required nutrient reductions and necessary measures to accomplish them. Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and how exceptional years due to floods or droughts should be considered in the calculation process of",
+      "context_window": "may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "context_window": "and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative effects, including climate change, may have similar effects on biological communities",
+      "context_window": "Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures. Cumulative effects, including climate change, may have similar effects on biological communities and dissolved oxygen, further complicating efforts to demonstrate causal links. The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river",
+      "context_window": "interpolated or otherwise filled. Data variability Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river plumes. Fewer data in an assessment area often result in lower standard deviations compared to areas with",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas is due to a lack of reporting to the ICES database or due to a lack of measurements.",
+      "context_window": "annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also assessment areas without nutrient data where no assessment was possible.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) One of the main knowledge gaps is still the estimation of threshold values. Currently, the same deviation",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to use them due to an insufficient data base (e.g., in Portuguese oceanic areas).",
+      "context_window": "Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in Figure 5",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Science Agenda (OSA)",
+      "context_window": "In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA) . There is also a need to better understand the implications of data variability in trend assessments to make",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to a large difference in the number of available DIN and DIP",
+      "context_window": "trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The confidence assessments for DIP as shown in",
+      "context_window": "regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in Figure 5 are very similar to DIN with only few differing",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In terms",
+      "context_window": "Assessment areas without or too few data, where no DIN assessment was possible, are indicated in grey. In total, twelve areas were classified as moderate or worse due to high winter DIN concentrations. In terms of area per category being in not good status, these areas represent 61% of the river plumes, 24% of coastal waters and less than 1% of shelf waters in the OSPAR area assessed (Regions II, III and IV).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "important and needs further investigation, in particular when the state of estuarine ecosystems improve as",
+      "context_window": "The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast important and needs further investigation, in particular when the state of estuarine ecosystems improve as a consequence of the efforts under the Water Framework Directive. Knowledge Gaps (extended)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is also a need to better understand the implications of data variability in trend assessments to make",
+      "context_window": "OSPAR Science Agenda (OSA) . There is also a need to better understand the implications of data variability in trend assessments to make use of this information for predictions of whether and when thresholds can be achieved. This is an important",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data gaps were not",
+      "context_window": "All data available from the ICES database were used for the assessment of winter nutrient concentrations. Data from automated measurements or buoy data were not yet made available to ICES. Data gaps were not interpolated or otherwise filled. Data variability",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment areas without nutrient data where no assessment was possible.",
+      "context_window": "areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also assessment areas without nutrient data where no assessment was possible. In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with",
+      "context_window": "assessment areas without nutrient data where no assessment was possible. In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which is still a knowledge gap listed in the",
+      "context_window": "measurements are lacking. In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA) .",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures",
+      "context_window": "illustrating the main cause/effect linkages (OSPAR, 2022). Common Indicators are highlighted in red. Elevated nutrient concentrations promote the growth of phytoplankton and other plant life. Dissolved inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures of human activities and for evaluating the success of measures taken. Changes in nutrient concentrations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment.",
+      "context_window": "Offshore areas with low variability can be sampled infrequently, while efforts are concentrated in regions where variability is greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment. Results (brief) The assessment of winter nutrient concentrations was performed with COMPEAT for the most recent COMP4",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In general, models are required to estimate long-distance transport of nutrients and their regional effects,",
+      "context_window": "in-situ measurements are lacking. In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy",
+      "context_window": "that the classification of the status result is less certain due to DIN concentrations close to the threshold, partly in combination with high standard deviation or a low number of observations. Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT,",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and dissolved oxygen, further complicating efforts to demonstrate causal links.",
+      "context_window": "pressures. Cumulative effects, including climate change, may have similar effects on biological communities and dissolved oxygen, further complicating efforts to demonstrate causal links. The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "shows some data gaps in individual years.",
+      "context_window": "In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In shelf areas, the trendline indicates a more or less stable",
+      "context_window": "Figure c shows similar developments for DIN and DIP data. In shelf areas, the trendline indicates a more or less stable number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of the ecosystem approach, incorporating a complete revision in assessment areas and",
+      "context_window": "defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive management of the ecosystem approach, incorporating a complete revision in assessment areas and threshold values, based on the best available scientific knowledge from EU projects such as JMP EUNOSAT (Enserink et al., 2019), and further developed in OSPAR’s own Eutrophication Modelling group ICG-EMO.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "context_window": "All of these assessments followed the methodology agreed in the Common Procedure. Nevertheless, assessments were based on nationally Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land.",
+      "context_window": "In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river plumes, coastal, shelf and oceanic areas.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "investigated further to make use of the assessment results for interpretation of the eutrophication",
+      "context_window": "Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication assessment and possible inclusion in the integration procedure of a further developed COMPEAT tool.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "number of data over time, with peaks in some years (due to an exceptionally high number of observations in",
+      "context_window": "shows similar developments for DIN and DIP data. In shelf areas, the trendline indicates a more or less stable number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "may lead to area-specific adjustments to the assessment season for future nutrient assessments.",
+      "context_window": "The suitability of the winter assessment season, covering December, January, and February, needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in nutrient concentrations",
+      "context_window": "inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures of human activities and for evaluating the success of measures taken. Changes in nutrient concentrations and ratios can have ecosystem effects such as altering phytoplankton community composition (Burson et al., 2016; Van Beusekom et al., 2019; Greenwood et al., 2019).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS",
+      "context_window": "2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIP assessment was possible, are indicated in grey. To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS values are shown in relation to the good/moderate boundary over the different COMP assessment periods. Figure f",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This indicator on winter",
+      "context_window": "of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic. This indicator on winter nutrient concentrations is one of a suite of eutrophication indicators. When assessed and considered together in the OSPAR Common Procedure in a multi-step method the suite of indicators can be used to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "DIP assessment was possible, are indicated in grey.",
+      "context_window": "Figure e: Assessment results of winter DIP for all assessment periods of COMP1 (1990-2000), COMP2 (2001- 2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIP assessment was possible, are indicated in grey. To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS values are shown in relation to the good/moderate boundary over the different COMP assessment periods.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19",
+      "context_window": "The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19 restrictions. The strongest decreasing trend for the number of data has been observed in river plumes,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and",
+      "context_window": "24 OSPAR Commission Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that the classification of the status result is less certain due to DIN concentrations close to the threshold,",
+      "context_window": "In some areas such as Seine and Thames plumes as well as the French coastal channel area, the accuracy is moderate or low, so that the classification of the status result is less certain due to DIN concentrations close to the threshold, partly in combination with high standard deviation or a low number of observations. Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "defined assessment areas and national threshold values, which limited comparability between countries",
+      "context_window": "the methodology agreed in the Common Procedure. Nevertheless, assessments were based on nationally Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive management of the ecosystem approach, incorporating a complete revision in assessment areas and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different.",
+      "context_window": "shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator assessments provide useful information about trends and are important for informing management",
+      "context_window": "of any one of these four common indicators do not diagnose eutrophication by themselves. However, the indicator assessments provide useful information about trends and are important for informing management measures. OSPAR 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The suitability of the winter assessment season, covering December, January, and February,",
+      "context_window": "weighting and adjustments in the confidence assessment related to different data types and area-specific class boundaries. The suitability of the winter assessment season, covering December, January, and February, needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river",
+      "context_window": "frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river plumes, coastal, shelf and oceanic areas. The overview of annual data for DIN and DIP between 1990-2020 per assessment area category in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through ‘limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication through ‘limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Time-series of nutrient concentrations over the entire assessment period (1990-2020), including",
+      "context_window": "results are summarised in tables and visualised in bar charts and maps, which are produced as output files in the tool. Time-series of nutrient concentrations over the entire assessment period (1990-2020), including trend analysis, were carried out outside the COMPEAT tool. For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be",
+      "context_window": "COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication assessment and possible inclusion in the integration procedure of a further developed COMPEAT tool.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate",
+      "context_window": "Time-series of nutrient concentrations over the entire assessment period (1990-2020), including trend analysis, were carried out outside the COMPEAT tool. For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate significance (",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also",
+      "context_window": "few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced monitoring is appropriate due to the low risk of eutrophication in these areas, according to CEMP",
+      "context_window": "determined due to less frequent monitoring in these areas. In some offshore areas, notably in the Atlantic, reduced monitoring is appropriate due to the low risk of eutrophication in these areas, according to CEMP Guidelines (OSPAR, 2016). Spatial confidence was predominantly moderate or low.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of any one of these four common indicators do not diagnose eutrophication by themselves. However,",
+      "context_window": ". The individual assessment results of any one of these four common indicators do not diagnose eutrophication by themselves. However, the indicator assessments provide useful information about trends and are important for informing management",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends.",
+      "context_window": "assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible trends. Due to the high variability of data, long-term data series are better suited for detecting statistically significant trends.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant trends.",
+      "context_window": "trends. Due to the high variability of data, long-term data series are better suited for detecting statistically significant trends. Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Data coverage",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in",
+      "context_window": "Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Data coverage Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in ‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring for eutrophication, CAMP and RID. Revised in 2021",
+      "context_window": "Monitoring Programme (CEMP). Revised in 2017 OSPAR Agreement 2016-05 CEMP Guidelines for coordinated monitoring for eutrophication, CAMP and RID. Revised in 2021 Date of publication Date",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "implement an automated eutrophication assessment tool to deliver harmonised and transparent",
+      "context_window": "assessed with the COMPEAT tool (see ‘Data analysis’ below), using harmonised and coherent thresholds. The current assessment contributes to Operational Objective S1.O1 under the NEAES: ‘By 2022 OSPAR will implement an automated eutrophication assessment tool to deliver harmonised and transparent assessments for OSPAR and the Marine Strategy Framework Directive and to provide support for the development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Linking observations of area-specific nutrient developments with nutrient input data should be analysed in",
+      "context_window": "and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP",
+      "context_window": "Statistically significant trends (p<0,05) are included in the description of the assessment results. The trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resulting in a less reliable status classification.",
+      "context_window": "Only the Ems plume and Portuguese coastal waters (CWAC) were classified as low, while confidence assessment in the Shannon plume was not possible based on only two available data points resulting in a less reliable status classification. Most of the areas with elevated DIN concentrations along the continental coast from Belgium to Denmark also showed chlorophyll concentrations above thresholds.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The only area where a significant increasing trend for DIN was observed was the Atlantic (ATL) due to an",
+      "context_window": "(2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIN assessment was possible, are indicated in grey. The only area where a significant increasing trend for DIN was observed was the Atlantic (ATL) due to an increase in DIN concentrations, mainly in the last two COMP periods. However, the status is classified as high",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the development of winter DIP concentrations during the different assessment periods is shown.",
+      "context_window": "In Figure e the development of winter DIP concentrations during the different assessment periods is shown. While the general trend over the entire period showed a significant improvement in status similar to DIN, in some areas a deterioration between assessment periods (predominantly between COMP 2 and 3) was",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "not due to individual outliers or insufficient data as a similar pattern was also observed in other adjacent",
+      "context_window": "Figure j ) showed that this was not due to individual outliers or insufficient data as a similar pattern was also observed in other adjacent areas. In the COMP4 period only one year was above the threshold while all other years were clearly below",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations.",
+      "context_window": "Beusekom et al., 2019). Such disturbances then have other effects, such as changes in habitats and biodiversity, blooms of nuisance algae or macroalgae, decrease in water clarity and decrease in fish stocks due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations. Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure b: Overview of ecologically relevant assessment areas based on duration of stratification, mean",
+      "context_window": "the south-western part of the OSPAR Maritime Area are assessed for the first time as they were not part of previous COMP assessments (OSPAR, 2017). Figure b: Overview of ecologically relevant assessment areas based on duration of stratification, mean surface salinity, depth, suspended particulate matter and primary production. For a more complete description of the method used to define the areas refer to Enserink et al., 2019.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’.",
+      "context_window": "implement an automated eutrophication assessment tool to deliver harmonised and transparent assessments for OSPAR and the Marine Strategy Framework Directive and to provide support for the development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’. Assessment Method Assessment areas",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "includes, for example, the possible inclusion of nutrients in the overall eutrophication assessment through",
+      "context_window": "the technical quality of the tool to include more indicators and to refine the calculation procedures. This includes, for example, the possible inclusion of nutrients in the overall eutrophication assessment through weighting and adjustments in the confidence assessment related to different data types and area-specific class boundaries.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the",
+      "context_window": "data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19 restrictions.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the period since the QSR 2010 was analysed to identify possible",
+      "context_window": "trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible trends. Due to the high variability of data, long-term data series are better suited for detecting statistically",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of winter DIN concentrations during the different assessment periods of COMP1 (1990-",
+      "context_window": "to use them due to an insufficient data base. Results (extended) The development of winter DIN concentrations during the different assessment periods of COMP1 (1990- 2000), COMP2 (2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020) is reflected in changing status classifications over time in some areas as illustrated in",
+      "page_number": 15,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "It is unclear whether the limited data availability in these",
+      "context_window": "Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach is clearly not in accordance with our ecological",
+      "context_window": "Currently, the same deviation (50%) is used for all indicators and areas. This approach is clearly not in accordance with our ecological knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low variability can be sampled infrequently, while efforts are concentrated in regions where variability is",
+      "context_window": "This probably indicates well-designed, risk-based monitoring programmes. Offshore areas with low variability can be sampled infrequently, while efforts are concentrated in regions where variability is greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment. Results (brief)",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Limitations in the availability of",
+      "context_window": "Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in ‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fewer data in an assessment area often result in lower standard deviations compared to areas with",
+      "context_window": "Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river plumes. Fewer data in an assessment area often result in lower standard deviations compared to areas with more data. This probably indicates well-designed, risk-based monitoring programmes.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Dealing with data gaps",
+      "context_window": "The strongest decreasing trend for the number of data has been observed in river plumes, showing a pronounced decrease since 2004 and a subsequent lower level of data. Dealing with data gaps OSPAR 2022 11",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In oceanic areas, the",
+      "context_window": "number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "context_window": "Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base. Results (extended)",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "COMPEAT (e.g., by weighing of individual years instead of period means) in future.",
+      "context_window": "Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail",
+      "context_window": "needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to use them due to an insufficient data base.",
+      "context_window": "overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base. Results (extended) The development of winter DIN concentrations during the different assessment periods of COMP1 (1990-",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and how exceptional years due to floods or droughts should be considered in the calculation process of",
+      "context_window": "may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Cumulative effects, including climate change, may have similar effects on biological communities",
+      "context_window": "Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures. Cumulative effects, including climate change, may have similar effects on biological communities and dissolved oxygen, further complicating efforts to demonstrate causal links. The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "areas is due to a lack of reporting to the ICES database or due to a lack of measurements.",
+      "context_window": "annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also assessment areas without nutrient data where no assessment was possible.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to use them due to an insufficient data base (e.g., in Portuguese oceanic areas).",
+      "context_window": "Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in Figure 5",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to a large difference in the number of available DIN and DIP",
+      "context_window": "trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In terms",
+      "context_window": "Assessment areas without or too few data, where no DIN assessment was possible, are indicated in grey. In total, twelve areas were classified as moderate or worse due to high winter DIN concentrations. In terms of area per category being in not good status, these areas represent 61% of the river plumes, 24% of coastal waters and less than 1% of shelf waters in the OSPAR area assessed (Regions II, III and IV).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is also a need to better understand the implications of data variability in trend assessments to make",
+      "context_window": "OSPAR Science Agenda (OSA) . There is also a need to better understand the implications of data variability in trend assessments to make use of this information for predictions of whether and when thresholds can be achieved. This is an important",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment areas without nutrient data where no assessment was possible.",
+      "context_window": "areas is due to a lack of reporting to the ICES database or due to a lack of measurements. There are also assessment areas without nutrient data where no assessment was possible. In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which is still a knowledge gap listed in the",
+      "context_window": "measurements are lacking. In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA) .",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment.",
+      "context_window": "Offshore areas with low variability can be sampled infrequently, while efforts are concentrated in regions where variability is greater and thus where more samples are needed to ensure sufficient confidence in the resulting assessment. Results (brief) The assessment of winter nutrient concentrations was performed with COMPEAT for the most recent COMP4",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy",
+      "context_window": "that the classification of the status result is less certain due to DIN concentrations close to the threshold, partly in combination with high standard deviation or a low number of observations. Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT,",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shows some data gaps in individual years.",
+      "context_window": "In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of the ecosystem approach, incorporating a complete revision in assessment areas and",
+      "context_window": "defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive management of the ecosystem approach, incorporating a complete revision in assessment areas and threshold values, based on the best available scientific knowledge from EU projects such as JMP EUNOSAT (Enserink et al., 2019), and further developed in OSPAR’s own Eutrophication Modelling group ICG-EMO.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land.",
+      "context_window": "In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river plumes, coastal, shelf and oceanic areas.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "number of data over time, with peaks in some years (due to an exceptionally high number of observations in",
+      "context_window": "shows similar developments for DIN and DIP data. In shelf areas, the trendline indicates a more or less stable number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in nutrient concentrations",
+      "context_window": "inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures of human activities and for evaluating the success of measures taken. Changes in nutrient concentrations and ratios can have ecosystem effects such as altering phytoplankton community composition (Burson et al., 2016; Van Beusekom et al., 2019; Greenwood et al., 2019).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This indicator on winter",
+      "context_window": "of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic. This indicator on winter nutrient concentrations is one of a suite of eutrophication indicators. When assessed and considered together in the OSPAR Common Procedure in a multi-step method the suite of indicators can be used to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19",
+      "context_window": "The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19 restrictions. The strongest decreasing trend for the number of data has been observed in river plumes,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that the classification of the status result is less certain due to DIN concentrations close to the threshold,",
+      "context_window": "In some areas such as Seine and Thames plumes as well as the French coastal channel area, the accuracy is moderate or low, so that the classification of the status result is less certain due to DIN concentrations close to the threshold, partly in combination with high standard deviation or a low number of observations. Figure 4: Confidence assessment results for DIN in the period 2015-2020 for temporal, spatial, accuracy",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different.",
+      "context_window": "shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The suitability of the winter assessment season, covering December, January, and February,",
+      "context_window": "weighting and adjustments in the confidence assessment related to different data types and area-specific class boundaries. The suitability of the winter assessment season, covering December, January, and February, needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through ‘limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication through ‘limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be",
+      "context_window": "COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication assessment and possible inclusion in the integration procedure of a further developed COMPEAT tool.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also",
+      "context_window": "few areas), but also a remarkable decrease in the number of data in the last two years. In oceanic areas, the trendline is slightly increasing due to a higher number of data in the period after the QSR 2010, but also shows some data gaps in individual years. Due to a large difference in the number of available DIN and DIP",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of any one of these four common indicators do not diagnose eutrophication by themselves. However,",
+      "context_window": ". The individual assessment results of any one of these four common indicators do not diagnose eutrophication by themselves. However, the indicator assessments provide useful information about trends and are important for informing management",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant trends.",
+      "context_window": "trends. Due to the high variability of data, long-term data series are better suited for detecting statistically significant trends. Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Data coverage",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring for eutrophication, CAMP and RID. Revised in 2021",
+      "context_window": "Monitoring Programme (CEMP). Revised in 2017 OSPAR Agreement 2016-05 CEMP Guidelines for coordinated monitoring for eutrophication, CAMP and RID. Revised in 2021 Date of publication Date",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Linking observations of area-specific nutrient developments with nutrient input data should be analysed in",
+      "context_window": "and how exceptional years due to floods or droughts should be considered in the calculation process of COMPEAT (e.g., by weighing of individual years instead of period means) in future. Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "resulting in a less reliable status classification.",
+      "context_window": "Only the Ems plume and Portuguese coastal waters (CWAC) were classified as low, while confidence assessment in the Shannon plume was not possible based on only two available data points resulting in a less reliable status classification. Most of the areas with elevated DIN concentrations along the continental coast from Belgium to Denmark also showed chlorophyll concentrations above thresholds.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the development of winter DIP concentrations during the different assessment periods is shown.",
+      "context_window": "In Figure e the development of winter DIP concentrations during the different assessment periods is shown. While the general trend over the entire period showed a significant improvement in status similar to DIN, in some areas a deterioration between assessment periods (predominantly between COMP 2 and 3) was",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "not due to individual outliers or insufficient data as a similar pattern was also observed in other adjacent",
+      "context_window": "Figure j ) showed that this was not due to individual outliers or insufficient data as a similar pattern was also observed in other adjacent areas. In the COMP4 period only one year was above the threshold while all other years were clearly below",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure b: Overview of ecologically relevant assessment areas based on duration of stratification, mean",
+      "context_window": "the south-western part of the OSPAR Maritime Area are assessed for the first time as they were not part of previous COMP assessments (OSPAR, 2017). Figure b: Overview of ecologically relevant assessment areas based on duration of stratification, mean surface salinity, depth, suspended particulate matter and primary production. For a more complete description of the method used to define the areas refer to Enserink et al., 2019.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "includes, for example, the possible inclusion of nutrients in the overall eutrophication assessment through",
+      "context_window": "the technical quality of the tool to include more indicators and to refine the calculation procedures. This includes, for example, the possible inclusion of nutrients in the overall eutrophication assessment through weighting and adjustments in the confidence assessment related to different data types and area-specific class boundaries.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, the period since the QSR 2010 was analysed to identify possible",
+      "context_window": "trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible trends. Due to the high variability of data, long-term data series are better suited for detecting statistically",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of winter DIN concentrations during the different assessment periods of COMP1 (1990-",
+      "context_window": "to use them due to an insufficient data base. Results (extended) The development of winter DIN concentrations during the different assessment periods of COMP1 (1990- 2000), COMP2 (2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020) is reflected in changing status classifications over time in some areas as illustrated in",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the",
+      "context_window": "data in 1994, the trendlines for DIN and DIP in oceanic areas are slightly different. The amount of data in coastal areas shows a slightly decreasing trend with varying numbers over time, and similar to shelf areas the lowest number of data in 2020, which is most likely due to reduced monitoring because of Covid-19 restrictions.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’.",
+      "context_window": "implement an automated eutrophication assessment tool to deliver harmonised and transparent assessments for OSPAR and the Marine Strategy Framework Directive and to provide support for the development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’. Assessment Method Assessment areas",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations.",
+      "context_window": "Beusekom et al., 2019). Such disturbances then have other effects, such as changes in habitats and biodiversity, blooms of nuisance algae or macroalgae, decrease in water clarity and decrease in fish stocks due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations. Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 25,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The only area where a significant increasing trend for DIN was observed was the Atlantic (ATL) due to an",
+      "context_window": "(2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIN assessment was possible, are indicated in grey. The only area where a significant increasing trend for DIN was observed was the Atlantic (ATL) due to an increase in DIN concentrations, mainly in the last two COMP periods. However, the status is classified as high",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP",
+      "context_window": "Statistically significant trends (p<0,05) are included in the description of the assessment results. The trend assessment was carried out for the long-term period 1990-2020 and separately for different COMP assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "implement an automated eutrophication assessment tool to deliver harmonised and transparent",
+      "context_window": "assessed with the COMPEAT tool (see ‘Data analysis’ below), using harmonised and coherent thresholds. The current assessment contributes to Operational Objective S1.O1 under the NEAES: ‘By 2022 OSPAR will implement an automated eutrophication assessment tool to deliver harmonised and transparent assessments for OSPAR and the Marine Strategy Framework Directive and to provide support for the development of the Sustainable Development Goal 14.1.1 Index of Coastal Eutrophication in 2025’.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in",
+      "context_window": "Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Data coverage Spatial and temporal data coverage is generally adequate in the areas assessed (see confidence rating in ‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends.",
+      "context_window": "assessment periods (COMP1-4). In addition, the period since the QSR 2010 was analysed to identify possible trends. Due to the high variability of data, long-term data series are better suited for detecting statistically significant trends.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduced monitoring is appropriate due to the low risk of eutrophication in these areas, according to CEMP",
+      "context_window": "determined due to less frequent monitoring in these areas. In some offshore areas, notably in the Atlantic, reduced monitoring is appropriate due to the low risk of eutrophication in these areas, according to CEMP Guidelines (OSPAR, 2016). Spatial confidence was predominantly moderate or low.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate",
+      "context_window": "Time-series of nutrient concentrations over the entire assessment period (1990-2020), including trend analysis, were carried out outside the COMPEAT tool. For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate significance (",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Time-series of nutrient concentrations over the entire assessment period (1990-2020), including",
+      "context_window": "results are summarised in tables and visualised in bar charts and maps, which are produced as output files in the tool. Time-series of nutrient concentrations over the entire assessment period (1990-2020), including trend analysis, were carried out outside the COMPEAT tool. For trend assessments, the Mann-Kendall non-parametric test for linear trends was used to calculate",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river",
+      "context_window": "frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river plumes, coastal, shelf and oceanic areas. The overview of annual data for DIN and DIP between 1990-2020 per assessment area category in",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator assessments provide useful information about trends and are important for informing management",
+      "context_window": "of any one of these four common indicators do not diagnose eutrophication by themselves. However, the indicator assessments provide useful information about trends and are important for informing management measures. OSPAR 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "defined assessment areas and national threshold values, which limited comparability between countries",
+      "context_window": "the methodology agreed in the Common Procedure. Nevertheless, assessments were based on nationally Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive management of the ecosystem approach, incorporating a complete revision in assessment areas and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and",
+      "context_window": "24 OSPAR Commission Figure 5: Confidence assessment results for DIP in the period 2015-2020 for temporal, spatial, accuracy and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "DIP assessment was possible, are indicated in grey.",
+      "context_window": "Figure e: Assessment results of winter DIP for all assessment periods of COMP1 (1990-2000), COMP2 (2001- 2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIP assessment was possible, are indicated in grey. To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS values are shown in relation to the good/moderate boundary over the different COMP assessment periods.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS",
+      "context_window": "2006), COMP3 (2006-2014) and COMP4 (2015-2020). Assessment areas without or too few data, where no DIP assessment was possible, are indicated in grey. To illustrate the different developments of DIN and DIP concentrations in a number of adjacent areas, EQRS values are shown in relation to the good/moderate boundary over the different COMP assessment periods. Figure f",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "may lead to area-specific adjustments to the assessment season for future nutrient assessments.",
+      "context_window": "The suitability of the winter assessment season, covering December, January, and February, needs to be investigated in light of changing climate and increasing biological activity also in winter, which may lead to area-specific adjustments to the assessment season for future nutrient assessments. Furthermore, the impact of climate change on nutrient land-runoff needs to be investigated in more detail and how exceptional years due to floods or droughts should be considered in the calculation process of",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "investigated further to make use of the assessment results for interpretation of the eutrophication",
+      "context_window": "Linking observations of area-specific nutrient developments with nutrient input data should be analysed in more detail to strengthen the linkages. Relationships to pelagic and benthic indicators need to be investigated further to make use of the assessment results for interpretation of the eutrophication assessment and possible inclusion in the integration procedure of a further developed COMPEAT tool.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "context_window": "All of these assessments followed the methodology agreed in the Common Procedure. Nevertheless, assessments were based on nationally Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast defined assessment areas and national threshold values, which limited comparability between countries (Topcu and Brockmann, 2021). The current (fourth) application of the COMP reflects the adaptive",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In shelf areas, the trendline indicates a more or less stable",
+      "context_window": "Figure c shows similar developments for DIN and DIP data. In shelf areas, the trendline indicates a more or less stable number of data over time, with peaks in some years (due to an exceptionally high number of observations in few areas), but also a remarkable decrease in the number of data in the last two years.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and dissolved oxygen, further complicating efforts to demonstrate causal links.",
+      "context_window": "pressures. Cumulative effects, including climate change, may have similar effects on biological communities and dissolved oxygen, further complicating efforts to demonstrate causal links. The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In general, models are required to estimate long-distance transport of nutrients and their regional effects,",
+      "context_window": "in-situ measurements are lacking. In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures",
+      "context_window": "illustrating the main cause/effect linkages (OSPAR, 2022). Common Indicators are highlighted in red. Elevated nutrient concentrations promote the growth of phytoplankton and other plant life. Dissolved inorganic nutrient concentrations of nitrogen and phosphorus act as indicators for quantifying the pressures of human activities and for evaluating the success of measures taken. Changes in nutrient concentrations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with",
+      "context_window": "assessment areas without nutrient data where no assessment was possible. In general, monitoring is more frequent and spatially more densely distributed in coastal areas compared to offshore areas, consistent with monitoring strategies that reflect the higher variability closer to the coast associated with impacts from land. Figure c: Number of annual data of DIN and DIP between 1990 and 2020 in the different categories of river",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data gaps were not",
+      "context_window": "All data available from the ICES database were used for the assessment of winter nutrient concentrations. Data from automated measurements or buoy data were not yet made available to ICES. Data gaps were not interpolated or otherwise filled. Data variability",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "important and needs further investigation, in particular when the state of estuarine ecosystems improve as",
+      "context_window": "The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast important and needs further investigation, in particular when the state of estuarine ecosystems improve as a consequence of the efforts under the Water Framework Directive. Knowledge Gaps (extended)",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The confidence assessments for DIP as shown in",
+      "context_window": "regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in Figure 5 are very similar to DIN with only few differing",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Science Agenda (OSA)",
+      "context_window": "In general, models are required to estimate long-distance transport of nutrients and their regional effects, which is still a knowledge gap listed in the OSPAR Science Agenda (OSA) . There is also a need to better understand the implications of data variability in trend assessments to make",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) One of the main knowledge gaps is still the estimation of threshold values. Currently, the same deviation",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river",
+      "context_window": "interpolated or otherwise filled. Data variability Interannual variability (standard deviation) in offshore areas is generally lower than in coastal areas or river plumes. Fewer data in an assessment area often result in lower standard deviations compared to areas with",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regardless of whether the data are actually included in the overall assessment or whether it is decided not",
+      "context_window": "and overall confidence. Note that confidence is assessed on the basis of all available data in COMPEAT, regardless of whether the data are actually included in the overall assessment or whether it is decided not to use them due to an insufficient data base (e.g., in Portuguese oceanic areas). The confidence assessments for DIP as shown in",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered for future assessments, and solutions should be investigated to fill existing and potential future",
+      "context_window": "aspect in the context of required nutrient reductions and necessary measures to accomplish them. Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of",
+      "context_window": "This approach is clearly not in accordance with our ecological knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining monitoring frequency in some areas and reduced sampling activities in general should be",
+      "context_window": "This is an important aspect in the context of required nutrient reductions and necessary measures to accomplish them. Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Identifying causal links between these disturbances and nutrient enrichment can be complicated by other",
+      "context_window": "biodiversity, blooms of nuisance algae or macroalgae, decrease in water clarity and decrease in fish stocks due to food shortage when benthic animals die, or direct fish kills due to low oxygen concentrations. Identifying causal links between these disturbances and nutrient enrichment can be complicated by other pressures. Cumulative effects, including climate change, may have similar effects on biological communities",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The role of estuaries and the coastal zone in removal of nutrients is",
+      "context_window": "Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast important and needs further investigation, in particular when the state of estuarine ecosystems improve as",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "important and needs further investigation, in particular when the state of estuarine ecosystems improve as a consequence of the efforts under the Water Framework Directive. Knowledge Gaps (extended) COMP4 is the first assessment that uses common threshold values based on a harmonised modelling approach. However, for some areas the model results for a reference situation were not realistic, so",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrients between assessment units.",
+      "context_window": "knowledge and needs further adjustments. Other knowledge gaps are reduced monitoring providing less data over time and estimates for transport of nutrients between assessment units. The role of estuaries and the coastal zone in removal of nutrients is Winter Nutrient Concentrations in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "One of the main knowledge gaps is still the estimation of threshold values.",
+      "context_window": "One of the main knowledge gaps is still the estimation of threshold values. Currently, the same deviation (50%) is used for all indicators and areas.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve",
+      "context_window": "considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve the technical quality of the tool to include more indicators and to refine the calculation procedures. This",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data gaps through additional data sources and data types, e.g., modelled nutrient data.",
+      "context_window": "Declining monitoring frequency in some areas and reduced sampling activities in general should be considered for future assessments, and solutions should be investigated to fill existing and potential future data gaps through additional data sources and data types, e.g., modelled nutrient data. As part of the lessons learnt process from the first COMPEAT assessment, efforts should be made to improve the technical quality of the tool to include more indicators and to refine the calculation procedures.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual data are apparent in some assessment areas.",
+      "context_window": "‘Results extended’ for detailed maps on temporal and spatial confidence). Limitations in the availability of annual data are apparent in some assessment areas. It is unclear whether the limited data availability in these areas is due to a lack of reporting to the ICES database or due to a lack of measurements.",
+      "page_number": 10,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 3,
+      "ocean acidification": 1,
+      "extreme weather": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 90,
+      "end_sentence": 100,
+      "sentence_count": 11,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Since the Quality Status Report 2010 (QSR2010), winter concentrations of dissolved inorganic nitroge...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "and phosphorus (DIP) have continued to decrease, mainly in coastal and some shelf areas in the Great...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "North Sea (Region II), Celtic Seas (Region III) and Bay of Biscay and Iberian Coast (Region IV).",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "In the assessment",
+          "full_length": 17
+        }
+      ],
+      "total_sentences_in_section": 11
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 1236,
+      "end_sentence": 1250,
+      "sentence_count": 15,
+      "page_range": "21-21",
+      "sentences": [
+        {
+          "sentence_id": 1236,
+          "page_number": 21,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1237,
+          "page_number": 21,
+          "content": "In most areas assessed, winter nutrient concentrations of DIN and DIP were below thresholds resultin...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 1238,
+          "page_number": 21,
+          "content": "good or high status classification in the COMP4 period 2015-2020.",
+          "full_length": 65
+        },
+        {
+          "sentence_id": 1239,
+          "page_number": 21,
+          "content": "DIN concentrations exceeding thresholds",
+          "full_length": 39
+        },
+        {
+          "sentence_id": 1240,
+          "page_number": 21,
+          "content": "were observed in twelve assessment areas, while DIP concentrations above thresholds were found in fo...",
+          "full_length": 102
+        }
+      ],
+      "total_sentences_in_section": 15
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1307,
+      "end_sentence": 1366,
+      "sentence_count": 60,
+      "page_range": "22-23",
+      "sentences": [
+        {
+          "sentence_id": 1307,
+          "page_number": 22,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1308,
+          "page_number": 22,
+          "content": "Brockmann, U., D. Topcu, M. Schuett, W. Leujak, W. (2018).",
+          "full_length": 58
+        },
+        {
+          "sentence_id": 1309,
+          "page_number": 22,
+          "content": "Eutrophication assessment in the transit area",
+          "full_length": 45
+        },
+        {
+          "sentence_id": 1310,
+          "page_number": 22,
+          "content": "German Bight (North Sea) 2006–2014 - improvements and limitations.",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 1311,
+          "page_number": 22,
+          "content": "Marine Pollution Bulletin, 136, 68–",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 60
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1449,
+    "chunks_selected": 90,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 90,
+        "end_sentence": 100,
+        "sentence_count": 11
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 1236,
+        "end_sentence": 1250,
+        "sentence_count": 15
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1307,
+        "end_sentence": 1366,
+        "sentence_count": 60
+      }
+    ],
+    "total_excluded_sentences": 86
+  }
+}

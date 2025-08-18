@@ -1,0 +1,1682 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "OSPAR’s ocean acidification assessment",
+      "context_window": "Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment for details). It is a multi-stressor of organisms, meaning it impacts organisms in multiple ways and at multiple stages of their development, and",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "the acidity of the water (pH) (see",
+      "context_window": "Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment for details). It is a multi-stressor of",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "ocean acidification.",
+      "context_window": "environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification. Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification may hamper the ability of Atlantic cod populations (",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 4
+      }
+    },
+    {
+      "core_sentence": "Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification",
+      "context_window": "expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification. Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification may hamper the ability of Atlantic cod populations ( Gadus morhua",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is",
+      "context_window": "to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats harbouring protected species.  Although protected and endangered species are more vulnerable to environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification.",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats",
+      "context_window": "the impacts coincide with other environmental changes (for example temperature change). It can also lead to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats harbouring protected species.  Although protected and endangered species are more vulnerable to environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes",
+      "context_window": "and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "and how they are adapting.",
+      "context_window": "These assessments should review how climate change is affecting the human activities covered by this thematic assessment, and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "should review how climate change is affecting the human activities covered by this thematic assessment, and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to ocean acidification, with",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish.",
+      "context_window": "intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise; effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish. However, there is some possibility of positive impacts such as higher growth rates in some warm- water finfish or shellfish aquaculture;",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise;",
+      "context_window": "aquaculture. Possible negative impacts include loss of production or infrastructure due to increased intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise; effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish. However, there is some possibility of positive impacts such as higher growth rates in some warm-",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "carbon dioxide removal",
+      "context_window": "Geoengineering techniques such as carbon dioxide removal (CDR), ocean fertilisation (OF) and",
+      "page_number": 41,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Potential impacts",
+      "context_window": "research into details and quantifications. Potential impacts include acidification, effects on",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") to deal with changing water",
+      "context_window": "may hamper the ability of Atlantic cod populations ( Gadus morhua ) to deal with changing water temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "for more understanding of pressures from open ocean installations; measures to reduce the impact of",
+      "context_window": "forward in the last decade, although knowledge gaps remain. For example, ICES has highlighted the need for more understanding of pressures from open ocean installations; measures to reduce the impact of escapes; the impact of substances such as therapeutants; and various aspects of shellfish aquaculture. There will also be a need for more understanding and management of pressures from any expansion of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include acidification,",
+      "context_window": "and quantifications. Potential impacts include acidification, effects on productivity and",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due",
+      "context_window": "Gadus morhua ) to deal with changing water temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to ocean",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "assessment of marine environment quality status allows us to better understand and manage the causes",
+      "context_window": "consideration of environmental, social and economic parameters. Embedding ecosystem services into the assessment of marine environment quality status allows us to better understand and manage the causes and consequences of change, in terms of both the impact on the environment and the impact on society (human welfare). This integrated approach allows us to",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’",
+      "context_window": "critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem goods and services (including natural capital assets). In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’ within the DAPSIR framework), a methodology was developed",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "agriculture is a significant source of nutrients contributing to eutrophication; fisheries influence ecosystems",
+      "context_window": "Atlantic, increases in some activities are likely to pose greater risks in future in those OSPAR Regions. All activities covered in the assessment exert pressures on the marine environment. For example, agriculture is a significant source of nutrients contributing to eutrophication; fisheries influence ecosystems through removal of target and non-target species, and through disturbance of the seabed; multiple activities are sources of contaminants and litter, or routes for the introduction and spread of non-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(CDR), ocean",
+      "context_window": "techniques such as carbon dioxide removal (CDR), ocean fertilisation (OF) and solar radiation",
+      "page_number": 41,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "the health, integrity and dynamics of marine ecosystems – baseline vs impacted",
+      "context_window": "affect ecosystems  [AP] • the health, integrity and dynamics of marine ecosystems – baseline vs impacted state [S]",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine ecosystems. To apply the ecosystem approach and to consider cumulative effects in thematic",
+      "context_window": "integrates conservation and management approaches in all of OSPAR’s work and helps to adapt the management of human activities to the complex and dynamic nature of marine ecosystems. To apply the ecosystem approach and to consider cumulative effects in thematic assessments requires an understanding of: •",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect ecosystems  [AP]",
+      "context_window": "and pressures affect ecosystems  [AP] • the health, integrity and dynamics of marine ecosystems – baseline vs impacted",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "limiting inputs of nutrients and organic matter into the marine environment, including inputs from",
+      "context_window": "evaluate progress against OSPAR’s reduction targets; • limiting inputs of nutrients and organic matter into the marine environment, including inputs from agriculture, waste water discharges, and aquaculture; •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem",
+      "context_window": "(human welfare). This integrated approach allows us to identify and take action on influences which are critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem goods and services (including natural capital assets). In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overall, measures to mitigate environmental impacts, including modelling approaches, have moved",
+      "context_window": "Recommendation could cease; however, in 2020 OSPAR decided to initiate a new reporting round on the Recommendation. Overall, measures to mitigate environmental impacts, including modelling approaches, have moved forward in the last decade, although knowledge gaps remain. For example, ICES has highlighted the need",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I – Impact (on Ecosystem Services)",
+      "context_window": "(primarily due to fisheries); physical loss or disturbance of the seabed; input of substances to the marine environment; marine litter; and disturbance by human activities. I – Impact (on Ecosystem Services) Ecosystem services Activities and pressures can have positive and negative impacts on the marine environment and the goods",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification,",
+      "context_window": "to ocean acidification, with potential",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "above-described study on the link between changes in the marine environment and ecosystem services will",
+      "context_window": "will be developed including more ecosystem services and possibly also more analyses. Information from the above-described study on the link between changes in the marine environment and ecosystem services will also be included. The 2021 report considered the compatibility of the basic structure of physical accounts in the SEEA EA",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Potential impacts on",
+      "context_window": "may increase in the longer term. Potential impacts on habitats, species, and physical processes.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g.,",
+      "context_window": "for elaborated Environmental Impact Assessments. Future priorities for OSPAR Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "offshore renewable energy, will have consequences for the marine environment.  (More details in the",
+      "context_window": "due to a changing climate can be expected in the future, which will differ in different areas of the North- East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment )",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "emerging and increasing pressures on the marine environment, taking account of OSPAR’s Quality Status",
+      "context_window": "OSPAR’s NEAES 2030 includes an operational objective that “ by 2024 OSPAR will review the risks from new, emerging and increasing pressures on the marine environment, taking account of OSPAR’s Quality Status Report 2023, and prioritise them for action and the adoption of measures where necessary ”. (NEAES 2030",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developing methods for the analysis of cumulative effects in the marine ecosystems of the North-",
+      "context_window": "identified in this assessment, and prioritising them for action and the adoption of measures; • developing methods for the analysis of cumulative effects in the marine ecosystems of the North- East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Activities and pressures can have positive and negative impacts on the marine environment and the goods",
+      "context_window": "I – Impact (on Ecosystem Services) Ecosystem services Activities and pressures can have positive and negative impacts on the marine environment and the goods and services it provides. Many of those goods and services (‘ecosystem services’) are used and valued by",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thematic assessments to describe the linkages between information on the environmental state changes",
+      "context_window": "a methodology was developed that could be applied to the relevant thematic assessments to describe the linkages between information on the environmental state changes and impacts on ecosystem services. 50 of 60",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of",
+      "context_window": "Further impacts due to a changing climate can be expected in the future, which will differ in different areas of the North- East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "marine environment",
+      "context_window": "effect on the receptors in the marine environment if CO 2",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coverage of sea floor,",
+      "context_window": "altered regional nutrient supply, coverage of sea floor, local anoxia, competition to",
+      "page_number": 41,
+      "keyword_hits": {
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to",
+      "context_window": "Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In looking at how human activities may affect the marine environment in future years, OSPAR needs to",
+      "context_window": "sensitive to uncertainties related to the drivers described above. Future priorities for OSPAR In looking at how human activities may affect the marine environment in future years, OSPAR needs to recognise that the future is uncertain. OSPAR should therefore cooperate to periodically assess how key",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary of main pressures from human activities in the OSPAR Maritime Area",
+      "context_window": "From waste water discharges Table P.4: Summary of main pressures from human activities in the OSPAR Maritime Area Loss of target species",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "outputs as they become available.",
+      "context_window": "responses, management measures and impacts on ecosystem services has recently started. The thematic assessments and bow tie analysis will be updated with the outputs as they become available. *This assessment links to the individual thematic assessments undertaken for each of these indicators.",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate",
+      "context_window": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and",
+      "context_window": "Future priorities for OSPAR Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out",
+      "context_window": "impacts. Specifically: While progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out the discharges of substitution chemicals. OSPAR has set out operational objectives in S2.O3 of NEAES 2030.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some sea areas are affected by multiple activities; in others, only a few may be significant.",
+      "context_window": "the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub- divisions. Some sea areas are affected by multiple activities; in others, only a few may be significant. The table below gives a high-level summary of the intensity and trends of selected activities across the OSPAR",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment ) 58 of 60",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how",
+      "context_window": "developing methods for the analysis of cumulative effects in the marine ecosystems of the North- East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how climate change is affecting human activities and how they are adapting. These, and other potential areas where OSPAR will consider action, are described further in the main body",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in",
+      "context_window": "Climate change The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution. Further impacts",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "potential in high latitude areas (although impacts on commercially important stocks are uncertain)",
+      "context_window": "• fisheries. Stock distributions and/or sizes may change, for example through increased catch potential in high latitude areas (although impacts on commercially important stocks are uncertain) and decreases further south. There may be increasing complexity and contention in assessment, allocation, and transboundary management of catches. Fishers may need to adapt fishing practices",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "use of deep seabed mineral resources avoids adverse impacts on the marine environment and its",
+      "context_window": "impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems. Deep seabed mining for resources such as key metals may become an increasing area of interest for OSPAR,",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pressures can lead to changes in ecosystem state either singly or collectively (cumulative effects).",
+      "context_window": "Cumulative Effects Analysis of cumulative effects Pressures can lead to changes in ecosystem state either singly or collectively (cumulative effects). The application of the",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary productivity in the North Sea in the past 25 years, and shifts in fish distribution.",
+      "context_window": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution. Further impacts due to a changing climate can be expected in the future, which will differ in different areas of the North-",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Q1. Identify the problems? Are they the same in all OSPAR Regions? The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide range of human activities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "processes, habitats,",
+      "context_window": "Nature and scale of impacts on physical processes, habitats, and species currently uncertain.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "State of the marine environment",
+      "context_window": "Waste water S – State State of the marine environment This thematic assessment encompasses the broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Climate change The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "input of nutrients from diffuse sources, point sources, atmospheric deposition",
+      "context_window": "Pressures from marine finfish, RAS, and /or shellfish aquaculture can include: • input of nutrients from diffuse sources, point sources, atmospheric deposition - nutrient enrichment from fish feeds;",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "economic conditions, trade issues, environmental conditions, and competition for space with other marine",
+      "context_window": "some increase in shellfish production may also occur. Growth will be subject to factors such as global economic conditions, trade issues, environmental conditions, and competition for space with other marine activities. Some other countries (e.g., Denmark), are not planning to expand marine cage-based aquaculture of finfish.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change is affecting human activities and how they are adapting.",
+      "context_window": "East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how climate change is affecting human activities and how they are adapting. These, and other potential areas where OSPAR will consider action, are described further in the main body of this thematic assessment.",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "activities have multiple effects on the marine environment.",
+      "context_window": "This thematic assessment encompasses a broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment. Information on quality status can be found in other QSR assessments.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environment and its",
+      "context_window": "knowledge on the deep-sea environment and its resilience are required in order to",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on Ocean Accounting. The following accounts were prepared (see also",
+      "context_window": "the new UN guidelines on Ocean Accounting. The following accounts were prepared (see also Figure I.2 ):",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of benthic",
+      "context_window": "services: • Loss of benthic productivity •",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aquaculture. Possible negative impacts include loss of production or infrastructure due to increased",
+      "context_window": "(e.g., to address changes in the frequency of extreme events, or to ensure resilience of fish stocks); • aquaculture. Possible negative impacts include loss of production or infrastructure due to increased intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise;",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reviewing the risks from new, emerging and increasing pressures on the marine environment, as",
+      "context_window": "turtles, and fish; • reviewing the risks from new, emerging and increasing pressures on the marine environment, as identified in this assessment, and prioritising them for action and the adoption of measures; •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "macroeconomic conditions, trade rules, environmental conditions (including climate change) and fisheries",
+      "context_window": "world fisheries and aquaculture projected that capture fisheries in OSPAR countries would remain approximately unchanged to 2030, but that this could be affected by many uncertainties including macroeconomic conditions, trade rules, environmental conditions (including climate change) and fisheries management measures. 23 of 60",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "environmental",
+      "context_window": "Minimise and put right any adverse environmental effects. Continue to promote a shift to a",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drivers of human activities in the North-East Atlantic",
+      "context_window": "and developments in human activities affecting the North-East Atlantic. D - Drivers Drivers of human activities in the North-East Atlantic The extent of the human activities affecting the North-East Atlantic, and the pressures that they impose on the marine environment, are affected by multiple factors (drivers).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to efforts to improve the state of the marine environment.",
+      "context_window": "prioritised. It may also wish to consider work to better analyse how maritime spatial planning contributes to efforts to improve the state of the marine environment. Cumulative Effects Analysis of cumulative effects",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep-sea",
+      "context_window": "Further research and knowledge on the deep-sea environment and its resilience are",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Executive summary 3 Q1. Identify the problems? Are they the same in all OSPAR Regions? 3 Q2. What has been done?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide",
+      "context_window": "The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide range of human activities. These are particularly intense in parts of the Greater North Sea, Celtic Seas, and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Human activities affecting the marine environment of the North-East Atlantic are now being influenced by",
+      "context_window": "58 of 60 OSPAR Commission Human activities affecting the marine environment of the North-East Atlantic are now being influenced by climate change and will continue to be affected in the next decade and beyond. Adaptation and resilience",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated",
+      "context_window": "OSPAR to monitor how they develop, and their relevance to objectives in the NEAES 2030. For example, in the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated OSPAR Regional Action Plan for Marine Litter (RAP ML 2). Recreational boating should be considered in",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q5. What do we do next?",
+      "context_window": "Information on quality status can be found in other QSR assessments. Q5. What do we do next? OSPAR is committed, in line with the North-East Atlantic Environment Strategy (NEAES) 2030 operational objectives, to addressing the following existing, expanding or only partly understood pressures, and as a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conservation",
+      "context_window": "2012-03) Fisheries, nature conservation Assists Contracting Parties in considering the consequences for the marine environment of",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q2. What has been done?",
+      "context_window": "tourism has grown across OSPAR Regions since 2010, including cruise tourism and expedition tourism in potentially sensitive habitats, with further growth anticipated in the future. Q2. What has been done? Examples of measures taken by OSPAR and other organisations to reduce the environmental pressures from activities include:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR should improve its understanding of how fishing at MSY influences other components of the",
+      "context_window": "Future priorities for OSPAR While stocks in the North-East Atlantic are increasingly being fished according to the reference level MSY, OSPAR should improve its understanding of how fishing at MSY influences other components of the ecosystem and ecosystem health overall, and its understanding of future trends. OSPAR will continue to",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment with hazardous substances, therapeutants, or nutrients. It should consider",
+      "context_window": "OSPAR should consider increasing its understanding of the potential impacts of future growth in aquaculture, including risks of a spread of non-indigenous species or parasites, or of contamination of the marine environment with hazardous substances, therapeutants, or nutrients. It should consider engagement with ICES on knowledge gaps of particular significance. Such work would include the implications of new or expanded forms of aquaculture including offshore aquaculture, growth in cultivation",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to sea floor integrity;",
+      "context_window": "- associated with activities such as bottom trawling which can cause changes to vulnerable habitats, benthic symbiotic communities, or to sea floor integrity; • input of litter (solid waste matter, including micro-sized litter)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary of main pressures from human activities in the OSPAR Maritime Area",
+      "context_window": "Waste water Table P.2: Summary of main pressures from human activities in the OSPAR Maritime Area Input of nutrients",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean fertilisation is",
+      "context_window": "anthropogenic climate change. Ocean fertilisation is currently restricted in the OSPAR Maritime",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Marine Litter (RAP ML 2) being developed for adoption in 2022. It should consider how to maximise",
+      "context_window": "Future priorities for OSPAR OSPAR will continue to address sea- and land-based sources of litter in its new Regional Action Plan for Marine Litter (RAP ML 2) being developed for adoption in 2022. It should consider how to maximise synergies between its own measures (including on microplastics) and actions under the EU strategy for 29 of 60",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What is the issue",
+      "context_window": "Activity Prospects for 2030 What is the issue Potential OSPAR action",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Regional Action Plan for Marine Litter (RAP ML 2).",
+      "context_window": "For example, in the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated OSPAR Regional Action Plan for Marine Litter (RAP ML 2). Recreational boating should be considered in other future OSPAR work, including that on non-indigenous species and underwater noise.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "some aspects of the ecosystem, including threatened and declining species of marine animals and fish, are",
+      "context_window": "For example, nitrate and phosphorous inputs from agriculture and waste water remain a cause of eutrophication in some areas; some aspects of the ecosystem, including threatened and declining species of marine animals and fish, are negatively affected by fisheries, including non-targeted species impacted through incidental by-catch, and there are pressures from bottom trawling on benthic communities.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical plumes, release of sediment-bound or subsurface porewater toxic metals into the water",
+      "context_window": "diffuse sources, point sources, atmospheric deposition, acute events - associated with operational chemical plumes, release of sediment-bound or subsurface porewater toxic metals into the water column; •",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical oxygen demand, and nutrients. Most OSPAR Contracting Parties have predominantly secondary",
+      "context_window": "Regulation through the UWWTD and IED has done much to control the emissions of nutrients and industrial pollution. The UWWTD requires collection and treatment of urban waste water to reduce biological and chemical oxygen demand, and nutrients. Most OSPAR Contracting Parties have predominantly secondary and tertiary treatment plants. Collection and treatment have improved over the last decade in the EU, with",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of some pressures, such as ballast water, air pollution, and litter.",
+      "context_window": "Future priorities for OSPAR OSPAR will keep a close watch on the implementation and effect of measures already introduced for the management of some pressures, such as ballast water, air pollution, and litter. Effective development and implementation of the Polar Code is important for management of shipping pressures in Arctic Waters.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub-",
+      "context_window": "Major human activities and associated pressures Human activities are distributed widely across the North-East Atlantic, but the intensity of activities and of the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub- divisions. Some sea areas are affected by multiple activities; in others, only a few may be significant.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures on particular species or habitats.",
+      "context_window": "future. The QSR 2023 status assessments include details of management measures taken in response to key pressures on particular species or habitats. 6 of 60 OSPAR Commission",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change.",
+      "context_window": "Changing patterns of fish stocks due to climate change. Potential new or increased fisheries,",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems. Deep seabed mining for resources such as key metals may become an increasing area of interest for OSPAR, given its potential to grow in coming decades, particularly as understanding of the environmental impacts is",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plastics, or deep seabed mining. The scale of the developments in these and other activities will be",
+      "context_window": "In some countries and OSPAR Regions, significant potential expansion is expected in the coming decades in certain activities, such as aquaculture, renewable energy production, production and consumption of plastics, or deep seabed mining. The scale of the developments in these and other activities will be sensitive to uncertainties related to the drivers described above. Future priorities for OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These activities have multiple effects on the marine environment.",
+      "context_window": "State of the marine environment This thematic assessment encompasses the broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment. This section of the QSR is not the place to report on the overall quality status, since information on quality status can be found elsewhere in the QSR,",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in ecosystem state (S).",
+      "context_window": "Adapted from Elliott et al., (2017), application of the DAPSIR framework allows us to consider how multiple drivers (D) lead to multiple human activities (A) which exert multiple pressures (P) causing multiple changes in ecosystem state (S). These state changes have impacts (I) on multiple ecosystem services and the goods and benefits these provide to society which in turn influence the drivers of change.",
+      "page_number": 55,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "OSPAR’s ocean acidification assessment",
+      "context_window": "Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment for details). It is a multi-stressor of organisms, meaning it impacts organisms in multiple ways and at multiple stages of their development, and",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "ocean acidification.",
+      "context_window": "environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification. Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification may hamper the ability of Atlantic cod populations (",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 4
+      }
+    },
+    {
+      "core_sentence": "environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is",
+      "context_window": "to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats harbouring protected species.  Although protected and endangered species are more vulnerable to environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification.",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes",
+      "context_window": "and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "should review how climate change is affecting the human activities covered by this thematic assessment, and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish.",
+      "context_window": "intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise; effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish. However, there is some possibility of positive impacts such as higher growth rates in some warm- water finfish or shellfish aquaculture;",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise;",
+      "context_window": "aquaculture. Possible negative impacts include loss of production or infrastructure due to increased intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise; effects on production of oyster spat or mussel seed; or the effect of ocean acidification on shellfish. However, there is some possibility of positive impacts such as higher growth rates in some warm-",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Potential impacts",
+      "context_window": "research into details and quantifications. Potential impacts include acidification, effects on",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for more understanding of pressures from open ocean installations; measures to reduce the impact of",
+      "context_window": "forward in the last decade, although knowledge gaps remain. For example, ICES has highlighted the need for more understanding of pressures from open ocean installations; measures to reduce the impact of escapes; the impact of substances such as therapeutants; and various aspects of shellfish aquaculture. There will also be a need for more understanding and management of pressures from any expansion of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due",
+      "context_window": "Gadus morhua ) to deal with changing water temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to ocean",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’",
+      "context_window": "critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem goods and services (including natural capital assets). In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’ within the DAPSIR framework), a methodology was developed",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "agriculture is a significant source of nutrients contributing to eutrophication; fisheries influence ecosystems",
+      "context_window": "Atlantic, increases in some activities are likely to pose greater risks in future in those OSPAR Regions. All activities covered in the assessment exert pressures on the marine environment. For example, agriculture is a significant source of nutrients contributing to eutrophication; fisheries influence ecosystems through removal of target and non-target species, and through disturbance of the seabed; multiple activities are sources of contaminants and litter, or routes for the introduction and spread of non-",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the health, integrity and dynamics of marine ecosystems – baseline vs impacted",
+      "context_window": "affect ecosystems  [AP] • the health, integrity and dynamics of marine ecosystems – baseline vs impacted state [S]",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect ecosystems  [AP]",
+      "context_window": "and pressures affect ecosystems  [AP] • the health, integrity and dynamics of marine ecosystems – baseline vs impacted",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem",
+      "context_window": "(human welfare). This integrated approach allows us to identify and take action on influences which are critical to the health and integrity of marine ecosystems, while achieving sustainable use of ecosystem goods and services (including natural capital assets). In order to understand the potential impacts on society due to changes in the marine environment (the ‘I’",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I – Impact (on Ecosystem Services)",
+      "context_window": "(primarily due to fisheries); physical loss or disturbance of the seabed; input of substances to the marine environment; marine litter; and disturbance by human activities. I – Impact (on Ecosystem Services) Ecosystem services Activities and pressures can have positive and negative impacts on the marine environment and the goods",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "above-described study on the link between changes in the marine environment and ecosystem services will",
+      "context_window": "will be developed including more ecosystem services and possibly also more analyses. Information from the above-described study on the link between changes in the marine environment and ecosystem services will also be included. The 2021 report considered the compatibility of the basic structure of physical accounts in the SEEA EA",
+      "page_number": 51,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g.,",
+      "context_window": "for elaborated Environmental Impact Assessments. Future priorities for OSPAR Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emerging and increasing pressures on the marine environment, taking account of OSPAR’s Quality Status",
+      "context_window": "OSPAR’s NEAES 2030 includes an operational objective that “ by 2024 OSPAR will review the risks from new, emerging and increasing pressures on the marine environment, taking account of OSPAR’s Quality Status Report 2023, and prioritise them for action and the adoption of measures where necessary ”. (NEAES 2030",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Activities and pressures can have positive and negative impacts on the marine environment and the goods",
+      "context_window": "I – Impact (on Ecosystem Services) Ecosystem services Activities and pressures can have positive and negative impacts on the marine environment and the goods and services it provides. Many of those goods and services (‘ecosystem services’) are used and valued by",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of",
+      "context_window": "Further impacts due to a changing climate can be expected in the future, which will differ in different areas of the North- East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "coverage of sea floor,",
+      "context_window": "altered regional nutrient supply, coverage of sea floor, local anoxia, competition to",
+      "page_number": 41,
+      "keyword_hits": {
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "In looking at how human activities may affect the marine environment in future years, OSPAR needs to",
+      "context_window": "sensitive to uncertainties related to the drivers described above. Future priorities for OSPAR In looking at how human activities may affect the marine environment in future years, OSPAR needs to recognise that the future is uncertain. OSPAR should therefore cooperate to periodically assess how key",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "outputs as they become available.",
+      "context_window": "responses, management measures and impacts on ecosystem services has recently started. The thematic assessments and bow tie analysis will be updated with the outputs as they become available. *This assessment links to the individual thematic assessments undertaken for each of these indicators.",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and",
+      "context_window": "Future priorities for OSPAR Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some sea areas are affected by multiple activities; in others, only a few may be significant.",
+      "context_window": "the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub- divisions. Some sea areas are affected by multiple activities; in others, only a few may be significant. The table below gives a high-level summary of the intensity and trends of selected activities across the OSPAR",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how",
+      "context_window": "developing methods for the analysis of cumulative effects in the marine ecosystems of the North- East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how climate change is affecting human activities and how they are adapting. These, and other potential areas where OSPAR will consider action, are described further in the main body",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "potential in high latitude areas (although impacts on commercially important stocks are uncertain)",
+      "context_window": "• fisheries. Stock distributions and/or sizes may change, for example through increased catch potential in high latitude areas (although impacts on commercially important stocks are uncertain) and decreases further south. There may be increasing complexity and contention in assessment, allocation, and transboundary management of catches. Fishers may need to adapt fishing practices",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pressures can lead to changes in ecosystem state either singly or collectively (cumulative effects).",
+      "context_window": "Cumulative Effects Analysis of cumulative effects Pressures can lead to changes in ecosystem state either singly or collectively (cumulative effects). The application of the",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Q1. Identify the problems? Are they the same in all OSPAR Regions? The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide range of human activities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "State of the marine environment",
+      "context_window": "Waste water S – State State of the marine environment This thematic assessment encompasses the broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "input of nutrients from diffuse sources, point sources, atmospheric deposition",
+      "context_window": "Pressures from marine finfish, RAS, and /or shellfish aquaculture can include: • input of nutrients from diffuse sources, point sources, atmospheric deposition - nutrient enrichment from fish feeds;",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change is affecting human activities and how they are adapting.",
+      "context_window": "East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how climate change is affecting human activities and how they are adapting. These, and other potential areas where OSPAR will consider action, are described further in the main body of this thematic assessment.",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "environment and its",
+      "context_window": "knowledge on the deep-sea environment and its resilience are required in order to",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of benthic",
+      "context_window": "services: • Loss of benthic productivity •",
+      "page_number": 56,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reviewing the risks from new, emerging and increasing pressures on the marine environment, as",
+      "context_window": "turtles, and fish; • reviewing the risks from new, emerging and increasing pressures on the marine environment, as identified in this assessment, and prioritising them for action and the adoption of measures; •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental",
+      "context_window": "Minimise and put right any adverse environmental effects. Continue to promote a shift to a",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to efforts to improve the state of the marine environment.",
+      "context_window": "prioritised. It may also wish to consider work to better analyse how maritime spatial planning contributes to efforts to improve the state of the marine environment. Cumulative Effects Analysis of cumulative effects",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q1. Identify the problems? Are they the same in all OSPAR Regions?",
+      "context_window": "Executive summary 3 Q1. Identify the problems? Are they the same in all OSPAR Regions? 3 Q2. What has been done?",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Human activities affecting the marine environment of the North-East Atlantic are now being influenced by",
+      "context_window": "58 of 60 OSPAR Commission Human activities affecting the marine environment of the North-East Atlantic are now being influenced by climate change and will continue to be affected in the next decade and beyond. Adaptation and resilience",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Q5. What do we do next?",
+      "context_window": "Information on quality status can be found in other QSR assessments. Q5. What do we do next? OSPAR is committed, in line with the North-East Atlantic Environment Strategy (NEAES) 2030 operational objectives, to addressing the following existing, expanding or only partly understood pressures, and as a",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Q2. What has been done?",
+      "context_window": "tourism has grown across OSPAR Regions since 2010, including cruise tourism and expedition tourism in potentially sensitive habitats, with further growth anticipated in the future. Q2. What has been done? Examples of measures taken by OSPAR and other organisations to reduce the environmental pressures from activities include:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment with hazardous substances, therapeutants, or nutrients. It should consider",
+      "context_window": "OSPAR should consider increasing its understanding of the potential impacts of future growth in aquaculture, including risks of a spread of non-indigenous species or parasites, or of contamination of the marine environment with hazardous substances, therapeutants, or nutrients. It should consider engagement with ICES on knowledge gaps of particular significance. Such work would include the implications of new or expanded forms of aquaculture including offshore aquaculture, growth in cultivation",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Summary of main pressures from human activities in the OSPAR Maritime Area",
+      "context_window": "Waste water Table P.2: Summary of main pressures from human activities in the OSPAR Maritime Area Input of nutrients",
+      "page_number": 45,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Litter (RAP ML 2) being developed for adoption in 2022. It should consider how to maximise",
+      "context_window": "Future priorities for OSPAR OSPAR will continue to address sea- and land-based sources of litter in its new Regional Action Plan for Marine Litter (RAP ML 2) being developed for adoption in 2022. It should consider how to maximise synergies between its own measures (including on microplastics) and actions under the EU strategy for 29 of 60",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Regional Action Plan for Marine Litter (RAP ML 2).",
+      "context_window": "For example, in the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated OSPAR Regional Action Plan for Marine Litter (RAP ML 2). Recreational boating should be considered in other future OSPAR work, including that on non-indigenous species and underwater noise.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical plumes, release of sediment-bound or subsurface porewater toxic metals into the water",
+      "context_window": "diffuse sources, point sources, atmospheric deposition, acute events - associated with operational chemical plumes, release of sediment-bound or subsurface porewater toxic metals into the water column; •",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "management of some pressures, such as ballast water, air pollution, and litter.",
+      "context_window": "Future priorities for OSPAR OSPAR will keep a close watch on the implementation and effect of measures already introduced for the management of some pressures, such as ballast water, air pollution, and litter. Effective development and implementation of the Polar Code is important for management of shipping pressures in Arctic Waters.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures on particular species or habitats.",
+      "context_window": "future. The QSR 2023 status assessments include details of management measures taken in response to key pressures on particular species or habitats. 6 of 60 OSPAR Commission",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems. Deep seabed mining for resources such as key metals may become an increasing area of interest for OSPAR, given its potential to grow in coming decades, particularly as understanding of the environmental impacts is",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These activities have multiple effects on the marine environment.",
+      "context_window": "State of the marine environment This thematic assessment encompasses the broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment. This section of the QSR is not the place to report on the overall quality status, since information on quality status can be found elsewhere in the QSR,",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in ecosystem state (S).",
+      "context_window": "Adapted from Elliott et al., (2017), application of the DAPSIR framework allows us to consider how multiple drivers (D) lead to multiple human activities (A) which exert multiple pressures (P) causing multiple changes in ecosystem state (S). These state changes have impacts (I) on multiple ecosystem services and the goods and benefits these provide to society which in turn influence the drivers of change.",
+      "page_number": 55,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plastics, or deep seabed mining. The scale of the developments in these and other activities will be",
+      "context_window": "In some countries and OSPAR Regions, significant potential expansion is expected in the coming decades in certain activities, such as aquaculture, renewable energy production, production and consumption of plastics, or deep seabed mining. The scale of the developments in these and other activities will be sensitive to uncertainties related to the drivers described above. Future priorities for OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change.",
+      "context_window": "Changing patterns of fish stocks due to climate change. Potential new or increased fisheries,",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub-",
+      "context_window": "Major human activities and associated pressures Human activities are distributed widely across the North-East Atlantic, but the intensity of activities and of the pressures they impose on the marine environment vary greatly between OSPAR Regions and sub- divisions. Some sea areas are affected by multiple activities; in others, only a few may be significant.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical oxygen demand, and nutrients. Most OSPAR Contracting Parties have predominantly secondary",
+      "context_window": "Regulation through the UWWTD and IED has done much to control the emissions of nutrients and industrial pollution. The UWWTD requires collection and treatment of urban waste water to reduce biological and chemical oxygen demand, and nutrients. Most OSPAR Contracting Parties have predominantly secondary and tertiary treatment plants. Collection and treatment have improved over the last decade in the EU, with",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "some aspects of the ecosystem, including threatened and declining species of marine animals and fish, are",
+      "context_window": "For example, nitrate and phosphorous inputs from agriculture and waste water remain a cause of eutrophication in some areas; some aspects of the ecosystem, including threatened and declining species of marine animals and fish, are negatively affected by fisheries, including non-targeted species impacted through incidental by-catch, and there are pressures from bottom trawling on benthic communities.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "What is the issue",
+      "context_window": "Activity Prospects for 2030 What is the issue Potential OSPAR action",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean fertilisation is",
+      "context_window": "anthropogenic climate change. Ocean fertilisation is currently restricted in the OSPAR Maritime",
+      "page_number": 41,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to sea floor integrity;",
+      "context_window": "- associated with activities such as bottom trawling which can cause changes to vulnerable habitats, benthic symbiotic communities, or to sea floor integrity; • input of litter (solid waste matter, including micro-sized litter)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR should improve its understanding of how fishing at MSY influences other components of the",
+      "context_window": "Future priorities for OSPAR While stocks in the North-East Atlantic are increasingly being fished according to the reference level MSY, OSPAR should improve its understanding of how fishing at MSY influences other components of the ecosystem and ecosystem health overall, and its understanding of future trends. OSPAR will continue to",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conservation",
+      "context_window": "2012-03) Fisheries, nature conservation Assists Contracting Parties in considering the consequences for the marine environment of",
+      "page_number": 53,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated",
+      "context_window": "OSPAR to monitor how they develop, and their relevance to objectives in the NEAES 2030. For example, in the case of marine litter, there is potential for OSPAR to address the sector more specifically in the updated OSPAR Regional Action Plan for Marine Litter (RAP ML 2). Recreational boating should be considered in",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide",
+      "context_window": "The marine environment of the North-East Atlantic continues to experience multiple pressures from a wide range of human activities. These are particularly intense in parts of the Greater North Sea, Celtic Seas, and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep-sea",
+      "context_window": "Further research and knowledge on the deep-sea environment and its resilience are",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drivers of human activities in the North-East Atlantic",
+      "context_window": "and developments in human activities affecting the North-East Atlantic. D - Drivers Drivers of human activities in the North-East Atlantic The extent of the human activities affecting the North-East Atlantic, and the pressures that they impose on the marine environment, are affected by multiple factors (drivers).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "macroeconomic conditions, trade rules, environmental conditions (including climate change) and fisheries",
+      "context_window": "world fisheries and aquaculture projected that capture fisheries in OSPAR countries would remain approximately unchanged to 2030, but that this could be affected by many uncertainties including macroeconomic conditions, trade rules, environmental conditions (including climate change) and fisheries management measures. 23 of 60",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "aquaculture. Possible negative impacts include loss of production or infrastructure due to increased",
+      "context_window": "(e.g., to address changes in the frequency of extreme events, or to ensure resilience of fish stocks); • aquaculture. Possible negative impacts include loss of production or infrastructure due to increased intensity or frequency of extreme events (such as storms or heatwaves); an increase in diseases, toxic and / or harmful algal blooms and parasites; decreased productivity due to temperature rise;",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on Ocean Accounting. The following accounts were prepared (see also",
+      "context_window": "the new UN guidelines on Ocean Accounting. The following accounts were prepared (see also Figure I.2 ):",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "activities have multiple effects on the marine environment.",
+      "context_window": "This thematic assessment encompasses a broad range of human activities in the North-East Atlantic. These activities have multiple effects on the marine environment. Information on quality status can be found in other QSR assessments.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "economic conditions, trade issues, environmental conditions, and competition for space with other marine",
+      "context_window": "some increase in shellfish production may also occur. Growth will be subject to factors such as global economic conditions, trade issues, environmental conditions, and competition for space with other marine activities. Some other countries (e.g., Denmark), are not planning to expand marine cage-based aquaculture of finfish.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Climate change The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "processes, habitats,",
+      "context_window": "Nature and scale of impacts on physical processes, habitats, and species currently uncertain.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary productivity in the North Sea in the past 25 years, and shifts in fish distribution.",
+      "context_window": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution. Further impacts due to a changing climate can be expected in the future, which will differ in different areas of the North-",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "use of deep seabed mineral resources avoids adverse impacts on the marine environment and its",
+      "context_window": "impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems. Deep seabed mining for resources such as key metals may become an increasing area of interest for OSPAR,",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in",
+      "context_window": "Climate change The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution. Further impacts",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate Change Thematic Assessment",
+      "context_window": "East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment ) 58 of 60",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out",
+      "context_window": "impacts. Specifically: While progress has been made in reducing the use and discharge of chemicals identified as candidates for substitution since the introduction of OSPAR Recommendation 2006/3, the challenge remains to phase out the discharges of substitution chemicals. OSPAR has set out operational objectives in S2.O3 of NEAES 2030.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate",
+      "context_window": "The North-East Atlantic has already experienced physical, chemical and biological effects linked to climate change, including changes in sea temperature, sea ice coverage and sea and oxygen levels, a decline in primary productivity in the North Sea in the past 25 years, and shifts in fish distribution.",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Summary of main pressures from human activities in the OSPAR Maritime Area",
+      "context_window": "From waste water discharges Table P.4: Summary of main pressures from human activities in the OSPAR Maritime Area Loss of target species",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to",
+      "context_window": "Further research and knowledge on the deep-sea environment and its sensitivity and resilience (e.g., impacts on fish and small benthic fauna; long term recovery of the seabed and impacts from plumes and ecotoxicology on the marine environment) are required in order to ensure that a move from exploration to use of deep seabed mineral resources avoids adverse impacts on the marine environment and its ecosystems.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine environment",
+      "context_window": "effect on the receptors in the marine environment if CO 2",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thematic assessments to describe the linkages between information on the environmental state changes",
+      "context_window": "a methodology was developed that could be applied to the relevant thematic assessments to describe the linkages between information on the environmental state changes and impacts on ecosystem services. 50 of 60",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developing methods for the analysis of cumulative effects in the marine ecosystems of the North-",
+      "context_window": "identified in this assessment, and prioritising them for action and the adoption of measures; • developing methods for the analysis of cumulative effects in the marine ecosystems of the North- East Atlantic. Future climate change impact assessments of the OSPAR Maritime Area and its uses should review how",
+      "page_number": 7,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "offshore renewable energy, will have consequences for the marine environment.  (More details in the",
+      "context_window": "due to a changing climate can be expected in the future, which will differ in different areas of the North- East Atlantic. In addition, actions to reduce greenhouse gas emissions, notably a major expansion of offshore renewable energy, will have consequences for the marine environment.  (More details in the Climate Change Thematic Assessment )",
+      "page_number": 57,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "Potential impacts on",
+      "context_window": "may increase in the longer term. Potential impacts on habitats, species, and physical processes.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification,",
+      "context_window": "to ocean acidification, with potential",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Overall, measures to mitigate environmental impacts, including modelling approaches, have moved",
+      "context_window": "Recommendation could cease; however, in 2020 OSPAR decided to initiate a new reporting round on the Recommendation. Overall, measures to mitigate environmental impacts, including modelling approaches, have moved forward in the last decade, although knowledge gaps remain. For example, ICES has highlighted the need",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "limiting inputs of nutrients and organic matter into the marine environment, including inputs from",
+      "context_window": "evaluate progress against OSPAR’s reduction targets; • limiting inputs of nutrients and organic matter into the marine environment, including inputs from agriculture, waste water discharges, and aquaculture; •",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine ecosystems. To apply the ecosystem approach and to consider cumulative effects in thematic",
+      "context_window": "integrates conservation and management approaches in all of OSPAR’s work and helps to adapt the management of human activities to the complex and dynamic nature of marine ecosystems. To apply the ecosystem approach and to consider cumulative effects in thematic assessments requires an understanding of: •",
+      "page_number": 54,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(CDR), ocean",
+      "context_window": "techniques such as carbon dioxide removal (CDR), ocean fertilisation (OF) and solar radiation",
+      "page_number": 41,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "assessment of marine environment quality status allows us to better understand and manage the causes",
+      "context_window": "consideration of environmental, social and economic parameters. Embedding ecosystem services into the assessment of marine environment quality status allows us to better understand and manage the causes and consequences of change, in terms of both the impact on the environment and the impact on society (human welfare). This integrated approach allows us to",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include acidification,",
+      "context_window": "and quantifications. Potential impacts include acidification, effects on productivity and",
+      "page_number": 41,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") to deal with changing water",
+      "context_window": "may hamper the ability of Atlantic cod populations ( Gadus morhua ) to deal with changing water temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "carbon dioxide removal",
+      "context_window": "Geoengineering techniques such as carbon dioxide removal (CDR), ocean fertilisation (OF) and",
+      "page_number": 41,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "temperatures due to climate change and that bivalve larvae are especially vulnerable to shell dissolution due to ocean acidification, with",
+      "page_number": 59,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "and how they are adapting.",
+      "context_window": "These assessments should review how climate change is affecting the human activities covered by this thematic assessment, and how they are adapting. Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes",
+      "page_number": 58,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats",
+      "context_window": "the impacts coincide with other environmental changes (for example temperature change). It can also lead to the dissolution of exposed calcareous structures that are often essential in shaping benthic habitats harbouring protected species.  Although protected and endangered species are more vulnerable to environmental change, ocean acidification impacts all organisms and also those of commercial interest: it is",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification",
+      "context_window": "expected that standing stocks of commercial species may be significantly reduced under the influence of ocean acidification. Case studies in OSPAR’s ocean acidification assessment suggest that ocean acidification may hamper the ability of Atlantic cod populations ( Gadus morhua",
+      "page_number": 59,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "the acidity of the water (pH) (see",
+      "context_window": "Ocean acidification Ocean acidification is a perturbation of the physicochemical environment of the world’s oceans that changes the acidity of the water (pH) (see OSPAR’s ocean acidification assessment for details). It is a multi-stressor of",
+      "page_number": 58,
+      "keyword_hits": {
+        "ocean acidification": 3
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 7,
+    "keyword_counts": {
+      "climate change": 32,
+      "ocean acidification": 10,
+      "sea level rise": 2,
+      "carbon dioxide": 2,
+      "greenhouse gas": 6,
+      "extreme weather": 1,
+      "anoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 89,
+      "end_sentence": 99,
+      "sentence_count": 11,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 89,
+          "page_number": 3,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "This thematic assessment summarises information on human activities affecting the marine environment...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "the North-East Atlantic.",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "The main activities described are those covered in the feeder reports on extraction of aggregates an...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "minerals; agriculture; aquaculture; fisheries; production and consumption of plastics; renewable ene...",
+          "full_length": 103
+        }
+      ],
+      "total_sentences_in_section": 11
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 372,
+      "end_sentence": 378,
+      "sentence_count": 7,
+      "page_range": "10-10",
+      "sentences": [
+        {
+          "sentence_id": 372,
+          "page_number": 10,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 373,
+          "page_number": 10,
+          "content": "Bekhuis, K. (2021).",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 374,
+          "page_number": 10,
+          "content": "Exploring the future together: a scenario analysis for the OSPAR Region.",
+          "full_length": 72
+        },
+        {
+          "sentence_id": 375,
+          "page_number": 10,
+          "content": "Available",
+          "full_length": 9
+        },
+        {
+          "sentence_id": 376,
+          "page_number": 10,
+          "content": "at:",
+          "full_length": 3
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2219,
+      "end_sentence": 2257,
+      "sentence_count": 39,
+      "page_range": "43-44",
+      "sentences": [
+        {
+          "sentence_id": 2219,
+          "page_number": 43,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2220,
+          "page_number": 43,
+          "content": "EMODnet",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 2221,
+          "page_number": 43,
+          "content": "(2019).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 2222,
+          "page_number": 43,
+          "content": "EMODnet",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 2223,
+          "page_number": 43,
+          "content": "Human",
+          "full_length": 5
+        }
+      ],
+      "total_sentences_in_section": 39
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2709,
+      "end_sentence": 2715,
+      "sentence_count": 7,
+      "page_range": "52-52",
+      "sentences": [
+        {
+          "sentence_id": 2709,
+          "page_number": 52,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2710,
+          "page_number": 52,
+          "content": "Alarcon Blazquez, M. (2021).",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 2711,
+          "page_number": 52,
+          "content": "Natural capital accounting for the North-East Atlantic area: preliminary results",
+          "full_length": 80
+        },
+        {
+          "sentence_id": 2712,
+          "page_number": 52,
+          "content": "and first estimates",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 2713,
+          "page_number": 52,
+          "content": ". Rijkswaterstaat, Ministry of Infrastructure and Water Management, Netherlands.",
+          "full_length": 80
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3267,
+      "end_sentence": 3281,
+      "sentence_count": 15,
+      "page_range": "57-57",
+      "sentences": [
+        {
+          "sentence_id": 3267,
+          "page_number": 57,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3268,
+          "page_number": 57,
+          "content": "Elliott, M., Burdon, D., Atkins, J.P., Borja, A., Cormier, R., de Jonge, V. N., & Turner, R.K. (2017...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 3269,
+          "page_number": 57,
+          "content": "“And DAPSIR",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 3270,
+          "page_number": 57,
+          "content": "begat DAPSI (W) (R) (M)!” - A unifying framework for marine environmental management",
+          "full_length": 84
+        },
+        {
+          "sentence_id": 3271,
+          "page_number": 57,
+          "content": ". Marine",
+          "full_length": 8
+        }
+      ],
+      "total_sentences_in_section": 15
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3373,
+      "end_sentence": 3441,
+      "sentence_count": 69,
+      "page_range": "59-60",
+      "sentences": [
+        {
+          "sentence_id": 3373,
+          "page_number": 59,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3374,
+          "page_number": 59,
+          "content": "Alarcon Blazquez, M. (2021).",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 3375,
+          "page_number": 59,
+          "content": "Natural capital accounting for the North-East Atlantic area: preliminary results",
+          "full_length": 80
+        },
+        {
+          "sentence_id": 3376,
+          "page_number": 59,
+          "content": "and first estimates. Rijkswaterstaat, Ministry of Infrastructure and Water Management, Netherlands.",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 3377,
+          "page_number": 59,
+          "content": "Available at:",
+          "full_length": 13
+        }
+      ],
+      "total_sentences_in_section": 69
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3500,
+    "chunks_selected": 102,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 89,
+        "end_sentence": 99,
+        "sentence_count": 11
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 372,
+        "end_sentence": 378,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2219,
+        "end_sentence": 2257,
+        "sentence_count": 39
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2709,
+        "end_sentence": 2715,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3267,
+        "end_sentence": 3281,
+        "sentence_count": 15
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3373,
+        "end_sentence": 3441,
+        "sentence_count": 69
+      }
+    ],
+    "total_excluded_sentences": 148
+  }
+}

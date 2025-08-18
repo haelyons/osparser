@@ -1,0 +1,1235 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "development of methods, monitoring and data flow to assess other pressures types, and ultimately the",
+      "context_window": "States’ reporting requirements (WFD, MSFD and HD). By targeting an increased coherence and complementarity between the different indices used, the development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response",
+      "context_window": "By targeting an increased coherence and complementarity between the different indices used, the development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic",
+      "context_window": "tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes. This requires a good knowledge (for the communities",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species sensitivity is a proxy used to quantify disturbance for some",
+      "context_window": "metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coherence and exhaustivity of data were highlighted.",
+      "context_window": "coherence and data flow. However, even with this already implemented regional scale monitoring programme, some issues with the coherence and exhaustivity of data were highlighted. Data flow and availability have been improved since the 2017 OSPAR intermediate assessment, including quality assurance and quality control, as data were",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "along these coasts.",
+      "context_window": "highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern Iberian Atlantic, which increased almost proportionally with the assessed area, in several local sectors all along these coasts. For other assessment units, no “Bad/Poor” status occurred, and the low “Moderate” proportions increased moderately and proportionally to the total area of the assessed coastal water bodies.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern",
+      "context_window": "The proportion of “Poor/Bad” quality status was maintained at around 0,3%. The detailed proportions and distributions per assessment unit highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern Iberian Atlantic, which increased almost proportionally with the assessed area, in several local sectors all along these coasts.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a",
+      "context_window": "Currently several statistical indices that are used, notably those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and offshore; Poikane",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment, oxygen depletion or hydrological changes.",
+      "context_window": "Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes. This requires a good knowledge (for the communities and species assessed) of natural spatial and temporal scales of variation and sensitivity to a specific pressure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and",
+      "context_window": "those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and offshore; Poikane et al.,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measures (notably through Regional Seas Conventions and EU policies; see Carvalho",
+      "context_window": "development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al ., 2019; Lizińska &",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analysis",
+      "context_window": "This is set up with various pressures types at the community level, by combining biological and pressure data. Analysis of sensitivity is then elaborated at community level rather than species level. This is an important distinction",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a result, the condition (quality status) of benthic habitats as indicated",
+      "context_window": "The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject. OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on different benthic habitat-defining communities.",
+      "context_window": "It is recognised that the indicator should be based on a series of multimetric indices, each assessing the impact of different pressures on different benthic habitat-defining communities. No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "the 2017 OSPAR intermediate assessment, including quality assurance and quality control, as data were downloaded easily from a unique and certified European database. Knowledge Gaps (extended) Most OSPAR Contracting Parties undertake large-scale marine benthic monitoring, at least for the European Union Water Framework Directive (WFD) and other national programmes. Finer-scale networks of state-",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportions increased moderately and proportionally to the total area of the assessed coastal water bodies.",
+      "context_window": "along these coasts. For other assessment units, no “Bad/Poor” status occurred, and the low “Moderate” proportions increased moderately and proportionally to the total area of the assessed coastal water bodies. 14 of 39 OSPAR Commission",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "OSPAR Commission reports (Birk et al ., 2010; Van Hoey et al.,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tolerant and opportunistic species.",
+      "context_window": "composition and relative abundance of the benthic habitat community are basic common metrics. Multi- metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al ., 2019; Lizińska & Guérin 2022).",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and seagrasses (Neto",
+      "context_window": "et al., 2018) and seagrasses (Neto et al., 2018) in the coastal waters of the North-East Atlantic. As a result, the values of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use",
+      "context_window": "For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use of the already implemented WFD monitoring and assessment programme is relevant and improves coherence and data flow.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition and relative abundance of the benthic habitat community are basic common metrics. Multi-",
+      "context_window": "Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD. Species composition and relative abundance of the benthic habitat community are basic common metrics. Multi- metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "waters, where land-based and riverine inputs can be important pressures.",
+      "context_window": "given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "benthic invertebrates or macrophytes.",
+      "context_window": "and also to provide sufficient protection for the most sensitive quality element to significant pressure. By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "those including a species sensitivity classification, have been developed and calibrated to assess nutrient",
+      "context_window": "not themselves sensitive to other pressure types. Currently several statistical indices that are used, notably those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "designed to focus on the effects of nutrient and/or organic enrichment, and other pressure types are not directly or not at all assessed (Poikane et al ., 2020). However, this does not mean that the indices used are not themselves sensitive to other pressure types.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exposed when a pressure occurs.",
+      "context_window": "with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine debris and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Southern Celtic Sea and the Gulf of Biscay (in the Bretagne region of the French area) and Norwegian Trench",
+      "context_window": "distributions per assessment units highlight the main impacted areas (Moderat e/ Poor / Bad) situated in the Kattegat and Southern North Sea (from the Dutch to the Danish coasts), and in a lower proportion, the Southern Celtic Sea and the Gulf of Biscay (in the Bretagne region of the French area) and Norwegian Trench and more recently, in a newly reported part of the Channel (in the Normandy region of the French area). Most of the main impacted sectors were persistent between 2010 and 2016. But there were also newly",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna",
+      "context_window": "OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna communities due to specific sensitivities. 4 of 39",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be",
+      "context_window": "As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject. OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be applied in the Greater North Sea, Celtic Seas and the Bay of Biscay and Iberian Coast. It is recognised that the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of",
+      "context_window": "Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna communities due to specific sensitivities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "given the diversity and complexity of benthic habitats and their communities.",
+      "context_window": "on different benthic habitat-defining communities. No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is recognised that the",
+      "context_window": "OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be applied in the Greater North Sea, Celtic Seas and the Bay of Biscay and Iberian Coast. It is recognised that the indicator should be based on a series of multimetric indices, each assessing the impact of different pressures on different benthic habitat-defining communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment 1 of 39 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Organic Enrichment",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information on the indices used and the monitoring stations in coastal water bodies was requested.",
+      "context_window": "through a formal data call to OSPAR Contracting Parties and notably WFD national contacts. In addition, information on the indices used and the monitoring stations in coastal water bodies was requested. Information on the methodology of the various benthic indices (sampling strategy, data evaluation, reference conditions, detected pressures) were mainly derived from the WISER methods database and intercalibration",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of",
+      "context_window": "Diversity indices and species richness indices, as well as sensitivity / tolerance species classification systems, have long been used to assess the qualitative state of benthic habitat communities. The development of Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD. Species",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "European Union Water Framework Directive (WFD).",
+      "context_window": "This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use of the already implemented WFD monitoring and assessment programme is relevant and improves",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coastal Habitats in Relation to",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions",
+      "context_window": "OSPAR Commission Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV 13 of 39",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and other flora), in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR",
+      "context_window": "OSPAR Commission Figure 11: Distribution of the 2016 WFD quality status (condition) of the benthic vegetation (macroalgae, angiosperms and other flora), in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV For benthic invertebrates, the proportion of “High / Good” WFD quality status increased from 34,80 to 57,1%",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "some Coastal Habitats in Relation to Nutrient and/or",
+      "context_window": "OSPAR Commission Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment OSPAR Convention",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reports (Birk",
+      "context_window": "5 of 39 OSPAR Commission reports (Birk et al ., 2010; Van Hoey",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions",
+      "context_window": "OSPAR Commission Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV 11 of 39",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic",
+      "context_window": "benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as",
+      "context_window": "on different quality elements due to different pressures and therefore overlook some significant pressures, and also to provide sufficient protection for the most sensitive quality element to significant pressure. By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal",
+      "context_window": "No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment",
+      "context_window": "sub-dividing these coastal waters according to their hydrological characteristics. Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background",
+      "context_window": "Background Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contaminants",
+      "context_window": "reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants are generally assessed in sediment. For these reasons, WFD monitoring and related indices were generally",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nutrient and/or Organic Enrichment",
+      "context_window": "Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment 1 of 39",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the",
+      "context_window": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal",
+      "context_window": "12 of 39 OSPAR Commission Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal",
+      "context_window": "10 of 39 OSPAR Commission Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats are characterised by animal and plant communities",
+      "context_window": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition of Benthic Habitat Communities: Assessment of",
+      "context_window": "1 of 39 OSPAR Commission Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have long been used to assess the qualitative state of benthic habitat communities.",
+      "context_window": "., 2020). Diversity indices and species richness indices, as well as sensitivity / tolerance species classification systems, have long been used to assess the qualitative state of benthic habitat communities. The development of Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "context_window": "Lizińska, A. J. and Guérin, L. 2023. Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sub-dividing these coastal waters according to their hydrological characteristics.",
+      "context_window": "Water Framework Directive (WFD) as extending one nautical mile from a baseline defined by the land points where territorial waters are measured. ‘Water bodies’ are defined by European Union Member States by sub-dividing these coastal waters according to their hydrological characteristics. Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vegetation (macroalgae / angiosperm / other flora; right side), of the coastal water bodies for OSPAR Regions II, III",
+      "context_window": "OSPAR Commission Figure 2:  Proportion (area) of the 2010 WFD quality status of benthic invertebrates (left side), and the benthic vegetation (macroalgae / angiosperm / other flora; right side), of the coastal water bodies for OSPAR Regions II, III and IV Figure 3: Proportion (area) of the 2016 WFD quality status of benthic invertebrates (left side), and benthic vegetation",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elements.",
+      "context_window": "The WFD requires that the overall ecological status of a water body is determined by the results for the biological or physicochemical quality element with the worst class determined by any of the biological quality elements. This is called the ‘one out - all out’ principle. The rationale for this is to avoid averaging the impacts",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment.",
+      "context_window": "European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment. Figure 1: Some marine benthic invertebrates (© Laurent Guérin)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2023",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in square kilometers (km²), for the OSPAR Regions II, III and IV and their benthic habitats’ assessment units",
+      "context_window": "Results The results are presented as the proportion (percentage) of the surface of the coastal water bodies, initially in square kilometers (km²), for the OSPAR Regions II, III and IV and their benthic habitats’ assessment units ( Table 1",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". In: OSPAR, 2023: The 2023 Quality Status Report",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at: https://oap.ospar.org/en/ospar-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea, III – Celtic Seas, IV – Bay of Biscay and Iberian Coast) where this indicator was adopted as",
+      "context_window": "In 2022, WFD assessment results for benthic invertebrates were provided from all OSPAR Contracting Parties’ coastal water bodies, in the whole OSPAR maritime area, but published only for three OSPAR Regions (II – Greater North Sea, III – Celtic Seas, IV – Bay of Biscay and Iberian Coast) where this indicator was adopted as common (Table a). The assessment results for macroalgae, angiosperms and other flora were available from",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The whole benthic community is therefore",
+      "context_window": "Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition of Benthic Habitat Communities: Assessment of some Coastal",
+      "context_window": "Citation Lizińska, A. J. and Guérin, L. 2023. Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Framework Directive Database",
+      "context_window": "The current (2023) OSPAR assessment data (WFD assessment results) were obtained directly from the WISE Water Framework Directive Database , in early 2022, which includes available national information under WFD 2010 to 2015 reporting cycle (as reported in 2016) as well as data from the previous WFD cycle, as",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seafloor to feed, hide, rest or reproduce.",
+      "context_window": "Background Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the",
+      "context_window": "waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "McQuatters-Gollop et al., 2022",
+      "context_window": "OSPAR 2017b ; McQuatters-Gollop et al., 2022 ) or the Biological Quality Elements ‘Benthic Invertebrates’ and ‘Macroalgae and Angiosperms’ in coastal waters were requested",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- the differences in the total area of coastal water bodies between the cycles;",
+      "context_window": "assessed waters in an impacted status and newly assessed waters with High / Good status. In both cases, the changes were caused by: - the differences in the total area of coastal water bodies between the cycles; - an increase in the proportion of the total assessed area from 41% for benthic invertebrates and 45% for benthic vegetation in 2010 to 72% and 58% in 2016;",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment as a result of nutrients inputs from land-based sources and through riverine inputs.",
+      "context_window": "Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants are generally assessed in sediment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Communities: Assessment of some",
+      "context_window": "2023 Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for the Northeast Atlantic. OSPAR Commission, London.  Available at:",
+      "context_window": "Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at: https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/condition-benthic-hab-enrich/",
+      "page_number": 1,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "development of methods, monitoring and data flow to assess other pressures types, and ultimately the",
+      "context_window": "States’ reporting requirements (WFD, MSFD and HD). By targeting an increased coherence and complementarity between the different indices used, the development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response",
+      "context_window": "By targeting an increased coherence and complementarity between the different indices used, the development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Species sensitivity is a proxy used to quantify disturbance for some",
+      "context_window": "metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "along these coasts.",
+      "context_window": "highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern Iberian Atlantic, which increased almost proportionally with the assessed area, in several local sectors all along these coasts. For other assessment units, no “Bad/Poor” status occurred, and the low “Moderate” proportions increased moderately and proportionally to the total area of the assessed coastal water bodies.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a",
+      "context_window": "Currently several statistical indices that are used, notably those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and offshore; Poikane",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and",
+      "context_window": "those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and offshore; Poikane et al.,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analysis",
+      "context_window": "This is set up with various pressures types at the community level, by combining biological and pressure data. Analysis of sensitivity is then elaborated at community level rather than species level. This is an important distinction",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on different benthic habitat-defining communities.",
+      "context_window": "It is recognised that the indicator should be based on a series of multimetric indices, each assessing the impact of different pressures on different benthic habitat-defining communities. No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "the 2017 OSPAR intermediate assessment, including quality assurance and quality control, as data were downloaded easily from a unique and certified European database. Knowledge Gaps (extended) Most OSPAR Contracting Parties undertake large-scale marine benthic monitoring, at least for the European Union Water Framework Directive (WFD) and other national programmes. Finer-scale networks of state-",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "OSPAR Commission reports (Birk et al ., 2010; Van Hoey et al.,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al ., 2019; Lizińska & Guérin 2022).",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use",
+      "context_window": "For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use of the already implemented WFD monitoring and assessment programme is relevant and improves coherence and data flow.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "waters, where land-based and riverine inputs can be important pressures.",
+      "context_window": "given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "those including a species sensitivity classification, have been developed and calibrated to assess nutrient",
+      "context_window": "not themselves sensitive to other pressure types. Currently several statistical indices that are used, notably those including a species sensitivity classification, have been developed and calibrated to assess nutrient and/or organic enrichment. The European Union Marine Strategy Framework Directive (MSFD) requires a reconsideration and adaptation of monitoring, to consider and assess other pressure types (both inshore and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "exposed when a pressure occurs.",
+      "context_window": "with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Southern Celtic Sea and the Gulf of Biscay (in the Bretagne region of the French area) and Norwegian Trench",
+      "context_window": "distributions per assessment units highlight the main impacted areas (Moderat e/ Poor / Bad) situated in the Kattegat and Southern North Sea (from the Dutch to the Danish coasts), and in a lower proportion, the Southern Celtic Sea and the Gulf of Biscay (in the Bretagne region of the French area) and Norwegian Trench and more recently, in a newly reported part of the Channel (in the Normandy region of the French area). Most of the main impacted sectors were persistent between 2010 and 2016. But there were also newly",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be",
+      "context_window": "As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject. OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be applied in the Greater North Sea, Celtic Seas and the Bay of Biscay and Iberian Coast. It is recognised that the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of",
+      "context_window": "Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna communities due to specific sensitivities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is recognised that the",
+      "context_window": "OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be applied in the Greater North Sea, Celtic Seas and the Bay of Biscay and Iberian Coast. It is recognised that the indicator should be based on a series of multimetric indices, each assessing the impact of different pressures on different benthic habitat-defining communities.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Organic Enrichment",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The development of",
+      "context_window": "Diversity indices and species richness indices, as well as sensitivity / tolerance species classification systems, have long been used to assess the qualitative state of benthic habitat communities. The development of Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD. Species",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps For OSPAR assessment of coastal benthic habitats in relation to nutrient and/or organic enrichment, the use of the already implemented WFD monitoring and assessment programme is relevant and improves",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions",
+      "context_window": "OSPAR Commission Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV 13 of 39",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "some Coastal Habitats in Relation to Nutrient and/or",
+      "context_window": "OSPAR Commission Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment OSPAR Convention",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions",
+      "context_window": "OSPAR Commission Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV 11 of 39",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as",
+      "context_window": "on different quality elements due to different pressures and therefore overlook some significant pressures, and also to provide sufficient protection for the most sensitive quality element to significant pressure. By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment",
+      "context_window": "sub-dividing these coastal waters according to their hydrological characteristics. Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contaminants",
+      "context_window": "reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants are generally assessed in sediment. For these reasons, WFD monitoring and related indices were generally",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the",
+      "context_window": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal",
+      "context_window": "10 of 39 OSPAR Commission Figure 8: Distribution of the 2010 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition of Benthic Habitat Communities: Assessment of",
+      "context_window": "1 of 39 OSPAR Commission Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sub-dividing these coastal waters according to their hydrological characteristics.",
+      "context_window": "Water Framework Directive (WFD) as extending one nautical mile from a baseline defined by the land points where territorial waters are measured. ‘Water bodies’ are defined by European Union Member States by sub-dividing these coastal waters according to their hydrological characteristics. Some coastal waters of OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elements.",
+      "context_window": "The WFD requires that the overall ecological status of a water body is determined by the results for the biological or physicochemical quality element with the worst class determined by any of the biological quality elements. This is called the ‘one out - all out’ principle. The rationale for this is to avoid averaging the impacts",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2023",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". In: OSPAR, 2023: The 2023 Quality Status Report",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at: https://oap.ospar.org/en/ospar-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The whole benthic community is therefore",
+      "context_window": "Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Water Framework Directive Database",
+      "context_window": "The current (2023) OSPAR assessment data (WFD assessment results) were obtained directly from the WISE Water Framework Directive Database , in early 2022, which includes available national information under WFD 2010 to 2015 reporting cycle (as reported in 2016) as well as data from the previous WFD cycle, as",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the",
+      "context_window": "waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "- the differences in the total area of coastal water bodies between the cycles;",
+      "context_window": "assessed waters in an impacted status and newly assessed waters with High / Good status. In both cases, the changes were caused by: - the differences in the total area of coastal water bodies between the cycles; - an increase in the proportion of the total assessed area from 41% for benthic invertebrates and 45% for benthic vegetation in 2010 to 72% and 58% in 2016;",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Communities: Assessment of some",
+      "context_window": "2023 Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for the Northeast Atlantic. OSPAR Commission, London.  Available at:",
+      "context_window": "Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at: https://oap.ospar.org/en/ospar- assessments/quality-status-reports/qsr-2023/indicator-assessments/condition-benthic-hab-enrich/",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment as a result of nutrients inputs from land-based sources and through riverine inputs.",
+      "context_window": "Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants are generally assessed in sediment.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "McQuatters-Gollop et al., 2022",
+      "context_window": "OSPAR 2017b ; McQuatters-Gollop et al., 2022 ) or the Biological Quality Elements ‘Benthic Invertebrates’ and ‘Macroalgae and Angiosperms’ in coastal waters were requested",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seafloor to feed, hide, rest or reproduce.",
+      "context_window": "Background Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition of Benthic Habitat Communities: Assessment of some Coastal",
+      "context_window": "Citation Lizińska, A. J. and Guérin, L. 2023. Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea, III – Celtic Seas, IV – Bay of Biscay and Iberian Coast) where this indicator was adopted as",
+      "context_window": "In 2022, WFD assessment results for benthic invertebrates were provided from all OSPAR Contracting Parties’ coastal water bodies, in the whole OSPAR maritime area, but published only for three OSPAR Regions (II – Greater North Sea, III – Celtic Seas, IV – Bay of Biscay and Iberian Coast) where this indicator was adopted as common (Table a). The assessment results for macroalgae, angiosperms and other flora were available from",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in square kilometers (km²), for the OSPAR Regions II, III and IV and their benthic habitats’ assessment units",
+      "context_window": "Results The results are presented as the proportion (percentage) of the surface of the coastal water bodies, initially in square kilometers (km²), for the OSPAR Regions II, III and IV and their benthic habitats’ assessment units ( Table 1",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment.",
+      "context_window": "European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment. Figure 1: Some marine benthic invertebrates (© Laurent Guérin)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vegetation (macroalgae / angiosperm / other flora; right side), of the coastal water bodies for OSPAR Regions II, III",
+      "context_window": "OSPAR Commission Figure 2:  Proportion (area) of the 2010 WFD quality status of benthic invertebrates (left side), and the benthic vegetation (macroalgae / angiosperm / other flora; right side), of the coastal water bodies for OSPAR Regions II, III and IV Figure 3: Proportion (area) of the 2016 WFD quality status of benthic invertebrates (left side), and benthic vegetation",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats in Relation to Nutrient and/or Organic Enrichment",
+      "context_window": "Lizińska, A. J. and Guérin, L. 2023. Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment . In: OSPAR, 2023: The 2023 Quality Status Report for the Northeast Atlantic. OSPAR Commission, London.  Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have long been used to assess the qualitative state of benthic habitat communities.",
+      "context_window": "., 2020). Diversity indices and species richness indices, as well as sensitivity / tolerance species classification systems, have long been used to assess the qualitative state of benthic habitat communities. The development of Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic habitats are characterised by animal and plant communities",
+      "context_window": "Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce. Benthic habitats are characterised by animal and plant communities with no or slow mobility compared to fish or marine mammals. The whole benthic community is therefore",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal",
+      "context_window": "12 of 39 OSPAR Commission Figure 10: Distribution of the 2016 WFD quality status (condition) of benthic invertebrates in intertidal and subtidal sediments, in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nutrient and/or Organic Enrichment",
+      "context_window": "Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment 1 of 39",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background",
+      "context_window": "Background Benthic habitats are essential for marine life because many marine species rely directly or indirectly on the seafloor to feed, hide, rest or reproduce.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal",
+      "context_window": "No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures. This assessment takes advantage",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic",
+      "context_window": "benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic enrichment as a result of nutrients inputs from land-based sources and through riverine inputs. Contaminants",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reports (Birk",
+      "context_window": "5 of 39 OSPAR Commission reports (Birk et al ., 2010; Van Hoey",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and other flora), in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR",
+      "context_window": "OSPAR Commission Figure 11: Distribution of the 2016 WFD quality status (condition) of the benthic vegetation (macroalgae, angiosperms and other flora), in response to the (direct or indirect) effects of nutrient and / or organic enrichment, for OSPAR Regions II, III & IV For benthic invertebrates, the proportion of “High / Good” WFD quality status increased from 34,80 to 57,1%",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Coastal Habitats in Relation to",
+      "context_window": "Condition of Benthic Habitat Communities: Assessment of some Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "European Union Water Framework Directive (WFD).",
+      "context_window": "This assessment takes advantage of the progress made in assessing benthic invertebrates and macroalgae through the implementation of the European Union Water Framework Directive (WFD). Data on these elements of the WFD status classification have been compiled to be presented in the context of the OSPAR benthic habitats Quality Status assessment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information on the indices used and the monitoring stations in coastal water bodies was requested.",
+      "context_window": "through a formal data call to OSPAR Contracting Parties and notably WFD national contacts. In addition, information on the indices used and the monitoring stations in coastal water bodies was requested. Information on the methodology of the various benthic indices (sampling strategy, data evaluation, reference conditions, detected pressures) were mainly derived from the WISER methods database and intercalibration",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Coastal Habitats in Relation to Nutrient and/or Organic Enrichment Common Indicator Assessment 1 of 39 OSPAR Commission",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "given the diversity and complexity of benthic habitats and their communities.",
+      "context_window": "on different benthic habitat-defining communities. No single metric for benthic habitats can achieve this given the diversity and complexity of benthic habitats and their communities. This assessment considers the impact of nutrient and/or organic enrichment on benthic habitats in coastal waters, where land-based and riverine inputs can be important pressures.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna",
+      "context_window": "OSPAR Contracting Parties have, to a varying degree, been affected by nutrient and/or organic enrichment (either as a direct or indirect effect of nutrient inputs or of organic enrichment) and this may be a cause of nuisance and toxic algal blooms, loss of benthic vegetation due to shading, and modification of benthic fauna communities due to specific sensitivities. 4 of 39",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine debris and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "designed to focus on the effects of nutrient and/or organic enrichment, and other pressure types are not directly or not at all assessed (Poikane et al ., 2020). However, this does not mean that the indices used are not themselves sensitive to other pressure types.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "benthic invertebrates or macrophytes.",
+      "context_window": "and also to provide sufficient protection for the most sensitive quality element to significant pressure. By definition, the WFD aims to assess the “water quality” of water bodies through quality elements such as benthic invertebrates or macrophytes. Benthic habitat communities are thus mainly assessed for the WFD to reflect the main pressures in the coastal zone, such as direct or indirect effects of nutrient and/or organic",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition and relative abundance of the benthic habitat community are basic common metrics. Multi-",
+      "context_window": "Benthic Indices (BI), combining these indices and classifications, was made mandatory by the WFD. Species composition and relative abundance of the benthic habitat community are basic common metrics. Multi- metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and seagrasses (Neto",
+      "context_window": "et al., 2018) and seagrasses (Neto et al., 2018) in the coastal waters of the North-East Atlantic. As a result, the values of",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "tolerant and opportunistic species.",
+      "context_window": "composition and relative abundance of the benthic habitat community are basic common metrics. Multi- metric BI classically contain diversity indices, species richness indices and / or the proportions of sensitive, tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "proportions increased moderately and proportionally to the total area of the assessed coastal water bodies.",
+      "context_window": "along these coasts. For other assessment units, no “Bad/Poor” status occurred, and the low “Moderate” proportions increased moderately and proportionally to the total area of the assessed coastal water bodies. 14 of 39 OSPAR Commission",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a result, the condition (quality status) of benthic habitats as indicated",
+      "context_window": "The whole benthic community is therefore exposed when a pressure occurs. As a result, the condition (quality status) of benthic habitats as indicated by total community descriptors reflects the combined effects of all the pressures to which they are subject. OSPAR agreed that a common indicator for the condition of benthic habitat-defining communities should be",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measures (notably through Regional Seas Conventions and EU policies; see Carvalho",
+      "context_window": "development of methods, monitoring and data flow to assess other pressures types, and ultimately the cumulative effect of pressures, should facilitate interpretation of results and guidance for targeted response measures (notably through Regional Seas Conventions and EU policies; see Carvalho et al ., 2019; Lizińska &",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment, oxygen depletion or hydrological changes.",
+      "context_window": "Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes. This requires a good knowledge (for the communities and species assessed) of natural spatial and temporal scales of variation and sensitivity to a specific pressure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern",
+      "context_window": "The proportion of “Poor/Bad” quality status was maintained at around 0,3%. The detailed proportions and distributions per assessment unit highlight the main impacted areas (Moderate / Poor / Bad) in the Kattegat, Norwegian Trench, and Southern Iberian Atlantic, which increased almost proportionally with the assessed area, in several local sectors all along these coasts.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coherence and exhaustivity of data were highlighted.",
+      "context_window": "coherence and data flow. However, even with this already implemented regional scale monitoring programme, some issues with the coherence and exhaustivity of data were highlighted. Data flow and availability have been improved since the 2017 OSPAR intermediate assessment, including quality assurance and quality control, as data were",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic",
+      "context_window": "tolerant and opportunistic species. Species sensitivity is a proxy used to quantify disturbance for some pressures on a benthic habitat community: either as a direct or indirect effect of nutrient or organic enrichment, oxygen depletion or hydrological changes. This requires a good knowledge (for the communities",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 40,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 90,
+      "end_sentence": 96,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Coastal water bodies were assessed for only 72% (invertebrates), and 59% (vegetation) of the total a...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "three OSPAR Regions.",
+          "full_length": 20
+        },
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "From those, the Water Framework Directive quality status was good or high for 79%",
+          "full_length": 81
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "(invertebrates) and for 86% (vegetation).",
+          "full_length": 41
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 586,
+      "end_sentence": 604,
+      "sentence_count": 19,
+      "page_range": "36-37",
+      "sentences": [
+        {
+          "sentence_id": 586,
+          "page_number": 36,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 587,
+          "page_number": 36,
+          "content": "These results indicate that most of the water bodies for which data were provided, in the OSPAR Regi...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 588,
+          "page_number": 36,
+          "content": "III and IV, have benthic habitats classified as good biological status, according to the European Un...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 589,
+          "page_number": 36,
+          "content": "However, despite the data gaps for many water bodies, this fine-scale assessment (sub-regions and co...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 590,
+          "page_number": 36,
+          "content": "water bodies) enabled the identification of regional variations and the main locally impacted areas ...",
+          "full_length": 103
+        }
+      ],
+      "total_sentences_in_section": 19
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 605,
+      "end_sentence": 613,
+      "sentence_count": 9,
+      "page_range": "37-37",
+      "sentences": [
+        {
+          "sentence_id": 605,
+          "page_number": 37,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 606,
+          "page_number": 37,
+          "content": "This assessment focused on the status of coastal habitats in relation to nutrient and/or organic enr...",
+          "full_length": 108
+        },
+        {
+          "sentence_id": 607,
+          "page_number": 37,
+          "content": "as one component of a more comprehensive indicator of the condition of benthic habitat defining",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 608,
+          "page_number": 37,
+          "content": "communities (",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 609,
+          "page_number": 37,
+          "content": "Condition of Benthic Habitat Communities",
+          "full_length": 40
+        }
+      ],
+      "total_sentences_in_section": 9
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 649,
+      "end_sentence": 768,
+      "sentence_count": 120,
+      "page_range": "37-39",
+      "sentences": [
+        {
+          "sentence_id": 649,
+          "page_number": 37,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 650,
+          "page_number": 38,
+          "content": "38 of 39",
+          "full_length": 8
+        },
+        {
+          "sentence_id": 651,
+          "page_number": 38,
+          "content": "OSPAR Commission",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 652,
+          "page_number": 38,
+          "content": "Birk S., Strackbein J. & Hering D. (2010). WISER methods database. Version: March 2011. Available at",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 653,
+          "page_number": 38,
+          "content": "http://www.wiser.eu/results/method-database/",
+          "full_length": 44
+        }
+      ],
+      "total_sentences_in_section": 120
+    }
+  ],
+  "metadata": {
+    "total_sentences": 835,
+    "chunks_selected": 84,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 90,
+        "end_sentence": 96,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 586,
+        "end_sentence": 604,
+        "sentence_count": 19
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 605,
+        "end_sentence": 613,
+        "sentence_count": 9
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 649,
+        "end_sentence": 768,
+        "sentence_count": 120
+      }
+    ],
+    "total_excluded_sentences": 155
+  }
+}

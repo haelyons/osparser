@@ -1,0 +1,2399 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "acidification",
+      "context_window": "in the world’s oceans causes ocean acidification , a phenomenon that changes the chemical carbonate balance of the sea water, and thus the living",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "acidification itself is monitored in some parts of the Arctic",
+      "context_window": "Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While acidification itself is monitored in some parts of the Arctic (Chierici et al. 2016), there is currently no monitoring of the biological effects and, thus, little specific evidence to",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to the effects of ocean acidification (AMAP 2013). While",
+      "context_window": "Ocean acidification Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While acidification itself is monitored in some parts of the Arctic (Chierici et al. 2016), there is currently no monitoring of",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "carbonate balance of the sea water, and thus the living",
+      "context_window": "acidification , a phenomenon that changes the chemical carbonate balance of the sea water, and thus the living conditions for biota. The Arctic is especially vulnerable to this acidification since CO",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "behavioral effects. Ocean acidification will likely impact Arctic",
+      "context_window": "well known that many non-Arctic calcareous species have reduced shell-building capacity and metabolic and behavioral effects. Ocean acidification will likely impact Arctic benthic species in both their adult benthic and/or pelagic larval stages, and juvenile stages are generally found to be",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "increasingly absorbing carbon dioxide (CO",
+      "context_window": "Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO 2 ) because of",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "effects of ocean acidification in the Arctic. For Arctic primary",
+      "context_window": "studies on the entire life cycle and from across the entire Arctic. However, those that exist point to likely ecosystem effects of ocean acidification in the Arctic. For Arctic primary producers, increased pCO 2",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to acidification. Pelagic snails (pteropods) are an important",
+      "context_window": "which have different solubilities in relation to pH. Organisms using the more soluble form, aragonite, are most sensitive to acidification. Pelagic snails (pteropods) are an important component of zooplankton and experimental studies have shown that they are highly vulnerable to dissolution of their",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "2 in the world’s oceans causes ocean acidification , a phenomenon that changes the chemical",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "in the world’s oceans causes",
+      "context_window": "concentration of CO 2 in the world’s oceans causes ocean acidification",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "acidification since CO",
+      "context_window": "carbonate balance of the sea water, and thus the living conditions for biota. The Arctic is especially vulnerable to this acidification since CO 2 dissolves more easily in colder water.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "address also cumulative impacts across stressors (see Chapter 2.4). Ocean acidification Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "able to adapt to increasing acidity at the cost of expending",
+      "context_window": "less soluble calcite, such as the abundant planktonic algae belonging to the group coccolithophores, may be better able to adapt to increasing acidity at the cost of expending more energy on constructing their skeletons (Beaufort et al. 2011). Arctic copepods, such as",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification",
+      "context_window": "diversity in these marine systems. The potential impacts of ocean acidification on benthic biodiversity are not well known. Although several regions",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "impact of ocean acidification on Arctic species, especially",
+      "context_window": "inform an assessment of the importance of this driver for biodiversity. Few studies have investigated the potential impact of ocean acidification on Arctic species, especially studies on the entire life cycle and from across the entire Arctic. However, those that exist point to likely ecosystem",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "mortality with elevated acidification (Stiasny et al. 2016).",
+      "context_window": "The effects of acidification on Arctic fishes are still unclear, but recent studies on Atlantic cod showed higher juvenile mortality with elevated acidification (Stiasny et al. 2016). The geographic extent, temporal extent and thickness of sea ice all have influence on Arctic marine fishes. Sympagic",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of acidification on Arctic fishes are still unclear,",
+      "context_window": "that experience a change in their prey field and consequently their diet and nutritional status. The effects of acidification on Arctic fishes are still unclear, but recent studies on Atlantic cod showed higher juvenile mortality with elevated acidification (Stiasny et al. 2016).",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Alkalinity is a fundamental chemical property of the",
+      "context_window": "example, increased melting from the Greenland Ice Sheet has increased freshwater inflow to areas in the North Atlantic. Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "into biomass and contribute to the biological carbon pump when they sink out of the",
+      "context_window": "Phototrophs fix CO 2 into biomass and contribute to the biological carbon pump when they sink out of the surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean. The",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean.",
+      "context_window": "2 into biomass and contribute to the biological carbon pump when they sink out of the surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean. The effectiveness of the biological carbon pump is uncertain and relies on a dominance of microalgae.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aragonite shells at close to current pH levels (Bednarsek et",
+      "context_window": "component of zooplankton and experimental studies have shown that they are highly vulnerable to dissolution of their aragonite shells at close to current pH levels (Bednarsek et al. 2014). On the other hand, organisms incorporating the less soluble calcite, such as the abundant planktonic algae",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been identified to experience reduced alkalinity, such",
+      "context_window": "on benthic biodiversity are not well known. Although several regions have been identified to experience reduced alkalinity, such as the Chukchi and Beaufort Seas, the exact biological sensitivities are still to be determined. However, it is",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification, river/glacier freshwater discharge",
+      "context_window": "Sea-ice dynamics, ocean mixing, bottom-water temperature change, commercial bottom trawling, ocean acidification, river/glacier freshwater discharge and introduction of non-indigenous species are regarded as major drivers of observed and expected",
+      "page_number": 104,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "carbonate system for seawater. Oceans have been",
+      "context_window": "increased freshwater inflow to areas in the North Atlantic. Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO 2",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Arctic marine species and ecosystems are undergoing",
+      "context_window": "Key Findings 5 Arctic marine species and ecosystems are undergoing pressure from cumulative changes in their physical, chemical and biological environment.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ocean acidification) (Piepenburg 2005). Commercial",
+      "context_window": "freshwater and sediment inputs from rivers, melting glaciers and permafrost, and in the ocean carbon budget (ocean acidification) (Piepenburg 2005). Commercial bottom trawling is an anthropogenic driver that has been demonstrated to cause fluctuations in benthic biomass",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ingestion (Hildebrandt et al. 2014). Arctic benthic calcifiers,",
+      "context_window": "levels, including their naupliar development and growth (Bailey et al. 2016) as well as adult respiration and ingestion (Hildebrandt et al. 2014). Arctic benthic calcifiers, including molluscs, echinoderms and crabs, are generally negatively affected by increased pCO",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "context_window": "can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and reproduction, impacting the resilience of marine mammal populations with concomitant effects on the people who rely on them for subsistence, economic and cultural purposes.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "their marine habitats, because they integrate the effects of",
+      "context_window": "to observe than other marine taxa, making them useful study subjects. Seabirds function as indicators of the condition of their marine habitats, because they integrate the effects of abiotic stressors acting on lower trophic levels (Piatt et al. 2007, Sydeman et al. 2012, Green and Elmberg 2014).  The",
+      "page_number": 131,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calcification, increased respiration, increased mortality in",
+      "context_window": "2 , with decreased calcification, increased respiration, increased mortality in juveniles and adults, and decreased recruitment (Browman et al. 2013). On the other hand, many life stages of non-",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and potentially altering marine food webs (Carmack and",
+      "context_window": "can alter the physical and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean Figure 2.1.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affected by increased seawater pCO",
+      "context_window": "Calanus glacialis , are less affected by increased seawater pCO 2 , even at the younger life",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "glaciers and permafrost, and in the ocean carbon budget",
+      "context_window": "water temperature, sea-ice dynamics, coastal erosion, freshwater and sediment inputs from rivers, melting glaciers and permafrost, and in the ocean carbon budget (ocean acidification) (Piepenburg 2005). Commercial bottom trawling is an anthropogenic driver that has been",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "abiotic stressors acting on lower trophic levels (Piatt et al.",
+      "context_window": "subjects. Seabirds function as indicators of the condition of their marine habitats, because they integrate the effects of abiotic stressors acting on lower trophic levels (Piatt et al. 2007, Sydeman et al. 2012, Green and Elmberg 2014).  The CAFF",
+      "page_number": 131,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic",
+      "context_window": "and Chukchi Sea. • Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "stages (Bailey et al. 2017). However, lowered pH may increase",
+      "context_window": "2 , even at the younger life stages (Bailey et al. 2017). However, lowered pH may increase metabolic cost for this species at the expense of growth performance (Thor et al. 2016).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a potential risk of harmful/toxic phytoplankton causing public health threats through shellfish",
+      "context_window": "food web. • There is a potential risk of harmful/toxic phytoplankton causing public health threats through shellfish consumption, fish and aquatic bird kills, and decreased fitness in marine mammals. •",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "Sea surface salinity • Ocean acidification • Nutrients",
+      "page_number": 22,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "distribution as the climate warms, or because chemical",
+      "context_window": "with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical or biological reactions and pathways are likely to change. Furthermore, the various stressors will interact among",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Sea surface salinity",
+      "context_window": "Ocean currents and frontal boundaries • Sea surface salinity • Ocean acidification",
+      "page_number": 22,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "(i.e., FECs) of marine ecosystems are monitored, and where",
+      "context_window": ", it implies a holistic framework where prioritized elements (i.e., FECs) of marine ecosystems are monitored, and where information is integrated and contributes to decision-making (see also Chapter 1). As this report represents the first",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea-ice dynamics, ocean mixing, bottom-water",
+      "context_window": "sub-Arctic (e.g., snow crab) species. • Sea-ice dynamics, ocean mixing, bottom-water temperature change, commercial bottom trawling, ocean acidification, river/glacier freshwater discharge",
+      "page_number": 104,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "effects on marine mammals, seabirds and piscivorous fishes",
+      "context_window": "(Box 3.4.2). In addition to the direct effect on polar cod, this change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently their diet and nutritional status.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large fraction of the biomass in the global ocean, including",
+      "context_window": "Single-celled microorganisms belonging to the domains Bacteria and Archaea are highly diverse and make up a large fraction of the biomass in the global ocean, including the sea ice habitat. These microbes are principal actors in carbon and nitrogen cycling, making nutrients available",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Wassmann 2006). Pacific water enters the Arctic Ocean",
+      "context_window": "and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean Figure 2.1. Bathymetric features, warm currents (red arrows), cold currents (blue arrows) and riverine inflow in the Arctic.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and chemical environment, affecting ocean currents",
+      "context_window": "sea surface salinity can alter the physical and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Acidification",
+      "context_window": "Change Ocean Acidification Commercial Bottom",
+      "page_number": 102,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "oceans.",
+      "context_window": "biodiversity monitoring efforts and to understand the impact of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity Monitoring Program (CBMP)",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "therefore do not wash ashore in as large numbers as in the",
+      "context_window": "have altered the off-shore sea floor, sometimes creating large dips where clams, for instance, become trapped and therefore do not wash ashore in as large numbers as in the past”. The change in ocean currents is directly related to change in sea ice and storms. Raymond-Yakoubian et al.",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperature, salinity, acidity and diseases) on fish",
+      "context_window": "Conduct laboratory studies to examine the possible effects of abiotic and biotic changes (e.g. temperature, salinity, acidity and diseases) on fish species ►",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Information Facility, FishSource and the Sea Around Us",
+      "context_window": "databases have been created, including the Ocean Biogeographic Information System, the Global Biodiversity Information Facility, FishSource and the Sea Around Us Project. 3.4.3 Status and trends of FECs",
+      "page_number": 114,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities. These changes in the sea floor may impact ice",
+      "context_window": "nearshore sea floor. Residents of Wales and Shishmaref report that ‘dips’ and ‘valleys’ have developed offshore from their communities. These changes in the sea floor may impact ice formation, where ice piles, and the availability of clams.” 4.2.2 Other major anthropogenic stressors",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carbon and nitrogen cycling, making nutrients available",
+      "context_window": "large fraction of the biomass in the global ocean, including the sea ice habitat. These microbes are principal actors in carbon and nitrogen cycling, making nutrients available to other organisms. DNA (or protein) sequence similarity is the only reliable way to measure the taxonomic diversity of",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity",
+      "context_window": "melting and discharge of these sources is expected to be a strong driver in these Arctic regions. Reduced salinity will directly affect the osmotic balance of benthic species and may also cause indirect effects through changes in",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem state and the pressures acting on it (Berg",
+      "context_window": "the physical environment and all levels of the ecosystem, so as to achieve an optimal description of ecosystem state and the pressures acting on it (Berg et al. 2015). However, the actual monitoring generally builds on already existing efforts and data series,",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.1 What is the Circumpolar Biodiversity",
+      "context_window": "of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity Monitoring Program (CBMP) The CBMP is the cornerstone program of the Conservation",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been observed: “Changing weather and ocean currents",
+      "context_window": "the report, Indigenous peoples of the Bering Strait region of Alaska share the significance of the ocean and changes that have been observed: “Changing weather and ocean currents have altered the off-shore sea floor, sometimes creating large dips where clams, for instance, become trapped and",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on key abiotic parameters is important to correctly interpret",
+      "context_window": "and other abiotic drivers, including those described in Box 2.2, are outside the scope of the CBMP, although information on key abiotic parameters is important to correctly interpret and analyse biodiversity and ecosystem information in a comprehensive way.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "role in global weather patterns and affecting ocean life. The",
+      "context_window": "encircle the world like a conveyor belt and are highly connected to the atmosphere, playing a major role in global weather patterns and affecting ocean life. The Arctic plays a key role in the global climate system through the production of North Atlantic Deep Water, which helps",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effects of climate change on benthic populations are",
+      "context_window": "surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom- water temperature, sea-ice dynamics, coastal erosion,",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Figure 3.3.7: Cumulative scores of various environmental and anthropogenic drivers of change of the benthic ecosystem across the eight Arctic",
+      "context_window": "larval stages, and juvenile stages are generally found to be the most sensitive. Figure 3.3.7: Cumulative scores of various environmental and anthropogenic drivers of change of the benthic ecosystem across the eight Arctic Marine Areas (AMA). A cumulative score is the median score of sub-regions per AMA (Table 3.3.1).",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on different elements within the ecosystem and different",
+      "context_window": "can create cumulative effects in the environment with surprising and hard-to-predict results. Different drivers act on different elements within the ecosystem and different pressures may have either synergistic or antagonistic effects on particular ecosystem components. Drivers may also",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing ocean temperature",
+      "context_window": "trends in physical drivers and anthropogenic stressors can be found in Chapter 2. Increasing ocean temperature Physiological changes among key primary producers may have strong implications for higher trophic levels. In the",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The three marine fish FECs discussed here are indicative",
+      "context_window": "ecosystems in the Arctic. 3.4.4 Drivers of observed trends The three marine fish FECs discussed here are indicative of different changes that are occurring in the Arctic and demonstrate the varied responses observed among species.",
+      "page_number": 122,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "The circumpolar regions may offer a unique opportunity to examine the impacts of broad-scale shifts in ocean temperatures on upper trophic levels. For example, a",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge about the ecosystem and its dynamics,",
+      "context_window": "integrated management of human activities based on best available scientific and traditional knowledge about the ecosystem and its dynamics, in order to identify and take action on influences that are critical to the health of ecosystems, thereby",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts that can affect how the ecosystem functions. It is hard",
+      "context_window": "Some changes may be gradual, but there may also be large and sudden shifts that can affect how the ecosystem functions. It is hard to determine where and when these “tipping points” exist because the Arctic marine environment experiences a variety",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "base of Arctic marine mammals. Such changes may appear",
+      "context_window": "physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and potentially loss of some fat-rich prey species (Moore et al.",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring can be considered ‘ecosystem-based’, and to what",
+      "context_window": "Marine Plan , it is highly relevant to consider whether current monitoring can be considered ‘ecosystem-based’, and to what extent progress is being made in that direction. The term ‘ecosystem-based monitoring’ is used in different ways in the",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to reflect changes in ecosystem",
+      "context_window": "of the CBMP Marine Plan to reflect changes in ecosystem structure and function (see also Chapter 4.1.3). Biodiversity monitoring spans many levels of detail, from",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects of climate change versus seasonality on marine food",
+      "context_window": "the two types of communities (strictly Arctic versus Boreal- Arctic) promises to be a powerful tool in interpreting the effects of climate change versus seasonality on marine food webs (Luddington et al. 2016). Most Arctic phytoplankton species have pan-Arctic",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean",
+      "context_window": "Temperature Change Ocean Acidification Commercial",
+      "page_number": 102,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "the rising levels of CO",
+      "context_window": "2 ) because of the rising levels of CO 2 in the atmosphere (Freely et al.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in the marine fish community can have bottom-up",
+      "context_window": "in novel competition with polar cod for zooplankton prey (Box 3.4.2). In addition to the direct effect on polar cod, this change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parts of the Arctic as ice retreats and can result in increased",
+      "context_window": "algae. Upwelling of nutrient-rich water along the shelf break towards surface water layers has become more common in parts of the Arctic as ice retreats and can result in increased nutrient supplies supporting algal blooms (Carmack and Chapman 2003, Tremblay et al. 2011). Autumn blooms have",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be argued that changes at the base of the food web would",
+      "context_window": "influenced by climate-driven change and species data would contribute to the understanding of ecosystem status. It can be argued that changes at the base of the food web would be the first sentinel signals of overall ecosystem shifts. Significant amounts of old data still need to be recovered,",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of changes on Arctic marine ecosystems and life in the",
+      "context_window": "continued effort to further advance work in circumpolar biodiversity monitoring efforts and to understand the impact of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations in the ice and underlying water masses",
+      "context_window": "available to sea ice biota are primarily a function of three factors: (1) nutrient concentrations in the ice and underlying water masses after the winter; (2) nutrients supplied by advection; and (3) biological uptake and remineralization processes",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protist community structure in summer. Furthermore, they",
+      "context_window": "but they concluded that the strength of Atlantic water inflow might also have consequences for the planktonic protist community structure in summer. Furthermore, they found that microplanktonic (ciliates and dinoflagellates) contribution was greatest in the warmest summers. A",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plankton blooms",
+      "context_window": "and coccolithophore plankton blooms , which in turn could change the distribution and abundance of seabird prey (NOAA 2015). In the southern",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vocalizations and can be negatively affected by underwater",
+      "context_window": "is also of concern for marine mammal populations. Marine mammals communicate via underwater vocalizations and can be negatively affected by underwater noise from shipping and other industrial activities (Reeves et al. 2014). Bowhead whale, for example, respond to",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "but they concluded that the strength of Atlantic water",
+      "context_window": "Kubiszyn et al. (2014), impact from Atlantic inflow variability is not as clear as for the spring bloom in Kongsfjorden, but they concluded that the strength of Atlantic water inflow might also have consequences for the planktonic protist community structure in summer. Furthermore, they",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water column properties because they have generally little",
+      "context_window": "upper trophic benthivores on shallow Arctic continental shelves and are valuable long-term integrators of overlying water column properties because they have generally little mobility. Also, macrofauna sampling leaves a much smaller footprint on the seafloor than trawling. Therefore, a strong",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elements of the Arctic marine environment, what the CBMP",
+      "context_window": "This is the first Circumpolar Biodiversity Monitoring Program (CBMP) report to summarize status and trends in key biotic elements of the Arctic marine environment, what the CBMP refers to as Focal Ecosystem Components (FECs). The results are based on efforts to locate, gather, integrate and interpret",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of altered environmental conditions. Elevated ocean",
+      "context_window": "3.4.1 Introduction Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "drive the circulation of the world’s oceans. Simplified Arctic",
+      "context_window": "Arctic plays a key role in the global climate system through the production of North Atlantic Deep Water, which helps drive the circulation of the world’s oceans. Simplified Arctic Ocean currents (Fig. 2.1) show that the main circulation patterns follow the continental shelf breaks and margins",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ice algae in the Arctic Ocean, but because some areas will",
+      "context_window": "and alter the upper ocean ecosystem (Nicolaus et al. 2012). Thinner ice may facilitate higher production and biomass of ice algae in the Arctic Ocean, but because some areas will have less ice and stratification of the upper water column may increase, the net effect for the Arctic is uncertain (Barber",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global ocean temperatures over the past 30 years (AMAP",
+      "context_window": "marine environment is undergoing a rapid warming trend, which follows a general documented warming trend in global ocean temperatures over the past 30 years (AMAP 2013). For example, temperatures recorded for the Barents Sea has increased since the 1970s (Johannesen et al. 2012,",
+      "page_number": 22,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "ocean ecosystems (Meltofte 2013).",
+      "context_window": "nutrient supply related to changes in physical parameters, such as sea ice and current alteration, could dramatically alter ocean ecosystems (Meltofte 2013). Timing, distribution and characteristics of sea-ice cover",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase upwelling in autumn and therefore add nutrients",
+      "context_window": "Chukchi Sea (Ershova et al. 2015b). More open water, with an extended duration, may favour stronger wind events that increase upwelling in autumn and therefore add nutrients to surface water that act to precondition the extent of the following spring bloom. However, in other regions of the",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with regard to drivers related to climate change, trawling",
+      "context_window": "3) have the potential to document large-scale and long- term trends in the dynamics of selected benthic indicators with regard to drivers related to climate change, trawling impact, pollution and other potential anthropogenic and natural drivers. This has led to the suggestion of focusing on",
+      "page_number": 103,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "advection of planktonic algae. These links are likely to change",
+      "context_window": "diatoms in the Canadian Arctic were similar to those in the North Atlantic in the following spring, suggesting large-scale advection of planktonic algae. These links are likely to change in response to further global warming. 4.3 The state of Arctic marine",
+      "page_number": 188,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "negatively influenced by climate related changes with",
+      "context_window": "waters may exert additional pressure through intraspecific competition on populations of polar cod that are already negatively influenced by climate related changes with regards to habitat availability (Box 3.4.2). In the northeast Atlantic, capelin and Atlantic cod are linked",
+      "page_number": 120,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "opaque blue water that may affect seabird foraging or prey",
+      "context_window": "a large coccolithophore bloom (NOAA 2015). While a coccolithophore bloom is not toxic, it is associated with opaque blue water that may affect seabird foraging or prey distribution (Bauduini et al. 2001). This late summer die- off was followed in 2015 with high ocean temperatures",
+      "page_number": 140,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Alaska share the significance of the ocean and changes that",
+      "context_window": "a report on use of Bering Strait region ocean currents. Within the report, Indigenous peoples of the Bering Strait region of Alaska share the significance of the ocean and changes that have been observed: “Changing weather and ocean currents have altered the off-shore sea floor, sometimes creating",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical environmental changes",
+      "context_window": "feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in oceanographic conditions in this area affected many",
+      "context_window": "the mid-1990s was associated with a basin-scale regime shift in the Northeast Atlantic and a warming of the sea. Changes in oceanographic conditions in this area affected many components of the North Atlantic marine fauna (Hatun et al. 2009), and similar conditions may have been a key driver",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in currents",
+      "context_window": "Cepphus grylle ) in Alaska (Divoky et al. 2015). Changes in currents Global increases in ocean temperature are likely to cause some major currents to strengthen and others to weaken",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "others (fish and benthos) they were unable to source enough",
+      "context_window": "For some (seabirds and marine mammals) they were able to refine and expand upon the original list of FECs while for others (fish and benthos) they were unable to source enough data to report on all the FECs (Table 4.1). For many taxa, regular monitoring is supplemented by",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 3.2.6: Abundance of the copepod",
+      "context_window": "species or groups with robust cell walls, such as thecate dinoflagellates and diatoms, would have remained intact Figure 3.2.6: Abundance of the copepod Calanus glacialis in the Chukchi Sea, 1945-2012 (after Ershova et al. 2015b).",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea surface salinity",
+      "context_window": "including in the Bering Sea (Meltofte 2013). Changes in sea surface salinity can alter the physical and chemical environment, affecting ocean currents",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current state of the marine environment, examples are",
+      "context_window": "this report. With the understanding of the importance to utlize both science and TLK in order to understand the current state of the marine environment, examples are provided of the type of information that TK holders have to offer.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicating that they are tolerant to salinity fluctuations in",
+      "context_window": "low salinities are only tolerated by few marine taxa, but ice amphipods show low osmotic response to hyposmotic stress indicating that they are tolerant to salinity fluctuations in melting sea ice environment (e.g., Aarset and Aunaas 1987). Riverine influence also reduces the salinity so that typical",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrient richness, ocean frontal boundaries often create hot",
+      "context_window": "separate two distinct water masses. With sharp gradients in parameters such as temperature and nutrient richness, ocean frontal boundaries often create hot spots for biological production (Meltofte 2013). These frontal boundaries can shift location from year to year depending",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "algae. Upwelling of nutrient-rich water along the shelf break",
+      "context_window": "Rather, advection of underlying, nutrient-rich water or upwelling is required to achieve high accumulation of ice algae. Upwelling of nutrient-rich water along the shelf break towards surface water layers has become more common in parts of the Arctic as ice retreats and can result in increased",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increased levels of ocean noise due to increased ship traffic",
+      "context_window": "mammals through direct habitat loss; and indirectly through 1) changes in prey species abundance and distribution; 2) increased levels of ocean noise due to increased ship traffic and industrial activities; 3) increased risks of disease; and, 4) alteration of predator-prey relationships (Kovacs et al. 2011,",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Descamps et al. 2013). The warming of the Atlantic has led",
+      "context_window": "al. 2009), and similar conditions may have been a key driver of the decline in Svalbard’s thick-billed murre population (Descamps et al. 2013). The warming of the Atlantic has led to a shift in copepod prey species, with the larger, lipid- rich",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is expected to have direct and indirect impacts",
+      "context_window": "around the globe will change. A rise in seawater temperature of up to 4°C is expected in the Atlantic sector of the Arctic Ocean, which is expected to have direct and indirect impacts on marine biodiversity (Müller et al. 2009, Meltofte 2013, Hunt et al. 2016). Such changes in temperature can affect any",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "heat, sea surface temperatures will increase and ocean",
+      "context_window": "Sea has increased since the 1970s (Johannesen et al. 2012, Smedsrud et al. 2013). As the world’s oceans absorb more heat, sea surface temperatures will increase and ocean circulation patterns that transport warm and cold water Box 2.2: Key physical drivers of",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "understanding of changes in Arctic marine ecosystems.",
+      "context_window": "The Traditional Knowledge (TK) of peoples living along and off the Arctic Ocean is an invaluable resource for our understanding of changes in Arctic marine ecosystems. TK holders have a considerable wealth of information that is needed to increase our knowledge of interconnected",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, sea ice coverage, thickness, sand bar location, and ocean currents all",
+      "context_window": "Our knowledge teaches the importance of understanding interconnections within the Arctic to determine how some of these changes may be occurring. For example, sea ice coverage, thickness, sand bar location, and ocean currents all play a role in the health of life in the Arctic, including benthic resource species. Benthic species are also an important food source for walrus.",
+      "page_number": 100,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2011 and 2014 through the U.S. Bureau of Ocean Energy",
+      "context_window": "Beaufort Sea, identifying 174 benthic invertebrate species (Rand and Logerwell 2011). Other investigations between 2011 and 2014 through the U.S. Bureau of Ocean Energy Management (BeauFISH and U.S.-Canada Transboundary projects) supported shelf and slope investigations including",
+      "page_number": 94,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which follows a general documented warming trend in",
+      "context_window": "existing monitoring in some areas suggests that the Arctic marine environment is undergoing a rapid warming trend, which follows a general documented warming trend in global ocean temperatures over the past 30 years (AMAP 2013). For example, temperatures recorded for the Barents",
+      "page_number": 22,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "sea ice conditions (Grémillet et al. 2012, 2015). Changes in",
+      "context_window": "affect the diet of seabirds and reveal species plasticity in response to climate change and sea ice conditions (Grémillet et al. 2012, 2015). Changes in ice coverage might have positive or negative impacts on seabirds. For example, planktivorous seabirds appear to have",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "two processes. If strong algal blooms become increasingly",
+      "context_window": "limited nutrients, particularly in the Arctic Basin (Chapter 3.2). Regional variation is expected in the relative role of these two processes. If strong algal blooms become increasingly common in Arctic waters, this could have impacts e.g. on seabirds and fish, due to either toxic effects or increased",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences for the Arctic environment (Reeves et al. 2014)",
+      "context_window": "development activities are likely to have serious consequences for the Arctic environment (Reeves et al. 2014) and for those living in the region that continue to rely on the environment for food security and livelihoods. Impacts",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Arctic Ocean and adjacent seas and examined a few",
+      "context_window": "Arctic biodiversity and related drivers since the 2013 ABA, which examined overall patterns in marine fish biodiversity in the Arctic Ocean and adjacent seas and examined a few fishery-targeted species in greater detail (Christiansen et al. 2013). The analysis relied on a 2011 synthesis of Arctic",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "poor. Dinoflagellate species increased after the mid-1990s",
+      "context_window": "1981), pennate diatoms dominated (56 species) in multi-year ice, while centric diatoms and dinoflagellates were species poor. Dinoflagellate species increased after the mid-1990s despite lower sampling effort, while diatom species numbers (in particular pennate form) declined. In conclusion, the",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Northeast Atlantic and a warming of the sea. Changes",
+      "context_window": "In the Atlantic Arctic, the weakening of the sub-polar gyre in the mid-1990s was associated with a basin-scale regime shift in the Northeast Atlantic and a warming of the sea. Changes in oceanographic conditions in this area affected many components of the North Atlantic marine fauna (Hatun et",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "conditions has also been reported in Atlantic water masses",
+      "context_window": "shift in phytoplankton community composition towards dominance of small-sized phytoplankton under warmer conditions has also been reported in Atlantic water masses west of Spitsbergen (Lalande et al. 2013). Of importance is also whether the inflow of Atlantic water into Kongsfjorden is",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "identifying key plankton species that are indicative of the",
+      "context_window": "can be extrapolated over larger areas. Over the last 10 years the CBMP Plankton Expert Network has worked towards identifying key plankton species that are indicative of the state of the ecosystem and have relevance to other biological FECs. The CBMP Plankton Expert Network will continue to",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean) as well as a warming and freshening of the surface",
+      "context_window": "and an increase in atmospheric low pressure systems, which generate stronger winds (and deeper mixing of the upper ocean) as well as a warming and freshening of the surface layer, likely favours smaller species as observed in Canada Basin (Li et al. 2009) and Beaufort Sea of the Canadian Arctic",
+      "page_number": 72,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "the balance of influx of Atlantic and Arctic waters, and as",
+      "context_window": "Norway in collaboration with University Studies in Svalbard (UNIS). The Kongsfjorden marine ecosystem functions under the balance of influx of Atlantic and Arctic waters, and as a consequence the pelagic food web is composed of both boreal and Arctic species. Hop et al. (2002) concluded that",
+      "page_number": 67,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "acidification",
+      "context_window": "in the world’s oceans causes ocean acidification , a phenomenon that changes the chemical carbonate balance of the sea water, and thus the living",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to the effects of ocean acidification (AMAP 2013). While",
+      "context_window": "Ocean acidification Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While acidification itself is monitored in some parts of the Arctic (Chierici et al. 2016), there is currently no monitoring of",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "behavioral effects. Ocean acidification will likely impact Arctic",
+      "context_window": "well known that many non-Arctic calcareous species have reduced shell-building capacity and metabolic and behavioral effects. Ocean acidification will likely impact Arctic benthic species in both their adult benthic and/or pelagic larval stages, and juvenile stages are generally found to be",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "effects of ocean acidification in the Arctic. For Arctic primary",
+      "context_window": "studies on the entire life cycle and from across the entire Arctic. However, those that exist point to likely ecosystem effects of ocean acidification in the Arctic. For Arctic primary producers, increased pCO 2",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "2 in the world’s oceans causes ocean acidification , a phenomenon that changes the chemical",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "acidification since CO",
+      "context_window": "carbonate balance of the sea water, and thus the living conditions for biota. The Arctic is especially vulnerable to this acidification since CO 2 dissolves more easily in colder water.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "able to adapt to increasing acidity at the cost of expending",
+      "context_window": "less soluble calcite, such as the abundant planktonic algae belonging to the group coccolithophores, may be better able to adapt to increasing acidity at the cost of expending more energy on constructing their skeletons (Beaufort et al. 2011). Arctic copepods, such as",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact of ocean acidification on Arctic species, especially",
+      "context_window": "inform an assessment of the importance of this driver for biodiversity. Few studies have investigated the potential impact of ocean acidification on Arctic species, especially studies on the entire life cycle and from across the entire Arctic. However, those that exist point to likely ecosystem",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The effects of acidification on Arctic fishes are still unclear,",
+      "context_window": "that experience a change in their prey field and consequently their diet and nutritional status. The effects of acidification on Arctic fishes are still unclear, but recent studies on Atlantic cod showed higher juvenile mortality with elevated acidification (Stiasny et al. 2016).",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "into biomass and contribute to the biological carbon pump when they sink out of the",
+      "context_window": "Phototrophs fix CO 2 into biomass and contribute to the biological carbon pump when they sink out of the surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean. The",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "aragonite shells at close to current pH levels (Bednarsek et",
+      "context_window": "component of zooplankton and experimental studies have shown that they are highly vulnerable to dissolution of their aragonite shells at close to current pH levels (Bednarsek et al. 2014). On the other hand, organisms incorporating the less soluble calcite, such as the abundant planktonic algae",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification, river/glacier freshwater discharge",
+      "context_window": "Sea-ice dynamics, ocean mixing, bottom-water temperature change, commercial bottom trawling, ocean acidification, river/glacier freshwater discharge and introduction of non-indigenous species are regarded as major drivers of observed and expected",
+      "page_number": 104,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Arctic marine species and ecosystems are undergoing",
+      "context_window": "Key Findings 5 Arctic marine species and ecosystems are undergoing pressure from cumulative changes in their physical, chemical and biological environment.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ingestion (Hildebrandt et al. 2014). Arctic benthic calcifiers,",
+      "context_window": "levels, including their naupliar development and growth (Bailey et al. 2016) as well as adult respiration and ingestion (Hildebrandt et al. 2014). Arctic benthic calcifiers, including molluscs, echinoderms and crabs, are generally negatively affected by increased pCO",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "their marine habitats, because they integrate the effects of",
+      "context_window": "to observe than other marine taxa, making them useful study subjects. Seabirds function as indicators of the condition of their marine habitats, because they integrate the effects of abiotic stressors acting on lower trophic levels (Piatt et al. 2007, Sydeman et al. 2012, Green and Elmberg 2014).  The",
+      "page_number": 131,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and potentially altering marine food webs (Carmack and",
+      "context_window": "can alter the physical and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean Figure 2.1.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "glaciers and permafrost, and in the ocean carbon budget",
+      "context_window": "water temperature, sea-ice dynamics, coastal erosion, freshwater and sediment inputs from rivers, melting glaciers and permafrost, and in the ocean carbon budget (ocean acidification) (Piepenburg 2005). Commercial bottom trawling is an anthropogenic driver that has been",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic",
+      "context_window": "and Chukchi Sea. • Drivers related to climate-change such as warming, ice decline and acidification are affecting the benthic community on a pan-Arctic scale, while drivers such as trawling, river/glacier discharge and invasive species have significant impact on regional or local scales.",
+      "page_number": 87,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "There is a potential risk of harmful/toxic phytoplankton causing public health threats through shellfish",
+      "context_window": "food web. • There is a potential risk of harmful/toxic phytoplankton causing public health threats through shellfish consumption, fish and aquatic bird kills, and decreased fitness in marine mammals. •",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution as the climate warms, or because chemical",
+      "context_window": "with climate change, either because the associated human activities are expected to change in intensity or spatial distribution as the climate warms, or because chemical or biological reactions and pathways are likely to change. Furthermore, the various stressors will interact among",
+      "page_number": 185,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "(i.e., FECs) of marine ecosystems are monitored, and where",
+      "context_window": ", it implies a holistic framework where prioritized elements (i.e., FECs) of marine ecosystems are monitored, and where information is integrated and contributes to decision-making (see also Chapter 1). As this report represents the first",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects on marine mammals, seabirds and piscivorous fishes",
+      "context_window": "(Box 3.4.2). In addition to the direct effect on polar cod, this change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently their diet and nutritional status.",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Wassmann 2006). Pacific water enters the Arctic Ocean",
+      "context_window": "and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean Figure 2.1. Bathymetric features, warm currents (red arrows), cold currents (blue arrows) and riverine inflow in the Arctic.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Acidification",
+      "context_window": "Change Ocean Acidification Commercial Bottom",
+      "page_number": 102,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "therefore do not wash ashore in as large numbers as in the",
+      "context_window": "have altered the off-shore sea floor, sometimes creating large dips where clams, for instance, become trapped and therefore do not wash ashore in as large numbers as in the past”. The change in ocean currents is directly related to change in sea ice and storms. Raymond-Yakoubian et al.",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Information Facility, FishSource and the Sea Around Us",
+      "context_window": "databases have been created, including the Ocean Biogeographic Information System, the Global Biodiversity Information Facility, FishSource and the Sea Around Us Project. 3.4.3 Status and trends of FECs",
+      "page_number": 114,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carbon and nitrogen cycling, making nutrients available",
+      "context_window": "large fraction of the biomass in the global ocean, including the sea ice habitat. These microbes are principal actors in carbon and nitrogen cycling, making nutrients available to other organisms. DNA (or protein) sequence similarity is the only reliable way to measure the taxonomic diversity of",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem state and the pressures acting on it (Berg",
+      "context_window": "the physical environment and all levels of the ecosystem, so as to achieve an optimal description of ecosystem state and the pressures acting on it (Berg et al. 2015). However, the actual monitoring generally builds on already existing efforts and data series,",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have been observed: “Changing weather and ocean currents",
+      "context_window": "the report, Indigenous peoples of the Bering Strait region of Alaska share the significance of the ocean and changes that have been observed: “Changing weather and ocean currents have altered the off-shore sea floor, sometimes creating large dips where clams, for instance, become trapped and",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "role in global weather patterns and affecting ocean life. The",
+      "context_window": "encircle the world like a conveyor belt and are highly connected to the atmosphere, playing a major role in global weather patterns and affecting ocean life. The Arctic plays a key role in the global climate system through the production of North Atlantic Deep Water, which helps",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 3.3.7: Cumulative scores of various environmental and anthropogenic drivers of change of the benthic ecosystem across the eight Arctic",
+      "context_window": "larval stages, and juvenile stages are generally found to be the most sensitive. Figure 3.3.7: Cumulative scores of various environmental and anthropogenic drivers of change of the benthic ecosystem across the eight Arctic Marine Areas (AMA). A cumulative score is the median score of sub-regions per AMA (Table 3.3.1).",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing ocean temperature",
+      "context_window": "trends in physical drivers and anthropogenic stressors can be found in Chapter 2. Increasing ocean temperature Physiological changes among key primary producers may have strong implications for higher trophic levels. In the",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean",
+      "context_window": "The circumpolar regions may offer a unique opportunity to examine the impacts of broad-scale shifts in ocean temperatures on upper trophic levels. For example, a",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts that can affect how the ecosystem functions. It is hard",
+      "context_window": "Some changes may be gradual, but there may also be large and sudden shifts that can affect how the ecosystem functions. It is hard to determine where and when these “tipping points” exist because the Arctic marine environment experiences a variety",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring can be considered ‘ecosystem-based’, and to what",
+      "context_window": "Marine Plan , it is highly relevant to consider whether current monitoring can be considered ‘ecosystem-based’, and to what extent progress is being made in that direction. The term ‘ecosystem-based monitoring’ is used in different ways in the",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects of climate change versus seasonality on marine food",
+      "context_window": "the two types of communities (strictly Arctic versus Boreal- Arctic) promises to be a powerful tool in interpreting the effects of climate change versus seasonality on marine food webs (Luddington et al. 2016). Most Arctic phytoplankton species have pan-Arctic",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the rising levels of CO",
+      "context_window": "2 ) because of the rising levels of CO 2 in the atmosphere (Freely et al.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parts of the Arctic as ice retreats and can result in increased",
+      "context_window": "algae. Upwelling of nutrient-rich water along the shelf break towards surface water layers has become more common in parts of the Arctic as ice retreats and can result in increased nutrient supplies supporting algal blooms (Carmack and Chapman 2003, Tremblay et al. 2011). Autumn blooms have",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of changes on Arctic marine ecosystems and life in the",
+      "context_window": "continued effort to further advance work in circumpolar biodiversity monitoring efforts and to understand the impact of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protist community structure in summer. Furthermore, they",
+      "context_window": "but they concluded that the strength of Atlantic water inflow might also have consequences for the planktonic protist community structure in summer. Furthermore, they found that microplanktonic (ciliates and dinoflagellates) contribution was greatest in the warmest summers. A",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vocalizations and can be negatively affected by underwater",
+      "context_window": "is also of concern for marine mammal populations. Marine mammals communicate via underwater vocalizations and can be negatively affected by underwater noise from shipping and other industrial activities (Reeves et al. 2014). Bowhead whale, for example, respond to",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water column properties because they have generally little",
+      "context_window": "upper trophic benthivores on shallow Arctic continental shelves and are valuable long-term integrators of overlying water column properties because they have generally little mobility. Also, macrofauna sampling leaves a much smaller footprint on the seafloor than trawling. Therefore, a strong",
+      "page_number": 103,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of altered environmental conditions. Elevated ocean",
+      "context_window": "3.4.1 Introduction Arctic marine fish communities are changing as the result of altered environmental conditions. Elevated ocean temperatures and altered stratification, wave action and the availability of ice habitats are driving changes in habitat",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ice algae in the Arctic Ocean, but because some areas will",
+      "context_window": "and alter the upper ocean ecosystem (Nicolaus et al. 2012). Thinner ice may facilitate higher production and biomass of ice algae in the Arctic Ocean, but because some areas will have less ice and stratification of the upper water column may increase, the net effect for the Arctic is uncertain (Barber",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean ecosystems (Meltofte 2013).",
+      "context_window": "nutrient supply related to changes in physical parameters, such as sea ice and current alteration, could dramatically alter ocean ecosystems (Meltofte 2013). Timing, distribution and characteristics of sea-ice cover",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with regard to drivers related to climate change, trawling",
+      "context_window": "3) have the potential to document large-scale and long- term trends in the dynamics of selected benthic indicators with regard to drivers related to climate change, trawling impact, pollution and other potential anthropogenic and natural drivers. This has led to the suggestion of focusing on",
+      "page_number": 103,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "negatively influenced by climate related changes with",
+      "context_window": "waters may exert additional pressure through intraspecific competition on populations of polar cod that are already negatively influenced by climate related changes with regards to habitat availability (Box 3.4.2). In the northeast Atlantic, capelin and Atlantic cod are linked",
+      "page_number": 120,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Alaska share the significance of the ocean and changes that",
+      "context_window": "a report on use of Bering Strait region ocean currents. Within the report, Indigenous peoples of the Bering Strait region of Alaska share the significance of the ocean and changes that have been observed: “Changing weather and ocean currents have altered the off-shore sea floor, sometimes creating",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in oceanographic conditions in this area affected many",
+      "context_window": "the mid-1990s was associated with a basin-scale regime shift in the Northeast Atlantic and a warming of the sea. Changes in oceanographic conditions in this area affected many components of the North Atlantic marine fauna (Hatun et al. 2009), and similar conditions may have been a key driver",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "others (fish and benthos) they were unable to source enough",
+      "context_window": "For some (seabirds and marine mammals) they were able to refine and expand upon the original list of FECs while for others (fish and benthos) they were unable to source enough data to report on all the FECs (Table 4.1). For many taxa, regular monitoring is supplemented by",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea surface salinity",
+      "context_window": "including in the Bering Sea (Meltofte 2013). Changes in sea surface salinity can alter the physical and chemical environment, affecting ocean currents",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicating that they are tolerant to salinity fluctuations in",
+      "context_window": "low salinities are only tolerated by few marine taxa, but ice amphipods show low osmotic response to hyposmotic stress indicating that they are tolerant to salinity fluctuations in melting sea ice environment (e.g., Aarset and Aunaas 1987). Riverine influence also reduces the salinity so that typical",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "algae. Upwelling of nutrient-rich water along the shelf break",
+      "context_window": "Rather, advection of underlying, nutrient-rich water or upwelling is required to achieve high accumulation of ice algae. Upwelling of nutrient-rich water along the shelf break towards surface water layers has become more common in parts of the Arctic as ice retreats and can result in increased",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Descamps et al. 2013). The warming of the Atlantic has led",
+      "context_window": "al. 2009), and similar conditions may have been a key driver of the decline in Svalbard’s thick-billed murre population (Descamps et al. 2013). The warming of the Atlantic has led to a shift in copepod prey species, with the larger, lipid- rich",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "heat, sea surface temperatures will increase and ocean",
+      "context_window": "Sea has increased since the 1970s (Johannesen et al. 2012, Smedsrud et al. 2013). As the world’s oceans absorb more heat, sea surface temperatures will increase and ocean circulation patterns that transport warm and cold water Box 2.2: Key physical drivers of",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, sea ice coverage, thickness, sand bar location, and ocean currents all",
+      "context_window": "Our knowledge teaches the importance of understanding interconnections within the Arctic to determine how some of these changes may be occurring. For example, sea ice coverage, thickness, sand bar location, and ocean currents all play a role in the health of life in the Arctic, including benthic resource species. Benthic species are also an important food source for walrus.",
+      "page_number": 100,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which follows a general documented warming trend in",
+      "context_window": "existing monitoring in some areas suggests that the Arctic marine environment is undergoing a rapid warming trend, which follows a general documented warming trend in global ocean temperatures over the past 30 years (AMAP 2013). For example, temperatures recorded for the Barents",
+      "page_number": 22,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "two processes. If strong algal blooms become increasingly",
+      "context_window": "limited nutrients, particularly in the Arctic Basin (Chapter 3.2). Regional variation is expected in the relative role of these two processes. If strong algal blooms become increasingly common in Arctic waters, this could have impacts e.g. on seabirds and fish, due to either toxic effects or increased",
+      "page_number": 184,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Arctic Ocean and adjacent seas and examined a few",
+      "context_window": "Arctic biodiversity and related drivers since the 2013 ABA, which examined overall patterns in marine fish biodiversity in the Arctic Ocean and adjacent seas and examined a few fishery-targeted species in greater detail (Christiansen et al. 2013). The analysis relied on a 2011 synthesis of Arctic",
+      "page_number": 111,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in the Northeast Atlantic and a warming of the sea. Changes",
+      "context_window": "In the Atlantic Arctic, the weakening of the sub-polar gyre in the mid-1990s was associated with a basin-scale regime shift in the Northeast Atlantic and a warming of the sea. Changes in oceanographic conditions in this area affected many components of the North Atlantic marine fauna (Hatun et",
+      "page_number": 140,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "identifying key plankton species that are indicative of the",
+      "context_window": "can be extrapolated over larger areas. Over the last 10 years the CBMP Plankton Expert Network has worked towards identifying key plankton species that are indicative of the state of the ecosystem and have relevance to other biological FECs. The CBMP Plankton Expert Network will continue to",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the balance of influx of Atlantic and Arctic waters, and as",
+      "context_window": "Norway in collaboration with University Studies in Svalbard (UNIS). The Kongsfjorden marine ecosystem functions under the balance of influx of Atlantic and Arctic waters, and as a consequence the pelagic food web is composed of both boreal and Arctic species. Hop et al. (2002) concluded that",
+      "page_number": 67,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean) as well as a warming and freshening of the surface",
+      "context_window": "and an increase in atmospheric low pressure systems, which generate stronger winds (and deeper mixing of the upper ocean) as well as a warming and freshening of the surface layer, likely favours smaller species as observed in Canada Basin (Li et al. 2009) and Beaufort Sea of the Canadian Arctic",
+      "page_number": 72,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "conditions has also been reported in Atlantic water masses",
+      "context_window": "shift in phytoplankton community composition towards dominance of small-sized phytoplankton under warmer conditions has also been reported in Atlantic water masses west of Spitsbergen (Lalande et al. 2013). Of importance is also whether the inflow of Atlantic water into Kongsfjorden is",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "poor. Dinoflagellate species increased after the mid-1990s",
+      "context_window": "1981), pennate diatoms dominated (56 species) in multi-year ice, while centric diatoms and dinoflagellates were species poor. Dinoflagellate species increased after the mid-1990s despite lower sampling effort, while diatom species numbers (in particular pennate form) declined. In conclusion, the",
+      "page_number": 47,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences for the Arctic environment (Reeves et al. 2014)",
+      "context_window": "development activities are likely to have serious consequences for the Arctic environment (Reeves et al. 2014) and for those living in the region that continue to rely on the environment for food security and livelihoods. Impacts",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea ice conditions (Grémillet et al. 2012, 2015). Changes in",
+      "context_window": "affect the diet of seabirds and reveal species plasticity in response to climate change and sea ice conditions (Grémillet et al. 2012, 2015). Changes in ice coverage might have positive or negative impacts on seabirds. For example, planktivorous seabirds appear to have",
+      "page_number": 138,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "2011 and 2014 through the U.S. Bureau of Ocean Energy",
+      "context_window": "Beaufort Sea, identifying 174 benthic invertebrate species (Rand and Logerwell 2011). Other investigations between 2011 and 2014 through the U.S. Bureau of Ocean Energy Management (BeauFISH and U.S.-Canada Transboundary projects) supported shelf and slope investigations including",
+      "page_number": 94,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "understanding of changes in Arctic marine ecosystems.",
+      "context_window": "The Traditional Knowledge (TK) of peoples living along and off the Arctic Ocean is an invaluable resource for our understanding of changes in Arctic marine ecosystems. TK holders have a considerable wealth of information that is needed to increase our knowledge of interconnected",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is expected to have direct and indirect impacts",
+      "context_window": "around the globe will change. A rise in seawater temperature of up to 4°C is expected in the Atlantic sector of the Arctic Ocean, which is expected to have direct and indirect impacts on marine biodiversity (Müller et al. 2009, Meltofte 2013, Hunt et al. 2016). Such changes in temperature can affect any",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increased levels of ocean noise due to increased ship traffic",
+      "context_window": "mammals through direct habitat loss; and indirectly through 1) changes in prey species abundance and distribution; 2) increased levels of ocean noise due to increased ship traffic and industrial activities; 3) increased risks of disease; and, 4) alteration of predator-prey relationships (Kovacs et al. 2011,",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrient richness, ocean frontal boundaries often create hot",
+      "context_window": "separate two distinct water masses. With sharp gradients in parameters such as temperature and nutrient richness, ocean frontal boundaries often create hot spots for biological production (Meltofte 2013). These frontal boundaries can shift location from year to year depending",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current state of the marine environment, examples are",
+      "context_window": "this report. With the understanding of the importance to utlize both science and TLK in order to understand the current state of the marine environment, examples are provided of the type of information that TK holders have to offer.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 3.2.6: Abundance of the copepod",
+      "context_window": "species or groups with robust cell walls, such as thecate dinoflagellates and diatoms, would have remained intact Figure 3.2.6: Abundance of the copepod Calanus glacialis in the Chukchi Sea, 1945-2012 (after Ershova et al. 2015b).",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in currents",
+      "context_window": "Cepphus grylle ) in Alaska (Divoky et al. 2015). Changes in currents Global increases in ocean temperature are likely to cause some major currents to strengthen and others to weaken",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical environmental changes",
+      "context_window": "feeding habitats reduce foraging efficiency of walrus. In addition to habitat loss, physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "opaque blue water that may affect seabird foraging or prey",
+      "context_window": "a large coccolithophore bloom (NOAA 2015). While a coccolithophore bloom is not toxic, it is associated with opaque blue water that may affect seabird foraging or prey distribution (Bauduini et al. 2001). This late summer die- off was followed in 2015 with high ocean temperatures",
+      "page_number": 140,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "advection of planktonic algae. These links are likely to change",
+      "context_window": "diatoms in the Canadian Arctic were similar to those in the North Atlantic in the following spring, suggesting large-scale advection of planktonic algae. These links are likely to change in response to further global warming. 4.3 The state of Arctic marine",
+      "page_number": 188,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "increase upwelling in autumn and therefore add nutrients",
+      "context_window": "Chukchi Sea (Ershova et al. 2015b). More open water, with an extended duration, may favour stronger wind events that increase upwelling in autumn and therefore add nutrients to surface water that act to precondition the extent of the following spring bloom. However, in other regions of the",
+      "page_number": 76,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global ocean temperatures over the past 30 years (AMAP",
+      "context_window": "marine environment is undergoing a rapid warming trend, which follows a general documented warming trend in global ocean temperatures over the past 30 years (AMAP 2013). For example, temperatures recorded for the Barents Sea has increased since the 1970s (Johannesen et al. 2012,",
+      "page_number": 22,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "drive the circulation of the world’s oceans. Simplified Arctic",
+      "context_window": "Arctic plays a key role in the global climate system through the production of North Atlantic Deep Water, which helps drive the circulation of the world’s oceans. Simplified Arctic Ocean currents (Fig. 2.1) show that the main circulation patterns follow the continental shelf breaks and margins",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elements of the Arctic marine environment, what the CBMP",
+      "context_window": "This is the first Circumpolar Biodiversity Monitoring Program (CBMP) report to summarize status and trends in key biotic elements of the Arctic marine environment, what the CBMP refers to as Focal Ecosystem Components (FECs). The results are based on efforts to locate, gather, integrate and interpret",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "but they concluded that the strength of Atlantic water",
+      "context_window": "Kubiszyn et al. (2014), impact from Atlantic inflow variability is not as clear as for the spring bloom in Kongsfjorden, but they concluded that the strength of Atlantic water inflow might also have consequences for the planktonic protist community structure in summer. Furthermore, they",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "plankton blooms",
+      "context_window": "and coccolithophore plankton blooms , which in turn could change the distribution and abundance of seabird prey (NOAA 2015). In the southern",
+      "page_number": 138,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations in the ice and underlying water masses",
+      "context_window": "available to sea ice biota are primarily a function of three factors: (1) nutrient concentrations in the ice and underlying water masses after the winter; (2) nutrients supplied by advection; and (3) biological uptake and remineralization processes",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be argued that changes at the base of the food web would",
+      "context_window": "influenced by climate-driven change and species data would contribute to the understanding of ecosystem status. It can be argued that changes at the base of the food web would be the first sentinel signals of overall ecosystem shifts. Significant amounts of old data still need to be recovered,",
+      "page_number": 79,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change in the marine fish community can have bottom-up",
+      "context_window": "in novel competition with polar cod for zooplankton prey (Box 3.4.2). In addition to the direct effect on polar cod, this change in the marine fish community can have bottom-up effects on marine mammals, seabirds and piscivorous fishes that experience a change in their prey field and consequently",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean",
+      "context_window": "Temperature Change Ocean Acidification Commercial",
+      "page_number": 102,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to reflect changes in ecosystem",
+      "context_window": "of the CBMP Marine Plan to reflect changes in ecosystem structure and function (see also Chapter 4.1.3). Biodiversity monitoring spans many levels of detail, from",
+      "page_number": 188,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "base of Arctic marine mammals. Such changes may appear",
+      "context_window": "physical environmental changes (e.g., increased water and air temperatures) alter the forage base of Arctic marine mammals. Such changes may appear as shifts in the density and distribution of prey species, and potentially loss of some fat-rich prey species (Moore et al.",
+      "page_number": 166,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge about the ecosystem and its dynamics,",
+      "context_window": "integrated management of human activities based on best available scientific and traditional knowledge about the ecosystem and its dynamics, in order to identify and take action on influences that are critical to the health of ecosystems, thereby",
+      "page_number": 190,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The three marine fish FECs discussed here are indicative",
+      "context_window": "ecosystems in the Arctic. 3.4.4 Drivers of observed trends The three marine fish FECs discussed here are indicative of different changes that are occurring in the Arctic and demonstrate the varied responses observed among species.",
+      "page_number": 122,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on different elements within the ecosystem and different",
+      "context_window": "can create cumulative effects in the environment with surprising and hard-to-predict results. Different drivers act on different elements within the ecosystem and different pressures may have either synergistic or antagonistic effects on particular ecosystem components. Drivers may also",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Effects of climate change on benthic populations are",
+      "context_window": "surrounding environment and can respond at different ecological levels (species, populations, and ecosystems). Effects of climate change on benthic populations are complex and are mainly related to changes in bottom- water temperature, sea-ice dynamics, coastal erosion,",
+      "page_number": 101,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on key abiotic parameters is important to correctly interpret",
+      "context_window": "and other abiotic drivers, including those described in Box 2.2, are outside the scope of the CBMP, although information on key abiotic parameters is important to correctly interpret and analyse biodiversity and ecosystem information in a comprehensive way.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.1 What is the Circumpolar Biodiversity",
+      "context_window": "of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity Monitoring Program (CBMP) The CBMP is the cornerstone program of the Conservation",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity",
+      "context_window": "melting and discharge of these sources is expected to be a strong driver in these Arctic regions. Reduced salinity will directly affect the osmotic balance of benthic species and may also cause indirect effects through changes in",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "communities. These changes in the sea floor may impact ice",
+      "context_window": "nearshore sea floor. Residents of Wales and Shishmaref report that ‘dips’ and ‘valleys’ have developed offshore from their communities. These changes in the sea floor may impact ice formation, where ice piles, and the availability of clams.” 4.2.2 Other major anthropogenic stressors",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temperature, salinity, acidity and diseases) on fish",
+      "context_window": "Conduct laboratory studies to examine the possible effects of abiotic and biotic changes (e.g. temperature, salinity, acidity and diseases) on fish species ►",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oceans.",
+      "context_window": "biodiversity monitoring efforts and to understand the impact of changes on Arctic marine ecosystems and life in the oceans. 1.1 What is the Circumpolar Biodiversity Monitoring Program (CBMP)",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and chemical environment, affecting ocean currents",
+      "context_window": "sea surface salinity can alter the physical and chemical environment, affecting ocean currents and potentially altering marine food webs (Carmack and Wassmann 2006). Pacific water enters the Arctic Ocean",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large fraction of the biomass in the global ocean, including",
+      "context_window": "Single-celled microorganisms belonging to the domains Bacteria and Archaea are highly diverse and make up a large fraction of the biomass in the global ocean, including the sea ice habitat. These microbes are principal actors in carbon and nitrogen cycling, making nutrients available",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sea-ice dynamics, ocean mixing, bottom-water",
+      "context_window": "sub-Arctic (e.g., snow crab) species. • Sea-ice dynamics, ocean mixing, bottom-water temperature change, commercial bottom trawling, ocean acidification, river/glacier freshwater discharge",
+      "page_number": 104,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Sea surface salinity",
+      "context_window": "Ocean currents and frontal boundaries • Sea surface salinity • Ocean acidification",
+      "page_number": 22,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "Sea surface salinity • Ocean acidification • Nutrients",
+      "page_number": 22,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "stages (Bailey et al. 2017). However, lowered pH may increase",
+      "context_window": "2 , even at the younger life stages (Bailey et al. 2017). However, lowered pH may increase metabolic cost for this species at the expense of growth performance (Thor et al. 2016).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abiotic stressors acting on lower trophic levels (Piatt et al.",
+      "context_window": "subjects. Seabirds function as indicators of the condition of their marine habitats, because they integrate the effects of abiotic stressors acting on lower trophic levels (Piatt et al. 2007, Sydeman et al. 2012, Green and Elmberg 2014).  The CAFF",
+      "page_number": 131,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affected by increased seawater pCO",
+      "context_window": "Calanus glacialis , are less affected by increased seawater pCO 2 , even at the younger life",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calcification, increased respiration, increased mortality in",
+      "context_window": "2 , with decreased calcification, increased respiration, increased mortality in juveniles and adults, and decreased recruitment (Browman et al. 2013). On the other hand, many life stages of non-",
+      "page_number": 185,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and",
+      "context_window": "can profoundly impact marine mammal populations and disrupt complex ecological relationships. • Changes underway are affecting marine mammal behaviour, abundance, growth rates, body condition and reproduction, impacting the resilience of marine mammal populations with concomitant effects on the people who rely on them for subsistence, economic and cultural purposes.",
+      "page_number": 151,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ocean acidification) (Piepenburg 2005). Commercial",
+      "context_window": "freshwater and sediment inputs from rivers, melting glaciers and permafrost, and in the ocean carbon budget (ocean acidification) (Piepenburg 2005). Commercial bottom trawling is an anthropogenic driver that has been demonstrated to cause fluctuations in benthic biomass",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "carbonate system for seawater. Oceans have been",
+      "context_window": "increased freshwater inflow to areas in the North Atlantic. Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO 2",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "have been identified to experience reduced alkalinity, such",
+      "context_window": "on benthic biodiversity are not well known. Although several regions have been identified to experience reduced alkalinity, such as the Chukchi and Beaufort Seas, the exact biological sensitivities are still to be determined. However, it is",
+      "page_number": 101,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean.",
+      "context_window": "2 into biomass and contribute to the biological carbon pump when they sink out of the surface ocean or are consumed by zooplankton that produce fecal pellets that sink out of the surface ocean. The effectiveness of the biological carbon pump is uncertain and relies on a dominance of microalgae.",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Alkalinity is a fundamental chemical property of the",
+      "context_window": "example, increased melting from the Greenland Ice Sheet has increased freshwater inflow to areas in the North Atlantic. Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "mortality with elevated acidification (Stiasny et al. 2016).",
+      "context_window": "The effects of acidification on Arctic fishes are still unclear, but recent studies on Atlantic cod showed higher juvenile mortality with elevated acidification (Stiasny et al. 2016). The geographic extent, temporal extent and thickness of sea ice all have influence on Arctic marine fishes. Sympagic",
+      "page_number": 123,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification",
+      "context_window": "diversity in these marine systems. The potential impacts of ocean acidification on benthic biodiversity are not well known. Although several regions",
+      "page_number": 101,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean acidification",
+      "context_window": "address also cumulative impacts across stressors (see Chapter 2.4). Ocean acidification Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "in the world’s oceans causes",
+      "context_window": "concentration of CO 2 in the world’s oceans causes ocean acidification",
+      "page_number": 25,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to acidification. Pelagic snails (pteropods) are an important",
+      "context_window": "which have different solubilities in relation to pH. Organisms using the more soluble form, aragonite, are most sensitive to acidification. Pelagic snails (pteropods) are an important component of zooplankton and experimental studies have shown that they are highly vulnerable to dissolution of their",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increasingly absorbing carbon dioxide (CO",
+      "context_window": "Alkalinity is a fundamental chemical property of the carbonate system for seawater. Oceans have been increasingly absorbing carbon dioxide (CO 2 ) because of",
+      "page_number": 25,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "carbonate balance of the sea water, and thus the living",
+      "context_window": "acidification , a phenomenon that changes the chemical carbonate balance of the sea water, and thus the living conditions for biota. The Arctic is especially vulnerable to this acidification since CO",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification itself is monitored in some parts of the Arctic",
+      "context_window": "Arctic oceans are expected to be particularly vulnerable to the effects of ocean acidification (AMAP 2013). While acidification itself is monitored in some parts of the Arctic (Chierici et al. 2016), there is currently no monitoring of the biological effects and, thus, little specific evidence to",
+      "page_number": 185,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 8,
+    "keyword_counts": {
+      "climate change": 93,
+      "ocean acidification": 23,
+      "sea level rise": 1,
+      "warming": 58,
+      "temperature increase": 1,
+      "carbon dioxide": 2,
+      "co2": 1,
+      "extreme weather": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "3.1.6 Conclusions and key findings",
+      "start_sentence": 3748,
+      "end_sentence": 3765,
+      "sentence_count": 18,
+      "page_range": "51-51",
+      "sentences": [
+        {
+          "sentence_id": 3748,
+          "page_number": 51,
+          "content": "3.1.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 3749,
+          "page_number": 51,
+          "content": "Temporal trends in sea ice biota diversity and/or abundance/",
+          "full_length": 60
+        },
+        {
+          "sentence_id": 3750,
+          "page_number": 51,
+          "content": "biomass are very challenging to detect for two main reasons:",
+          "full_length": 60
+        },
+        {
+          "sentence_id": 3751,
+          "page_number": 51,
+          "content": "the large natural variability within the sea ice system and the",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 3752,
+          "page_number": 51,
+          "content": "lack of systematic and consistent sea ice biota monitoring.",
+          "full_length": 59
+        }
+      ],
+      "total_sentences_in_section": 18
+    },
+    {
+      "section_name": "3.2.6 Conclusions and key findings",
+      "start_sentence": 6878,
+      "end_sentence": 6912,
+      "sentence_count": 35,
+      "page_range": "80-81",
+      "sentences": [
+        {
+          "sentence_id": 6878,
+          "page_number": 80,
+          "content": "3.2.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 6879,
+          "page_number": 80,
+          "content": "The functional and taxonomic diversity of microbes in the",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 6880,
+          "page_number": 80,
+          "content": "Arctic is vast and a scientifically underappreciated source of",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 6881,
+          "page_number": 80,
+          "content": "biodiversity.",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 6882,
+          "page_number": 80,
+          "content": "Phytoplankton are a species-rich domain of the Arctic marine",
+          "full_length": 60
+        }
+      ],
+      "total_sentences_in_section": 35
+    },
+    {
+      "section_name": "3.3.6 Conclusions and key findings",
+      "start_sentence": 8983,
+      "end_sentence": 8983,
+      "sentence_count": 1,
+      "page_range": "104-104",
+      "sentences": [
+        {
+          "sentence_id": 8983,
+          "page_number": 104,
+          "content": "3.3.6 Conclusions and key findings",
+          "full_length": 34
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "3.4.6 Conclusions and key findings",
+      "start_sentence": 10637,
+      "end_sentence": 10696,
+      "sentence_count": 60,
+      "page_range": "124-125",
+      "sentences": [
+        {
+          "sentence_id": 10637,
+          "page_number": 124,
+          "content": "3.4.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 10638,
+          "page_number": 124,
+          "content": "•",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 10639,
+          "page_number": 124,
+          "content": "Conduct pan-Arctic taxonomic analyses to clarify",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 10640,
+          "page_number": 124,
+          "content": "zoogeographic patterns that are important for",
+          "full_length": 45
+        },
+        {
+          "sentence_id": 10641,
+          "page_number": 124,
+          "content": "detecting and understanding change.",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 60
+    },
+    {
+      "section_name": "3.5.6 Conclusions and key findings",
+      "start_sentence": 12998,
+      "end_sentence": 13133,
+      "sentence_count": 136,
+      "page_range": "144-145",
+      "sentences": [
+        {
+          "sentence_id": 12998,
+          "page_number": 144,
+          "content": "3.5.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 12999,
+          "page_number": 144,
+          "content": "To summarize by AMA ecoregions, based on recent trends at",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 13000,
+          "page_number": 144,
+          "content": "CSMP key sites (Table 3.5.2), the Pacific Arctic and Beaufort",
+          "full_length": 61
+        },
+        {
+          "sentence_id": 13001,
+          "page_number": 144,
+          "content": "have shown increasing or stable populations of six of eight",
+          "full_length": 59
+        },
+        {
+          "sentence_id": 13002,
+          "page_number": 144,
+          "content": "priority (including FEC) species (with exception of common",
+          "full_length": 58
+        }
+      ],
+      "total_sentences_in_section": 136
+    },
+    {
+      "section_name": "3.6.6 Conclusions and key findings",
+      "start_sentence": 16040,
+      "end_sentence": 16148,
+      "sentence_count": 109,
+      "page_range": "170-171",
+      "sentences": [
+        {
+          "sentence_id": 16040,
+          "page_number": 170,
+          "content": "3.6.6 Conclusions and key findings",
+          "full_length": 34
+        },
+        {
+          "sentence_id": 16041,
+          "page_number": 170,
+          "content": "Climate-induced changes are amplified in the Arctic",
+          "full_length": 51
+        },
+        {
+          "sentence_id": 16042,
+          "page_number": 170,
+          "content": "compared to other areas of the globe. As a result, Arctic",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 16043,
+          "page_number": 170,
+          "content": "marine ecosystems are rapidly changing due to atmospheric",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 16044,
+          "page_number": 170,
+          "content": "and oceanic warming and its impacts on sea ice and",
+          "full_length": 50
+        }
+      ],
+      "total_sentences_in_section": 109
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1155,
+      "end_sentence": 1306,
+      "sentence_count": 152,
+      "page_range": "18-21",
+      "sentences": [
+        {
+          "sentence_id": 1155,
+          "page_number": 18,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1156,
+          "page_number": 18,
+          "content": "AMAP, CAFF, SDWG. 2013.",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 1157,
+          "page_number": 18,
+          "content": "Identification of Arctic marine areas of",
+          "full_length": 40
+        },
+        {
+          "sentence_id": 1158,
+          "page_number": 18,
+          "content": "heightened ecological and cultural significance: Arctic Marine",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 1159,
+          "page_number": 18,
+          "content": "Shipping Assessment (AMSA) IIC",
+          "full_length": 30
+        }
+      ],
+      "total_sentences_in_section": 152
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1982,
+      "end_sentence": 2515,
+      "sentence_count": 534,
+      "page_range": "31-35",
+      "sentences": [
+        {
+          "sentence_id": 1982,
+          "page_number": 31,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1983,
+          "page_number": 31,
+          "content": "Arctic Council. 2013.",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 1984,
+          "page_number": 31,
+          "content": "Ecosystem Based Management in the Arctic:",
+          "full_length": 41
+        },
+        {
+          "sentence_id": 1985,
+          "page_number": 31,
+          "content": "Report submitted to Senior Arctic Officials by the Expert Group",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 1986,
+          "page_number": 31,
+          "content": "on Ecosystem-Based Management",
+          "full_length": 29
+        }
+      ],
+      "total_sentences_in_section": 534
+    },
+    {
+      "section_name": "Key references",
+      "start_sentence": 2696,
+      "end_sentence": 2741,
+      "sentence_count": 46,
+      "page_range": "38-39",
+      "sentences": [
+        {
+          "sentence_id": 2696,
+          "page_number": 38,
+          "content": "Key references",
+          "full_length": 14
+        },
+        {
+          "sentence_id": 2697,
+          "page_number": 38,
+          "content": "Bacteria and Archaea",
+          "full_length": 20
+        },
+        {
+          "sentence_id": 2698,
+          "page_number": 38,
+          "content": "> 120 at 95% similarity",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 2699,
+          "page_number": 38,
+          "content": "> 210 cells m",
+          "full_length": 13
+        },
+        {
+          "sentence_id": 2700,
+          "page_number": 38,
+          "content": "-2",
+          "full_length": 2
+        }
+      ],
+      "total_sentences_in_section": 46
+    },
+    {
+      "section_name": "Appendix 3.1.1: Meiofauna References",
+      "start_sentence": 3822,
+      "end_sentence": 3822,
+      "sentence_count": 1,
+      "page_range": "52-52",
+      "sentences": [
+        {
+          "sentence_id": 3822,
+          "page_number": 52,
+          "content": "Appendix 3.1.1: Meiofauna References",
+          "full_length": 36
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "Appendix 3.1.2: Macrofauna References",
+      "start_sentence": 4085,
+      "end_sentence": 4085,
+      "sentence_count": 1,
+      "page_range": "54-54",
+      "sentences": [
+        {
+          "sentence_id": 4085,
+          "page_number": 54,
+          "content": "Appendix 3.1.2: Macrofauna References",
+          "full_length": 37
+        }
+      ],
+      "total_sentences_in_section": 1
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 4925,
+      "end_sentence": 5862,
+      "sentence_count": 938,
+      "page_range": "58-65",
+      "sentences": [
+        {
+          "sentence_id": 4925,
+          "page_number": 58,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 4926,
+          "page_number": 58,
+          "content": "Aarset, A.V. and Aunaas, T. 1987.",
+          "full_length": 33
+        },
+        {
+          "sentence_id": 4927,
+          "page_number": 58,
+          "content": "Osmotic responses to hyposmotic",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 4928,
+          "page_number": 58,
+          "content": "stress in the amphipods",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 4929,
+          "page_number": 58,
+          "content": "Gammarus wilkitzkii",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 938
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 6913,
+      "end_sentence": 7713,
+      "sentence_count": 801,
+      "page_range": "81-87",
+      "sentences": [
+        {
+          "sentence_id": 6913,
+          "page_number": 81,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 6914,
+          "page_number": 81,
+          "content": "Abelmann, A. 1992.",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 6915,
+          "page_number": 81,
+          "content": "Diatom assemblages in Arctic sea ice - indicator",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 6916,
+          "page_number": 81,
+          "content": "for ice drift pathways",
+          "full_length": 22
+        },
+        {
+          "sentence_id": 6917,
+          "page_number": 81,
+          "content": ". Deep-Sea Research Part A, 39(2): 525-",
+          "full_length": 39
+        }
+      ],
+      "total_sentences_in_section": 801
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 9067,
+      "end_sentence": 9634,
+      "sentence_count": 568,
+      "page_range": "105-111",
+      "sentences": [
+        {
+          "sentence_id": 9067,
+          "page_number": 105,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 9068,
+          "page_number": 105,
+          "content": "Anisimova, N.A., Jørgensen, L.L., Lubin, P. and Manushin, I. 2010.",
+          "full_length": 66
+        },
+        {
+          "sentence_id": 9069,
+          "page_number": 105,
+          "content": "Mapping and monitoring of benthos in the Barents Sea and",
+          "full_length": 56
+        },
+        {
+          "sentence_id": 9070,
+          "page_number": 105,
+          "content": "Svalbard waters: Results of the join Russian Norwegian Benthic",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 9071,
+          "page_number": 105,
+          "content": "program 2006-2008",
+          "full_length": 17
+        }
+      ],
+      "total_sentences_in_section": 568
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 10697,
+      "end_sentence": 11571,
+      "sentence_count": 875,
+      "page_range": "125-131",
+      "sentences": [
+        {
+          "sentence_id": 10697,
+          "page_number": 125,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 10698,
+          "page_number": 125,
+          "content": "Ajiad, A., Oganin, I.A. and Gjøsæter, H. 2011. Polar cod.",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 10699,
+          "page_number": 125,
+          "content": "In:",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 10700,
+          "page_number": 125,
+          "content": "T.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 10701,
+          "page_number": 125,
+          "content": "Jakobsen and V.K. Ozhigin (eds.).",
+          "full_length": 33
+        }
+      ],
+      "total_sentences_in_section": 875
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 13134,
+      "end_sentence": 13800,
+      "sentence_count": 667,
+      "page_range": "145-148",
+      "sentences": [
+        {
+          "sentence_id": 13134,
+          "page_number": 145,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 13135,
+          "page_number": 145,
+          "content": "Anker-Nilssen, T., Barrett, R.T., Lorentsen, S.-H., Strøm, H., Bustnes,",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 13136,
+          "page_number": 145,
+          "content": "J.O., Christensen-Dalsgaard, S., Descamps, S., Erikstad, K.E.,",
+          "full_length": 62
+        },
+        {
+          "sentence_id": 13137,
+          "page_number": 145,
+          "content": "Fauchald, P., Hanssen, S.A., Lorentzen, E., Moe, B., Reiertsen,",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 13138,
+          "page_number": 145,
+          "content": "T.K. and Systad, G.H. 2015.",
+          "full_length": 27
+        }
+      ],
+      "total_sentences_in_section": 667
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 16149,
+      "end_sentence": 17351,
+      "sentence_count": 1203,
+      "page_range": "171-184",
+      "sentences": [
+        {
+          "sentence_id": 16149,
+          "page_number": 171,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 16150,
+          "page_number": 171,
+          "content": "Allen, B.M., and Angliss, R.P. 2011.",
+          "full_length": 36
+        },
+        {
+          "sentence_id": 16151,
+          "page_number": 171,
+          "content": "Alaska marine mammal stock",
+          "full_length": 26
+        },
+        {
+          "sentence_id": 16152,
+          "page_number": 171,
+          "content": "assessments, 2010",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 16153,
+          "page_number": 171,
+          "content": ". U.S. Department of Commerce, NOAA",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 1203
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 18311,
+      "end_sentence": 18846,
+      "sentence_count": 536,
+      "page_range": "192-195",
+      "sentences": [
+        {
+          "sentence_id": 18311,
+          "page_number": 192,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 18312,
+          "page_number": 192,
+          "content": "Aarvak, T., Øien, I.J., Krasnov, Y.V., Gavrilo, M.V. and Shavykin, A.A.",
+          "full_length": 71
+        },
+        {
+          "sentence_id": 18313,
+          "page_number": 192,
+          "content": "2013.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 18314,
+          "page_number": 192,
+          "content": "The European wintering population of Steller’s Eider",
+          "full_length": 52
+        },
+        {
+          "sentence_id": 18315,
+          "page_number": 192,
+          "content": "Polysticta stelleri",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 536
+    }
+  ],
+  "metadata": {
+    "total_sentences": 19079,
+    "chunks_selected": 123,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "3.1.6 Conclusions and key findings",
+        "start_sentence": 3748,
+        "end_sentence": 3765,
+        "sentence_count": 18
+      },
+      {
+        "section_name": "3.2.6 Conclusions and key findings",
+        "start_sentence": 6878,
+        "end_sentence": 6912,
+        "sentence_count": 35
+      },
+      {
+        "section_name": "3.3.6 Conclusions and key findings",
+        "start_sentence": 8983,
+        "end_sentence": 8983,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "3.4.6 Conclusions and key findings",
+        "start_sentence": 10637,
+        "end_sentence": 10696,
+        "sentence_count": 60
+      },
+      {
+        "section_name": "3.5.6 Conclusions and key findings",
+        "start_sentence": 12998,
+        "end_sentence": 13133,
+        "sentence_count": 136
+      },
+      {
+        "section_name": "3.6.6 Conclusions and key findings",
+        "start_sentence": 16040,
+        "end_sentence": 16148,
+        "sentence_count": 109
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1155,
+        "end_sentence": 1306,
+        "sentence_count": 152
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1982,
+        "end_sentence": 2515,
+        "sentence_count": 534
+      },
+      {
+        "section_name": "Key references",
+        "start_sentence": 2696,
+        "end_sentence": 2741,
+        "sentence_count": 46
+      },
+      {
+        "section_name": "Appendix 3.1.1: Meiofauna References",
+        "start_sentence": 3822,
+        "end_sentence": 3822,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "Appendix 3.1.2: Macrofauna References",
+        "start_sentence": 4085,
+        "end_sentence": 4085,
+        "sentence_count": 1
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 4925,
+        "end_sentence": 5862,
+        "sentence_count": 938
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 6913,
+        "end_sentence": 7713,
+        "sentence_count": 801
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 9067,
+        "end_sentence": 9634,
+        "sentence_count": 568
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 10697,
+        "end_sentence": 11571,
+        "sentence_count": 875
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 13134,
+        "end_sentence": 13800,
+        "sentence_count": 667
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 16149,
+        "end_sentence": 17351,
+        "sentence_count": 1203
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 18311,
+        "end_sentence": 18846,
+        "sentence_count": 536
+      }
+    ],
+    "total_excluded_sentences": 6681
+  }
+}

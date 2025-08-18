@@ -1,0 +1,1265 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen",
+      "context_window": "Knowledge Gaps (brief) There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t. Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas",
+      "context_window": "There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is sufficient temporal and spatial coverage",
+      "context_window": "The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage and no significant data gaps in the areas assessed over the relevant time periods. The synthesis of monitoring",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "context_window": "assessment of status and temporal trends at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. This method was also used for the IA 2017.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and no significant data gaps in the areas assessed over the relevant time periods.",
+      "context_window": "over many years using established sampling methodologies. There is sufficient temporal and spatial coverage and no significant data gaps in the areas assessed over the relevant time periods. The synthesis of monitoring site data for the assessment area scale are based on established and internationally recognised protocols for",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the",
+      "context_window": "Similar analyses explored status at the assessment area scale. Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For temporal trends, those monitoring sites that were representative of general conditions were considered",
+      "context_window": "). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses. For temporal trends, those monitoring sites that were representative of general conditions were considered and those monitoring sites impacted due to a point source were excluded. Analysis was also restricted to",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and temporal trends at the assessment area level.",
+      "context_window": "Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open",
+      "context_window": "there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t. Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open waters, however this is the first OSPAR bile metabolite assessment and only 4 assessment areas (Northern North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approaches to defining assessment criteria could be agreed on and implemented.",
+      "context_window": "The use of this set was considered an interim solution for the purposes of the QSR 2010 until more appropriate approaches to defining assessment criteria could be agreed on and implemented. These criteria have also been used in the annually recurring CEMP assessments since 2010, including the Intermediate Assessment",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fitted concentration in the last monitoring year to the BAC.",
+      "context_window": "Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "context_window": "Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs Background assessment concentrations (BACs) were developed by OSPAR for testing whether measured",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "between assessment areas, with the Greater North Sea having the most. Only assessment areas with at",
+      "context_window": "Figure 3, Figure 4 and Figure 5 ). The number of monitoring sites varies widely between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends (",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "context_window": "- Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level. Meta-analyses take into account",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a need for EACs to be developed for alkylated PAHs in",
+      "context_window": "Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there are no assessment criteria for alkylated PAHs. There is a need for EACs to be developed for alkylated PAHs in shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment. Knowledge Gaps (extended) Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there are no assessment criteria for alkylated PAHs.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment.",
+      "context_window": ". Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment. Knowledge Gaps (extended) Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "explored by plotting the predicted temporal trend for each compound and for each compound/assessment",
+      "context_window": "the estimated fixed effects with point-wise 95% confidence intervals. Differences between compounds were explored by plotting the predicted temporal trend for each compound and for each compound/assessment area combination with point-wise 95% confidence intervals. Similar analyses explored status at the assessment area scale.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the QSR 2023 compared with the QSR 2010",
+      "context_window": "- - Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "least three monitoring sites and a reasonable geographic spread were included in the assessment of status",
+      "context_window": "). The number of monitoring sites varies widely between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends ( Table b",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacted monitoring sites were also included in",
+      "context_window": "log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses. Finally, concentration profiles across compounds at the assessment area scale were explored using the fitted",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and temporal trends (",
+      "context_window": "between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends ( Table b ).",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data have been collected",
+      "context_window": "Confidence Assessment There is high confidence in the quality of the data used for this assessment. The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence of temporal trends in PAH concentration at the assessment area scale was then assessed by plotting",
+      "context_window": "term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of temporal trends in PAH concentration at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals. Differences between compounds were",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been",
+      "context_window": "including PAHs. Assessment Method In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been analysed: •    ‘Trend assessment’ or spatial distribution assessment to focus on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of",
+      "context_window": "data is available but was not included in the regional status and trend assessment due to there being too few stations or number of years. Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of PAH concentrations in shellfish, blue mussel ( Mytilus edulis",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Their use does not preclude the use of common sense and expert judgement when assessing environmental",
+      "context_window": "2000/60/EC). Caution should be exercised in using these generic environmental assessment criteria in specific situations. Their use does not preclude the use of common sense and expert judgement when assessing environmental effects and/or the potential for them. Furthermore, the EACs neither take into account specific long-term",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Environmental Assessment Criteria (EACs) were developed by OSPAR and ICES for assessing the ecological",
+      "context_window": "7 of 21 Provenance and limitations of EACs Environmental Assessment Criteria (EACs) were developed by OSPAR and ICES for assessing the ecological significance of biota concentrations. Some EAC values were specifically compiled for the assessment of CEMP",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(see number of time series used in each assessment area in",
+      "context_window": "for 11 of 48 sites. It should be noted that not all individual time series results are included in the assessments (see number of time series used in each assessment area in Table b ), due to the criteria set out in the",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment",
+      "context_window": "Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open waters, however this is the first OSPAR bile metabolite assessment and only 4 assessment areas (Northern North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment . Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment areas where there were at least three monitoring sites with trend information and where those",
+      "context_window": "and those monitoring sites impacted due to a point source were excluded. Analysis was also restricted to assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend for each PAH compound at each monitoring site was summarised by the estimated annual change",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical testing of whether observed concentrations could be considered to be near natural background",
+      "context_window": "BACs are statistical tools defined in relation to the background concentrations or low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near natural background concentrations. Background concentrations (BCs) are assessment tools intended to represent the concentrations of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR",
+      "context_window": "Due to their persistence in the marine environment, their potential to bioaccumulate and their toxicity, analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR Maritime Area began between 1985 and 1999. OSPAR's strategic objectives in its 2030 North-East Atlantic Environment Strategy aim at preventing",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions set out in the agreement.",
+      "context_window": "been used in the annually recurring CEMP assessments since 2010, including the Intermediate Assessment 2017 (IA 2017), and will be used until OSPAR adopts improved assessment criteria and subject to the conditions set out in the agreement. Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), due to the criteria set out in the",
+      "context_window": "(see number of time series used in each assessment area in Table b ), due to the criteria set out in the assessment methods. OSPAR Commission 2022",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "Sediment Assessment Tool ( https://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They are therefore",
+      "context_window": "5 of 21 PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity. They are therefore included on the OSPAR List of Chemicals for Priority Action. The analyses of PAHs in both sediment and",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temporal trends in PAH concentrations in biota and sediment are presented.",
+      "context_window": "2017 (IA 2017), and will be used until OSPAR adopts improved assessment criteria and subject to the conditions set out in the agreement. Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical tools defined in relation to the background concentrations or low concentrations, which enable",
+      "context_window": "concentrations significantly below the BAC are said to be near natural background concentrations. BACs are statistical tools defined in relation to the background concentrations or low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near natural background concentrations.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "imbalances, nor do they include combination toxicology.",
+      "context_window": "Furthermore, the EACs neither take into account specific long-term biological effects such as carcinogenicity, genotoxicity and reproductive disruption due to hormone imbalances, nor do they include combination toxicology. Provenance and limitations of ERLs Because OSPAR has not yet established Environmental Assessment Criteria (EACs) for PAHs in sediment, an",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be",
+      "context_window": "are no assessment criteria for alkylated PAHs. There is a need for EACs to be developed for alkylated PAHs in shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research. Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temporal trends and status",
+      "context_window": ". Table b: Number of monitoring sites within each OSPAR Region and assessment area used in the assessment of temporal trends and status Region OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The residual variation is made up of two terms: the variation associated with the estimate of the trend from",
+      "context_window": "• residual variation. The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data is available but was not included in the regional status and trend assessment due to there being too few",
+      "context_window": "Figure 3, Figure 4 and Figure 5 ). Additional data is available but was not included in the regional status and trend assessment due to there being too few stations or number of years. Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected. ERL values are to be used in sediment assessments of PAHs as an interim solution where",
+      "context_window": "The procedure by which ERL criteria are derived is very different from the methods used to derive EACs and EQSs, and so precise equivalence between the two sets of criteria should not be expected. ERL values are to be used in sediment assessments of PAHs as an interim solution where recommended EACs are not available. Assessment methods",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcome of this method is that, on the basis of what is known",
+      "context_window": "BACs are calculated according to the method set out in Section 4 of the CEMP Assessment Manual (OSPAR, 2008) and updated in 2021 (OSPAR, 2021). The outcome of this method is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "context_window": "For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of PAH concentrations in sediment and biota “",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The trend for each PAH compound at each monitoring site was summarised by the estimated annual change",
+      "context_window": "assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend for each PAH compound at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled by a linear mixed model with a fixed effect:",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 19 Knowledge Gaps (extended) 19 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in",
+      "context_window": "from tainting the taste of fish and shellfish to potential carcinogenic effects on humans and animals. Due to their persistence in the marine environment, their potential to bioaccumulate and their toxicity, analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR Maritime Area began between 1985 and 1999.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 19 Knowledge Gaps (brief) 19 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity.",
+      "context_window": "OSPAR Commission 2022 5 of 21 PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity. They are therefore included on the OSPAR List of Chemicals for Priority Action.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log concentration in the last monitoring year.",
+      "context_window": "these analyses. Finally, concentration profiles across compounds at the assessment area scale were explored using the fitted log concentration in the last monitoring year. BACs and EACs are available for the following PAHs in mussels and oysters and sediment ( Table a",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and",
+      "context_window": "shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research. Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and Sediment",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and",
+      "context_window": "Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and Environmental Assessment Criteria (EAC). Two assessment criteria are used to assess PAH concentrations in",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAHs in the marine environment often end up in marine sediment, where they can",
+      "context_window": "PAHs enter the marine environment through atmospheric deposition, road run-off, industrial discharges and as a result of oil spills. PAHs in the marine environment often end up in marine sediment, where they can become trapped in lower layers unless the sediments are disturbed. Associations have been demonstrated",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The percentage yearly change for each PAH in each assessment",
+      "context_window": "Temporal trends in PAH concentrations in sediment and biota were assessed in areas where there were at least three stations and five years of data. The percentage yearly change for each PAH in each assessment area is shown in Figure c and Figure d",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spatial and temporal scales – provides information about the rates of change and whether PAH",
+      "context_window": "relative differences and changes on spatial and temporal scales – provides information about the rates of change and whether PAH contamination is widespread or confined to specific locations; and •    ‘Status assessment’ of the significance of the (risk of) pollution, defined as the status where PAHs are at",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BACs are calculated on the basis of variability within the CEMP dataset currently available through databases",
+      "context_window": "can be regarded as ‘near background’ (for naturally occurring substances) or ‘close to zero’ (for man-made substances). BACs are calculated on the basis of variability within the CEMP dataset currently available through databases held by the ICES Data Centre and will be refined at the working level by the relevant assessment group as further CEMP monitoring data are collected.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects and/or the potential for them.",
+      "context_window": "Caution should be exercised in using these generic environmental assessment criteria in specific situations. Their use does not preclude the use of common sense and expert judgement when assessing environmental effects and/or the potential for them. Furthermore, the EACs neither take into account specific long-term biological effects such as carcinogenicity, genotoxicity and reproductive disruption due to hormone",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020). Less is known about the toxicity of alkylated PAHs, although one study has demonstrated",
+      "context_window": "(Honda et al., 2020). Less is known about the toxicity of alkylated PAHs, although one study has demonstrated that alkylated PAHs may have increased toxicity compared to the parent compound (Marvanova et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine environment already adsorbed to atmospheric particulates, such as soot.",
+      "context_window": "particulates within the water column. PAHs derived from combustion sources may be deposited directly to the marine environment already adsorbed to atmospheric particulates, such as soot. PAHs can enter the marine environment through atmospheric deposition, run-off, industrial discharges and as a result of oil spills.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Economic Commission for Europe Convention on Long-Range Transboundary Air Pollution (UNECE, 2009).",
+      "context_window": "Emissions of PAHs are controlled via a number of different regulations. These include the United Nations Economic Commission for Europe Convention on Long-Range Transboundary Air Pollution (UNECE, 2009). This obliges its member countries to reduce their emissions of persistent organic pollutants such as PAHs with the ultimate objective of eliminating discharges and emissions.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which they live and feed.",
+      "context_window": "Associations have been demonstrated between the incidence of some diseases in flatfish and the concentrations of PAHs in the sediment over which they live and feed. PAHs also accumulate in shellfish, either absorbed directly from the marine environment or indirectly through food consumption. In contrast fish metabolise PAHs and therefore",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three monitoring sites with a reasonable geographic spread were included in the regional assessment of",
+      "context_window": "Table b . Only assessment areas with at least three monitoring sites with a reasonable geographic spread were included in the regional assessment of status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "occur as a result of natural processes such as forest fires.",
+      "context_window": "the combustion of fossil fuels and organic material, for example during activities at an oil refinery. PAHs also occur as a result of natural processes such as forest fires. PAHs enter the marine environment through atmospheric deposition, road run-off, industrial discharges and as a result of oil spills.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "PAH concentrations in sediment and shellfish and the PAH metabolite (1-hydroxy pyrene, or 1 hydroxy pyrene equivalents) in fish, were compared to the OSPAR Background Assessment Concentration (BAC). In addition, PAH concentrations in shellfish (and 1-hydroxy pyrene, or 1 hydroxy pyrene equivalents for fish) were compared to Environmental Assessment Criteria (EACs) and concentrations in sediment compared to",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contamination is widespread or confined to specific locations; and",
+      "context_window": "differences and changes on spatial and temporal scales – provides information about the rates of change and whether PAH contamination is widespread or confined to specific locations; and •    ‘Status assessment’ of the significance of the (risk of) pollution, defined as the status where PAHs are at a hazardous level, usually requires assessment criteria that take account of the possible severity of the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "shellfish (and 1-hydroxy pyrene for fish) were compared to Environmental Assessment Criteria (EACs) and",
+      "context_window": "PAH concentrations in sediment and shellfish and the PAH metabolite (1-hydroxy pyrene) in fish, were compared to the OSPAR Background Assessment Concentration (BAC). In addition, PAH concentrations in shellfish (and 1-hydroxy pyrene for fish) were compared to Environmental Assessment Criteria (EACs) and concentrations in sediment compared to the United States Environmental Protection Agency’s Effects Range-Low (ERL).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status and temporal trends.",
+      "context_window": ". Only assessment areas with at least three monitoring sites with a reasonable geographic spread were included in the regional assessment of status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be noted that not all individual time series results are included in the assessments",
+      "context_window": "equivalents, in fish none of the 49-time series exceeded the EAC and mean concentrations have increased for 11 of 48 sites. It should be noted that not all individual time series results are included in the assessments (see number of time series used in each assessment area in Table b",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in this type of assessment.",
+      "context_window": "and the ecotoxicology of the contaminants. For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of PAH concentrations in sediment and biota",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, Environmental Assessment Criteria (EAC) are tools",
+      "context_window": "impacts and hence require criteria that take account of the natural conditions (background concentrations) and the ecotoxicology of the contaminants. For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European",
+      "context_window": "sediment: Background Assessment Concentrations (BACs) and the United States Environmental Protection Agency (EPA) sediment quality guidelines; Effects Range-Low (ERL). OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they",
+      "context_window": "OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alternative means of assessment is required.",
+      "context_window": "Provenance and limitations of ERLs Because OSPAR has not yet established Environmental Assessment Criteria (EACs) for PAHs in sediment, an alternative means of assessment is required. ‘Effects range’ values were developed by the United States Environmental Protection Agency (EPA) as sediment quality guidelines for assessing the ecological",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have broadly similar temporal trends, since they have similar sources.",
+      "context_window": "monitoring site + within-series variation The choice of fixed and random effects was motivated by the assumption that the PAH compounds would have broadly similar temporal trends, since they have similar sources. Thus, the fixed effect measures the common trend in PAH compounds in each OSPAR contaminants assessment area and the random effects",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances",
+      "context_window": "status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and Sediment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions based on contemporary or historical data respectively, in the absence of significant mineralisation",
+      "context_window": "had not happened. They represent the concentrations of those substances at ’remote’ sites, or in ’pristine’ conditions based on contemporary or historical data respectively, in the absence of significant mineralisation and / or oceanographic influences. In this way, they relate to the background values referred to in the OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples being collected in coastal and offshore areas",
+      "context_window": "It should be noted that shellfish and sediment sampling cover different areas, with shellfish sites being coastal and estuarine and sediment samples being collected in coastal and offshore areas OSPAR Commission 2022 17 of 21",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "about variability in observations, there is a 90% probability that the observed mean concentration will be",
+      "context_window": "2008) and updated in 2021 (OSPAR, 2021). The outcome of this method is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC. Where this is the case, the true concentrations",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "•    ‘Trend assessment’ or spatial distribution assessment to focus on",
+      "context_window": "In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been analysed: •    ‘Trend assessment’ or spatial distribution assessment to focus on relative differences and changes on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in",
+      "context_window": "Mean PAH concentrations in sediment (normalised to organic carbon in the Greater North Sea, Channel, Bay of Biscay and Celtic Seas) and biota (shellfish) relative to the BAC for each assessment area are shown in Figure a and Figure b . Mean individual PAH concentrations in sediment were mainly above BACs.",
+      "page_number": 14,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Knowledge Gaps (brief) There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas",
+      "context_window": "There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "context_window": "assessment of status and temporal trends at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate. This method was also used for the IA 2017.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the",
+      "context_window": "Similar analyses explored status at the assessment area scale. Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of status and temporal trends at the assessment area level.",
+      "context_window": "Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level. Meta-analyses take into account both the estimate of status or temporal trend in each time series and the uncertainty in that estimate.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "approaches to defining assessment criteria could be agreed on and implemented.",
+      "context_window": "The use of this set was considered an interim solution for the purposes of the QSR 2010 until more appropriate approaches to defining assessment criteria could be agreed on and implemented. These criteria have also been used in the annually recurring CEMP assessments since 2010, including the Intermediate Assessment",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so.",
+      "context_window": "Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs Background assessment concentrations (BACs) were developed by OSPAR for testing whether measured",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "context_window": "- Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level. Meta-analyses take into account",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment. Knowledge Gaps (extended) Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there are no assessment criteria for alkylated PAHs.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "explored by plotting the predicted temporal trend for each compound and for each compound/assessment",
+      "context_window": "the estimated fixed effects with point-wise 95% confidence intervals. Differences between compounds were explored by plotting the predicted temporal trend for each compound and for each compound/assessment area combination with point-wise 95% confidence intervals. Similar analyses explored status at the assessment area scale.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "least three monitoring sites and a reasonable geographic spread were included in the assessment of status",
+      "context_window": "). The number of monitoring sites varies widely between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends ( Table b",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and temporal trends (",
+      "context_window": "between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends ( Table b ).",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence of temporal trends in PAH concentration at the assessment area scale was then assessed by plotting",
+      "context_window": "term which accounts for any additional residual variation not explained by the other fixed and random effects. Evidence of temporal trends in PAH concentration at the assessment area scale was then assessed by plotting the estimated fixed effects with point-wise 95% confidence intervals. Differences between compounds were",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of",
+      "context_window": "data is available but was not included in the regional status and trend assessment due to there being too few stations or number of years. Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of PAH concentrations in shellfish, blue mussel ( Mytilus edulis",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "(see number of time series used in each assessment area in",
+      "context_window": "for 11 of 48 sites. It should be noted that not all individual time series results are included in the assessments (see number of time series used in each assessment area in Table b ), due to the criteria set out in the",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment areas where there were at least three monitoring sites with trend information and where those",
+      "context_window": "and those monitoring sites impacted due to a point source were excluded. Analysis was also restricted to assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend for each PAH compound at each monitoring site was summarised by the estimated annual change",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR",
+      "context_window": "Due to their persistence in the marine environment, their potential to bioaccumulate and their toxicity, analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR Maritime Area began between 1985 and 1999. OSPAR's strategic objectives in its 2030 North-East Atlantic Environment Strategy aim at preventing",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), due to the criteria set out in the",
+      "context_window": "(see number of time series used in each assessment area in Table b ), due to the criteria set out in the assessment methods. OSPAR Commission 2022",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temporal trends in PAH concentrations in biota and sediment are presented.",
+      "context_window": "2017 (IA 2017), and will be used until OSPAR adopts improved assessment criteria and subject to the conditions set out in the agreement. Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "imbalances, nor do they include combination toxicology.",
+      "context_window": "Furthermore, the EACs neither take into account specific long-term biological effects such as carcinogenicity, genotoxicity and reproductive disruption due to hormone imbalances, nor do they include combination toxicology. Provenance and limitations of ERLs Because OSPAR has not yet established Environmental Assessment Criteria (EACs) for PAHs in sediment, an",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temporal trends and status",
+      "context_window": ". Table b: Number of monitoring sites within each OSPAR Region and assessment area used in the assessment of temporal trends and status Region OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data is available but was not included in the regional status and trend assessment due to there being too few",
+      "context_window": "Figure 3, Figure 4 and Figure 5 ). Additional data is available but was not included in the regional status and trend assessment due to there being too few stations or number of years. Monitoring of PAH in the OSPAR Maritime Area began between 1985 and 1999. For the measurements of",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The outcome of this method is that, on the basis of what is known",
+      "context_window": "BACs are calculated according to the method set out in Section 4 of the CEMP Assessment Manual (OSPAR, 2008) and updated in 2021 (OSPAR, 2021). The outcome of this method is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The trend for each PAH compound at each monitoring site was summarised by the estimated annual change",
+      "context_window": "assessment areas where there were at least three monitoring sites with trend information and where those monitoring sites had reasonable geographic spread. The trend for each PAH compound at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was then modelled by a linear mixed model with a fixed effect:",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in",
+      "context_window": "from tainting the taste of fish and shellfish to potential carcinogenic effects on humans and animals. Due to their persistence in the marine environment, their potential to bioaccumulate and their toxicity, analyses of PAH concentrations in shellfish and sediment, and PAH bile metabolites in fish, are reported in the OSPAR Coordinated Environmental Monitoring Programme (CEMP). Monitoring PAHs across the OSPAR Maritime Area began between 1985 and 1999.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity.",
+      "context_window": "OSPAR Commission 2022 5 of 21 PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity. They are therefore included on the OSPAR List of Chemicals for Priority Action.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and",
+      "context_window": "shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research. Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and Sediment",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PAHs in the marine environment often end up in marine sediment, where they can",
+      "context_window": "PAHs enter the marine environment through atmospheric deposition, road run-off, industrial discharges and as a result of oil spills. PAHs in the marine environment often end up in marine sediment, where they can become trapped in lower layers unless the sediments are disturbed. Associations have been demonstrated",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spatial and temporal scales – provides information about the rates of change and whether PAH",
+      "context_window": "relative differences and changes on spatial and temporal scales – provides information about the rates of change and whether PAH contamination is widespread or confined to specific locations; and •    ‘Status assessment’ of the significance of the (risk of) pollution, defined as the status where PAHs are at",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effects and/or the potential for them.",
+      "context_window": "Caution should be exercised in using these generic environmental assessment criteria in specific situations. Their use does not preclude the use of common sense and expert judgement when assessing environmental effects and/or the potential for them. Furthermore, the EACs neither take into account specific long-term biological effects such as carcinogenicity, genotoxicity and reproductive disruption due to hormone",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine environment already adsorbed to atmospheric particulates, such as soot.",
+      "context_window": "particulates within the water column. PAHs derived from combustion sources may be deposited directly to the marine environment already adsorbed to atmospheric particulates, such as soot. PAHs can enter the marine environment through atmospheric deposition, run-off, industrial discharges and as a result of oil spills.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which they live and feed.",
+      "context_window": "Associations have been demonstrated between the incidence of some diseases in flatfish and the concentrations of PAHs in the sediment over which they live and feed. PAHs also accumulate in shellfish, either absorbed directly from the marine environment or indirectly through food consumption. In contrast fish metabolise PAHs and therefore",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "occur as a result of natural processes such as forest fires.",
+      "context_window": "the combustion of fossil fuels and organic material, for example during activities at an oil refinery. PAHs also occur as a result of natural processes such as forest fires. PAHs enter the marine environment through atmospheric deposition, road run-off, industrial discharges and as a result of oil spills.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contamination is widespread or confined to specific locations; and",
+      "context_window": "differences and changes on spatial and temporal scales – provides information about the rates of change and whether PAH contamination is widespread or confined to specific locations; and •    ‘Status assessment’ of the significance of the (risk of) pollution, defined as the status where PAHs are at a hazardous level, usually requires assessment criteria that take account of the possible severity of the",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shellfish (and 1-hydroxy pyrene for fish) were compared to Environmental Assessment Criteria (EACs) and",
+      "context_window": "PAH concentrations in sediment and shellfish and the PAH metabolite (1-hydroxy pyrene) in fish, were compared to the OSPAR Background Assessment Concentration (BAC). In addition, PAH concentrations in shellfish (and 1-hydroxy pyrene for fish) were compared to Environmental Assessment Criteria (EACs) and concentrations in sediment compared to the United States Environmental Protection Agency’s Effects Range-Low (ERL).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It should be noted that not all individual time series results are included in the assessments",
+      "context_window": "equivalents, in fish none of the 49-time series exceeded the EAC and mean concentrations have increased for 11 of 48 sites. It should be noted that not all individual time series results are included in the assessments (see number of time series used in each assessment area in Table b",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For example, Environmental Assessment Criteria (EAC) are tools",
+      "context_window": "impacts and hence require criteria that take account of the natural conditions (background concentrations) and the ecotoxicology of the contaminants. For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, they",
+      "context_window": "OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they can be used for the purposes of their MSFD obligations by those Contracting Parties that wish to do so. Provenance and limitations of BACs",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have broadly similar temporal trends, since they have similar sources.",
+      "context_window": "monitoring site + within-series variation The choice of fixed and random effects was motivated by the assumption that the PAH compounds would have broadly similar temporal trends, since they have similar sources. Thus, the fixed effect measures the common trend in PAH compounds in each OSPAR contaminants assessment area and the random effects",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions based on contemporary or historical data respectively, in the absence of significant mineralisation",
+      "context_window": "had not happened. They represent the concentrations of those substances at ’remote’ sites, or in ’pristine’ conditions based on contemporary or historical data respectively, in the absence of significant mineralisation and / or oceanographic influences. In this way, they relate to the background values referred to in the OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "about variability in observations, there is a 90% probability that the observed mean concentration will be",
+      "context_window": "2008) and updated in 2021 (OSPAR, 2021). The outcome of this method is that, on the basis of what is known about variability in observations, there is a 90% probability that the observed mean concentration will be below the BAC when the true mean concentration is at the BC. Where this is the case, the true concentrations",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in",
+      "context_window": "Mean PAH concentrations in sediment (normalised to organic carbon in the Greater North Sea, Channel, Bay of Biscay and Celtic Seas) and biota (shellfish) relative to the BAC for each assessment area are shown in Figure a and Figure b . Mean individual PAH concentrations in sediment were mainly above BACs.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "•    ‘Trend assessment’ or spatial distribution assessment to focus on",
+      "context_window": "In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been analysed: •    ‘Trend assessment’ or spatial distribution assessment to focus on relative differences and changes on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples being collected in coastal and offshore areas",
+      "context_window": "It should be noted that shellfish and sediment sampling cover different areas, with shellfish sites being coastal and estuarine and sediment samples being collected in coastal and offshore areas OSPAR Commission 2022 17 of 21",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances",
+      "context_window": "status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and Sediment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alternative means of assessment is required.",
+      "context_window": "Provenance and limitations of ERLs Because OSPAR has not yet established Environmental Assessment Criteria (EACs) for PAHs in sediment, an alternative means of assessment is required. ‘Effects range’ values were developed by the United States Environmental Protection Agency (EPA) as sediment quality guidelines for assessing the ecological",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European",
+      "context_window": "sediment: Background Assessment Concentrations (BACs) and the United States Environmental Protection Agency (EPA) sediment quality guidelines; Effects Range-Low (ERL). OSPAR QSR 2023 Indicator Assessment values are not to be considered as equivalent to proposed European Union Marine Strategy Framework Directive (MSFD, 2008/56/EC) criteria threshold values. However, they",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in this type of assessment.",
+      "context_window": "and the ecotoxicology of the contaminants. For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of PAH concentrations in sediment and biota",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status and temporal trends.",
+      "context_window": ". Only assessment areas with at least three monitoring sites with a reasonable geographic spread were included in the regional assessment of status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was assessed for temporal trends and status using the methods described in the OSPAR Hazardous Substances",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 22,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "PAH concentrations in sediment and shellfish and the PAH metabolite (1-hydroxy pyrene, or 1 hydroxy pyrene equivalents) in fish, were compared to the OSPAR Background Assessment Concentration (BAC). In addition, PAH concentrations in shellfish (and 1-hydroxy pyrene, or 1 hydroxy pyrene equivalents for fish) were compared to Environmental Assessment Criteria (EACs) and concentrations in sediment compared to",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "three monitoring sites with a reasonable geographic spread were included in the regional assessment of",
+      "context_window": "Table b . Only assessment areas with at least three monitoring sites with a reasonable geographic spread were included in the regional assessment of status and temporal trends. For each PAH compound at each monitoring site, the time series of concentration measurements was",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Economic Commission for Europe Convention on Long-Range Transboundary Air Pollution (UNECE, 2009).",
+      "context_window": "Emissions of PAHs are controlled via a number of different regulations. These include the United Nations Economic Commission for Europe Convention on Long-Range Transboundary Air Pollution (UNECE, 2009). This obliges its member countries to reduce their emissions of persistent organic pollutants such as PAHs with the ultimate objective of eliminating discharges and emissions.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2020). Less is known about the toxicity of alkylated PAHs, although one study has demonstrated",
+      "context_window": "(Honda et al., 2020). Less is known about the toxicity of alkylated PAHs, although one study has demonstrated that alkylated PAHs may have increased toxicity compared to the parent compound (Marvanova et al",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BACs are calculated on the basis of variability within the CEMP dataset currently available through databases",
+      "context_window": "can be regarded as ‘near background’ (for naturally occurring substances) or ‘close to zero’ (for man-made substances). BACs are calculated on the basis of variability within the CEMP dataset currently available through databases held by the ICES Data Centre and will be refined at the working level by the relevant assessment group as further CEMP monitoring data are collected.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The percentage yearly change for each PAH in each assessment",
+      "context_window": "Temporal trends in PAH concentrations in sediment and biota were assessed in areas where there were at least three stations and five years of data. The percentage yearly change for each PAH in each assessment area is shown in Figure c and Figure d",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and",
+      "context_window": "Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are used to assess the status of PAH concentrations in biota: Background Assessment Concentrations (BACs) and Environmental Assessment Criteria (EAC). Two assessment criteria are used to assess PAH concentrations in",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log concentration in the last monitoring year.",
+      "context_window": "these analyses. Finally, concentration profiles across compounds at the assessment area scale were explored using the fitted log concentration in the last monitoring year. BACs and EACs are available for the following PAHs in mussels and oysters and sediment ( Table a",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "Conclusion (extended) 19 Knowledge Gaps (brief) 19 Knowledge Gaps (extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "Knowledge Gaps (brief) 19 Knowledge Gaps (extended) 19 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data",
+      "context_window": "For example, Environmental Assessment Criteria (EAC) are tools in this type of assessment. OSPAR has clarified that in assessing the Coordinated Environmental Monitoring Programme (CEMP) data the primary assessment value used in the assessment of PAH concentrations in sediment and biota “",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expected. ERL values are to be used in sediment assessments of PAHs as an interim solution where",
+      "context_window": "The procedure by which ERL criteria are derived is very different from the methods used to derive EACs and EQSs, and so precise equivalence between the two sets of criteria should not be expected. ERL values are to be used in sediment assessments of PAHs as an interim solution where recommended EACs are not available. Assessment methods",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The residual variation is made up of two terms: the variation associated with the estimate of the trend from",
+      "context_window": "• residual variation. The residual variation is made up of two terms: the variation associated with the estimate of the trend from the individual time series, which is assumed known (and given by the square of the standard error); and a term which accounts for any additional residual variation not explained by the other fixed and random",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be",
+      "context_window": "are no assessment criteria for alkylated PAHs. There is a need for EACs to be developed for alkylated PAHs in shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research. Status and Trends in the Concentrations of Polycyclic Aromatic Hydrocarbons (PAHs) in Shellfish and",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical tools defined in relation to the background concentrations or low concentrations, which enable",
+      "context_window": "concentrations significantly below the BAC are said to be near natural background concentrations. BACs are statistical tools defined in relation to the background concentrations or low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near natural background concentrations.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They are therefore",
+      "context_window": "5 of 21 PAHs are of concern due to their persistence, potential to bioaccumulate and toxicity. They are therefore included on the OSPAR List of Chemicals for Priority Action. The analyses of PAHs in both sediment and",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "Sediment Assessment Tool ( https://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions set out in the agreement.",
+      "context_window": "been used in the annually recurring CEMP assessments since 2010, including the Intermediate Assessment 2017 (IA 2017), and will be used until OSPAR adopts improved assessment criteria and subject to the conditions set out in the agreement. Temporal trends in PAH concentrations in biota and sediment are presented. Two assessment criteria are",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistical testing of whether observed concentrations could be considered to be near natural background",
+      "context_window": "BACs are statistical tools defined in relation to the background concentrations or low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near natural background concentrations. Background concentrations (BCs) are assessment tools intended to represent the concentrations of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment",
+      "context_window": "Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open waters, however this is the first OSPAR bile metabolite assessment and only 4 assessment areas (Northern North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment . Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental Assessment Criteria (EACs) were developed by OSPAR and ICES for assessing the ecological",
+      "context_window": "7 of 21 Provenance and limitations of EACs Environmental Assessment Criteria (EACs) were developed by OSPAR and ICES for assessing the ecological significance of biota concentrations. Some EAC values were specifically compiled for the assessment of CEMP",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Their use does not preclude the use of common sense and expert judgement when assessing environmental",
+      "context_window": "2000/60/EC). Caution should be exercised in using these generic environmental assessment criteria in specific situations. Their use does not preclude the use of common sense and expert judgement when assessing environmental effects and/or the potential for them. Furthermore, the EACs neither take into account specific long-term",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been",
+      "context_window": "including PAHs. Assessment Method In assessing polycyclic aromatic hydrocarbons (PAHs) both ‘relative’ and ‘absolute’ aspects have been analysed: •    ‘Trend assessment’ or spatial distribution assessment to focus on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data have been collected",
+      "context_window": "Confidence Assessment There is high confidence in the quality of the data used for this assessment. The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacted monitoring sites were also included in",
+      "context_window": "log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses. Finally, concentration profiles across compounds at the assessment area scale were explored using the fitted",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the QSR 2023 compared with the QSR 2010",
+      "context_window": "- - Differences in methodology used for the QSR 2023 compared with the QSR 2010 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of status and temporal trends at the assessment area level.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment.",
+      "context_window": ". Effects Range-Low (ERL) values were used in the sediment assessment because there are no Environmental Assessment Criteria (EACs) available. There is a need for EACs to be developed PAHs in sediment. Knowledge Gaps (extended) Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is a need for EACs to be developed for alkylated PAHs in",
+      "context_window": "Environmental Assessment Criteria (EACs) were used in the assessment of parent PAHs in shellfish only; there are no assessment criteria for alkylated PAHs. There is a need for EACs to be developed for alkylated PAHs in shellfish. The limitations in using EACs and Background Assessment Concentrations (BACs) should be addressed with further research.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "between assessment areas, with the Greater North Sea having the most. Only assessment areas with at",
+      "context_window": "Figure 3, Figure 4 and Figure 5 ). The number of monitoring sites varies widely between assessment areas, with the Greater North Sea having the most. Only assessment areas with at least three monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends (",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fitted concentration in the last monitoring year to the BAC.",
+      "context_window": "Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the EAC or ERL; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open",
+      "context_window": "there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t. Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open waters, however this is the first OSPAR bile metabolite assessment and only 4 assessment areas (Northern North Sea, Southern North Sea, Channel, Irish Sea) had enough data for a status and trend assessment",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For temporal trends, those monitoring sites that were representative of general conditions were considered",
+      "context_window": "). The results from these individual time series were then synthesised at the assessment area scale in a series of meta-analyses. For temporal trends, those monitoring sites that were representative of general conditions were considered and those monitoring sites impacted due to a point source were excluded. Analysis was also restricted to",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and no significant data gaps in the areas assessed over the relevant time periods.",
+      "context_window": "over many years using established sampling methodologies. There is sufficient temporal and spatial coverage and no significant data gaps in the areas assessed over the relevant time periods. The synthesis of monitoring site data for the assessment area scale are based on established and internationally recognised protocols for",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is sufficient temporal and spatial coverage",
+      "context_window": "The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage and no significant data gaps in the areas assessed over the relevant time periods. The synthesis of monitoring",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen",
+      "context_window": "Knowledge Gaps (brief) There is a lack of monitoring data, particularly for sediment in Arctic waters, and in some assessment areas there are insufficient monitoring sites with a good geographic spread for a status and trends assessmen t. Monitoring of PAH metabolites in fish bile can extend the biota monitoring programme to include open",
+      "page_number": 19,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 88,
+      "end_sentence": 94,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 88,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 3,
+          "content": "Although mean concentrations of polycyclic aromatic hydrocarbons (PAHs) in shellfish and sediment, a...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "PAH bile metabolites in fish, in most assessed areas are above background concentrations, they are b...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "levels likely to harm marine species. Concentrations are decreasing or stable in all, but one (",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 3,
+          "content": "Irish and Scottish",
+          "full_length": 18
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 876,
+      "end_sentence": 889,
+      "sentence_count": 14,
+      "page_range": "19-19",
+      "sentences": [
+        {
+          "sentence_id": 876,
+          "page_number": 19,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 877,
+          "page_number": 19,
+          "content": "Mean polycyclic aromatic hydrocarbon (PAH) concentrations in shellfish were at background levels in ...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 878,
+          "page_number": 19,
+          "content": "of the six assessed contaminants assessment areas (Greenland-Scotland Ridge).",
+          "full_length": 77
+        },
+        {
+          "sentence_id": 879,
+          "page_number": 19,
+          "content": "Mean PAH concentrations",
+          "full_length": 23
+        },
+        {
+          "sentence_id": 880,
+          "page_number": 19,
+          "content": "in sediment and shellfish were below the ERLs or EACs in all assessment areas and therefore are unli...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 14
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 890,
+      "end_sentence": 903,
+      "sentence_count": 14,
+      "page_range": "19-19",
+      "sentences": [
+        {
+          "sentence_id": 890,
+          "page_number": 19,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 891,
+          "page_number": 19,
+          "content": "PAH concentrations in sediment and biota have in general been stable or decreasing with only 3,4% of",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 892,
+          "page_number": 19,
+          "content": "sediment and 6,6% of shellfish time series showing increasing trends.",
+          "full_length": 69
+        },
+        {
+          "sentence_id": 893,
+          "page_number": 19,
+          "content": "However, for 1-hydroxy pyrene, or 1",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 894,
+          "page_number": 19,
+          "content": "hydroxy pyrene equivalents, in fish 23% of time series showed increasing trends, although there was ...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 14
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 922,
+      "end_sentence": 1000,
+      "sentence_count": 79,
+      "page_range": "20-21",
+      "sentences": [
+        {
+          "sentence_id": 922,
+          "page_number": 20,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 923,
+          "page_number": 20,
+          "content": "Baumard, P., Budzinski, H., Garrigues, P., Narbonne, J. F., Burgeot, T. Michel, X. and Belloccq, J.",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 924,
+          "page_number": 20,
+          "content": "(1999).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 925,
+          "page_number": 20,
+          "content": "‘Polycyclic aromatic hydrocarbon burden of mussels (Mytilius sp.)",
+          "full_length": 65
+        },
+        {
+          "sentence_id": 926,
+          "page_number": 20,
+          "content": "in different marine environments in",
+          "full_length": 35
+        }
+      ],
+      "total_sentences_in_section": 79
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1082,
+    "chunks_selected": 87,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 88,
+        "end_sentence": 94,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 876,
+        "end_sentence": 889,
+        "sentence_count": 14
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 890,
+        "end_sentence": 903,
+        "sentence_count": 14
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 922,
+        "end_sentence": 1000,
+        "sentence_count": 79
+      }
+    ],
+    "total_excluded_sentences": 114
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human pressures and their impact on the full demersal fish community, not just the commercially fished",
+      "context_window": "models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all human pressures and their impact on the full demersal fish community, not just the commercially fished stocks. Future development of the indicator should explore the potential of using assessment units which split the",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "1/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate",
+      "context_window": "Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values",
+      "context_window": "Knowledge Gaps Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all human pressures and their impact on the full demersal fish community, not just the commercially fished",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "calculate an average) which can lead to subjective assessments.",
+      "context_window": "The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Future development of the indicator should explore the potential of using assessment units which split the",
+      "context_window": "human pressures and their impact on the full demersal fish community, not just the commercially fished stocks. Future development of the indicator should explore the potential of using assessment units which split the OSPAR Regions into smaller areas and the inclusion of fishing pressure metrics.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et",
+      "context_window": "Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to",
+      "context_window": "namely whether the recent period is not significantly different from the historically observed period. The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has",
+      "context_window": "In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_lfi_msfd_2022_06_00 1/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "namely whether the recent period is not significantly different from the historically observed period.",
+      "context_window": "The method makes it possible to say whether there is a significant change in the time series state over time, namely whether the recent period is not significantly different from the historically observed period. The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, too long a period and it could be that actual changes in state are averaged out.",
+      "context_window": "The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other. However, too long a period and it could be that actual changes in state are averaged out. The minimum detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied is given in Table a.",
+      "context_window": "LT was then rounded down for consistency with the previous assessments. The full list applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "For all other surveys, a trends-based approach with statistical 6 of 10 OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Spatial Scope: Assessment Units",
+      "context_window": "was then rounded down for consistency with the previous assessments. The full list applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment outcome for each OSPAR Region.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay",
+      "context_window": "al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the Mediterranean Sea have also demonstrated the applicability of the indicator (Bitetto et al., 2019).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the",
+      "context_window": "The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the Mediterranean Sea have also demonstrated the applicability of the indicator (Bitetto et al., 2019). Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "likely it is that noise in the data or natural fluctuations in the system are being compared against each other.",
+      "context_window": "calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other. However, too long a period and it could be that actual changes in state are averaged out. The minimum",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contributors",
+      "context_window": "OSPAR Commission Contents Contributors 1 Citation",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If the former, then breakpoint analysis is",
+      "context_window": "statistical approaches: First applying the ‘supremum F test’ to establish whether a non-stationary time series or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration. Results",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "method makes it possible to say whether there is a significant change in the time series state over time,",
+      "context_window": "Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015). The method makes it possible to say whether there is a significant change in the time series state over time, namely whether the recent period is not significantly different from the historically observed period. The",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples according to specific guidelines (see",
+      "context_window": "These are standardised monitoring programmes that occur each year in the same period taking representative samples according to specific guidelines (see CEMP ).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015).",
+      "context_window": "(equal to three times the early 1990s average), but the shift detection approach (below) is considered superior. Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015). The method makes it possible to say whether there is a significant change in the time series state over time,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps 8 References 8 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems Relevant",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2016;).",
+      "context_window": "Fishing at Maximum Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018).",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the",
+      "context_window": "However, too long a period and it could be that actual changes in state are averaged out. The minimum detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the response of the fish community as opposed to noise and short-term fluctuations. The analysis uses two",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Publication Number: 939/2023",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "9 3 of 10 OSPAR Commission",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "assessments/proportion-lfi/ 2 of 10 OSPAR Commission Contents Contributors",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "LFI time series was derived for each survey and grouped within Regions to determine an overall assessment",
+      "context_window": "applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment outcome for each OSPAR Region. Baselines and threshold values",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Indicator Code Text",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). A significant shift to a higher long-term state",
+      "context_window": "of no change until increases begin during the 2010s ( Figure 1 ). A significant shift to a higher long-term state is evident in the Irish Sea for CSEngBT3 only ( Figure 2",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly",
+      "context_window": "www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Size composition",
+      "context_window": "OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition in fish communities (Typical Length) . Previously, for surveys in the Celtic Seas Region a baseline was trialled",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "35 4 of 10 OSPAR Commission Bay of Biscay and Iberian Coast",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "Data Type Assessment type List Indicator Assessment Indicator Code",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al.",
+      "context_window": "in the North Sea (Greenstreet et al., 2011) and Firth of Clyde (Heath and Spiers 2014). Fishing at Maximum Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "or a constant period for the entire time series is more suitable.",
+      "context_window": "The analysis uses two statistical approaches: First applying the ‘supremum F test’ to establish whether a non-stationary time series or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2018-05 CEMP Guideline – FW3:",
+      "context_window": "Documentation Text OSPAR Agreement 2018-05 CEMP Guideline – FW3: Combined guideline for processing of survey data for fish and food webs common indicators FC2, FC3, FW3 and FW7",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "older individuals of species impacted.",
+      "context_window": "Background Fishing mortality constrains the age structure of fish communities, reducing the proportion of larger and older individuals of species impacted. OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "=35 cm). This survey is assessed here but data were",
+      "context_window": "they suggested targets of 0,34 to 0,41 for the LFI (with LT =35 cm). This survey is assessed here but data were only available publicly from 2011",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR currently uses multiple common indicators relating to fish size",
+      "context_window": "Fishing mortality constrains the age structure of fish communities, reducing the proportion of larger and older individuals of species impacted. OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web. The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "Background (extended) 3 Assessment Method 3 Results",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Combined guideline for processing of survey data for fish and food",
+      "context_window": "Text OSPAR Agreement 2018-05 CEMP Guideline – FW3: Combined guideline for processing of survey data for fish and food webs common indicators FC2, FC3, FW3 and FW7 Date of publication",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and",
+      "context_window": "Contributors Lead Authors: Chris Lynam and GerJan Piet. Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their",
+      "context_window": "values during the late 1980s, which included the six highest LFI values recorded. The stability of the LFI, combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their reference period for the Celtic Seas. However, the survey these authors studied has been discontinued.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Commission,",
+      "context_window": "Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reference period for the Celtic Seas.",
+      "context_window": "The stability of the LFI, combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their reference period for the Celtic Seas. However, the survey these authors studied has been discontinued. For the Iberian Coast, Modica et al., (2014) investigated the Spanish north coast survey (BBIC(",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (extended)",
+      "context_window": "Background 3 Background (extended) 3 Assessment Method",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "). A significant shift to a higher long-term state is evident in the Irish Sea for CSEngBT3 only ( Figure 2 ). Bay of Biscay and Iberian Coast",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied to find periods of at least six years’ duration.",
+      "context_window": "or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration. Results North Sea",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion 8 Knowledge Gaps 8 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "01/ OSPAR’s Quality Status Report 2023 OSPAR Secretariat The Aspect",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "North Sea case. This long-term decrease is also prior to the start of the CSScoOT4 and CSIreOT4 surveys. In all three surveys, ongoing recoveries are evident during the 2000s and 2010s with a significant shift in stable state in each (",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2023",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detection for shifts in stable periods only was adopted in common with the assessment of",
+      "context_window": "6 of 10 OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition in fish communities (Typical Length)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for",
+      "context_window": "Status Report for the Northeast",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "context_window": "Lead Authors: Chris Lynam and GerJan Piet. Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Lynam. C.P. and Piet. G.J. 2023.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conclusion",
+      "context_window": "Results 6 Conclusion 8 Knowledge Gaps",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "References 8 Assessment Metadata 9 3 of 10",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_lfi_results_2022_06_0 01/ OSPAR’s Quality Status Report 2023 OSPAR Secretariat",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "covered by the survey.",
+      "context_window": "5 of 10 OSPAR Commission covered by the survey. The biomass in each length category is summed across species to give the estimates (",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in",
+      "context_window": "OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web. The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in demersal fish communities (species living on or near the seafloor) (Rochet et al., 2010). Time series dating",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "https://oap.ospar.org/en/data-policy/ 10 of 10 OSPAR Commission Field Data Type",
+      "page_number": 10,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human pressures and their impact on the full demersal fish community, not just the commercially fished",
+      "context_window": "models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all human pressures and their impact on the full demersal fish community, not just the commercially fished stocks. Future development of the indicator should explore the potential of using assessment units which split the",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate",
+      "context_window": "Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values",
+      "context_window": "Knowledge Gaps Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values and on demersal fish size composition recovery rates; and, a full understanding of relationships between all human pressures and their impact on the full demersal fish community, not just the commercially fished",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "calculate an average) which can lead to subjective assessments.",
+      "context_window": "The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Future development of the indicator should explore the potential of using assessment units which split the",
+      "context_window": "human pressures and their impact on the full demersal fish community, not just the commercially fished stocks. Future development of the indicator should explore the potential of using assessment units which split the OSPAR Regions into smaller areas and the inclusion of fishing pressure metrics.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to",
+      "context_window": "namely whether the recent period is not significantly different from the historically observed period. The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "SDG Indicator",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_lfi_msfd_2022_06_00 1/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, too long a period and it could be that actual changes in state are averaged out.",
+      "context_window": "The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other. However, too long a period and it could be that actual changes in state are averaged out. The minimum detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "For all other surveys, a trends-based approach with statistical 6 of 10 OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment type",
+      "context_window": "Field Data Type Assessment type List Indicator Assessment",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the",
+      "context_window": "The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the Mediterranean Sea have also demonstrated the applicability of the indicator (Bitetto et al., 2019). Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "likely it is that noise in the data or natural fluctuations in the system are being compared against each other.",
+      "context_window": "calculate an average) which can lead to subjective assessments. The shorter the period chosen, the more likely it is that noise in the data or natural fluctuations in the system are being compared against each other. However, too long a period and it could be that actual changes in state are averaged out. The minimum",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "If the former, then breakpoint analysis is",
+      "context_window": "statistical approaches: First applying the ‘supremum F test’ to establish whether a non-stationary time series or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration. Results",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples according to specific guidelines (see",
+      "context_window": "These are standardised monitoring programmes that occur each year in the same period taking representative samples according to specific guidelines (see CEMP ).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "References",
+      "context_window": "Knowledge Gaps 8 References 8 Assessment Metadata",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2016;).",
+      "context_window": "Fishing at Maximum Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018).",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Publication Number: 939/2023",
+      "context_window": "e: secretariat@ospar.org www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "assessments/proportion-lfi/ 2 of 10 OSPAR Commission Contents Contributors",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "LFI time series was derived for each survey and grouped within Regions to determine an overall assessment",
+      "context_window": "applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment outcome for each OSPAR Region. Baselines and threshold values",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). A significant shift to a higher long-term state",
+      "context_window": "of no change until increases begin during the 2010s ( Figure 1 ). A significant shift to a higher long-term state is evident in the Irish Sea for CSEngBT3 only ( Figure 2",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Size composition",
+      "context_window": "OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition in fish communities (Typical Length) . Previously, for surveys in the Celtic Seas Region a baseline was trialled",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "Data Type Assessment type List Indicator Assessment Indicator Code",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or a constant period for the entire time series is more suitable.",
+      "context_window": "The analysis uses two statistical approaches: First applying the ‘supremum F test’ to establish whether a non-stationary time series or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "Assessment Metadata Field Data Type",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "=35 cm). This survey is assessed here but data were",
+      "context_window": "they suggested targets of 0,34 to 0,41 for the LFI (with LT =35 cm). This survey is assessed here but data were only available publicly from 2011",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Method",
+      "context_window": "Background (extended) 3 Assessment Method 3 Results",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and",
+      "context_window": "Contributors Lead Authors: Chris Lynam and GerJan Piet. Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their",
+      "context_window": "values during the late 1980s, which included the six highest LFI values recorded. The stability of the LFI, combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their reference period for the Celtic Seas. However, the survey these authors studied has been discontinued.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or partly reproduced in publications provided that the source of the extract is clearly indicated.",
+      "context_window": "Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (extended)",
+      "context_window": "Background 3 Background (extended) 3 Assessment Method",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "). A significant shift to a higher long-term state is evident in the Irish Sea for CSEngBT3 only ( Figure 2 ). Bay of Biscay and Iberian Coast",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion 8 Knowledge Gaps 8 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In",
+      "context_window": "North Sea case. This long-term decrease is also prior to the start of the CSScoOT4 and CSIreOT4 surveys. In all three surveys, ongoing recoveries are evident during the 2000s and 2010s with a significant shift in stable state in each (",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detection for shifts in stable periods only was adopted in common with the assessment of",
+      "context_window": "6 of 10 OSPAR Commission detection for shifts in stable periods only was adopted in common with the assessment of Size composition in fish communities (Typical Length)",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC)",
+      "context_window": "Lead Authors: Chris Lynam and GerJan Piet. Supported by: Intersessional Correspondence Group on the Coordination of Biodiversity Assessment and Monitoring (ICG-COBAM), OSPAR Biodiversity Committee (BDC) Citation Lynam. C.P. and Piet. G.J. 2023.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Metadata",
+      "context_window": "References 8 Assessment Metadata 9 3 of 10",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "covered by the survey.",
+      "context_window": "5 of 10 OSPAR Commission covered by the survey. The biomass in each length category is summed across species to give the estimates (",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "https://oap.ospar.org/en/data-policy/ 10 of 10 OSPAR Commission Field Data Type",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in",
+      "context_window": "OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web. The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in demersal fish communities (species living on or near the seafloor) (Rochet et al., 2010). Time series dating",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "https://odims.ospar.org/en/submissions/ospar_lfi_results_2022_06_0 01/ OSPAR’s Quality Status Report 2023 OSPAR Secretariat",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conclusion",
+      "context_window": "Results 6 Conclusion 8 Knowledge Gaps",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for",
+      "context_window": "Status Report for the Northeast",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2023",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2023",
+      "context_window": "01/ OSPAR’s Quality Status Report 2023 OSPAR Secretariat The Aspect",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied to find periods of at least six years’ duration.",
+      "context_window": "or a constant period for the entire time series is more suitable. If the former, then breakpoint analysis is applied to find periods of at least six years’ duration. Results North Sea",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "www.ospar.org",
+      "context_window": "f: +44 (0)20 7242 3737 e: secretariat@ospar.org www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reference period for the Celtic Seas.",
+      "context_window": "The stability of the LFI, combined with these high values, led Shephard et al., (2011) to adopt this period prior to 1990 as their reference period for the Celtic Seas. However, the survey these authors studied has been discontinued. For the Iberian Coast, Modica et al., (2014) investigated the Spanish north coast survey (BBIC(",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Commission,",
+      "context_window": "Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relevant",
+      "context_window": "List Biological Diversity and Ecosystems Relevant OSPAR Documentation",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Combined guideline for processing of survey data for fish and food",
+      "context_window": "Text OSPAR Agreement 2018-05 CEMP Guideline – FW3: Combined guideline for processing of survey data for fish and food webs common indicators FC2, FC3, FW3 and FW7 Date of publication",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR currently uses multiple common indicators relating to fish size",
+      "context_window": "Fishing mortality constrains the age structure of fish communities, reducing the proportion of larger and older individuals of species impacted. OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web. The Large Fish Index (LFI) was developed to respond to fishing pressure on the proportion of large fish in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "older individuals of species impacted.",
+      "context_window": "Background Fishing mortality constrains the age structure of fish communities, reducing the proportion of larger and older individuals of species impacted. OSPAR currently uses multiple common indicators relating to fish size and species composition to assess impacts of fishing on fish communities within the food web.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2018-05 CEMP Guideline – FW3:",
+      "context_window": "Documentation Text OSPAR Agreement 2018-05 CEMP Guideline – FW3: Combined guideline for processing of survey data for fish and food webs common indicators FC2, FC3, FW3 and FW7",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al.",
+      "context_window": "in the North Sea (Greenstreet et al., 2011) and Firth of Clyde (Heath and Spiers 2014). Fishing at Maximum Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "35 4 of 10 OSPAR Commission Bay of Biscay and Iberian Coast",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly",
+      "context_window": "www.ospar.org Publication Number: 939/2023 © OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Indicator Code Text",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Biological Diversity and Ecosystems",
+      "context_window": "Thematic Activity List Biological Diversity and Ecosystems Relevant OSPAR",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Commission",
+      "context_window": "9 3 of 10 OSPAR Commission",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the",
+      "context_window": "However, too long a period and it could be that actual changes in state are averaged out. The minimum detectable period is defined in this analysis as six years and is assumed to be appropriate to capture the response of the fish community as opposed to noise and short-term fluctuations. The analysis uses two",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems Relevant",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015).",
+      "context_window": "(equal to three times the early 1990s average), but the shift detection approach (below) is considered superior. Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015). The method makes it possible to say whether there is a significant change in the time series state over time,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "method makes it possible to say whether there is a significant change in the time series state over time,",
+      "context_window": "Breakpoint analyses uses data to define stable underlying periods (see Probst and Stelzenmüller, 2015). The method makes it possible to say whether there is a significant change in the time series state over time, namely whether the recent period is not significantly different from the historically observed period. The",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contributors",
+      "context_window": "OSPAR Commission Contents Contributors 1 Citation",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay",
+      "context_window": "al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the Mediterranean Sea have also demonstrated the applicability of the indicator (Bitetto et al., 2019).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Spatial Scope: Assessment Units",
+      "context_window": "was then rounded down for consistency with the previous assessments. The full list applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment outcome for each OSPAR Region.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied is given in Table a.",
+      "context_window": "LT was then rounded down for consistency with the previous assessments. The full list applied is given in Table a. Spatial Scope: Assessment Units LFI time series was derived for each survey and grouped within Regions to determine an overall assessment",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "namely whether the recent period is not significantly different from the historically observed period.",
+      "context_window": "The method makes it possible to say whether there is a significant change in the time series state over time, namely whether the recent period is not significantly different from the historically observed period. The method avoids the arbitrary choice of reference periods for assessment (i.e., how many years to use to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has",
+      "context_window": "In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has subsequently been adapted to expand the indicator to the Celtic Seas (Shephard et al., 2011), Bay of Biscay and Iberian Coast (Modica et al., 2014) and Wider Atlantic (Mindel et al., 2018). Studies within the",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et",
+      "context_window": "Sustainable Yield is expected to lead to a recovery in the indicator (Spence et al., 2021; Spiers et al. 2016;). In contrast, climate change is expected to depress the recovery of the indicator in the long term (Queirós et al., 2018). The LFI indicator methodology was first applied in the North Sea (Greenstreet et al., 2011) and has",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Gaps focus on: the lack of historical data (for seas other than the North Sea and Firth of Clyde) or appropriate models to inform LFI threshold value setting; the effects of warming sea temperature on LFI threshold values",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Thematic Activity",
+      "context_window": "strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List Biological Diversity and Ecosystems",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "List",
+      "context_window": "1/ SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 9,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 3,
+      "ocean acidification": 1,
+      "warming": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 80,
+      "end_sentence": 84,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "Long-term declines are evident in the Greater North Sea and Celtic Seas.",
+          "full_length": 72
+        },
+        {
+          "sentence_id": 82,
+          "page_number": 3,
+          "content": "No change was found in the Bay of",
+          "full_length": 33
+        },
+        {
+          "sentence_id": 83,
+          "page_number": 3,
+          "content": "Biscay and Iberian coast or Wider Atlantic. The recoveries noted in IA2017 stalled prior to 2020 and",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "thresholds were not met in the North Sea or West of Scotland subdivisions.",
+          "full_length": 74
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 487,
+      "end_sentence": 497,
+      "sentence_count": 11,
+      "page_range": "8-8",
+      "sentences": [
+        {
+          "sentence_id": 487,
+          "page_number": 8,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 488,
+          "page_number": 8,
+          "content": "Where long time series are available (i.e., in the North Sea and northern Celtic Seas), a common pat...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 489,
+          "page_number": 8,
+          "content": "decreases in LFI between the 1980s and 2000 is consistent between surveys.",
+          "full_length": 74
+        },
+        {
+          "sentence_id": 490,
+          "page_number": 8,
+          "content": "The trend towards recovery,",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 491,
+          "page_number": 8,
+          "content": "reported in the North Sea and northern Celtic Seas in the Intermediate Assessment 2017, did not cont...",
+          "full_length": 105
+        }
+      ],
+      "total_sentences_in_section": 11
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 506,
+      "end_sentence": 601,
+      "sentence_count": 96,
+      "page_range": "8-9",
+      "sentences": [
+        {
+          "sentence_id": 506,
+          "page_number": 8,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 507,
+          "page_number": 8,
+          "content": "Bitetto, I., Romagnoni, G., Adamidou, A., Certain, G., Di Lorenzo, M., Donnaloia, M., Lembo, G., Mai...",
+          "full_length": 110
+        },
+        {
+          "sentence_id": 508,
+          "page_number": 8,
+          "content": "Milisenda, G., Musumeci, C., Ordines, F., Pesci, P., Peristeraki, P., Pesic, A., Sartor, P., Spedica...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 509,
+          "page_number": 8,
+          "content": "2019.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 510,
+          "page_number": 8,
+          "content": "Modelling spatio-temporal patterns of fish community size structure across the northern Mediterranea...",
+          "full_length": 106
+        }
+      ],
+      "total_sentences_in_section": 96
+    }
+  ],
+  "metadata": {
+    "total_sentences": 673,
+    "chunks_selected": 81,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 80,
+        "end_sentence": 84,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 487,
+        "end_sentence": 497,
+        "sentence_count": 11
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 506,
+        "end_sentence": 601,
+        "sentence_count": 96
+      }
+    ],
+    "total_excluded_sentences": 112
+  }
+}

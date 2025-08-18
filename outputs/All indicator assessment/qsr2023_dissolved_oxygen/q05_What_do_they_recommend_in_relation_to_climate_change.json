@@ -1,0 +1,1513 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "Development in assessment methods (e.g., including models, looking at number of days below threshold).",
+      "context_window": "Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "assessments of oxygen deficiency require improved availability of suitable data.",
+      "context_window": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is localised and often short-lived, modelling can help in identifying hotspots see below example.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "context_window": "The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "this assessment, requires some further development to address questions about the feasibility and",
+      "context_window": "or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for this assessment, requires some further development to address questions about the feasibility and practicalities of near-bed monitoring and assessment.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "biological processes.",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As more carbon",
+      "context_window": ", and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn,",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "context_window": "sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Further monitoring and modelling of these areas would be critical to resolve the scale of the issues,",
+      "context_window": "samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues, and the direction of trend for bottom DO in these four areas. OSPAR 2022",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In turn,",
+      "context_window": "As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "context_window": "current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic",
+      "context_window": "OSPAR Commission be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas",
+      "context_window": "Figure j) . With a low number of samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues,",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current methods.",
+      "context_window": "Profile and glider data will allow us to explore this in detail. The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "sensitivity to environmental extremes relative to a change in just one of these variables.",
+      "context_window": "2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling",
+      "context_window": "Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods. Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "context_window": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "or regional databases, to be uploaded to ICES.",
+      "context_window": ", 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for this assessment, requires some further development to address questions about the feasibility and",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "context_window": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone,",
+      "context_window": "5 of 31 OSPAR Commission be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "if suitably validated be used as evidence in regions which are poorly sampled at present.",
+      "context_window": "Models not only have a role in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This includes tackling eutrophication,",
+      "context_window": "contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "context_window": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "context_window": "in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs",
+      "context_window": "OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic (OSPAR, 2021).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "context_window": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022). As there is no single indicator of disturbance caused by marine eutrophication, OSPAR applies",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine environment’ (OSPAR, 2021).",
+      "context_window": "This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to OSPAR 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in directing future sampling programmes and strategies to make best use of resources, but in the future may",
+      "context_window": "extensive regions, however not in the regions where sampling presently occurs. Models not only have a role in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The very low DO may not be picked up with the",
+      "context_window": "go too close to the seabed, so we need to be sure that this method is sufficient to pick up DO sag issues. Profile and glider data will allow us to explore this in detail. The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "context_window": "Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief)",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "context_window": "The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and the direction of trend for bottom DO in these four areas.",
+      "context_window": "is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues, and the direction of trend for bottom DO in these four areas. OSPAR 2022 19 of 31",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in bottom panel.",
+      "context_window": "Figure r: Comparison of DO outcomes over the four assessment periods. Top panel is the assessment outcomes with measure of confidence in bottom panel. Four assessment periods are COMP1 (1990-2000), COMP2 (2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020).",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The observation that many of the available data points were in nearshore waters highlights the",
+      "context_window": "salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the ICES database, highlight the need for existing monitoring and / or research data, which are held in local",
+      "context_window": "et al. , 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., 2014). There are also potentially significant time lags in the",
+      "context_window": "sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the system, so that modelling can help inform how long a management measure will have to persist before an outcome becomes apparent.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "context_window": "if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved",
+      "context_window": ", 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas. While the initial International Council for the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in",
+      "context_window": "As oxygen consumption is significantly driven from the bed, the regions which suffer from low oxygen, are those which have a relatively small volume of water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in many ways. Most evidently via the direct effect on solubility but it can also increase stratification which",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future",
+      "context_window": "The ICES database includes measurements from all depths. The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The aspect of temporal coverage of monitoring data",
+      "context_window": "There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment,",
+      "context_window": "Background (brief) OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic (OSPAR, 2021). Dissolved",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in",
+      "context_window": "areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in more detail, as part of the supporting data. The fine scale assessment helps identify high risk areas,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "importance of improved spatial coverage in order to improve confidence in assessments of marine areas.",
+      "context_window": "assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood et al",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Scientists estimate that between 1960 and 2010, the amount of the",
+      "context_window": "In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recent work in the Red Sea demonstrates that hyperoxia during the",
+      "context_window": "Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to dead zones affecting more than 245 000km",
+      "context_window": "cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km 2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008).",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Dissolved oxygen concentrations were assessed in all COMP4 assessment areas in OSPAR Regions II, III and",
+      "context_window": "Two scales of data aggregation were adopted for the assessment, the large-scale common assessment areas, and smaller gridded rectangles. Dissolved oxygen concentrations were assessed in all COMP4 assessment areas in OSPAR Regions II, III and IV (Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast). For the 4th application of the Common",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2016), which indicate the availability of additional data not yet included in",
+      "context_window": "Brockmann, 2015; Große et al. , 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inhibits the supply of oxygenated waters to lower levels. Increased levels of CO",
+      "context_window": "many ways. Most evidently via the direct effect on solubility but it can also increase stratification which inhibits the supply of oxygenated waters to lower levels. Increased levels of CO 2 can promote",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "context_window": "biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods. Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels require oxygen measurements to be paired with temperature and salinity measurements so that",
+      "context_window": "et al. , 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "accuracy, which are combined to the overall confidence.",
+      "context_window": "Confidence There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and the areas impacted (Lehmann",
+      "context_window": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The trend analysis was carried out on data from 1990 to 2020.",
+      "context_window": "4 1 The trend analysis was carried out on data from 1990 to 2020. Many of the assessment areas had sufficient long-term data (52 out of 64), to apply a trend assessment.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This strategic objective requires assessment of eutrophication to",
+      "context_window": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to OSPAR 2022 5 of 31",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause loss of biodiversity in these impacted ecosystems.",
+      "context_window": "(dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "context_window": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "poor coverage by observations. Biogeochemical models (Ciavatta, 2016; van Leeuwen",
+      "context_window": "localised and often short-lived, modelling can help in identifying hotspots see below example. The Atlantic Sea Seasonally Stratified region, which comprises much of the Celtic Sea, is one area which has poor coverage by observations. Biogeochemical models (Ciavatta, 2016; van Leeuwen et al. , 2015), which",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "availability of suitable data in many of the assessment areas.",
+      "context_window": "levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas. While the initial International Council for the Exploration of the Sea (ICES) dataset included good spatial and temporal coverage, the dataset was much",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may",
+      "context_window": "Hypoxia (dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 2
+      }
+    },
+    {
+      "core_sentence": "long-term data (52 out of 64), to apply a trend assessment.",
+      "context_window": "The trend analysis was carried out on data from 1990 to 2020. Many of the assessment areas had sufficient long-term data (52 out of 64), to apply a trend assessment. Out of those 52 areas, only one in coastal areas had an increasing trend (Kattegat Coastal).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "more detail, as part of the supporting data.",
+      "context_window": "was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in more detail, as part of the supporting data. The fine scale assessment helps identify high risk areas, particularly in the larger assessment areas.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". The outcomes are also summarised in greater detail in",
+      "context_window": "for each assessment area ( Figure f) . The outcomes are also summarised in greater detail in Table c , with the",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low oxygen and warmer temperatures.",
+      "context_window": "in respiratory demand. Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "kinds, in particular from land-based activities, including marine debris",
+      "context_window": "List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are three types of confidence calculated for the DO assessment, they include spatial, temporal and",
+      "context_window": "periods Confidence There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase",
+      "context_window": "can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "context_window": "to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observations during the parameter-specific assessment seasons.",
+      "context_window": "The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons. The aspect of spatial representability in the confidence assessment is considered by a general and a specific spatial confidence aspect and both are based",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication",
+      "context_window": "Lead authors: Michelle Devlin, Liam Fernand and Kate Collingridge Supported by: Technical Group for the revision and application of the Common Procedure, Intersessional Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication Modelling and Hazardous Substances and Eutrophication Committee. Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, recent publications (e.g., Greenwood",
+      "context_window": "The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood et al ., 2010; Queste",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Metrics such as the Oxygen Deficiency Index",
+      "context_window": "It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and",
+      "context_window": "( Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "season 1 July–31 October), depth (within 10 m of the seafloor) to obtain the specific data required for the assessments.",
+      "context_window": "OSPAR Commission Figure d: Assessed area showing sites where ICES data were available for the period 2015–2020 Filtered by season (stratification season 1 July–31 October), depth (within 10 m of the seafloor) to obtain the specific data required for the assessments. Assessment areas Two scales of data aggregation were adopted for the assessment, the large-scale common assessment areas,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were used to identify trends in the data.",
+      "context_window": "th percentile of the data per stratification season per year were used to identify trends in the data. Trends were assessed using the Mann-Kendall non-parametric test for trend analysis (Mann, 1945; Kendall, 1975).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considers the confidence of the parameter in terms of its year-to-year variation and the continuity of",
+      "context_window": "accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons. The aspect of spatial representability in the",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelling and Hazardous Substances and Eutrophication Committee.",
+      "context_window": "Supported by: Technical Group for the revision and application of the Common Procedure, Intersessional Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication Modelling and Hazardous Substances and Eutrophication Committee. Citation Devlin, M., Fernand, L. and Collingridge, K. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The application of filters (e.g., depth, season, and",
+      "context_window": "seafloor and for the duration of the stratification period (1 July–31 October). The ICES database includes measurements from all depths. The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend",
+      "context_window": "be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022 25 of 31",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "context_window": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify",
+      "page_number": 8,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "Development in assessment methods (e.g., including models, looking at number of days below threshold).",
+      "context_window": "Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "assessments of oxygen deficiency require improved availability of suitable data.",
+      "context_window": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is localised and often short-lived, modelling can help in identifying hotspots see below example.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As more carbon",
+      "context_window": ", and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn,",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "context_window": "sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "In turn,",
+      "context_window": "As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic",
+      "context_window": "OSPAR Commission be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "current methods.",
+      "context_window": "Profile and glider data will allow us to explore this in detail. The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling",
+      "context_window": "Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods. Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or regional databases, to be uploaded to ICES.",
+      "context_window": ", 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for this assessment, requires some further development to address questions about the feasibility and",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "if suitably validated be used as evidence in regions which are poorly sampled at present.",
+      "context_window": "Models not only have a role in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "context_window": "in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "context_window": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022). As there is no single indicator of disturbance caused by marine eutrophication, OSPAR applies",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in directing future sampling programmes and strategies to make best use of resources, but in the future may",
+      "context_window": "extensive regions, however not in the regions where sampling presently occurs. Models not only have a role in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "context_window": "Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief)",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and the direction of trend for bottom DO in these four areas.",
+      "context_window": "is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues, and the direction of trend for bottom DO in these four areas. OSPAR 2022 19 of 31",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The observation that many of the available data points were in nearshore waters highlights the",
+      "context_window": "salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (brief)",
+      "context_window": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., 2014). There are also potentially significant time lags in the",
+      "context_window": "sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the system, so that modelling can help inform how long a management measure will have to persist before an outcome becomes apparent.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved",
+      "context_window": ", 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas. While the initial International Council for the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future",
+      "context_window": "The ICES database includes measurements from all depths. The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment,",
+      "context_window": "Background (brief) OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic (OSPAR, 2021). Dissolved",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in",
+      "context_window": "areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in more detail, as part of the supporting data. The fine scale assessment helps identify high risk areas,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Scientists estimate that between 1960 and 2010, the amount of the",
+      "context_window": "In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to dead zones affecting more than 245 000km",
+      "context_window": "cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km 2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008).",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Dissolved oxygen concentrations were assessed in all COMP4 assessment areas in OSPAR Regions II, III and",
+      "context_window": "Two scales of data aggregation were adopted for the assessment, the large-scale common assessment areas, and smaller gridded rectangles. Dissolved oxygen concentrations were assessed in all COMP4 assessment areas in OSPAR Regions II, III and IV (Greater North Sea, Celtic Seas, Bay of Biscay and Iberian Coast). For the 4th application of the Common",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inhibits the supply of oxygenated waters to lower levels. Increased levels of CO",
+      "context_window": "many ways. Most evidently via the direct effect on solubility but it can also increase stratification which inhibits the supply of oxygenated waters to lower levels. Increased levels of CO 2 can promote",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels require oxygen measurements to be paired with temperature and salinity measurements so that",
+      "context_window": "et al. , 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and the areas impacted (Lehmann",
+      "context_window": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This strategic objective requires assessment of eutrophication to",
+      "context_window": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to OSPAR 2022 5 of 31",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "poor coverage by observations. Biogeochemical models (Ciavatta, 2016; van Leeuwen",
+      "context_window": "localised and often short-lived, modelling can help in identifying hotspots see below example. The Atlantic Sea Seasonally Stratified region, which comprises much of the Celtic Sea, is one area which has poor coverage by observations. Biogeochemical models (Ciavatta, 2016; van Leeuwen et al. , 2015), which",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may",
+      "context_window": "Hypoxia (dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 2
+      }
+    },
+    {
+      "core_sentence": "more detail, as part of the supporting data.",
+      "context_window": "was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in more detail, as part of the supporting data. The fine scale assessment helps identify high risk areas, particularly in the larger assessment areas.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "kinds, in particular from land-based activities, including marine debris",
+      "context_window": "List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase",
+      "context_window": "can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observations during the parameter-specific assessment seasons.",
+      "context_window": "The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons. The aspect of spatial representability in the confidence assessment is considered by a general and a specific spatial confidence aspect and both are based",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, recent publications (e.g., Greenwood",
+      "context_window": "The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood et al ., 2010; Queste",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and",
+      "context_window": "( Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were used to identify trends in the data.",
+      "context_window": "th percentile of the data per stratification season per year were used to identify trends in the data. Trends were assessed using the Mann-Kendall non-parametric test for trend analysis (Mann, 1945; Kendall, 1975).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considers the confidence of the parameter in terms of its year-to-year variation and the continuity of",
+      "context_window": "accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons. The aspect of spatial representability in the",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The application of filters (e.g., depth, season, and",
+      "context_window": "seafloor and for the duration of the stratification period (1 July–31 October). The ICES database includes measurements from all depths. The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background (brief)",
+      "context_window": "Background (brief) OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "context_window": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend",
+      "context_window": "be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022 25 of 31",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelling and Hazardous Substances and Eutrophication Committee.",
+      "context_window": "Supported by: Technical Group for the revision and application of the Common Procedure, Intersessional Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication Modelling and Hazardous Substances and Eutrophication Committee. Citation Devlin, M., Fernand, L. and Collingridge, K. 2022.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "season 1 July–31 October), depth (within 10 m of the seafloor) to obtain the specific data required for the assessments.",
+      "context_window": "OSPAR Commission Figure d: Assessed area showing sites where ICES data were available for the period 2015–2020 Filtered by season (stratification season 1 July–31 October), depth (within 10 m of the seafloor) to obtain the specific data required for the assessments. Assessment areas Two scales of data aggregation were adopted for the assessment, the large-scale common assessment areas,",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Metrics such as the Oxygen Deficiency Index",
+      "context_window": "It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication",
+      "context_window": "Lead authors: Michelle Devlin, Liam Fernand and Kate Collingridge Supported by: Technical Group for the revision and application of the Common Procedure, Intersessional Correspondence Group on Eutrophication, Intersessional Correspondence Group on Eutrophication Modelling and Hazardous Substances and Eutrophication Committee. Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "context_window": "to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are three types of confidence calculated for the DO assessment, they include spatial, temporal and",
+      "context_window": "periods Confidence There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low oxygen and warmer temperatures.",
+      "context_window": "in respiratory demand. Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". The outcomes are also summarised in greater detail in",
+      "context_window": "for each assessment area ( Figure f) . The outcomes are also summarised in greater detail in Table c , with the",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "long-term data (52 out of 64), to apply a trend assessment.",
+      "context_window": "The trend analysis was carried out on data from 1990 to 2020. Many of the assessment areas had sufficient long-term data (52 out of 64), to apply a trend assessment. Out of those 52 areas, only one in coastal areas had an increasing trend (Kattegat Coastal).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "availability of suitable data in many of the assessment areas.",
+      "context_window": "levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas. While the initial International Council for the Exploration of the Sea (ICES) dataset included good spatial and temporal coverage, the dataset was much",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "context_window": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause loss of biodiversity in these impacted ecosystems.",
+      "context_window": "(dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "The trend analysis was carried out on data from 1990 to 2020.",
+      "context_window": "4 1 The trend analysis was carried out on data from 1990 to 2020. Many of the assessment areas had sufficient long-term data (52 out of 64), to apply a trend assessment.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "accuracy, which are combined to the overall confidence.",
+      "context_window": "Confidence There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "context_window": "biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods. Need for better data to capture the high spatial and temporal variability, e.g., using automated sampling devices and supported by modelling.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2016), which indicate the availability of additional data not yet included in",
+      "context_window": "Brockmann, 2015; Große et al. , 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Recent work in the Red Sea demonstrates that hyperoxia during the",
+      "context_window": "Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "importance of improved spatial coverage in order to improve confidence in assessments of marine areas.",
+      "context_window": "assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas. Furthermore, recent publications (e.g., Greenwood et al",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments.",
+      "context_window": "The application of filters (e.g., depth, season, and salinity) reduces the dataset considerably, highlighting the need for targeted monitoring for future assessments. The observation that many of the available data points were in nearshore waters highlights the importance of improved spatial coverage in order to improve confidence in assessments of marine areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The aspect of temporal coverage of monitoring data",
+      "context_window": "There are three types of confidence calculated for the DO assessment, they include spatial, temporal and accuracy, which are combined to the overall confidence. The aspect of temporal coverage of monitoring data considers the confidence of the parameter in terms of its year-to-year variation and the continuity of observations during the parameter-specific assessment seasons.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in",
+      "context_window": "As oxygen consumption is significantly driven from the bed, the regions which suffer from low oxygen, are those which have a relatively small volume of water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in many ways. Most evidently via the direct effect on solubility but it can also increase stratification which",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "context_window": "if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the ICES database, highlight the need for existing monitoring and / or research data, which are held in local",
+      "context_window": "et al. , 2016), which indicate the availability of additional data not yet included in the ICES database, highlight the need for existing monitoring and / or research data, which are held in local or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "confidence in bottom panel.",
+      "context_window": "Figure r: Comparison of DO outcomes over the four assessment periods. Top panel is the assessment outcomes with measure of confidence in bottom panel. Four assessment periods are COMP1 (1990-2000), COMP2 (2001-2006), COMP3 (2006-2014) and COMP4 (2015-2020).",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "context_window": "The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The very low DO may not be picked up with the",
+      "context_window": "go too close to the seabed, so we need to be sure that this method is sufficient to pick up DO sag issues. Profile and glider data will allow us to explore this in detail. The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the marine environment’ (OSPAR, 2021).",
+      "context_window": "This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to OSPAR 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs",
+      "context_window": "OSPAR’s strategic objective with regard to eutrophication is to tackle eutrophication through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment, with the vision of a clean, healthy and biologically diverse North-East Atlantic (OSPAR, 2021).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "context_window": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This includes tackling eutrophication,",
+      "context_window": "contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone,",
+      "context_window": "5 of 31 OSPAR Commission be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "context_window": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "context_window": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "sensitivity to environmental extremes relative to a change in just one of these variables.",
+      "context_window": "2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas",
+      "context_window": "Figure j) . With a low number of samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues,",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "context_window": "current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Further monitoring and modelling of these areas would be critical to resolve the scale of the issues,",
+      "context_window": "samples, and limited long-term data, confidence in the moderate assessment for these four assessment areas is low. Further monitoring and modelling of these areas would be critical to resolve the scale of the issues, and the direction of trend for bottom DO in these four areas. OSPAR 2022",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (extended)",
+      "context_window": "devices and supported by modelling. Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "biological processes.",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "this assessment, requires some further development to address questions about the feasibility and",
+      "context_window": "or regional databases, to be uploaded to ICES. The methodology, developed over many years and refined for this assessment, requires some further development to address questions about the feasibility and practicalities of near-bed monitoring and assessment.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "context_window": "The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 6,
+    "keyword_counts": {
+      "climate change": 10,
+      "ocean acidification": 1,
+      "warming": 2,
+      "carbon dioxide": 1,
+      "hypoxia": 12,
+      "anoxia": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 100,
+      "end_sentence": 104,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 100,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 101,
+          "page_number": 3,
+          "content": "In most areas assessed, concentrations of dissolved oxygen near the seafloor are above the threshold...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 102,
+          "page_number": 3,
+          "content": "of 6mg/l. However, oxygen depletion has been observed in the Eastern North Sea, Kattegat coastal and",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 103,
+          "page_number": 3,
+          "content": "Kattegat Deep, though improvements in levels of dissolved oxygen concentrations have been observed i...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 104,
+          "page_number": 3,
+          "content": "the Kattegat areas.",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 2278,
+      "end_sentence": 2285,
+      "sentence_count": 8,
+      "page_range": "27-27",
+      "sentences": [
+        {
+          "sentence_id": 2278,
+          "page_number": 27,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 2279,
+          "page_number": 27,
+          "content": "Across most of the assessment areas of the OSPAR COMP regions, there is no widespread oxygen deficie...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 2280,
+          "page_number": 27,
+          "content": "However, localised areas of oxygen deficiency are apparent, particularly in the Eastern North Sea, K...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 2281,
+          "page_number": 27,
+          "content": "and Gulf of Biscay.",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 2282,
+          "page_number": 27,
+          "content": "Oxygen concentrations and percentage saturation are improving in the Kattegat and",
+          "full_length": 81
+        }
+      ],
+      "total_sentences_in_section": 8
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 2286,
+      "end_sentence": 2298,
+      "sentence_count": 13,
+      "page_range": "27-27",
+      "sentences": [
+        {
+          "sentence_id": 2286,
+          "page_number": 27,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2287,
+          "page_number": 27,
+          "content": "Across most of the assessment areas of the OSPAR COMP regions, there is no widespread oxygen deficie...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 2288,
+          "page_number": 27,
+          "content": "However, localised areas of oxygen deficiency are apparent, particularly in the Eastern North Sea, K...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 2289,
+          "page_number": 27,
+          "content": "and Gulf of Biscay.",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 2290,
+          "page_number": 27,
+          "content": "Oxygen concentrations and percentage saturation are improving in the Kattegat and",
+          "full_length": 81
+        }
+      ],
+      "total_sentences_in_section": 13
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2408,
+      "end_sentence": 2561,
+      "sentence_count": 154,
+      "page_range": "29-31",
+      "sentences": [
+        {
+          "sentence_id": 2408,
+          "page_number": 29,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2409,
+          "page_number": 29,
+          "content": "Ærtebjerg G, Carstensen J, Axe P, et al (2002) The 2002 Oxygen Depletion Event in the Kattegat, Belt...",
+          "full_length": 116
+        },
+        {
+          "sentence_id": 2410,
+          "page_number": 29,
+          "content": "Baltic. Baltic Sea Environment Proceedings No. 90. Helsinki Comm 66 pp",
+          "full_length": 70
+        },
+        {
+          "sentence_id": 2411,
+          "page_number": 29,
+          "content": "Artioli, Yuri, Jana Friedrich, Alison J. Gilbert, Abigail McQuatters-Gollop, Laurence D. Mee, Jan E....",
+          "full_length": 121
+        },
+        {
+          "sentence_id": 2412,
+          "page_number": 29,
+          "content": "Christoph Humborg, Luca Palmeri, and Falk Pollehne.",
+          "full_length": 51
+        }
+      ],
+      "total_sentences_in_section": 154
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2641,
+    "chunks_selected": 98,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 100,
+        "end_sentence": 104,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 2278,
+        "end_sentence": 2285,
+        "sentence_count": 8
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 2286,
+        "end_sentence": 2298,
+        "sentence_count": 13
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2408,
+        "end_sentence": 2561,
+        "sentence_count": 154
+      }
+    ],
+    "total_excluded_sentences": 180
+  }
+}

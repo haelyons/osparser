@@ -1,0 +1,1605 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations",
+      "context_window": "available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g. meteorological fields, land cover distribution, etc.)",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of each year are often incomplete. Annual mean measured concentrations or annual sums of wet",
+      "context_window": "applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet deposition were not used in the analysis if their completeness was below 50%. Besides, for comparability of measured wet deposition fluxes at different stations and different years observed",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied for concentrations in air and in precipitation.",
+      "context_window": "1992]. The method defines the outlier as a value falling outside the range of <M>±(3*SD), where <M> is the mean value, and SD is the standard deviation. This method was applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "context_window": "These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be",
+      "context_window": "23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series",
+      "context_window": "of <M>±(3*SD), where <M> is the mean value, and SD is the standard deviation. This method was applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet deposition were not used in the analysis if their completeness was below 50%. Besides, for",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term changes. Besides, sources of uncertainties associated with the modelling are overviewed.",
+      "context_window": "). This section characterizes the model performance and analyses discrepancies between modelled and observed concentrations in air and wet deposition fluxes as well as their long- term changes. Besides, sources of uncertainties associated with the modelling are overviewed. 5.1. Lead",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to",
+      "context_window": "2019. Mean relative bias between modelled and observed air concentrations calculated for the whole period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to 90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation of Hg wet deposition at the Spanish station ES8 comes from high temporal variability of the observed",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean relative bias between modelled and observed air concentrations calculated for the whole",
+      "context_window": "(a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to 2019. Mean relative bias between modelled and observed air concentrations calculated for the whole period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to 90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic",
+      "context_window": "Comparison of the modelled air concentrations and wet deposition fluxes of Pb, Cd and Hg with available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "context_window": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "context_window": "changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes agree within a factor of two. Besides, at a number of stations high bias is accompanied with significant correlation, e.g., NO1 (Birkenes, Norway), DK8 (Anholt, Denmark).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The observed fluxes in the first several",
+      "context_window": "wet deposition flux in the period from 2004 to 2019 (Fig. 30b). The observed fluxes in the first several years of the period were underestimated but between 2011 and 2018 the bias between modelled and observed concentrations is smaller than 20%.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These sharp inter-annual changes do not correlate",
+      "context_window": "FR90) exhibit high inter-annual variability (Fig. 23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used.",
+      "context_window": "stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suspension. However, even in this case measured wet deposition remains underestimated by the",
+      "context_window": "The overestimation of the modelled air concentrations can be caused by overprediction of wind re- suspension. However, even in this case measured wet deposition remains underestimated by the model. It could be explained by a number of factors including of parametrization of wet scavenging, contamination of measurement samples and uncertainties of emission estimates.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is important to mention that the Pearson’s correlation",
+      "context_window": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series. For",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "period are summarized in Annex C. There are",
+      "context_window": "results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly (by an order of magnitude) underestimate the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discrepancies between the modelling results and observations. Parameterizations of many physical",
+      "context_window": "secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical and chemical  processes used in GLEMOS were developed and verified for the EMEP operational modelling of heavy metals [",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "context_window": "reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined. Finally, in order to characterize long-term changes of modelled and observed air",
+      "context_window": ". Besides, faction of stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The spatial distribution of sector emissions in 2018 was multiplied by the calculated",
+      "context_window": "ratio between total sector emissions in 2018 and the emission in every year of the period 1990-2017 was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reported by the countries, can also contribute to the overall uncertainty of the modelling results.",
+      "context_window": "spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data were used to fill in parts of the OSPAR regions, which are not covered by the EMEP grid. To",
+      "context_window": "scale results were interpolated to the extended grid with finer spatial resolution. These interpolated data were used to fill in parts of the OSPAR regions, which are not covered by the EMEP grid. To smooth the border between the interpolated global-scale and regional-scale calculations five westernmost grid cells of the EMEP grid were assumed to be “transitional”, where deposition flux",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "above 0.5 for about half of stations measuring Hg air concentrations or wet deposition (Fig.",
+      "context_window": "Nevertheless, mean relative bias for all the stations corresponds to deviations within a factor of two.  The coefficient of correlation between modelled and observed values is above 0.5 for about half of stations measuring Hg air concentrations or wet deposition (Fig. 32 b,d). 0.0",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "than 0.5 at about one half of the stations.",
+      "context_window": "32 The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "station. On average, some overestimation of the observed concentrations in air and underestimation",
+      "context_window": "Combined information on MRB for the entire period, the temporal correlation coefficient and comparison of rates of pollution level change allow evaluating the model performance for each station. On average, some overestimation of the observed concentrations in air and underestimation of wet deposition fluxes take place (Fig. 26a,c). However, at most of the stations the agreement is within a factor of two.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the",
+      "context_window": "concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations. At stations IS91, NO42, SE14 the reduction of modelled air concentrations is lower than",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compare rates of deposition changes calculated in the previous and current studies.",
+      "context_window": "calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re-",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by",
+      "context_window": "Time series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The change was calculated for stations where measurements for at least half of the considered",
+      "context_window": "determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "context_window": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching",
+      "context_window": "the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching almost 500% are reported by Denmark. Table 1.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the",
+      "context_window": "EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes of the observed air concentrations.",
+      "context_window": "21b,d). Combination of low bias (MRB) and high temporal correlation coefficient (e.g., DE1, DK31, GB17, NL91 etc.) means that the model successfully reproduced both magnitude and long-term changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "directions after 2010 led to different mean annual rates of concentration decline.",
+      "context_window": "at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in",
+      "context_window": "series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelled air concentrations and wet deposition fluxes were compared with the available",
+      "context_window": "5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of the CAMP network are located in OSPAR Contracting Parties on or nearby the sea coast of the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "total heavy metal input to the marine environment [",
+      "context_window": "environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR , 2017], despite progress made under the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in",
+      "context_window": "1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in these countries had the strongest impact on the deposition change on the Greater North Sea. Lower reduction in other regions was explained by their relative remoteness from main emission sources",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to",
+      "context_window": "Figure 31. Modelled and observed annual mean concentrations of Hg in air at station NO42 (Zeppelin, Norway) (a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to 2019. Mean relative bias between modelled and observed air concentrations calculated for the whole",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to",
+      "context_window": ", 2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fluxes (Annex C). In 2009-2011 the bias does not exceed -20%, while in other years it reaches -70%.",
+      "context_window": "90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation of Hg wet deposition at the Spanish station ES8 comes from high temporal variability of the observed fluxes (Annex C). In 2009-2011 the bias does not exceed -20%, while in other years it reaches -70%. At the British station GB48 the model overpredicts the observed fluxes by factor 1.4 – 3.3 throughout the considered period.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can",
+      "context_window": "According to officially reported information (Chapter 3), uncertainties of national total emissions of Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of the modelling results against observed air concentrations and wet deposition is given in",
+      "context_window": "data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7 Chapter 5 and Annex C. Chapter 6 includes comparison of the current results with previous estimates",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series diagrams for the period from 1990 to 2019",
+      "context_window": "Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "context_window": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model",
+      "context_window": "2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM model by the new Global EMEP Multi-media Modelling System (GLEMOS) [",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model",
+      "context_window": "1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase towards the end of the considered period. Measured Hg deposition fluxes at DE1 are available for two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model performance for these two parts differs. The first part is characterized by low mean bias (about 4%) and lack of correlation, while for the second part the correlation is high, but the model overestimates",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Large differences in the rates are typically noted for stations with high inter-annual",
+      "context_window": "of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual variability of observed Cd fluxes (e.g., FR90, IS90). 33",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled concentrations have been reducing through the whole period. Difference in trend",
+      "context_window": "first half of the considered period that results in 3% mean annual decline. Observed concentrations at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "context_window": "directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to",
+      "context_window": "five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in previous study. In case of mercury the mean rates of deposition change in this and previous",
+      "context_window": "non-OSPAR countries. Comparison of emission trends used in this and previous studies reveals that sum of non-OSPAR emissions in the current study decreases faster  by a factor of 1.3 than that used in previous study. In case of mercury the mean rates of deposition change in this and previous studies are comparable (Fig. 34f). a",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector",
+      "context_window": "was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same for the period from 1990 to 2018.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of model were in satisfactory agreement with the available measurements and discrepancies did not",
+      "context_window": "ECE/EB.AIR/GE.1/2006/4 ]. It was concluded that the results of model were in satisfactory agreement with the available measurements and discrepancies did not exceed on average a factor of two. In addition, the GELMOS modelling system was extensively evaluated in a number of numerical experiments and multi-model studies within the Task Force on",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to prepare deposition data for the entire OSPAR",
+      "context_window": "However, only part of the Regions I and V is covered by the EMEP grid. In order to prepare deposition data for the entire OSPAR area global scale modelling with coarse spatial resolution (3°x3°) was performed. Merging of the modelling results based on global-scale and regional-scale calculations in Regions I and V results in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "context_window": "The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In order to identify the outliers in time series of each year the standard deviation method was applied [e.g.,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "comparison of rates of pollution level change allow evaluating the model performance for each",
+      "context_window": "(a) and annual sum of wet deposition flux at station NL91 (De Zlik, the Netherlands) (b) in the period 1990-2019. Combined information on MRB for the entire period, the temporal correlation coefficient and comparison of rates of pollution level change allow evaluating the model performance for each station. On average, some overestimation of the observed concentrations in air and underestimation of wet deposition fluxes take place (Fig. 26a,c). However, at most of the stations the agreement is",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Relative bias applied to each station over the entire considered period varies between -50% to",
+      "context_window": "and observed annual mean concentrations of Pb in air (a) and annual wet deposition flux (b) in the period 1990-2019 at station DE1 (Westerland, Germany). Relative bias applied to each station over the entire considered period varies between -50% to +100% for most of stations (Fig. 21a,c). Therefore, on average the model reproduces the observed air concentrations and wet deposition fluxes within a factor of two. General overestimation of the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "context_window": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "context_window": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation",
+      "context_window": "inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90, IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig. 27).",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "context_window": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re- calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2009] and this study. The first parameter is deposition flux   to each of",
+      "context_window": "previous assessment [ OSPAR , 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 29 demonstrates examples of modelled and measured Hg concentrations in air and wet",
+      "context_window": "5.3. Mercury Figure 29 demonstrates examples of modelled and measured Hg concentrations in air and wet deposition fluxes. High concentrations in air of Hg are noted in 1990 - 1993 at station SE2 (Rörvik, Sweden) which were underestimated by the model by 20-40%, while after 2000 the bias is typically",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "According to officially reported information (Chapter 3), uncertainties of national total emissions of",
+      "context_window": "and 3) uncertainties of measurement data. According to officially reported information (Chapter 3), uncertainties of national total emissions of Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "secondary emissions also a subject to high uncertainties.",
+      "context_window": "suspension of Pb and Cd are important component of heavy metal releases to the atmosphere favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition levels at station DE1 (Westerland, Germany) at the beginning of the period but tends to",
+      "context_window": "time-series is responsible for discrepancies between measured and simulated reduction rates of wet deposition at station NL91 (Fig. 29b). The model reasonably well reproduces observed Hg wet deposition levels at station DE1 (Westerland, Germany) at the beginning of the period but tends to overestimate measurement values at the end. It leads to large underestimation of the mean reduction rate.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "countries, as it will be shown below, but damped down by slowly changed global anthropogenic and",
+      "context_window": "part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and secondary emissions. The long-range atmospheric transport from global anthropogenic and secondary sources even stronger affected remote regions, the Arctic Waters and the Wider Atlantic,",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "closer to the end of the considered period the discrepancies between modelled and observed Pb",
+      "context_window": "considered, the model still overestimates the observed concentrations by factors of 1.5–3. At the same time the model underestimates wet deposition fluxes at these stations (Fig. 22b). In years closer to the end of the considered period the discrepancies between modelled and observed Pb levels becomes lower. At a number of stations the observed concentrations in air (e.g., IS91) or wet deposition fluxes (e.g.,",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90,",
+      "context_window": "For some stations with relatively long periods of observations low correlations are explained by very high inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90, IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to",
+      "context_window": "2 are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "context_window": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3): 𝑅𝑅",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Besides, there are significant deviations between the inventories in terms of total",
+      "context_window": "of them provide reliable and consistent estimates of Hg anthropogenic emissions for the entire time period 1990-2019. Besides, there are significant deviations between the inventories in terms of total estimates of Hg emissions in various regions (see discussion in Travnikov et al",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and modelled concentrations at these stations do not exhibit any long-term tendency. However, the",
+      "context_window": "reduction (Fig. 28). For stations BE14, DE1 and GB91, the modelled and observed rates of long-term reduction are comparable. The stations NO42 and IS91 are located far from main emission sources, and modelled concentrations at these stations do not exhibit any long-term tendency. However, the observed concentrations at these stations demonstrate high inter-annual variability, especially in the first half of the considered period that results in 3% mean annual decline. Observed concentrations",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "context_window": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching almost 500% are reported by Denmark.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "20). For majority of years the discrepancy between modelled and observed air concentrations or wet",
+      "context_window": "example, at the German station DE1 (Westerland) the model reasonably well reproduces both magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig. 20). For majority of years the discrepancy between modelled and observed air concentrations or wet deposition lies within ±30% limits. a",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig.",
+      "context_window": "For example, at the German station DE1 (Westerland) the model reasonably well reproduces both magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig. 20). For majority of years the discrepancy between modelled and observed air concentrations or wet deposition lies within ±30% limits.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "context_window": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean relative bias was calculated for Cd air concentrations and wet deposition fluxes for each year",
+      "context_window": "5.2. Cadmium Mean relative bias was calculated for Cd air concentrations and wet deposition fluxes for each year of the period from 1990 to 2019. The model performance varies substantially for particular stations.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR",
+      "context_window": "and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measured by various monitoring groups are comparable, while for concentrations in precipitation the",
+      "context_window": "Aas , 2006]. It was shown that concentrations of Hg in air measured by various monitoring groups are comparable, while for concentrations in precipitation the deviation from the assigned (expected) value is within ±40%. 38",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were",
+      "context_window": "In addition, the modelling results were evaluated against monitoring data from the OSPAR Comprehensive Atmospheric Monitoring Programme (CAMP) for available years of the period. The modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were also compared with previous estimates performed for the period 1990-2006 [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "wet deposition flux in the period from 2004 to 2019 (Fig.",
+      "context_window": "with bias that is below 30% for the period 2011-2019 (Fig. 30a). Another example is Norwegian station NO1 (Birkenes), where the model also reproduced inter-annual variability of the observed Hg wet deposition flux in the period from 2004 to 2019 (Fig. 30b). The observed fluxes in the first several",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inconsistency at the western and northern borders of the EMEP grid. In order to avoid the",
+      "context_window": "area global scale modelling with coarse spatial resolution (3°x3°) was performed. Merging of the modelling results based on global-scale and regional-scale calculations in Regions I and V results in inconsistency at the western and northern borders of the EMEP grid. In order to avoid the inconsistency, the regional grid was extended to cover the OSPAR regions I and V entirely. Global- scale results were interpolated to the extended grid with finer spatial resolution.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "AMAP/UN Environment",
+      "context_window": ", 2017] and the Global Mercury Assessment 2018 [ AMAP/UN Environment , 2019]. Uncertainties of measurement data can also affect the interpretation of the model evaluation",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "context_window": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In (4) and (5) modelled values are denoted as",
+      "context_window": "1 (5) In (4) and (5) modelled values are denoted as 𝑀𝑀 and observed values as",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "context_window": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global anthropogenic and secondary emissions dominate over the remote regions due to relatively",
+      "context_window": "emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to Hg deposition to the OSPAR maritime area is illustrated in Fig. 19.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE",
+      "context_window": "3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections (CEIP) (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of Hg emissions in various regions (see discussion in",
+      "context_window": "period 1990-2019. Besides, there are significant deviations between the inventories in terms of total estimates of Hg emissions in various regions (see discussion in Travnikov et al ., 2021). Therefore, a",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national",
+      "context_window": "2015 22 decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national emissions slowed down, that resulted to lower reduction of the contribution from sources of France and the United Kingdom, and even some increase of the contribution from German and Portuguese",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase",
+      "context_window": "Norway) and Hg wet deposition flux at station DE1 (Westerland, Germany). Long-term changes of modelled Hg air concentrations at NO42 generally follow the observed Hg levels, except for 1997 and 1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase towards the end of the considered period. Measured Hg deposition fluxes at DE1 are available for two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties in 2019.",
+      "context_window": "Table 1. Uncertainties (%) of officially reported total values of national emission data on Pb, Cd and Hg of the OSPAR Contracting Parties in 2019. Belgium Denmark",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "region was surrounded by countries characterized by significant emissions in 1990, e.g. the United",
+      "context_window": "Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from 1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in these countries had the strongest impact on the deposition change on the Greater North Sea. Lower",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "storing, shipping etc.) remain unaccounted. Laboratory intercomparison tests do not include analysis",
+      "context_window": "However, it is important to mention that laboratory intercomparison provides only analytical component of the uncertainties of measurement data. Other sources of the uncertainties (sampling, storing, shipping etc.) remain unaccounted. Laboratory intercomparison tests do not include analysis of quality of Hg measurements. The most recent field intercomparison of Hg measurements in air and precipitation took place in 2004 [",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "context_window": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux de dépôt inférieurs de 10 à 30% et des taux de réduction de la pollution légèrement plus élevés pour la plupart des régions d’OSPAR.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "context_window": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig.",
+      "context_window": "IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig. 27). The",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "context_window": "re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [ Travnikov and Ilyin,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher",
+      "context_window": "factor of two limits. 32 The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison of modelled and observed air",
+      "context_window": "Ilyin et al ., 2020]. Comparison of modelled and observed air concentrations and wet deposition was carried out for stations of Comprehensive Atmospheric",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic",
+      "context_window": "and 2015 (c). Purple lines depict borders of the OSPAR regions. Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential",
+      "context_window": "emissions data (Section 3.1). The GMA 2013 inventory estimates global Hg emissions in 2010 at 1960 tonnes and comprises emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential boilers, metal production (ferrous and non-ferrous), cement production, product use, cremation, and artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered period (1990-2001), while after 2000 the rate of deposition change decreased. The",
+      "context_window": "Seas (Region III). In these regions the highest reduction rate was obtained for the first part of the considered period (1990-2001), while after 2000 the rate of deposition change decreased. The Regions II and III were surrounded by the countries characterized by relatively high emissions in 20",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary Air Pollution [",
+      "context_window": ", 2017], despite progress made under the 1998 Aarhus Protocol (and its 2012 amendment) of the UN ECE Convention on Long-Range Transboundary Air Pollution [ UNECE , 2012]. Importance of the atmospheric route varies significantly",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR",
+      "context_window": "accordance with reductions of their national emissions. Figure 19. Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR maritime area in 1995, 2005 and 2015. Numerical values are presented in Table B.10 0",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and",
+      "context_window": "Long-term relative changes of Pb pollution levels were compared for ten stations measuring air concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations.",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meteorological information for model simulations for the period from 1990 to 2018 was generated",
+      "context_window": "Ferrari et al ., 2008]. Meteorological information for model simulations for the period from 1990 to 2018 was generated from the ERA-Interim re-analysis data of the European Centre for Medium Range Weather Forecasts [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At some stations, e.g. GB91 (Banchory) overestimation of the observed concentrations in air takes",
+      "context_window": "Green and red lines in diagrams (a) and (c) depict limits of a factor of two. At some stations, e.g. GB91 (Banchory) overestimation of the observed concentrations in air takes place in the beginning of the considered period (Fig. 22).",
+      "page_number": 29,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations",
+      "context_window": "available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g. meteorological fields, land cover distribution, etc.)",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "applied for concentrations in air and in precipitation.",
+      "context_window": "1992]. The method defines the outlier as a value falling outside the range of <M>±(3*SD), where <M> is the mean value, and SD is the standard deviation. This method was applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with variations of anthropogenic, secondary emissions or meteorological conditions and may be",
+      "context_window": "23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "term changes. Besides, sources of uncertainties associated with the modelling are overviewed.",
+      "context_window": "). This section characterizes the model performance and analyses discrepancies between modelled and observed concentrations in air and wet deposition fluxes as well as their long- term changes. Besides, sources of uncertainties associated with the modelling are overviewed. 5.1. Lead",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean relative bias between modelled and observed air concentrations calculated for the whole",
+      "context_window": "(a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to 2019. Mean relative bias between modelled and observed air concentrations calculated for the whole period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to 90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "context_window": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g. spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The observed fluxes in the first several",
+      "context_window": "wet deposition flux in the period from 2004 to 2019 (Fig. 30b). The observed fluxes in the first several years of the period were underestimated but between 2011 and 2018 the bias between modelled and observed concentrations is smaller than 20%.",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used.",
+      "context_window": "stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is important to mention that the Pearson’s correlation",
+      "context_window": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series. For",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "discrepancies between the modelling results and observations. Parameterizations of many physical",
+      "context_window": "secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical and chemical  processes used in GLEMOS were developed and verified for the EMEP operational modelling of heavy metals [",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "determined. Finally, in order to characterize long-term changes of modelled and observed air",
+      "context_window": ". Besides, faction of stations where discrepancy between modelled and observed values lies within a factor of 2 (F2) was determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reported by the countries, can also contribute to the overall uncertainty of the modelling results.",
+      "context_window": "spatial distribution, seasonal variation, and emission heights, chemical speciation of Hg emissions), which are not or partly reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "above 0.5 for about half of stations measuring Hg air concentrations or wet deposition (Fig.",
+      "context_window": "Nevertheless, mean relative bias for all the stations corresponds to deviations within a factor of two.  The coefficient of correlation between modelled and observed values is above 0.5 for about half of stations measuring Hg air concentrations or wet deposition (Fig. 32 b,d). 0.0",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "station. On average, some overestimation of the observed concentrations in air and underestimation",
+      "context_window": "Combined information on MRB for the entire period, the temporal correlation coefficient and comparison of rates of pollution level change allow evaluating the model performance for each station. On average, some overestimation of the observed concentrations in air and underestimation of wet deposition fluxes take place (Fig. 26a,c). However, at most of the stations the agreement is within a factor of two.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compare rates of deposition changes calculated in the previous and current studies.",
+      "context_window": "calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re-",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The change was calculated for stations where measurements for at least half of the considered",
+      "context_window": "determined. Finally, in order to characterize long-term changes of modelled and observed air concentrations or deposition fluxes at monitoring stations mean relative rate of change (3) was used. The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching",
+      "context_window": "the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching almost 500% are reported by Denmark. Table 1.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes of the observed air concentrations.",
+      "context_window": "21b,d). Combination of low bias (MRB) and high temporal correlation coefficient (e.g., DE1, DK31, GB17, NL91 etc.) means that the model successfully reproduced both magnitude and long-term changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in",
+      "context_window": "series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "total heavy metal input to the marine environment [",
+      "context_window": "environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR , 2017], despite progress made under the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to",
+      "context_window": "Figure 31. Modelled and observed annual mean concentrations of Hg in air at station NO42 (Zeppelin, Norway) (a) and annual sum of wet deposition flux at station DE1 (Westerland, Germany) (b) in the period from 1990 to 2019. Mean relative bias between modelled and observed air concentrations calculated for the whole",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fluxes (Annex C). In 2009-2011 the bias does not exceed -20%, while in other years it reaches -70%.",
+      "context_window": "90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation of Hg wet deposition at the Spanish station ES8 comes from high temporal variability of the observed fluxes (Annex C). In 2009-2011 the bias does not exceed -20%, while in other years it reaches -70%. At the British station GB48 the model overpredicts the observed fluxes by factor 1.4 – 3.3 throughout the considered period.",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evaluation of the modelling results against observed air concentrations and wet deposition is given in",
+      "context_window": "data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7 Chapter 5 and Annex C. Chapter 6 includes comparison of the current results with previous estimates",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "context_window": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model",
+      "context_window": "1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase towards the end of the considered period. Measured Hg deposition fluxes at DE1 are available for two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model performance for these two parts differs. The first part is characterized by low mean bias (about 4%) and lack of correlation, while for the second part the correlation is high, but the model overestimates",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled concentrations have been reducing through the whole period. Difference in trend",
+      "context_window": "first half of the considered period that results in 3% mean annual decline. Observed concentrations at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to",
+      "context_window": "five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector",
+      "context_window": "was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same for the period from 1990 to 2018.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to prepare deposition data for the entire OSPAR",
+      "context_window": "However, only part of the Regions I and V is covered by the EMEP grid. In order to prepare deposition data for the entire OSPAR area global scale modelling with coarse spatial resolution (3°x3°) was performed. Merging of the modelling results based on global-scale and regional-scale calculations in Regions I and V results in",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Relative bias applied to each station over the entire considered period varies between -50% to",
+      "context_window": "and observed annual mean concentrations of Pb in air (a) and annual wet deposition flux (b) in the period 1990-2019 at station DE1 (Westerland, Germany). Relative bias applied to each station over the entire considered period varies between -50% to +100% for most of stations (Fig. 21a,c). Therefore, on average the model reproduces the observed air concentrations and wet deposition fluxes within a factor of two. General overestimation of the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including",
+      "context_window": "Source-receptor calculations have been carried out for 1995, 2005 and 2015. Contributions of all EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Compared to the previous study, mean deposition in the considered period decreased in most of the",
+      "context_window": "is the mean rate of relative deposition change (percents per year). The aim of this parameter is to compare rates of deposition changes calculated in the previous and current studies. Compared to the previous study, mean deposition in the considered period decreased in most of the OSPAR regions by 10 – 30% (Fig. 34 a,c,e). The main factors responsible for these changes are re- calculations of anthropogenic emissions by the EMEP countries and changes in annual sums of",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 29 demonstrates examples of modelled and measured Hg concentrations in air and wet",
+      "context_window": "5.3. Mercury Figure 29 demonstrates examples of modelled and measured Hg concentrations in air and wet deposition fluxes. High concentrations in air of Hg are noted in 1990 - 1993 at station SE2 (Rörvik, Sweden) which were underestimated by the model by 20-40%, while after 2000 the bias is typically",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "secondary emissions also a subject to high uncertainties.",
+      "context_window": "suspension of Pb and Cd are important component of heavy metal releases to the atmosphere favouring generally better reproduction of the pollution levels by the model. However, estimates of secondary emissions also a subject to high uncertainties. Uncertainties of the model parameterizations and input data is another possible source of discrepancies between the modelling results and observations. Parameterizations of many physical",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "countries, as it will be shown below, but damped down by slowly changed global anthropogenic and",
+      "context_window": "part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and secondary emissions. The long-range atmospheric transport from global anthropogenic and secondary sources even stronger affected remote regions, the Arctic Waters and the Wider Atlantic,",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90,",
+      "context_window": "For some stations with relatively long periods of observations low correlations are explained by very high inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90, IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "context_window": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change (3): 𝑅𝑅",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and modelled concentrations at these stations do not exhibit any long-term tendency. However, the",
+      "context_window": "reduction (Fig. 28). For stations BE14, DE1 and GB91, the modelled and observed rates of long-term reduction are comparable. The stations NO42 and IS91 are located far from main emission sources, and modelled concentrations at these stations do not exhibit any long-term tendency. However, the observed concentrations at these stations demonstrate high inter-annual variability, especially in the first half of the considered period that results in 3% mean annual decline. Observed concentrations",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "20). For majority of years the discrepancy between modelled and observed air concentrations or wet",
+      "context_window": "example, at the German station DE1 (Westerland) the model reasonably well reproduces both magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig. 20). For majority of years the discrepancy between modelled and observed air concentrations or wet deposition lies within ±30% limits. a",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the",
+      "context_window": "Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR",
+      "context_window": "and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26 countries, as it will be shown below, but damped down by slowly changed global anthropogenic and",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were",
+      "context_window": "In addition, the modelling results were evaluated against monitoring data from the OSPAR Comprehensive Atmospheric Monitoring Programme (CAMP) for available years of the period. The modelled time-series of total annual atmospheric deposition to the OSPAR maritime regions were also compared with previous estimates performed for the period 1990-2006 [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inconsistency at the western and northern borders of the EMEP grid. In order to avoid the",
+      "context_window": "area global scale modelling with coarse spatial resolution (3°x3°) was performed. Merging of the modelling results based on global-scale and regional-scale calculations in Regions I and V results in inconsistency at the western and northern borders of the EMEP grid. In order to avoid the inconsistency, the regional grid was extended to cover the OSPAR regions I and V entirely. Global- scale results were interpolated to the extended grid with finer spatial resolution.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition. The atmospheric pathways remain important providing from one fifth to two thirds of",
+      "context_window": "bioaccumulate in food webs and cause harm to marine life. Heavy metals enter the marine environment through various routes including direct discharges, riverine inputs and atmospheric deposition. The atmospheric pathways remain important providing from one fifth to two thirds of total heavy metal input to the marine environment [ OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "context_window": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second part (2000-2019). The decrease was largely caused by emissions reduction in the neighboring OSPAR 26",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE",
+      "context_window": "3.1. EMEP regional emissions Total annual emissions of heavy metals are officially reported by EMEP countries to the UN ECE Secretariat. These data are available from the EMEP Centre on Emission Inventories and Projections (CEIP) (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national",
+      "context_window": "2015 22 decreased significantly between 1999 and 2005. Further decline (from 2005 to 2015) of national emissions slowed down, that resulted to lower reduction of the contribution from sources of France and the United Kingdom, and even some increase of the contribution from German and Portuguese",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties in 2019.",
+      "context_window": "Table 1. Uncertainties (%) of officially reported total values of national emission data on Pb, Cd and Hg of the OSPAR Contracting Parties in 2019. Belgium Denmark",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "storing, shipping etc.) remain unaccounted. Laboratory intercomparison tests do not include analysis",
+      "context_window": "However, it is important to mention that laboratory intercomparison provides only analytical component of the uncertainties of measurement data. Other sources of the uncertainties (sampling, storing, shipping etc.) remain unaccounted. Laboratory intercomparison tests do not include analysis of quality of Hg measurements. The most recent field intercomparison of Hg measurements in air and precipitation took place in 2004 [",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4.",
+      "context_window": "atmosphere in the OSPAR Contracting Parties are characterized in Chapter 3 as well as emissions data on a global scale used for modelling effect of distant emissions sources on the OSPAR region. Description of time series of heavy metal deposition to the OSPAR maritime is given in Chapter 4. Evaluation of the modelling results against observed air concentrations and wet deposition is given in 7",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and proportional to the primary production of organic carbon in seawater for emissions from the",
+      "context_window": "re-emissions from soil and seawater were generated depending on Hg concentration in soil, soil temperature, and solar radiation for emissions from land and proportional to the primary production of organic carbon in seawater for emissions from the ocean [ Travnikov and Ilyin,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison of modelled and observed air",
+      "context_window": "Ilyin et al ., 2020]. Comparison of modelled and observed air concentrations and wet deposition was carried out for stations of Comprehensive Atmospheric",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential",
+      "context_window": "emissions data (Section 3.1). The GMA 2013 inventory estimates global Hg emissions in 2010 at 1960 tonnes and comprises emissions from combustion of fossil fuels (mainly coal) in power plants, industrial and residential boilers, metal production (ferrous and non-ferrous), cement production, product use, cremation, and artisanal and small-scale gold mining (ASGM). The largest emissions of mercury to the global",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Transboundary Air Pollution [",
+      "context_window": ", 2017], despite progress made under the 1998 Aarhus Protocol (and its 2012 amendment) of the UN ECE Convention on Long-Range Transboundary Air Pollution [ UNECE , 2012]. Importance of the atmospheric route varies significantly",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and",
+      "context_window": "Long-term relative changes of Pb pollution levels were compared for ten stations measuring air concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations.",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "At some stations, e.g. GB91 (Banchory) overestimation of the observed concentrations in air takes",
+      "context_window": "Green and red lines in diagrams (a) and (c) depict limits of a factor of two. At some stations, e.g. GB91 (Banchory) overestimation of the observed concentrations in air takes place in the beginning of the considered period (Fig. 22).",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Meteorological information for model simulations for the period from 1990 to 2018 was generated",
+      "context_window": "Ferrari et al ., 2008]. Meteorological information for model simulations for the period from 1990 to 2018 was generated from the ERA-Interim re-analysis data of the European Centre for Medium Range Weather Forecasts [",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR",
+      "context_window": "accordance with reductions of their national emissions. Figure 19. Contribution of the OSPAR Contracting Parties to Hg total deposition to 5 regions of the OSPAR maritime area in 1995, 2005 and 2015. Numerical values are presented in Table B.10 0",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considered period (1990-2001), while after 2000 the rate of deposition change decreased. The",
+      "context_window": "Seas (Region III). In these regions the highest reduction rate was obtained for the first part of the considered period (1990-2001), while after 2000 the rate of deposition change decreased. The Regions II and III were surrounded by the countries characterized by relatively high emissions in 20",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic",
+      "context_window": "and 2015 (c). Purple lines depict borders of the OSPAR regions. Long-term changes of Hg average deposition to all 5 regions of the OSPAR maritime area are shown in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher",
+      "context_window": "factor of two limits. 32 The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig.",
+      "context_window": "IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig. 27). The",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux",
+      "context_window": "résultats de la modélisation ont été révisés en raison d'un nouveau calcul des émissions nationales par les pays de l'EMEP, de la mise à jour des données météorologiques et autres données  ainsi que de l'affinement des paramétrages du modèle. Les nouvelles estimations du modèle montrent des flux de dépôt inférieurs de 10 à 30% et des taux de réduction de la pollution légèrement plus élevés pour la plupart des régions d’OSPAR.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "region was surrounded by countries characterized by significant emissions in 1990, e.g. the United",
+      "context_window": "Deposition of Cd to the OSPAR regions reduced by about 34 – 80% (1.5 – 5 fold) in the period from 1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in these countries had the strongest impact on the deposition change on the Greater North Sea. Lower",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase",
+      "context_window": "Norway) and Hg wet deposition flux at station DE1 (Westerland, Germany). Long-term changes of modelled Hg air concentrations at NO42 generally follow the observed Hg levels, except for 1997 and 1999 (Fig. 31a). However, the bias between modelled and observed concentrations tends to increase towards the end of the considered period. Measured Hg deposition fluxes at DE1 are available for two parts of the considered period: from 1993 to 2001 and from 2000 to 2019 (Fig. 31b). The model",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "estimates of Hg emissions in various regions (see discussion in",
+      "context_window": "period 1990-2019. Besides, there are significant deviations between the inventories in terms of total estimates of Hg emissions in various regions (see discussion in Travnikov et al ., 2021). Therefore, a",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "global anthropogenic and secondary emissions dominate over the remote regions due to relatively",
+      "context_window": "emissions from European countries including the OSPAR Contracting Parties, emissions from sources located in other regions of the globe and natural/secondary emissions from land and the ocean. The global anthropogenic and secondary emissions dominate over the remote regions due to relatively low contemporary Hg emissions in Europe. Relative contribution of the OSPAR Contracting Parties to Hg deposition to the OSPAR maritime area is illustrated in Fig. 19.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In (4) and (5) modelled values are denoted as",
+      "context_window": "1 (5) In (4) and (5) modelled values are denoted as 𝑀𝑀 and observed values as",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "AMAP/UN Environment",
+      "context_window": ", 2017] and the Global Mercury Assessment 2018 [ AMAP/UN Environment , 2019]. Uncertainties of measurement data can also affect the interpretation of the model evaluation",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "wet deposition flux in the period from 2004 to 2019 (Fig.",
+      "context_window": "with bias that is below 30% for the period 2011-2019 (Fig. 30a). Another example is Norwegian station NO1 (Birkenes), where the model also reproduced inter-annual variability of the observed Hg wet deposition flux in the period from 2004 to 2019 (Fig. 30b). The observed fluxes in the first several",
+      "page_number": 33,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "measured by various monitoring groups are comparable, while for concentrations in precipitation the",
+      "context_window": "Aas , 2006]. It was shown that concentrations of Hg in air measured by various monitoring groups are comparable, while for concentrations in precipitation the deviation from the assigned (expected) value is within ±40%. 38",
+      "page_number": 37,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean relative bias was calculated for Cd air concentrations and wet deposition fluxes for each year",
+      "context_window": "5.2. Cadmium Mean relative bias was calculated for Cd air concentrations and wet deposition fluxes for each year of the period from 1990 to 2019. The model performance varies substantially for particular stations.",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig.",
+      "context_window": "For example, at the German station DE1 (Westerland) the model reasonably well reproduces both magnitude and the long-term variability of Pb concentrations in air and wet deposition fluxes (Fig. 20). For majority of years the discrepancy between modelled and observed air concentrations or wet deposition lies within ±30% limits.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of",
+      "context_window": "Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching almost 500% are reported by Denmark.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Besides, there are significant deviations between the inventories in terms of total",
+      "context_window": "of them provide reliable and consistent estimates of Hg anthropogenic emissions for the entire time period 1990-2019. Besides, there are significant deviations between the inventories in terms of total estimates of Hg emissions in various regions (see discussion in Travnikov et al",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This approach was applied to characterize trends of deposition to the OSPAR regions, and to",
+      "context_window": "2 are coefficients. This approach was applied to characterize trends of deposition to the OSPAR regions, and to modelled and observed air concentrations and wet deposition at monitoring stations. Long-term changes are characterized by total change for the period (2) and mean relative annual rate of change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "closer to the end of the considered period the discrepancies between modelled and observed Pb",
+      "context_window": "considered, the model still overestimates the observed concentrations by factors of 1.5–3. At the same time the model underestimates wet deposition fluxes at these stations (Fig. 22b). In years closer to the end of the considered period the discrepancies between modelled and observed Pb levels becomes lower. At a number of stations the observed concentrations in air (e.g., IS91) or wet deposition fluxes (e.g.,",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deposition levels at station DE1 (Westerland, Germany) at the beginning of the period but tends to",
+      "context_window": "time-series is responsible for discrepancies between measured and simulated reduction rates of wet deposition at station NL91 (Fig. 29b). The model reasonably well reproduces observed Hg wet deposition levels at station DE1 (Westerland, Germany) at the beginning of the period but tends to overestimate measurement values at the end. It leads to large underestimation of the mean reduction rate.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "According to officially reported information (Chapter 3), uncertainties of national total emissions of",
+      "context_window": "and 3) uncertainties of measurement data. According to officially reported information (Chapter 3), uncertainties of national total emissions of Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2009] and this study. The first parameter is deposition flux   to each of",
+      "context_window": "previous assessment [ OSPAR , 2009] and this study. The first parameter is deposition flux   to each of five OSPAR regions averaged for 1990-2006. This parameter indicates whether the currently calculated deposition is generally higher or lower than that obtained previously. Another parameter",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation",
+      "context_window": "inter-annual variability of the observed level. Examples are wet deposition fluxes at stations FR90, IS90, GB91 etc. (Annex C). Similar to Pb, at some stations (e.g., GB90) overestimation of air concentrations and underestimation of wet deposition fluxes occurs, especially, in the beginning of the considered period (Fig. 27).",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas",
+      "context_window": "in Fig. 18. Deposition reduction was more pronounced in the marginal seas (Greater North Sea, Celtic Seas, Bay of Biscay) due to stronger influence of the European emissions. Average deposition to the Greater North Sea decreased by 45% between 1990 and 2019, whereas deposition to the Celtic Seas and the Bay of Biscay decreased by 34% and 27%, respectively. The changes in the first two regions were more pronounced in the first part of the period (1990-2000) and then slow down in the second",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "comparison of rates of pollution level change allow evaluating the model performance for each",
+      "context_window": "(a) and annual sum of wet deposition flux at station NL91 (De Zlik, the Netherlands) (b) in the period 1990-2019. Combined information on MRB for the entire period, the temporal correlation coefficient and comparison of rates of pollution level change allow evaluating the model performance for each station. On average, some overestimation of the observed concentrations in air and underestimation of wet deposition fluxes take place (Fig. 26a,c). However, at most of the stations the agreement is",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In",
+      "context_window": "The change was calculated for stations where measurements for at least half of the considered period were available. Prior to the comparison, the outliers in raw measurement data were identified and filtered out. In order to identify the outliers in time series of each year the standard deviation method was applied [e.g.,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of model were in satisfactory agreement with the available measurements and discrepancies did not",
+      "context_window": "ECE/EB.AIR/GE.1/2006/4 ]. It was concluded that the results of model were in satisfactory agreement with the available measurements and discrepancies did not exceed on average a factor of two. In addition, the GELMOS modelling system was extensively evaluated in a number of numerical experiments and multi-model studies within the Task Force on",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in previous study. In case of mercury the mean rates of deposition change in this and previous",
+      "context_window": "non-OSPAR countries. Comparison of emission trends used in this and previous studies reveals that sum of non-OSPAR emissions in the current study decreases faster  by a factor of 1.3 than that used in previous study. In case of mercury the mean rates of deposition change in this and previous studies are comparable (Fig. 34f). a",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "context_window": "directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Large differences in the rates are typically noted for stations with high inter-annual",
+      "context_window": "of modelled and observed long-term change are similar at most of the stations measuring wet deposition fluxes. Large differences in the rates are typically noted for stations with high inter-annual variability of observed Cd fluxes (e.g., FR90, IS90). 33",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model",
+      "context_window": "2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM model by the new Global EMEP Multi-media Modelling System (GLEMOS) [",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "series diagrams for the period from 1990 to 2019",
+      "context_window": "Monitoring Programme (CAMP) (Fig. 2). The results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can",
+      "context_window": "According to officially reported information (Chapter 3), uncertainties of national total emissions of Pb, Cd and Hg may reach tens or even hundreds percents. For instance, uncertainties of Danish Pb and Cd emissions estimates make up about 500% and 365%, respectively. These uncertainties can favour over- or underprediction of the observed concentrations and wet deposition by the model. Moreover, uncertainties of other parameters related to emissions (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to",
+      "context_window": ", 2009] and obtained in the current study are caused by a number of factors. First of all, national emission data are regularly re-calculated. Besides, transition of the EMEP operational modelling to the new EMEP grid (ECE/EB.AIR/113/Add.1) was accompanied by changes in the model parameterizations and input data. It led to replacement of previous version of operational MSCE-HM",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in",
+      "context_window": "1990 to 2019 (Fig. 15). The highest reduction was noted for the Greater North Sea (Region II). This region was surrounded by countries characterized by significant emissions in 1990, e.g. the United Kingdom, Germany, Belgium, Denmark and the Netherlands. Therefore, the reduction of emissions in these countries had the strongest impact on the deposition change on the Greater North Sea. Lower reduction in other regions was explained by their relative remoteness from main emission sources",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modelled air concentrations and wet deposition fluxes were compared with the available",
+      "context_window": "5. Evaluation of Modelling Results Modelled air concentrations and wet deposition fluxes were compared with the available measurement data from Comprehensive Atmospheric Monitoring Programme (CAMP). Stations of the CAMP network are located in OSPAR Contracting Parties on or nearby the sea coast of the OSPAR",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "directions after 2010 led to different mean annual rates of concentration decline.",
+      "context_window": "at station ES8 have been declining until 2010, and since this year increasing trend occurs, while the modelled concentrations have been reducing through the whole period. Difference in trend directions after 2010 led to different mean annual rates of concentration decline. The reduction rates of modelled and observed long-term change are similar at most of the stations measuring wet",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the",
+      "context_window": "EMEP countries, wind re-suspension and non-EMEP sources were calculated for each of the OSPAR regions. Due to substantial reduction of anthropogenic emissions in the EMEP countries, including OSPAR Contracting Parties, the relative contribution of anthropogenic sources to deposition to the OSPAR decreased between 1995 and 2015 (Annex B). However, it should be kept in mind that the model parameterization of wind re-suspension contained significant uncertainties. Besides, waters of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "context_window": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of emissions are given in Table 1. In most of the Contracting Parties the uncertainties make up tens of per cents with minimum of 25% for Pb emissions in Sweden. The highest uncertainties reaching",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by",
+      "context_window": "Time series of Hg emissions from the OSPAR Contracting Parties. Units: t/y. Among the OSPAR countries the level of uncertainty in official data on HM emissions was reported by Belgium, Denmark, Finland, France, Sweden, Switzerland  and the United Kingdom. Uncertainties in the reported data on HM emissions for 2019 expressed as percentage relative to mean value of",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the",
+      "context_window": "concentrations and twelve stations where wet deposition fluxes were observed. At most of the stations modelled and observed changes are comparable (Fig. 24). At stations GB91 (air), NL9 and NO39 (wet deposition) the model predicts stronger rate of long-term decline compared to the observations. At stations IS91, NO42, SE14 the reduction of modelled air concentrations is lower than",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "than 0.5 at about one half of the stations.",
+      "context_window": "32 The temporal correlation coefficients for air concentrations and wet deposition fluxes are higher than 0.5 at about one half of the stations. It is important to mention that the Pearson’s correlation coefficient is very sensitive to outliers, and low correlations are often noted for short time series.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "data were used to fill in parts of the OSPAR regions, which are not covered by the EMEP grid. To",
+      "context_window": "scale results were interpolated to the extended grid with finer spatial resolution. These interpolated data were used to fill in parts of the OSPAR regions, which are not covered by the EMEP grid. To smooth the border between the interpolated global-scale and regional-scale calculations five westernmost grid cells of the EMEP grid were assumed to be “transitional”, where deposition flux",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The spatial distribution of sector emissions in 2018 was multiplied by the calculated",
+      "context_window": "ratio between total sector emissions in 2018 and the emission in every year of the period 1990-2017 was determined. The spatial distribution of sector emissions in 2018 was multiplied by the calculated ratios to produce spatial distributions of sector emissions for other years. Therefore, total sector emissions differ from year to year, whereas the spatial patterns of sector emissions remain the same",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "underestimation of the observed concentrations in air and wet deposition at almost all EMEP",
+      "context_window": "reported by the countries, can also contribute to the overall uncertainty of the modelling results. Model calculations entirely based on anthropogenic emissions of heavy metals lead to substantial underestimation of the observed concentrations in air and wet deposition at almost all EMEP stations. Therefore, secondary emissions, such as natural/legacy emission of Hg and wind re- suspension of Pb and Cd are important component of heavy metal releases to the atmosphere",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "period are summarized in Annex C. There are",
+      "context_window": "results of the comparison presented as time series diagrams for the period from 1990 to 2019 period are summarized in Annex C. There are several stations where modelled values markedly (by an order of magnitude) underestimate the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suspension. However, even in this case measured wet deposition remains underestimated by the",
+      "context_window": "The overestimation of the modelled air concentrations can be caused by overprediction of wind re- suspension. However, even in this case measured wet deposition remains underestimated by the model. It could be explained by a number of factors including of parametrization of wet scavenging, contamination of measurement samples and uncertainties of emission estimates.",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These sharp inter-annual changes do not correlate",
+      "context_window": "FR90) exhibit high inter-annual variability (Fig. 23). These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes",
+      "context_window": "changes of the observed air concentrations. Negative relative biases for most of stations confirm the tendency of general underestimation of the observed wet deposition fluxes (Fig. 21c). Nevertheless, the mean modelled and observed fluxes agree within a factor of two. Besides, at a number of stations high bias is accompanied with significant correlation, e.g., NO1 (Birkenes, Norway), DK8 (Anholt, Denmark).",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic",
+      "context_window": "Comparison of the modelled air concentrations and wet deposition fluxes of Pb, Cd and Hg with available measurements from the CAMP programme revealed a number of discrepancies. The factors responsible for the discrepancies can be divided into three groups: 1) uncertainties of anthropogenic emission data and estimates of secondary emissions; 2) uncertainties of the model parameterisations and other input data for modelling (e.g.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to",
+      "context_window": "2019. Mean relative bias between modelled and observed air concentrations calculated for the whole period varies from -15% to almost 20%. The bias of wet deposition fluxes ranges from -50% (ES8) to 90% (GB48) but for the majority of stations it lies within ±40%. Considerable mean underestimation of Hg wet deposition at the Spanish station ES8 comes from high temporal variability of the observed",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series",
+      "context_window": "of <M>±(3*SD), where <M> is the mean value, and SD is the standard deviation. This method was applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet deposition were not used in the analysis if their completeness was below 50%. Besides, for",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "caused by uncertainties in measurements. However, evaluation of these uncertainties requires",
+      "context_window": "These sharp inter-annual changes do not correlate with variations of anthropogenic, secondary emissions or meteorological conditions and may be caused by uncertainties in measurements. However, evaluation of these uncertainties requires additional consideration. a",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of each year are often incomplete. Annual mean measured concentrations or annual sums of wet",
+      "context_window": "applied for concentrations in air and in precipitation. Due to gaps caused by missing or incorrect measurements or filtering out of outliers the time series of each year are often incomplete. Annual mean measured concentrations or annual sums of wet deposition were not used in the analysis if their completeness was below 50%. Besides, for comparability of measured wet deposition fluxes at different stations and different years observed",
+      "page_number": 10,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive summary .................................................................................................................... 4",
+      "start_sentence": 41,
+      "end_sentence": 51,
+      "sentence_count": 11,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 41,
+          "page_number": 3,
+          "content": "Executive summary .....................................................................................",
+          "full_length": 136
+        },
+        {
+          "sentence_id": 42,
+          "page_number": 3,
+          "content": "Récapitulatif .........................................................................................",
+          "full_length": 143
+        },
+        {
+          "sentence_id": 43,
+          "page_number": 3,
+          "content": "1.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 44,
+          "page_number": 3,
+          "content": "Introduction ..........................................................................................",
+          "full_length": 133
+        },
+        {
+          "sentence_id": 45,
+          "page_number": 3,
+          "content": "2.",
+          "full_length": 2
+        }
+      ],
+      "total_sentences_in_section": 11
+    },
+    {
+      "section_name": "Executive summary",
+      "start_sentence": 88,
+      "end_sentence": 126,
+      "sentence_count": 39,
+      "page_range": "4-5",
+      "sentences": [
+        {
+          "sentence_id": 88,
+          "page_number": 4,
+          "content": "Executive summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 4,
+          "content": "Model assessment of atmospheric inputs of cadmium (Cd), lead (Pb), and mercury (Hg) to the OSPAR",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 4,
+          "content": "maritime area was carried out by the Meteorological Synthesizing Centre East (MSC-E) of EMEP for",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 4,
+          "content": "the period 1990-2019. The results of the assessment comprise time-series of annual anthropogenic",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 92,
+          "page_number": 4,
+          "content": "emissions of Pb, Cd and Hg from the OSPAR Contracting Parties and modelled total annual",
+          "full_length": 87
+        }
+      ],
+      "total_sentences_in_section": 39
+    },
+    {
+      "section_name": "7.   Conclusions ......................................................................................................................... 40",
+      "start_sentence": 79,
+      "end_sentence": 81,
+      "sentence_count": 3,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "7.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Conclusions ...........................................................................................",
+          "full_length": 136
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "References ............................................................................................",
+          "full_length": 142
+        }
+      ],
+      "total_sentences_in_section": 3
+    },
+    {
+      "section_name": "7.   Conclusions",
+      "start_sentence": 3049,
+      "end_sentence": 3102,
+      "sentence_count": 54,
+      "page_range": "40-41",
+      "sentences": [
+        {
+          "sentence_id": 3049,
+          "page_number": 40,
+          "content": "7.   Conclusions",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 3050,
+          "page_number": 40,
+          "content": "Model assessment of heavy metal atmospheric input to the OSPAR maritime area was carried out for",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 3051,
+          "page_number": 40,
+          "content": "the period from 1990 to 2019. Long-term changes of national emissions of the OSPAR Contracting",
+          "full_length": 94
+        },
+        {
+          "sentence_id": 3052,
+          "page_number": 40,
+          "content": "Parties and deposition of Pb, Cd and Hg to the five OSPAR maritime regions were estimated for the",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 3053,
+          "page_number": 40,
+          "content": "whole period. Contributions of national emissions of the OSPAR countries to total deposition were",
+          "full_length": 97
+        }
+      ],
+      "total_sentences_in_section": 54
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3103,
+      "end_sentence": 3385,
+      "sentence_count": 283,
+      "page_range": "41-44",
+      "sentences": [
+        {
+          "sentence_id": 3103,
+          "page_number": 41,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3104,
+          "page_number": 41,
+          "content": "Aas W. (ed) [2006] Data quality 2004, quality assurance, and field comparisons.",
+          "full_length": 79
+        },
+        {
+          "sentence_id": 3105,
+          "page_number": 41,
+          "content": "EMEP/CCC-Report 4/2006, 95 p.",
+          "full_length": 29
+        },
+        {
+          "sentence_id": 3106,
+          "page_number": 41,
+          "content": "AMAP [2010] Updating Historical Global Inventories of Anthropogenic Mercury Emissions to Air.",
+          "full_length": 93
+        },
+        {
+          "sentence_id": 3107,
+          "page_number": 41,
+          "content": "AMAP Technical Report",
+          "full_length": 21
+        }
+      ],
+      "total_sentences_in_section": 283
+    }
+  ],
+  "metadata": {
+    "total_sentences": 8533,
+    "chunks_selected": 113,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive summary .................................................................................................................... 4",
+        "start_sentence": 41,
+        "end_sentence": 51,
+        "sentence_count": 11
+      },
+      {
+        "section_name": "Executive summary",
+        "start_sentence": 88,
+        "end_sentence": 126,
+        "sentence_count": 39
+      },
+      {
+        "section_name": "7.   Conclusions ......................................................................................................................... 40",
+        "start_sentence": 79,
+        "end_sentence": 81,
+        "sentence_count": 3
+      },
+      {
+        "section_name": "7.   Conclusions",
+        "start_sentence": 3049,
+        "end_sentence": 3102,
+        "sentence_count": 54
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3103,
+        "end_sentence": 3385,
+        "sentence_count": 283
+      }
+    ],
+    "total_excluded_sentences": 390
+  }
+}

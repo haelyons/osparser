@@ -1,0 +1,1400 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "In addition, climate change may increase the magnitude of impacts associated",
+      "context_window": "Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "non-indigenous species (NIS).",
+      "context_window": "Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "Climate change, primarily increases",
+      "context_window": "species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become more suitable for them, as well as potential increases in global maritime trade.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of",
+      "context_window": "Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 4
+      }
+    },
+    {
+      "core_sentence": "contribute to climate change, together with associated pressures linked to the distribution and abundance",
+      "context_window": "Climate change : Numerous drivers and activities (e.g., burning of fossil fuels, agriculture, deforestation) contribute to climate change, together with associated pressures linked to the distribution and abundance of non-indigenous species. 9 of 30",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "with invasive NIS, for example by reducing the resilience of native ecosystems and habitats.",
+      "context_window": "non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "affect the food web, and impact on the provision of ecosystem services.",
+      "context_window": "The introduction and translocation of non-indigenous species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystem services.",
+      "context_window": "food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become",
+      "context_window": "affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become more suitable for them, as well as potential increases in global maritime trade. Over the recent assessment period (2015-2020) the rate of introductions appears to have fallen in the",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The impacts include the out-competing of native species; increased disease spread; biodiversity",
+      "context_window": "OSPAR Maritime Area. Several NIS however, have low or unknown impacts. • The impacts include the out-competing of native species; increased disease spread; biodiversity loss / decline; and food web structure changes. •",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change effects on non-indigenous species",
+      "context_window": "OSPAR Commission Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS).",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "loss / decline; and food web structure changes.",
+      "context_window": "• The impacts include the out-competing of native species; increased disease spread; biodiversity loss / decline; and food web structure changes. • Thematic assessment experts identified both negative and positive impacts by NIS on marine",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species can cause declines in the abundance of native species, increase parasites and pathogens, negatively",
+      "context_window": "indigenous species are likely to increase in the future. The introduction and translocation of non-indigenous species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward",
+      "context_window": "of the causal effects. The primary stressor appears to be warming, whereas less emphasis is placed on altered ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward expansion of marine species due to the effect of seawater warming is expected (Pinsky et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "expansion of marine species due to the effect of seawater warming is expected (Pinsky",
+      "context_window": "The primary stressor appears to be warming, whereas less emphasis is placed on altered ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward expansion of marine species due to the effect of seawater warming is expected (Pinsky et al ., 2013;",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "the exposure pathways and ecological impacts.",
+      "context_window": "ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "28 of 30 OSPAR Commission Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "Climate change-induced change in marine environmental conditions is anticipated to affect the introduction",
+      "context_window": "native Species Secretariat (2020) . Climate change-induced change in marine environmental conditions is anticipated to affect the introduction and spread of NIS, but more climate modelling is required to quantify this risk. Consideration of such",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and human settlements.",
+      "context_window": "., 2017). Another important gap in our knowledge of the responses needed to reduce NIS spread concerns climate change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species,",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "NIS changing the provision of ecosystem services.",
+      "context_window": "Changes in species assemblages and biotic homogenisation; 5. NIS changing the provision of ecosystem services. 12 of 30 OSPAR Commission",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Further analyses and evidence of ecological impacts are",
+      "context_window": "To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. NIS can also combine with other pressures to affect marine species and habitats collectively.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of benthos, most changes would be local and site-specific, with",
+      "context_window": "The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with broader spatial effects mainly associated with tidal barriers or lagoons. Benefits for the benthic habitat can",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS changing ecosystem functioning, e.g., food web structure changes;",
+      "context_window": "Introduction of parasites and pathogens; 3. NIS changing ecosystem functioning, e.g., food web structure changes; 4. Changes in species assemblages and biotic homogenisation;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Thematic assessment experts identified both negative and positive impacts by NIS on marine",
+      "context_window": "loss / decline; and food web structure changes. • Thematic assessment experts identified both negative and positive impacts by NIS on marine ecosystem services. The highest impact identified was on the provision of aquatic biomass. •",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Shipping and Ports Feeder Report ). Climate change : Numerous drivers and activities (e.g., burning of fossil fuels, agriculture, deforestation) contribute to climate change, together with associated pressures linked to the distribution and abundance",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "By 2023, OSPAR aims to identify habitats",
+      "context_window": "objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change and ocean acidification (Strategic Objective 6), in particular S6.O1. By 2023, OSPAR aims to identify habitats suitable for restoration and develop a common knowledge base on the most appropriate and effective methods for restoration of degraded habitats.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing",
+      "context_window": "with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing levels of international trade and human travelling, are expected (Hewitt et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and",
+      "context_window": "essential, considering the risk associated with the continually changing climate. Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Changes in species assemblages and biotic homogenisation;",
+      "context_window": "NIS changing ecosystem functioning, e.g., food web structure changes; 4. Changes in species assemblages and biotic homogenisation; 5. NIS changing the provision of ecosystem services.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The ICES highlights that the disappearance of summer Arctic Sea ice as a",
+      "context_window": "Another important gap in our knowledge of the responses needed to reduce NIS spread concerns climate change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species, owing to more extensive human development (Ruiz and Hewitt, 2009).",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance;",
+      "context_window": "the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways: 1. NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance; 2. Introduction of parasites and pathogens;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequence of climate change may lead to an increased invasion of the Arctic by non-native species,",
+      "context_window": "change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species, owing to more extensive human development (Ruiz and Hewitt, 2009). Currently, OSPAR does not directly address the recreation and tourism sector in its work.",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and spread of NIS, but more climate modelling is required to quantify this risk.",
+      "context_window": ". Climate change-induced change in marine environmental conditions is anticipated to affect the introduction and spread of NIS, but more climate modelling is required to quantify this risk. Consideration of such developments will need to be a part of the response development and adaptation process.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke",
+      "context_window": "Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke et al ., 2008).",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change",
+      "context_window": "This commitment is articulated in the 2030 NEAES, which contains a specific strategic objective to restore degraded ecosystems and four operational objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change and ocean acidification (Strategic Objective 6), in particular S6.O1. By 2023, OSPAR aims to identify habitats",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The ICES advice covers potential impacts on marine life, including benthos, fish,",
+      "context_window": "stepping- stones for the spread of NIS, and / or to expand their distributional range and facilitate their spread (Langhamer, 2012). The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic habitats, benthic habitats, fish, marine birds and marine mammals.",
+      "context_window": "The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on pelagic habitats, benthic habitats, fish, marine birds and marine mammals. NIS can out-compete and prey on native species, resulting in declines in their abundance.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS can also combine with other pressures to affect marine species and habitats collectively.",
+      "context_window": "Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. NIS can also combine with other pressures to affect marine species and habitats collectively. The assessment of cumulative effects is considered in these biodiversity thematic assessments:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine",
+      "context_window": "Social and economic drivers for activities affecting non-indigenous species Growing global populations and the associated need for food and energy continue to increase the risk of the input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine littering. In addition, alterations in marine environmental conditions due to climate change will also affect",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "birds, and marine mammals.",
+      "context_window": "spread (Langhamer, 2012). The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with broader spatial effects mainly associated with tidal barriers or lagoons.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "have had on the ecosystem services that the North-East Atlantic provides. It was developed through",
+      "context_window": "Impacts on Ecosystem Services: Method for the development of the Schematic This section evaluates the impact that changes in the state of NIS observed in the QSR thematic assessments have had on the ecosystem services that the North-East Atlantic provides. It was developed through literature review combined with expert judgement, using the same methodology across all Thematic Assessments.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "native species, resulting in declines in their abundance.",
+      "context_window": "pelagic habitats, benthic habitats, fish, marine birds and marine mammals. NIS can out-compete and prey on native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts are associated with the introduction of",
+      "context_window": "NIS can out-compete and prey on native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes);",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Introduction of parasites and pathogens;",
+      "context_window": "NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance; 2. Introduction of parasites and pathogens; 3. NIS changing ecosystem functioning, e.g., food web structure changes;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g.",
+      "context_window": "native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Human activities which contribute to the introduction and",
+      "context_window": "The bow-tie analysis for NIS shows the relationships between the DAPSIR components which need to be considered in a cumulative effects assessment. Human activities which contribute to the introduction and spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "essential, considering the risk associated with the continually changing climate.",
+      "context_window": "change or of NIS invasion considered individually. Proper management of NIS introductions is therefore essential, considering the risk associated with the continually changing climate. Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change or of NIS invasion considered individually.",
+      "context_window": "The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually. Proper management of NIS introductions is therefore essential, considering the risk associated with the continually changing climate.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "In addition, alterations in marine environmental conditions due to climate change will also affect",
+      "context_window": "input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine littering. In addition, alterations in marine environmental conditions due to climate change will also affect the introduction and spread of NIS. All social and economic drivers",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "food-web structure changes);",
+      "context_window": "Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity",
+      "context_window": "considered in a cumulative effects assessment. Human activities which contribute to the introduction and spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments: Benthic Habitats",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations becoming less dense and reproduction reduced as compared with the initial decades.",
+      "context_window": "the sea warms further. Since 2010, the population has peaked and it is now managed through fisheries, with populations becoming less dense and reproduction reduced as compared with the initial decades. Red king crabs have made an impact on benthic communities, several species of which now occur with reduced",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The input levels, frequency of occurrence, spatial extent, and exposure to",
+      "context_window": "describes the potential ecological impacts associated with the introduction and spread of NIS in the marine environment. The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on pelagic habitats, benthic habitats, fish, marine birds and marine mammals.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s",
+      "context_window": "et al ., 2019). The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Impacts on Ecosystem Services: Method for the development of the Schematic",
+      "context_window": "A thorough assessment of NIS impact requires the development and implementation of NIS impact indicators. Impacts on Ecosystem Services: Method for the development of the Schematic This section evaluates the impact that changes in the state of NIS observed in the QSR thematic assessments have had on the ecosystem services that the North-East Atlantic provides. It was developed through",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Considering the expectation of a climate-driven",
+      "context_window": "introduction rate, especially in the most recent assessment period, is underestimated, and thus temperature- mediated effects on selected NIS species cannot be ruled out. Considering the expectation of a climate-driven poleward expansion of NIS, the observed trends in NIS development among OSPAR Regions do not support the hypothesis of southern regions acting as a donor for northerly regions.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of",
+      "context_window": "parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "crabs have made an impact on benthic communities, several species of which now occur with reduced",
+      "context_window": "populations becoming less dense and reproduction reduced as compared with the initial decades. Red king crabs have made an impact on benthic communities, several species of which now occur with reduced average size and lower local abundance. 13 of 30",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": "spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments: Benthic Habitats Input of NIS :",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of cumulative effects is considered in these biodiversity thematic assessments:",
+      "context_window": "NIS can also combine with other pressures to affect marine species and habitats collectively. The assessment of cumulative effects is considered in these biodiversity thematic assessments: Pelagic Habitats ,",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Pelagic Habitats, Marine Litter, Climate Change . 16 of 30",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Pelagic Habitats",
+      "context_window": "The assessment of cumulative effects is considered in these biodiversity thematic assessments: Pelagic Habitats , Benthic",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "average size and lower local abundance.",
+      "context_window": "Red king crabs have made an impact on benthic communities, several species of which now occur with reduced average size and lower local abundance. 13 of 30 OSPAR Commission",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Considering the different pathways of NIS introduction, poleward expansion related to ocean warming would",
+      "context_window": "et al ., 2020). Considering the different pathways of NIS introduction, poleward expansion related to ocean warming would be most relevant in the case of secondary introductions. The reasoning for this is that hotspots of NIS",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "., 2016), with some evidence and indications of climate-related changes on increasing",
+      "context_window": "Poloczanska et al ., 2016), with some evidence and indications of climate-related changes on increasing abundances of NIS in marine systems (García-Gómez et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate",
+      "context_window": "., 2019). The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually. Proper management of NIS introductions is therefore",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Marine litter is another driver that alters habitat and favours new introductions of NIS (Miralles",
+      "context_window": "discharge of coolant water at increased temperature) may alter habitat suitability in favour of heat-tolerant NIS. Marine litter is another driver that alters habitat and favours new introductions of NIS (Miralles et al ., 2018).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This response does not apply to the Pacific oyster, which is identified as a species",
+      "context_window": "change - with indigenous populations, and restricting the spread of non-target species and detrimental impacts on natural habitats. This response does not apply to the Pacific oyster, which is identified as a species of concern in relation to the OSPAR- listed flat oyster. Regional differences",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem services. The highest impact identified was on the provision of aquatic biomass.",
+      "context_window": "• Thematic assessment experts identified both negative and positive impacts by NIS on marine ecosystem services. The highest impact identified was on the provision of aquatic biomass. • For several marine ecosystem services, the impact of NIS was defined as uncertain.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for certain species and habitats of concern in the North-East Atlantic, which implies that the measures taken",
+      "context_window": "Are these measures working?: This assessment indicates that while rates of NIS introduction are declining overall, NIS remains a pressure for certain species and habitats of concern in the North-East Atlantic, which implies that the measures taken to date are not yet having the desired outcome. 18 of 30",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic Habitats,",
+      "context_window": ", Food Webs, Pelagic Habitats, Marine Litter, Climate Change",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR has committed to contribute to achieving the ambitions of the CBD Post-2020 Global Biodiversity",
+      "context_window": "help contribute to the 2030 objectives. Restoration and NIS: OSPAR has committed to contribute to achieving the ambitions of the CBD Post-2020 Global Biodiversity Framework, which has established a target for the restoration of ecosystems, including marine ecosystems, as well as the aims of the UN Decade for Ecosystem Restoration.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where NIS are considered as a pressure on the OSPAR listed species and habitats.",
+      "context_window": "Measures adopted by OSPAR This section focuses on the measures adopted by OSPAR to control NIS in the North-East Atlantic, including where NIS are considered as a pressure on the OSPAR listed species and habitats. The implementation status of all OSPAR measures was reported on in 2021 Addressing species and habitats in decline and under threat",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "R – Response 14 Cumulative Effects 26 Climate change",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "methods for restoration of degraded habitats.",
+      "context_window": "By 2023, OSPAR aims to identify habitats suitable for restoration and develop a common knowledge base on the most appropriate and effective methods for restoration of degraded habitats. There is an opportunity to continue to develop best practice 24 of 30",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and spread of non‐indigenous species and physical damage\".",
+      "context_window": "One of the collective actions from the Recommendation for littoral chalk communities was to “Monitor key pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction and spread of non‐indigenous species and physical damage\". However, according to the 2019 reporting there had not yet been any progress made with this action, and the overview assessment states that its",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundances of NIS in marine systems (García-Gómez",
+      "context_window": "et al ., 2016), with some evidence and indications of climate-related changes on increasing abundances of NIS in marine systems (García-Gómez et al ., 2020; Sorte",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction",
+      "context_window": "oyster and the measures being undertaken to address this issue. One of the collective actions from the Recommendation for littoral chalk communities was to “Monitor key pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction and spread of non‐indigenous species and physical damage\". However, according to the 2019 reporting there",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways:",
+      "context_window": "Non-indigenous species impact the state of biodiversity The pressures from human activities collectively contribute to the introduction and translocation of NIS in the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways: 1. NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A thorough assessment of NIS impact requires the development and implementation of NIS impact",
+      "context_window": "OSPAR Regions. • A thorough assessment of NIS impact requires the development and implementation of NIS impact indicators. Impacts on Ecosystem Services: Method for the development of the Schematic",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food Webs,",
+      "context_window": "Benthic Habitats , Food Webs, Pelagic Habitats, Marine Litter,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity state is generally decreasing for Greater North Sea (Region II), Celtic Seas (Region III) and Bay of",
+      "context_window": "an overall reduction in their rate of introduction (trend). The pressure from new arrivals of NIS on marine biodiversity state is generally decreasing for Greater North Sea (Region II), Celtic Seas (Region III) and Bay of Biscay and Iberian Coast (Region IV). No assessment was made for Arctic Waters (Region I) and Wider Atlantic",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": ".” There are a number of linkages to other thematic assessments, including Benthic Habitats , Food Webs,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS in the marine environment.",
+      "context_window": "The State section describes the potential ecological impacts associated with the introduction and spread of NIS in the marine environment. The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nature, addressing a range of human activities and pressures.",
+      "context_window": "A ‘Common Understanding’ of the Recommendations was adopted in 2013 (Agreement 2013-13). The recommendations are broad in nature, addressing a range of human activities and pressures. Four of the OSPAR Recommendations for the protection and conservation of threatened and/or declining species and habitats specify actions relating to",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacts on natural habitats.",
+      "context_window": "same time avoiding alterations to ecosystems, preventing negative biological interaction - including genetic change - with indigenous populations, and restricting the spread of non-target species and detrimental impacts on natural habitats. This response does not apply to the Pacific oyster, which is identified as a species of concern in relation to the OSPAR- listed flat oyster.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the open ocean and deep seas, reflecting the focus of human activities and the highest risk for introduction",
+      "context_window": "Regional differences The majority of the responses identified are measures taken in respect of coastal and shelf areas rather than the open ocean and deep seas, reflecting the focus of human activities and the highest risk for introduction pathways – particularly in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast. The",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of ocean climate change and acidification on NIS introductions and impacts are frequently",
+      "context_window": "et al ., 2008). The effects of ocean climate change and acidification on NIS introductions and impacts are frequently discussed in the literature (Occhipinti-Ambrogi, 2021). However, there seems to be limited documentation",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "In addition, climate change may increase the magnitude of impacts associated",
+      "context_window": "Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change, primarily increases",
+      "context_window": "species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become more suitable for them, as well as potential increases in global maritime trade.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "contribute to climate change, together with associated pressures linked to the distribution and abundance",
+      "context_window": "Climate change : Numerous drivers and activities (e.g., burning of fossil fuels, agriculture, deforestation) contribute to climate change, together with associated pressures linked to the distribution and abundance of non-indigenous species. 9 of 30",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "affect the food web, and impact on the provision of ecosystem services.",
+      "context_window": "The introduction and translocation of non-indigenous species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become",
+      "context_window": "affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases in ocean temperature, may facilitate the introduction and establishment of new NIS as conditions become more suitable for them, as well as potential increases in global maritime trade. Over the recent assessment period (2015-2020) the rate of introductions appears to have fallen in the",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change effects on non-indigenous species",
+      "context_window": "OSPAR Commission Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS).",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "species can cause declines in the abundance of native species, increase parasites and pathogens, negatively",
+      "context_window": "indigenous species are likely to increase in the future. The introduction and translocation of non-indigenous species can cause declines in the abundance of native species, increase parasites and pathogens, negatively affect the food web, and impact on the provision of ecosystem services. Climate change, primarily increases",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "expansion of marine species due to the effect of seawater warming is expected (Pinsky",
+      "context_window": "The primary stressor appears to be warming, whereas less emphasis is placed on altered ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward expansion of marine species due to the effect of seawater warming is expected (Pinsky et al ., 2013;",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "28 of 30 OSPAR Commission Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "change and human settlements.",
+      "context_window": "., 2017). Another important gap in our knowledge of the responses needed to reduce NIS spread concerns climate change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species,",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Further analyses and evidence of ecological impacts are",
+      "context_window": "To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. NIS can also combine with other pressures to affect marine species and habitats collectively.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS changing ecosystem functioning, e.g., food web structure changes;",
+      "context_window": "Introduction of parasites and pathogens; 3. NIS changing ecosystem functioning, e.g., food web structure changes; 4. Changes in species assemblages and biotic homogenisation;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "Shipping and Ports Feeder Report ). Climate change : Numerous drivers and activities (e.g., burning of fossil fuels, agriculture, deforestation) contribute to climate change, together with associated pressures linked to the distribution and abundance",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing",
+      "context_window": "with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing levels of international trade and human travelling, are expected (Hewitt et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in species assemblages and biotic homogenisation;",
+      "context_window": "NIS changing ecosystem functioning, e.g., food web structure changes; 4. Changes in species assemblages and biotic homogenisation; 5. NIS changing the provision of ecosystem services.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance;",
+      "context_window": "the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways: 1. NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance; 2. Introduction of parasites and pathogens;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and spread of NIS, but more climate modelling is required to quantify this risk.",
+      "context_window": ". Climate change-induced change in marine environmental conditions is anticipated to affect the introduction and spread of NIS, but more climate modelling is required to quantify this risk. Consideration of such developments will need to be a part of the response development and adaptation process.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change",
+      "context_window": "This commitment is articulated in the 2030 NEAES, which contains a specific strategic objective to restore degraded ecosystems and four operational objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change and ocean acidification (Strategic Objective 6), in particular S6.O1. By 2023, OSPAR aims to identify habitats",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "pelagic habitats, benthic habitats, fish, marine birds and marine mammals.",
+      "context_window": "The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on pelagic habitats, benthic habitats, fish, marine birds and marine mammals. NIS can out-compete and prey on native species, resulting in declines in their abundance.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine",
+      "context_window": "Social and economic drivers for activities affecting non-indigenous species Growing global populations and the associated need for food and energy continue to increase the risk of the input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine littering. In addition, alterations in marine environmental conditions due to climate change will also affect",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "native species, resulting in declines in their abundance.",
+      "context_window": "pelagic habitats, benthic habitats, fish, marine birds and marine mammals. NIS can out-compete and prey on native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Introduction of parasites and pathogens;",
+      "context_window": "NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance; 2. Introduction of parasites and pathogens; 3. NIS changing ecosystem functioning, e.g., food web structure changes;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Human activities which contribute to the introduction and",
+      "context_window": "The bow-tie analysis for NIS shows the relationships between the DAPSIR components which need to be considered in a cumulative effects assessment. Human activities which contribute to the introduction and spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change or of NIS invasion considered individually.",
+      "context_window": "The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually. Proper management of NIS introductions is therefore essential, considering the risk associated with the continually changing climate.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "food-web structure changes);",
+      "context_window": "Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "populations becoming less dense and reproduction reduced as compared with the initial decades.",
+      "context_window": "the sea warms further. Since 2010, the population has peaked and it is now managed through fisheries, with populations becoming less dense and reproduction reduced as compared with the initial decades. Red king crabs have made an impact on benthic communities, several species of which now occur with reduced",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s",
+      "context_window": "et al ., 2019). The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Considering the expectation of a climate-driven",
+      "context_window": "introduction rate, especially in the most recent assessment period, is underestimated, and thus temperature- mediated effects on selected NIS species cannot be ruled out. Considering the expectation of a climate-driven poleward expansion of NIS, the observed trends in NIS development among OSPAR Regions do not support the hypothesis of southern regions acting as a donor for northerly regions.",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "crabs have made an impact on benthic communities, several species of which now occur with reduced",
+      "context_window": "populations becoming less dense and reproduction reduced as compared with the initial decades. Red king crabs have made an impact on benthic communities, several species of which now occur with reduced average size and lower local abundance. 13 of 30",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of cumulative effects is considered in these biodiversity thematic assessments:",
+      "context_window": "NIS can also combine with other pressures to affect marine species and habitats collectively. The assessment of cumulative effects is considered in these biodiversity thematic assessments: Pelagic Habitats ,",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic Habitats",
+      "context_window": "The assessment of cumulative effects is considered in these biodiversity thematic assessments: Pelagic Habitats , Benthic",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Considering the different pathways of NIS introduction, poleward expansion related to ocean warming would",
+      "context_window": "et al ., 2020). Considering the different pathways of NIS introduction, poleward expansion related to ocean warming would be most relevant in the case of secondary introductions. The reasoning for this is that hotspots of NIS",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate",
+      "context_window": "., 2019). The combined effects of climate and rapid transport are likely to bring worldwide changes to the earth’s biota, including largescale biotic homogenisation, which could easily exceed the impact of either climate change or of NIS invasion considered individually. Proper management of NIS introductions is therefore",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "This response does not apply to the Pacific oyster, which is identified as a species",
+      "context_window": "change - with indigenous populations, and restricting the spread of non-target species and detrimental impacts on natural habitats. This response does not apply to the Pacific oyster, which is identified as a species of concern in relation to the OSPAR- listed flat oyster. Regional differences",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "for certain species and habitats of concern in the North-East Atlantic, which implies that the measures taken",
+      "context_window": "Are these measures working?: This assessment indicates that while rates of NIS introduction are declining overall, NIS remains a pressure for certain species and habitats of concern in the North-East Atlantic, which implies that the measures taken to date are not yet having the desired outcome. 18 of 30",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR has committed to contribute to achieving the ambitions of the CBD Post-2020 Global Biodiversity",
+      "context_window": "help contribute to the 2030 objectives. Restoration and NIS: OSPAR has committed to contribute to achieving the ambitions of the CBD Post-2020 Global Biodiversity Framework, which has established a target for the restoration of ecosystems, including marine ecosystems, as well as the aims of the UN Decade for Ecosystem Restoration.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cumulative Effects",
+      "context_window": "R – Response 14 Cumulative Effects 26 Climate change",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and spread of non‐indigenous species and physical damage\".",
+      "context_window": "One of the collective actions from the Recommendation for littoral chalk communities was to “Monitor key pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction and spread of non‐indigenous species and physical damage\". However, according to the 2019 reporting there had not yet been any progress made with this action, and the overview assessment states that its",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction",
+      "context_window": "oyster and the measures being undertaken to address this issue. One of the collective actions from the Recommendation for littoral chalk communities was to “Monitor key pressures including loss and change of substratum, levels of eutrophication, removal of species, introduction and spread of non‐indigenous species and physical damage\". However, according to the 2019 reporting there",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways:",
+      "context_window": "Non-indigenous species impact the state of biodiversity The pressures from human activities collectively contribute to the introduction and translocation of NIS in the North-East Atlantic, which can impact the state of Atlantic biodiversity in the following ways: 1. NIS outcompeting and preying on native species, resulting in declines in the latter’s abundance;",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food Webs,",
+      "context_window": "Benthic Habitats , Food Webs, Pelagic Habitats, Marine Litter,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": ".” There are a number of linkages to other thematic assessments, including Benthic Habitats , Food Webs,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nature, addressing a range of human activities and pressures.",
+      "context_window": "A ‘Common Understanding’ of the Recommendations was adopted in 2013 (Agreement 2013-13). The recommendations are broad in nature, addressing a range of human activities and pressures. Four of the OSPAR Recommendations for the protection and conservation of threatened and/or declining species and habitats specify actions relating to",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the open ocean and deep seas, reflecting the focus of human activities and the highest risk for introduction",
+      "context_window": "Regional differences The majority of the responses identified are measures taken in respect of coastal and shelf areas rather than the open ocean and deep seas, reflecting the focus of human activities and the highest risk for introduction pathways – particularly in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast. The",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The effects of ocean climate change and acidification on NIS introductions and impacts are frequently",
+      "context_window": "et al ., 2008). The effects of ocean climate change and acidification on NIS introductions and impacts are frequently discussed in the literature (Occhipinti-Ambrogi, 2021). However, there seems to be limited documentation",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "impacts on natural habitats.",
+      "context_window": "same time avoiding alterations to ecosystems, preventing negative biological interaction - including genetic change - with indigenous populations, and restricting the spread of non-target species and detrimental impacts on natural habitats. This response does not apply to the Pacific oyster, which is identified as a species of concern in relation to the OSPAR- listed flat oyster.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS in the marine environment.",
+      "context_window": "The State section describes the potential ecological impacts associated with the introduction and spread of NIS in the marine environment. The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity state is generally decreasing for Greater North Sea (Region II), Celtic Seas (Region III) and Bay of",
+      "context_window": "an overall reduction in their rate of introduction (trend). The pressure from new arrivals of NIS on marine biodiversity state is generally decreasing for Greater North Sea (Region II), Celtic Seas (Region III) and Bay of Biscay and Iberian Coast (Region IV). No assessment was made for Arctic Waters (Region I) and Wider Atlantic",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A thorough assessment of NIS impact requires the development and implementation of NIS impact",
+      "context_window": "OSPAR Regions. • A thorough assessment of NIS impact requires the development and implementation of NIS impact indicators. Impacts on Ecosystem Services: Method for the development of the Schematic",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 31,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "abundances of NIS in marine systems (García-Gómez",
+      "context_window": "et al ., 2016), with some evidence and indications of climate-related changes on increasing abundances of NIS in marine systems (García-Gómez et al ., 2020; Sorte",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "methods for restoration of degraded habitats.",
+      "context_window": "By 2023, OSPAR aims to identify habitats suitable for restoration and develop a common knowledge base on the most appropriate and effective methods for restoration of degraded habitats. There is an opportunity to continue to develop best practice 24 of 30",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "where NIS are considered as a pressure on the OSPAR listed species and habitats.",
+      "context_window": "Measures adopted by OSPAR This section focuses on the measures adopted by OSPAR to control NIS in the North-East Atlantic, including where NIS are considered as a pressure on the OSPAR listed species and habitats. The implementation status of all OSPAR measures was reported on in 2021 Addressing species and habitats in decline and under threat",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic Habitats,",
+      "context_window": ", Food Webs, Pelagic Habitats, Marine Litter, Climate Change",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystem services. The highest impact identified was on the provision of aquatic biomass.",
+      "context_window": "• Thematic assessment experts identified both negative and positive impacts by NIS on marine ecosystem services. The highest impact identified was on the provision of aquatic biomass. • For several marine ecosystem services, the impact of NIS was defined as uncertain.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine litter is another driver that alters habitat and favours new introductions of NIS (Miralles",
+      "context_window": "discharge of coolant water at increased temperature) may alter habitat suitability in favour of heat-tolerant NIS. Marine litter is another driver that alters habitat and favours new introductions of NIS (Miralles et al ., 2018).",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2016), with some evidence and indications of climate-related changes on increasing",
+      "context_window": "Poloczanska et al ., 2016), with some evidence and indications of climate-related changes on increasing abundances of NIS in marine systems (García-Gómez et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "average size and lower local abundance.",
+      "context_window": "Red king crabs have made an impact on benthic communities, several species of which now occur with reduced average size and lower local abundance. 13 of 30 OSPAR Commission",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Pelagic Habitats, Marine Litter, Climate Change . 16 of 30",
+      "page_number": 15,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": "spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments: Benthic Habitats Input of NIS :",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of",
+      "context_window": "parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts on Ecosystem Services: Method for the development of the Schematic",
+      "context_window": "A thorough assessment of NIS impact requires the development and implementation of NIS impact indicators. Impacts on Ecosystem Services: Method for the development of the Schematic This section evaluates the impact that changes in the state of NIS observed in the QSR thematic assessments have had on the ecosystem services that the North-East Atlantic provides. It was developed through",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The input levels, frequency of occurrence, spatial extent, and exposure to",
+      "context_window": "describes the potential ecological impacts associated with the introduction and spread of NIS in the marine environment. The input levels, frequency of occurrence, spatial extent, and exposure to different human activities all collectively contribute to the extent to which NIS pressures are exerted on pelagic habitats, benthic habitats, fish, marine birds and marine mammals.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity",
+      "context_window": "considered in a cumulative effects assessment. Human activities which contribute to the introduction and spread of NIS pressures with the potential to both individually and cumulatively contribute to biodiversity state changes have been identified in the following thematic assessments: Benthic Habitats",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, alterations in marine environmental conditions due to climate change will also affect",
+      "context_window": "input and spread of non-indigenous species, especially through shipping, release via aquaculture, and marine littering. In addition, alterations in marine environmental conditions due to climate change will also affect the introduction and spread of NIS. All social and economic drivers",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "essential, considering the risk associated with the continually changing climate.",
+      "context_window": "change or of NIS invasion considered individually. Proper management of NIS introductions is therefore essential, considering the risk associated with the continually changing climate. Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g.",
+      "context_window": "native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts are associated with the introduction of",
+      "context_window": "NIS can out-compete and prey on native species, resulting in declines in their abundance. Impacts are associated with the introduction of parasites and pathogens; NIS-induced changes in ecosystem functioning (e.g. food-web structure changes);",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have had on the ecosystem services that the North-East Atlantic provides. It was developed through",
+      "context_window": "Impacts on Ecosystem Services: Method for the development of the Schematic This section evaluates the impact that changes in the state of NIS observed in the QSR thematic assessments have had on the ecosystem services that the North-East Atlantic provides. It was developed through literature review combined with expert judgement, using the same methodology across all Thematic Assessments.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "birds, and marine mammals.",
+      "context_window": "spread (Langhamer, 2012). The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with broader spatial effects mainly associated with tidal barriers or lagoons.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS can also combine with other pressures to affect marine species and habitats collectively.",
+      "context_window": "Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects. NIS can also combine with other pressures to affect marine species and habitats collectively. The assessment of cumulative effects is considered in these biodiversity thematic assessments:",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The ICES advice covers potential impacts on marine life, including benthos, fish,",
+      "context_window": "stepping- stones for the spread of NIS, and / or to expand their distributional range and facilitate their spread (Langhamer, 2012). The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke",
+      "context_window": "Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke et al ., 2008).",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "consequence of climate change may lead to an increased invasion of the Arctic by non-native species,",
+      "context_window": "change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species, owing to more extensive human development (Ruiz and Hewitt, 2009). Currently, OSPAR does not directly address the recreation and tourism sector in its work.",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The ICES highlights that the disappearance of summer Arctic Sea ice as a",
+      "context_window": "Another important gap in our knowledge of the responses needed to reduce NIS spread concerns climate change and human settlements. The ICES highlights that the disappearance of summer Arctic Sea ice as a consequence of climate change may lead to an increased invasion of the Arctic by non-native species, owing to more extensive human development (Ruiz and Hewitt, 2009).",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and",
+      "context_window": "essential, considering the risk associated with the continually changing climate. Despite the hypothesis that global climate change can lead to the degradation of marine ecosystems through invasive NIS (Dukes and Mooney, 1999), climate change and invasive species are most commonly treated as independent issues (Pyke et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "By 2023, OSPAR aims to identify habitats",
+      "context_window": "objectives relating to clean seas, biologically diverse and healthy seas and seas resilient to climate change and ocean acidification (Strategic Objective 6), in particular S6.O1. By 2023, OSPAR aims to identify habitats suitable for restoration and develop a common knowledge base on the most appropriate and effective methods for restoration of degraded habitats.",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Thematic assessment experts identified both negative and positive impacts by NIS on marine",
+      "context_window": "loss / decline; and food web structure changes. • Thematic assessment experts identified both negative and positive impacts by NIS on marine ecosystem services. The highest impact identified was on the provision of aquatic biomass. •",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the case of benthos, most changes would be local and site-specific, with",
+      "context_window": "The ICES advice covers potential impacts on marine life, including benthos, fish, birds, and marine mammals. In the case of benthos, most changes would be local and site-specific, with broader spatial effects mainly associated with tidal barriers or lagoons. Benefits for the benthic habitat can",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NIS changing the provision of ecosystem services.",
+      "context_window": "Changes in species assemblages and biotic homogenisation; 5. NIS changing the provision of ecosystem services. 12 of 30 OSPAR Commission",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change-induced change in marine environmental conditions is anticipated to affect the introduction",
+      "context_window": "native Species Secretariat (2020) . Climate change-induced change in marine environmental conditions is anticipated to affect the introduction and spread of NIS, but more climate modelling is required to quantify this risk. Consideration of such",
+      "page_number": 23,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the exposure pathways and ecological impacts.",
+      "context_window": "ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts. Further analyses and evidence of ecological impacts are required in order to progress the assessment of cumulative effects.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward",
+      "context_window": "of the causal effects. The primary stressor appears to be warming, whereas less emphasis is placed on altered ocean pH, wind speed and precipitation and climate-related changes in salinity. A general poleward expansion of marine species due to the effect of seawater warming is expected (Pinsky et al",
+      "page_number": 28,
+      "keyword_hits": {
+        "warming": 2
+      }
+    },
+    {
+      "core_sentence": "loss / decline; and food web structure changes.",
+      "context_window": "• The impacts include the out-competing of native species; increased disease spread; biodiversity loss / decline; and food web structure changes. • Thematic assessment experts identified both negative and positive impacts by NIS on marine",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impacts include the out-competing of native species; increased disease spread; biodiversity",
+      "context_window": "OSPAR Maritime Area. Several NIS however, have low or unknown impacts. • The impacts include the out-competing of native species; increased disease spread; biodiversity loss / decline; and food web structure changes. •",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystem services.",
+      "context_window": "food-web structure changes); changes in species assemblages and biotic homogenization; and NIS-induced changes in the provision of ecosystem services. To undertake a full quantitative analysis of cumulative effects requires consideration of the exposure pathways and ecological impacts.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with invasive NIS, for example by reducing the resilience of native ecosystems and habitats.",
+      "context_window": "non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats. In addition to the impacts from climate change, higher rates of intercontinental dispersal events, associated with increasing",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of",
+      "context_window": "Climate change Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 4
+      }
+    },
+    {
+      "core_sentence": "non-indigenous species (NIS).",
+      "context_window": "Climate change effects on non-indigenous species Climate change, primarily ocean temperature increases, may facilitate the introduction and establishment of non-indigenous species (NIS). In addition, climate change may increase the magnitude of impacts associated with invasive NIS, for example by reducing the resilience of native ecosystems and habitats.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 3,
+    "keyword_counts": {
+      "climate change": 26,
+      "ocean acidification": 2,
+      "warming": 5
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 84,
+      "end_sentence": 102,
+      "sentence_count": 19,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 84,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 85,
+          "page_number": 3,
+          "content": "Non-indigenous species (NIS) may cause unpredictable and irreversible changes to marine ecosystems, ...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 86,
+          "page_number": 3,
+          "content": "as predation of or competition with indigenous species, modification of habitats, and trophic impact...",
+          "full_length": 102
+        },
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "A",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 88,
+          "page_number": 3,
+          "content": "variety of economic or human health impacts are possible through, for example, fouling, harmful non-",
+          "full_length": 100
+        }
+      ],
+      "total_sentences_in_section": 19
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1085,
+      "end_sentence": 1186,
+      "sentence_count": 102,
+      "page_range": "25-26",
+      "sentences": [
+        {
+          "sentence_id": 1085,
+          "page_number": 25,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1086,
+          "page_number": 25,
+          "content": "Díaz, S., Settele, J., Brondízio, E. S., Ngo, H. T., Agard, J., Arneth, A. and Zayas, C. N. (2019).",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 1087,
+          "page_number": 25,
+          "content": "Pervasive human-",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 1088,
+          "page_number": 25,
+          "content": "driven decline of life on Earth points to the need for transformative change. Science, 366(6471),",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1089,
+          "page_number": 25,
+          "content": "eaax3100. doi:10.1126/science.aax3100",
+          "full_length": 37
+        }
+      ],
+      "total_sentences_in_section": 102
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1362,
+      "end_sentence": 1396,
+      "sentence_count": 35,
+      "page_range": "29-30",
+      "sentences": [
+        {
+          "sentence_id": 1362,
+          "page_number": 29,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1363,
+          "page_number": 29,
+          "content": "Dukes, J.S.",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 1364,
+          "page_number": 29,
+          "content": "and Mooney, H.A.",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 1365,
+          "page_number": 29,
+          "content": "1999.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1366,
+          "page_number": 29,
+          "content": "Does global change increase the success of biological invaders?",
+          "full_length": 63
+        }
+      ],
+      "total_sentences_in_section": 35
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1429,
+    "chunks_selected": 90,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 84,
+        "end_sentence": 102,
+        "sentence_count": 19
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1085,
+        "end_sentence": 1186,
+        "sentence_count": 102
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1362,
+        "end_sentence": 1396,
+        "sentence_count": 35
+      }
+    ],
+    "total_excluded_sentences": 156
+  }
+}

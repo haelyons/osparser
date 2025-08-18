@@ -1,0 +1,1473 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "context_window": "Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa.",
+      "context_window": "in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "and zooplankton abundance (further explanations on the relationship between pH and phytoplankton",
+      "context_window": "In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance).",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability.",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "for AMO and NAO which were pooled under the term \"Climate indices\". It is important to keep in mind that on the pressures presented below, pH is not an independent variable. Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biomass / zooplankton abundance).",
+      "context_window": "and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linked with increasing zooplankton abundance in shelf habitats.",
+      "context_window": "Finally, decreasing mixed layer depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with",
+      "context_window": "depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biomass are given in the subsection Relationship between environmental pressures and phytoplankton",
+      "context_window": "phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass",
+      "context_window": "linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can provide early warnings of change in the marine ecosystem (Batt",
+      "context_window": "marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt et al., 2013), from both natural and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "unclear, climate change and decrease in pH were linked with the indicators within coastal and shelf habitats",
+      "context_window": "Table e ). Despite relationships with environmental variables remaining unclear, climate change and decrease in pH were linked with the indicators within coastal and shelf habitats of the Celtic Seas and within coastal, shelf and Oceanic / beyond shelf habitats of the Bay of Biscay and Iberian Coast.",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "marine ecosystems.",
+      "context_window": "organisms, such as their small size, lack of commercial exploitation, short lifecycles, and a global distribution, make them essential components of monitoring programmes aiming to assess the state of marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and",
+      "context_window": "Increasing sea surface temperature (SST), decreasing wind speed, decrease of light attenuation and increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats of the Celtic Seas were associated with decreasing pH.",
+      "context_window": "increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine",
+      "context_window": "et al., 2013), from both natural and human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators",
+      "context_window": "distribution, make them essential components of monitoring programmes aiming to assess the state of marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt et al.,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the",
+      "context_window": "biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "involving consequences for other ecosystem components and processes. Significant changes in this",
+      "context_window": "temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this indicator are evaluated through time-series analysis. One advantage of the methodology is its ease of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, a change in pH can adversely affect phytoplankton biomass.",
+      "context_window": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures. Variabl",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in pH can be linked to changes in phytoplankton activity, since",
+      "context_window": "biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton",
+      "context_window": "linked pressures control were evidenced in the Celtic Seas and the Bay of Biscay and Iberian Coast. Increasing sea surface temperature (SST), decreasing wind speed, decrease of light attenuation and increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously",
+      "context_window": "phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Table c: list of environmental variables used as pressures.",
+      "context_window": "warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures. Variabl e name",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "and further analysis is necessary to quantify phytoplankton’s contribution to pH variability.",
+      "context_window": "concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was",
+      "context_window": "was insignificant thus changes did not occur during the assessment period. Finally, decreasing mixed layer depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance warnings of ecosystem change can help to prompt management actions when changes are still manageable (see Burthe",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These changes may indicate major changes in the marine system",
+      "context_window": "Robust statistical techniques exist to identify significant components of variation and changes at multiple temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this indicator are evaluated through time-series analysis.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of",
+      "context_window": "shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of eutrophication, were the most important variables in the phytoplankton biomass changes. Impact of eutrophication may be significant in this region and further investigations must be carried out with OSPAR’s",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate,",
+      "context_window": "Changes in Phytoplankton Biomass and Zooplankton Abundance Relation between pressures and indicator In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate, nitrogen, and the balance between nitrogen and dissolved inorganic phosphate) as the most important pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temporal and spatial scales for plankton.",
+      "context_window": "., 2016). Robust statistical techniques exist to identify significant components of variation and changes at multiple temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "satellite data and improve coherence with the eutrophication assessments; and 5.",
+      "context_window": "address the extent of change; 3. Methodology improvement needs to be continued to define more precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between PH2 and pressures.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton",
+      "context_window": "Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton abundance”. This indicator provides a means of identifying changes (anomalies) in the quantities of two",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to environmental changes.",
+      "context_window": "processes. Due to their short lifecycles, plankton respond more rapidly than higher trophic level organisms to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d: Integration between PH2 phytoplankton and zooplankton trends within the different COMP4",
+      "context_window": "23 of 31 OSPAR Commission Figure d: Integration between PH2 phytoplankton and zooplankton trends within the different COMP4 assessment units and at the different fixed stations. Downward arrow represents simultaneous decrease",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect",
+      "context_window": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of",
+      "context_window": "Bay of Biscay and Iberian Coast (OSPAR Regions II, III and IV). Assimilating the results of this indicator with changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of changes occurring across pelagic habitats. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PH2 is a bulk indicator, with",
+      "context_window": "will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with the highest level of integration among the Pelagic Habitat indicators (McQuatters-Gollop et al",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate",
+      "context_window": "and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate concentration. The increase in zooplankton abundance in the coastal habitat was linked to natural climatic",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas",
+      "context_window": "across the majority of COMP4 units assessed. The assessment period (2015-2019) was marked by strong and significant decreases in phytoplankton biomass across 32 assessment units, while increases were documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass occurred in open ocean waters (Atlantic areas and Bay of Biscay), in the English Channel and a few North",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Whilst PH2 represents the link between the stocks and the fluxes within the pelagic food webs, it does not",
+      "context_window": "et al ., 2017). Whilst PH2 represents the link between the stocks and the fluxes within the pelagic food webs, it does not account for variability in photosynthetic rates and the actual flow of carbon through the system. Further",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "community structure which can therefore impact marine ecosystem structure and functioning.",
+      "context_window": "to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton abundance”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitats.",
+      "context_window": "Assimilating the results of this indicator with changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of changes occurring across pelagic habitats. Background (extended) The quantity of marine plankton is, to a large extent, determined by nutrient concentrations, climate,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between",
+      "context_window": "abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between pressures and PH2 indicator results ( Table e",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicators based on plankton can help identify changes in plankton quantity and",
+      "context_window": "Due to their short lifecycles, plankton respond more rapidly than higher trophic level organisms to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Improve coherence and integration with relevant eutrophication indicators:",
+      "context_window": "research on the use of primary production (FW2), as a direct indicator of carbon flow through the food web, should be explored. Improve coherence and integration with relevant eutrophication indicators: Being at the bottom of the trophic network, plankton is highly sensitive to their changing environment. In",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Continuous Plankton Recorder (CPR) or more recently satellite data. The three data types are",
+      "context_window": "The methodology for this indicator can be applied to fixed monitoring station time-series (the most common coastal monitoring in European countries) and to large-scale spatio-temporal data sets such as the Continuous Plankton Recorder (CPR) or more recently satellite data. The three data types are complementary and may provide information on different temporal / spatial scales and pressures in the future.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "warnings of ecosystem change can help to prompt management actions when changes are still manageable",
+      "context_window": "systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance warnings of ecosystem change can help to prompt management actions when changes are still manageable (see Burthe et al",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not",
+      "context_window": "assessment units representing coastal habitats within the OSPAR Region, in this case 12. Therefore, the spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in PH2 components for the net",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass",
+      "context_window": "and significant decreases in phytoplankton biomass across 32 assessment units, while increases were documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass occurred in open ocean waters (Atlantic areas and Bay of Biscay), in the English Channel and a few North Sea areas (mainly the Eastern North Sea and the Norwegian Trench) whereas biomass increased in a large",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in plankton lifeforms",
+      "context_window": "Size fractionated chl-a could also be useful to integrate Pelagic Habitats indicators (this indicator and the indicator ‘ Changes in plankton lifeforms ’) since a recommendation to investigate picoplankton and nanoplankton emerged in the previous version of PH1/FW5 indicator.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical environmental parameters, including nutrient concentrations, salinity, and temperature.",
+      "context_window": "food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature. These parameters are dependent on natural climatic and hydrographic variation, as well as on human-induced",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Planktonic organisms are highly sensitive to the physical and",
+      "context_window": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature. These",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human pressures on plankton communities. Phytoplankton chlorophyll-",
+      "context_window": "environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll- a and phytoplankton indicator",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "the plankton community and the marine ecosystem. The present assessment is based on the previous",
+      "context_window": "extreme change categories have increasing potential to represent significant modifications in the plankton community and the marine ecosystem. The present assessment is based on the previous assessment methodology with some improvements since IA2017. Most of these improvements have already been described and applied in the French national MSFD assessment (Duflos",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "will provide greater confidence in the assessment of changes in plankton, and in their integration with",
+      "context_window": "Changes in Plankton Diversity ’) since this will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Addressing PH2 quality status",
+      "context_window": "and so on. For locations where the net trend was increasing, we calculated the mean rank of each environmental variable and reported the variable with the lowest mean rank. Addressing PH2 quality status In order to deliver a clear and comprehensive message to the scientific and non-scientific community, the results of the indicator were summarised by their quality status per habitat within each OSPAR region.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity,",
+      "context_window": "In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate, nitrogen, and the balance between nitrogen and dissolved inorganic phosphate) as the most important pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity, coastal and shelf). Variable salinity habitat was marked by a decrease in phosphate which in turn was high",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quality status had been defined by the change in indicator value for each plankton component according to",
+      "context_window": "results of the indicator were summarised by their quality status per habitat within each OSPAR region. The quality status had been defined by the change in indicator value for each plankton component according to assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator change (McQuatters-Gollop",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Furthermore, it is important to establish better coherence between the PH2 indicator and",
+      "context_window": "investigations will help to address the importance of nutrient inputs within the sub-division of the different OSPAR Regions. Furthermore, it is important to establish better coherence between the PH2 indicator and the chlorophyll-",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison to relevant Pelagic Habitat and Food Web indicators to facilitate of impacts through",
+      "context_window": "comparison between the different monitoring strategies. • Comparison to relevant Pelagic Habitat and Food Web indicators to facilitate of impacts through the food web. •",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food source for fish, shellfish and seabirds.",
+      "context_window": "Background Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PH2 and pressures.",
+      "context_window": "satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between PH2 and pressures. Knowledge Gaps (extended) Further development of this indicator is needed, particularly on the following points:",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other",
+      "context_window": "the future development of these indicators the definition of comparison periods will require knowledge of environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll- a",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "environmental and human pressure data.",
+      "context_window": "For the future development of these indicators the definition of comparison periods will require knowledge of environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll-",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Finally, to report links to environmental pressures which can drive changes in PH2 components for the net",
+      "context_window": "spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in PH2 components for the net trend, we ranked environmental variables for each location based on their relative variable importance, with 1 assigned to the variable with highest importance, 2 to the variable with second highest importance",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary direction of change detected across assessment units and fixed-point stations within each pelagic",
+      "context_window": "Table a. To meet this objective, we focused on the primary direction of change detected across assessment units and fixed-point stations within each pelagic habitat category for each of the 2 plankton components highlighted in this assessment. We then reported",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast",
+      "context_window": "Refine the links between PH2 and pressures to identify the origin of the pressures. Inclusion of additional data sets: Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast and they are still relevant for the current assessment. In addition, in the current assessment some habitats",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication assessments at different spatial and temporal scales.",
+      "context_window": "• Refinement of the use of remote sensing data for improving coherence with the OSPAR eutrophication assessments at different spatial and temporal scales. • Refine the links between PH2 and pressures to identify the origin of the pressures.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer",
+      "context_window": "Results indicated that abundance increased as well as SST in coastal habitat whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to",
+      "context_window": "For instance, coastal data from fixed monitoring stations can be used to identify plankton indicators that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to indirect human pressures (e.g., fishing). An important advantage of these plankton indicators is that the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitat types within OSPAR Regions II, III and IV.",
+      "context_window": "Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of changes occurring across pelagic habitat types within OSPAR Regions II, III and IV. This required indicator results for each of these OSPAR Regions to be integrated according to the following pelagic habitat",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of",
+      "context_window": "Compare to relevant Pelagic Habitat and Food Web indicators to better address the extent of change; 3. Methodology improvement needs to be continued to define more precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ocean colour product) that provide a monthly synoptic",
+      "context_window": "Recorder (CPR) data set, and satellite chlorophyll- a (ocean colour product) that provide a monthly synoptic view of the OSPAR Regions. Pre-analysis steps: Specificities related to data type",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton",
+      "context_window": "positively correlated with SST. Results indicated that abundance increased as well as SST in coastal habitat whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures and PH2 indicator results (",
+      "context_window": "depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between pressures and PH2 indicator results ( Table e ). Despite relationships with environmental variables remaining",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator",
+      "context_window": "The quality status had been defined by the change in indicator value for each plankton component according to assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator change (McQuatters-Gollop et al",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicators in terms of whether they examine year-round time-series, or productive months only).",
+      "context_window": "used to maintain consistency in results), spatial resolution (similar spatial resolution should be maintained across related indicators), and temporal resolution (consistency should be maintained across related indicators in terms of whether they examine year-round time-series, or productive months only). Integration of dataset originated from different chl-a methods: Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be",
+      "context_window": "future. For instance, coastal data from fixed monitoring stations can be used to identify plankton indicators that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to indirect human pressures (e.g., fishing).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shallowing of the euphotic zone.",
+      "context_window": "decreased in shelf habitats due to increasing mixed layer depth over the last decades, phytoplankton biomass also decreased in oceanic habitats, associated with a decrease in light attenuation and thus shallowing of the euphotic zone. Surprisingly, zooplankton abundance in coastal and oceanic habitats was positively correlated with SST.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton biomass (",
+      "context_window": "This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and local scales. Among the 64 COMP4 areas, significant changes were found in 39 assessment units for phytoplankton biomass ( Figure 1 ) and in 22 assessment units for zooplankton abundance (",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Size fractionated chl-a could also be useful to integrate Pelagic Habitats",
+      "context_window": "Furthermore, inclusion of size fractionated chl-a could be integrated to provide a more precise view of phytoplankton biomass. Size fractionated chl-a could also be useful to integrate Pelagic Habitats indicators (this indicator and the indicator ‘ Changes in plankton lifeforms",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "National Oceanic and Atmospheric Administration (NOAA): https://www.ncdc.noaa.gov/teleconnections/nao/ Changes in Phytoplankton Biomass and Zooplankton Abundance on is a weather",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Refine the links between PH2 and pressures to identify the origin of the pressures.",
+      "context_window": "eutrophication assessments at different spatial and temporal scales. • Refine the links between PH2 and pressures to identify the origin of the pressures. Inclusion of additional data sets: Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators of other ecosystem components, in particular food web indicators.",
+      "context_window": "’) since this will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with the highest level of integration among the Pelagic Habitat indicators (McQuatters-Gollop",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and",
+      "context_window": "Results Changes in Phytoplankton Biomass and Zooplankton Abundance This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and local scales. Among the 64 COMP4 areas, significant changes were found in 39 assessment units for phytoplankton biomass (",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://psl.noaa.gov/data/timeseries/AMO/",
+      "context_window": "amo National Oceanic and Atmospheric Administration (NOAA); https://psl.noaa.gov/data/timeseries/AMO/ Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distributed in all areas (including reference stations and ocean colour data from remote sensing",
+      "context_window": "a are used in this assessment as they represent the two types of data most regularly distributed in all areas (including reference stations and ocean colour data from remote sensing algorithms). For data from discrete stations no spatial aggregation was required prior to time series",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") / zooplankton abundance (",
+      "context_window": "Links between phytoplankton biomass ( Figure 3 ) / zooplankton abundance ( Figure 4 ) and climate change",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "was observed in the Elbe and Ems plumes and in the fixed points in the Skagerrak (i.e., Slaggö, A17) and the Iberian coast (i.e., E1CU, E2CU, E3CU, E3GI and E2CO). Changes in Phytoplankton Biomass and Zooplankton Abundance Relation between pressures and indicator In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Further work is also needed to integrate pelagic habitat indicators (this indicator, and the indicators on ‘ Changes in Phytoplankton and Zooplankton Communities ’ and ‘ Changes in Plankton Diversity",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phosphorous than nitrogen occurred in both coastal and shelf habitats resulting in increasing N:P ratio.",
+      "context_window": "et al ., 2020). Faster reduction of phosphorous than nitrogen occurred in both coastal and shelf habitats resulting in increasing N:P ratio. In both habitats, these conditions occurred while phytoplankton biomass decreased.",
+      "page_number": 24,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "context_window": "Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa.",
+      "context_window": "in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability.",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "biomass / zooplankton abundance).",
+      "context_window": "and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with",
+      "context_window": "depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass",
+      "context_window": "linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "marine ecosystems.",
+      "context_window": "organisms, such as their small size, lack of commercial exploitation, short lifecycles, and a global distribution, make them essential components of monitoring programmes aiming to assess the state of marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats of the Celtic Seas were associated with decreasing pH.",
+      "context_window": "increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators",
+      "context_window": "distribution, make them essential components of monitoring programmes aiming to assess the state of marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt et al.,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "involving consequences for other ecosystem components and processes. Significant changes in this",
+      "context_window": "temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this indicator are evaluated through time-series analysis. One advantage of the methodology is its ease of",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in pH can be linked to changes in phytoplankton activity, since",
+      "context_window": "biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously",
+      "context_window": "phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "and further analysis is necessary to quantify phytoplankton’s contribution to pH variability.",
+      "context_window": "concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance warnings of ecosystem change can help to prompt management actions when changes are still manageable (see Burthe",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of",
+      "context_window": "shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and shelf habitats of the Greater North Sea, nutrients (nitrate, phosphate, N:P ratio), considered as a proxy of eutrophication, were the most important variables in the phytoplankton biomass changes. Impact of eutrophication may be significant in this region and further investigations must be carried out with OSPAR’s",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate,",
+      "context_window": "Changes in Phytoplankton Biomass and Zooplankton Abundance Relation between pressures and indicator In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate, nitrogen, and the balance between nitrogen and dissolved inorganic phosphate) as the most important pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "satellite data and improve coherence with the eutrophication assessments; and 5.",
+      "context_window": "address the extent of change; 3. Methodology improvement needs to be continued to define more precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between PH2 and pressures.",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to environmental changes.",
+      "context_window": "processes. Due to their short lifecycles, plankton respond more rapidly than higher trophic level organisms to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect",
+      "context_window": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of",
+      "context_window": "Bay of Biscay and Iberian Coast (OSPAR Regions II, III and IV). Assimilating the results of this indicator with changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of changes occurring across pelagic habitats. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate",
+      "context_window": "and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. Indicator results in variable salinity habitats also reflected a reduction in phytoplankton biomass due to decreasing nitrate concentration. The increase in zooplankton abundance in the coastal habitat was linked to natural climatic",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Whilst PH2 represents the link between the stocks and the fluxes within the pelagic food webs, it does not",
+      "context_window": "et al ., 2017). Whilst PH2 represents the link between the stocks and the fluxes within the pelagic food webs, it does not account for variability in photosynthetic rates and the actual flow of carbon through the system. Further",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitats.",
+      "context_window": "Assimilating the results of this indicator with changes in plankton lifeforms and plankton diversity will help provide a more holistic understanding of changes occurring across pelagic habitats. Background (extended) The quantity of marine plankton is, to a large extent, determined by nutrient concentrations, climate,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicators based on plankton can help identify changes in plankton quantity and",
+      "context_window": "Due to their short lifecycles, plankton respond more rapidly than higher trophic level organisms to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Continuous Plankton Recorder (CPR) or more recently satellite data. The three data types are",
+      "context_window": "The methodology for this indicator can be applied to fixed monitoring station time-series (the most common coastal monitoring in European countries) and to large-scale spatio-temporal data sets such as the Continuous Plankton Recorder (CPR) or more recently satellite data. The three data types are complementary and may provide information on different temporal / spatial scales and pressures in the future.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "warnings of ecosystem change can help to prompt management actions when changes are still manageable",
+      "context_window": "systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance warnings of ecosystem change can help to prompt management actions when changes are still manageable (see Burthe et al",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass",
+      "context_window": "and significant decreases in phytoplankton biomass across 32 assessment units, while increases were documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass occurred in open ocean waters (Atlantic areas and Bay of Biscay), in the English Channel and a few North Sea areas (mainly the Eastern North Sea and the Norwegian Trench) whereas biomass increased in a large",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "chemical environmental parameters, including nutrient concentrations, salinity, and temperature.",
+      "context_window": "food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature. These parameters are dependent on natural climatic and hydrographic variation, as well as on human-induced",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human pressures on plankton communities. Phytoplankton chlorophyll-",
+      "context_window": "environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll- a and phytoplankton indicator",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "will provide greater confidence in the assessment of changes in plankton, and in their integration with",
+      "context_window": "Changes in Plankton Diversity ’) since this will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity,",
+      "context_window": "In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate, nitrogen, and the balance between nitrogen and dissolved inorganic phosphate) as the most important pressures affecting changes in phytoplankton biomass for the three types of habitats (variable salinity, coastal and shelf). Variable salinity habitat was marked by a decrease in phosphate which in turn was high",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, it is important to establish better coherence between the PH2 indicator and",
+      "context_window": "investigations will help to address the importance of nutrient inputs within the sub-division of the different OSPAR Regions. Furthermore, it is important to establish better coherence between the PH2 indicator and the chlorophyll-",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food source for fish, shellfish and seabirds.",
+      "context_window": "Background Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other",
+      "context_window": "the future development of these indicators the definition of comparison periods will require knowledge of environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll- a",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Finally, to report links to environmental pressures which can drive changes in PH2 components for the net",
+      "context_window": "spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in PH2 components for the net trend, we ranked environmental variables for each location based on their relative variable importance, with 1 assigned to the variable with highest importance, 2 to the variable with second highest importance",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast",
+      "context_window": "Refine the links between PH2 and pressures to identify the origin of the pressures. Inclusion of additional data sets: Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast and they are still relevant for the current assessment. In addition, in the current assessment some habitats",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer",
+      "context_window": "Results indicated that abundance increased as well as SST in coastal habitat whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes occurring across pelagic habitat types within OSPAR Regions II, III and IV.",
+      "context_window": "Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of changes occurring across pelagic habitat types within OSPAR Regions II, III and IV. This required indicator results for each of these OSPAR Regions to be integrated according to the following pelagic habitat",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ocean colour product) that provide a monthly synoptic",
+      "context_window": "Recorder (CPR) data set, and satellite chlorophyll- a (ocean colour product) that provide a monthly synoptic view of the OSPAR Regions. Pre-analysis steps: Specificities related to data type",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures and PH2 indicator results (",
+      "context_window": "depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between pressures and PH2 indicator results ( Table e ). Despite relationships with environmental variables remaining",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators in terms of whether they examine year-round time-series, or productive months only).",
+      "context_window": "used to maintain consistency in results), spatial resolution (similar spatial resolution should be maintained across related indicators), and temporal resolution (consistency should be maintained across related indicators in terms of whether they examine year-round time-series, or productive months only). Integration of dataset originated from different chl-a methods: Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shallowing of the euphotic zone.",
+      "context_window": "decreased in shelf habitats due to increasing mixed layer depth over the last decades, phytoplankton biomass also decreased in oceanic habitats, associated with a decrease in light attenuation and thus shallowing of the euphotic zone. Surprisingly, zooplankton abundance in coastal and oceanic habitats was positively correlated with SST.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Size fractionated chl-a could also be useful to integrate Pelagic Habitats",
+      "context_window": "Furthermore, inclusion of size fractionated chl-a could be integrated to provide a more precise view of phytoplankton biomass. Size fractionated chl-a could also be useful to integrate Pelagic Habitats indicators (this indicator and the indicator ‘ Changes in plankton lifeforms",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Refine the links between PH2 and pressures to identify the origin of the pressures.",
+      "context_window": "eutrophication assessments at different spatial and temporal scales. • Refine the links between PH2 and pressures to identify the origin of the pressures. Inclusion of additional data sets: Recommendations were made in the IA2017 regarding spatial gaps in the Bay of Biscay and Iberian Coast",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and",
+      "context_window": "Results Changes in Phytoplankton Biomass and Zooplankton Abundance This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and local scales. Among the 64 COMP4 areas, significant changes were found in 39 assessment units for phytoplankton biomass (",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distributed in all areas (including reference stations and ocean colour data from remote sensing",
+      "context_window": "a are used in this assessment as they represent the two types of data most regularly distributed in all areas (including reference stations and ocean colour data from remote sensing algorithms). For data from discrete stations no spatial aggregation was required prior to time series",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "was observed in the Elbe and Ems plumes and in the fixed points in the Skagerrak (i.e., Slaggö, A17) and the Iberian coast (i.e., E1CU, E2CU, E3CU, E3GI and E2CO). Changes in Phytoplankton Biomass and Zooplankton Abundance Relation between pressures and indicator In the Greater North Sea, modelling results have revealed nutrients (dissolved inorganic phosphate,",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phosphorous than nitrogen occurred in both coastal and shelf habitats resulting in increasing N:P ratio.",
+      "context_window": "et al ., 2020). Faster reduction of phosphorous than nitrogen occurred in both coastal and shelf habitats resulting in increasing N:P ratio. In both habitats, these conditions occurred while phytoplankton biomass decreased.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton and Zooplankton Communities",
+      "context_window": "Further work is also needed to integrate pelagic habitat indicators (this indicator, and the indicators on ‘ Changes in Phytoplankton and Zooplankton Communities ’ and ‘ Changes in Plankton Diversity",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") / zooplankton abundance (",
+      "context_window": "Links between phytoplankton biomass ( Figure 3 ) / zooplankton abundance ( Figure 4 ) and climate change",
+      "page_number": 20,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "https://psl.noaa.gov/data/timeseries/AMO/",
+      "context_window": "amo National Oceanic and Atmospheric Administration (NOAA); https://psl.noaa.gov/data/timeseries/AMO/ Integration of indicator results: A primary objective of this indicator assessment was to integrate results to facilitate an understanding of",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators of other ecosystem components, in particular food web indicators.",
+      "context_window": "’) since this will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with the highest level of integration among the Pelagic Habitat indicators (McQuatters-Gollop",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "context_window": "National Oceanic and Atmospheric Administration (NOAA): https://www.ncdc.noaa.gov/teleconnections/nao/ Changes in Phytoplankton Biomass and Zooplankton Abundance on is a weather",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton biomass (",
+      "context_window": "This assessment identified changes in phytoplankton biomass and zooplankton abundance at regional and local scales. Among the 64 COMP4 areas, significant changes were found in 39 assessment units for phytoplankton biomass ( Figure 1 ) and in 22 assessment units for zooplankton abundance (",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be",
+      "context_window": "future. For instance, coastal data from fixed monitoring stations can be used to identify plankton indicators that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to indirect human pressures (e.g., fishing).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator",
+      "context_window": "The quality status had been defined by the change in indicator value for each plankton component according to assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator change (McQuatters-Gollop et al",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton",
+      "context_window": "positively correlated with SST. Results indicated that abundance increased as well as SST in coastal habitat whereas abundance and SST both decreased in oceanic habitats. Finally, decreases in zooplankton abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth.",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of",
+      "context_window": "Compare to relevant Pelagic Habitat and Food Web indicators to better address the extent of change; 3. Methodology improvement needs to be continued to define more precisely the natural cycle of phytoplankton biomass and zooplankton abundance; 4. Refine the use of satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to",
+      "context_window": "For instance, coastal data from fixed monitoring stations can be used to identify plankton indicators that could be linked to human pressures, while large-scale spatio-temporal data in the open ocean can be used to identify plankton indicators that could be linked to large-scale hydro-meteorological changes or to indirect human pressures (e.g., fishing). An important advantage of these plankton indicators is that the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication assessments at different spatial and temporal scales.",
+      "context_window": "• Refinement of the use of remote sensing data for improving coherence with the OSPAR eutrophication assessments at different spatial and temporal scales. • Refine the links between PH2 and pressures to identify the origin of the pressures.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary direction of change detected across assessment units and fixed-point stations within each pelagic",
+      "context_window": "Table a. To meet this objective, we focused on the primary direction of change detected across assessment units and fixed-point stations within each pelagic habitat category for each of the 2 plankton components highlighted in this assessment. We then reported",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental and human pressure data.",
+      "context_window": "For the future development of these indicators the definition of comparison periods will require knowledge of environmental and human pressure data. The OSPAR Quality Status Report 2010 highlighted the potential impacts of climate change and other human pressures on plankton communities. Phytoplankton chlorophyll-",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "PH2 and pressures.",
+      "context_window": "satellite data and improve coherence with the eutrophication assessments; and 5. Refine the links between PH2 and pressures. Knowledge Gaps (extended) Further development of this indicator is needed, particularly on the following points:",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Comparison to relevant Pelagic Habitat and Food Web indicators to facilitate of impacts through",
+      "context_window": "comparison between the different monitoring strategies. • Comparison to relevant Pelagic Habitat and Food Web indicators to facilitate of impacts through the food web. •",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quality status had been defined by the change in indicator value for each plankton component according to",
+      "context_window": "results of the indicator were summarised by their quality status per habitat within each OSPAR region. The quality status had been defined by the change in indicator value for each plankton component according to assessment threshold and / or the impact of anthropogenic pressures and climate change on the indicator change (McQuatters-Gollop",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Addressing PH2 quality status",
+      "context_window": "and so on. For locations where the net trend was increasing, we calculated the mean rank of each environmental variable and reported the variable with the lowest mean rank. Addressing PH2 quality status In order to deliver a clear and comprehensive message to the scientific and non-scientific community, the results of the indicator were summarised by their quality status per habitat within each OSPAR region.",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the plankton community and the marine ecosystem. The present assessment is based on the previous",
+      "context_window": "extreme change categories have increasing potential to represent significant modifications in the plankton community and the marine ecosystem. The present assessment is based on the previous assessment methodology with some improvements since IA2017. Most of these improvements have already been described and applied in the French national MSFD assessment (Duflos",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Planktonic organisms are highly sensitive to the physical and",
+      "context_window": "Drifting microscopic algae and animals form the base of the pelagic food web and are a direct or indirect food source for fish, shellfish and seabirds. Planktonic organisms are highly sensitive to the physical and chemical environmental parameters, including nutrient concentrations, salinity, and temperature. These",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in plankton lifeforms",
+      "context_window": "Size fractionated chl-a could also be useful to integrate Pelagic Habitats indicators (this indicator and the indicator ‘ Changes in plankton lifeforms ’) since a recommendation to investigate picoplankton and nanoplankton emerged in the previous version of PH1/FW5 indicator.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not",
+      "context_window": "assessment units representing coastal habitats within the OSPAR Region, in this case 12. Therefore, the spatial representativeness of the result would be 0,5. Note that fixed-point station datasets do not contribute to this score. Finally, to report links to environmental pressures which can drive changes in PH2 components for the net",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Improve coherence and integration with relevant eutrophication indicators:",
+      "context_window": "research on the use of primary production (FW2), as a direct indicator of carbon flow through the food web, should be explored. Improve coherence and integration with relevant eutrophication indicators: Being at the bottom of the trophic network, plankton is highly sensitive to their changing environment. In",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between",
+      "context_window": "abundance in shelf habitats of the Bay of Biscay and Iberian Coast were linked to increasing mixed layer depth. The quality status of the pelagic habitats within OSPAR Regions was addressed following the links between pressures and PH2 indicator results ( Table e",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "community structure which can therefore impact marine ecosystem structure and functioning.",
+      "context_window": "to environmental changes. Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton abundance”.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas",
+      "context_window": "across the majority of COMP4 units assessed. The assessment period (2015-2019) was marked by strong and significant decreases in phytoplankton biomass across 32 assessment units, while increases were documented in 7 areas. For zooplankton abundance, strong decreases occurred across 13 areas, whereas abundance increased in 8 areas and 1 area had no change. A large decrease in phytoplankton biomass occurred in open ocean waters (Atlantic areas and Bay of Biscay), in the English Channel and a few North",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PH2 is a bulk indicator, with",
+      "context_window": "will provide greater confidence in the assessment of changes in plankton, and in their integration with indicators of other ecosystem components, in particular food web indicators. PH2 is a bulk indicator, with the highest level of integration among the Pelagic Habitat indicators (McQuatters-Gollop et al",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d: Integration between PH2 phytoplankton and zooplankton trends within the different COMP4",
+      "context_window": "23 of 31 OSPAR Commission Figure d: Integration between PH2 phytoplankton and zooplankton trends within the different COMP4 assessment units and at the different fixed stations. Downward arrow represents simultaneous decrease",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton",
+      "context_window": "Indicators based on plankton can help identify changes in plankton quantity and community structure which can therefore impact marine ecosystem structure and functioning. The Pelagic Habitat indicator 2 (PH2) addresses “changes in phytoplankton biomass and zooplankton abundance”. This indicator provides a means of identifying changes (anomalies) in the quantities of two",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "temporal and spatial scales for plankton.",
+      "context_window": "., 2016). Robust statistical techniques exist to identify significant components of variation and changes at multiple temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "These changes may indicate major changes in the marine system",
+      "context_window": "Robust statistical techniques exist to identify significant components of variation and changes at multiple temporal and spatial scales for plankton. These changes may indicate major changes in the marine system involving consequences for other ecosystem components and processes. Significant changes in this indicator are evaluated through time-series analysis.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was",
+      "context_window": "was insignificant thus changes did not occur during the assessment period. Finally, decreasing mixed layer depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table c: list of environmental variables used as pressures.",
+      "context_window": "warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures. Variabl e name",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton",
+      "context_window": "linked pressures control were evidenced in the Celtic Seas and the Bay of Biscay and Iberian Coast. Increasing sea surface temperature (SST), decreasing wind speed, decrease of light attenuation and increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH.",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, a change in pH can adversely affect phytoplankton biomass.",
+      "context_window": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass. Table c: list of environmental variables used as pressures. Variabl",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the",
+      "context_window": "biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest dissolved inorganic carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously",
+      "page_number": 24,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine",
+      "context_window": "et al., 2013), from both natural and human-induced change, over a wide range of temporal and spatial scales. Increased pressure on marine systems is expected to lead to greater and more frequent changes at the base of the food web. Early Changes in Phytoplankton Biomass and Zooplankton Abundance",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and",
+      "context_window": "Increasing sea surface temperature (SST), decreasing wind speed, decrease of light attenuation and increasing mixed layer depth were linked to decrease in phytoplankton biomass and zooplankton abundance. Furthermore, decreases of phytoplankton biomass and zooplankton abundance in coastal and shelf habitats of the Celtic Seas were associated with decreasing pH. In the variable salinity, coastal and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "unclear, climate change and decrease in pH were linked with the indicators within coastal and shelf habitats",
+      "context_window": "Table e ). Despite relationships with environmental variables remaining unclear, climate change and decrease in pH were linked with the indicators within coastal and shelf habitats of the Celtic Seas and within coastal, shelf and Oceanic / beyond shelf habitats of the Bay of Biscay and Iberian Coast.",
+      "page_number": 24,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "can provide early warnings of change in the marine ecosystem (Batt",
+      "context_window": "marine ecosystems. Their short lifecycles and sensitivity to abiotic factors mean that plankton indicators can provide early warnings of change in the marine ecosystem (Batt et al., 2013), from both natural and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biomass are given in the subsection Relationship between environmental pressures and phytoplankton",
+      "context_window": "phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance). Changes in pH can be linked to changes in phytoplankton activity, since",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linked with increasing zooplankton abundance in shelf habitats.",
+      "context_window": "Finally, decreasing mixed layer depth (MLD) was linked with decreasing zooplankton abundance in coastal habitat, decreasing MLD was linked with increasing zooplankton abundance in shelf habitats. In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "for AMO and NAO which were pooled under the term \"Climate indices\". It is important to keep in mind that on the pressures presented below, pH is not an independent variable. Indeed, the pH of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and zooplankton abundance (further explanations on the relationship between pH and phytoplankton",
+      "context_window": "In the Celtic Seas, the current assessment showed that decreasing pH was most likely linked with phytoplankton biomass decrease in coastal habitat and in shelf habitats for both phytoplankton biomass and zooplankton abundance (further explanations on the relationship between pH and phytoplankton biomass are given in the subsection Relationship between environmental pressures and phytoplankton biomass / zooplankton abundance).",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Consequently, increases of phytoplankton biomass could increase seawater pH and vice versa. However, a change in pH can adversely affect phytoplankton biomass.",
+      "page_number": 13,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 4,
+    "keyword_counts": {
+      "climate change": 10,
+      "ocean acidification": 1,
+      "warming": 2,
+      "carbon dioxide": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 87,
+      "end_sentence": 92,
+      "sentence_count": 6,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 87,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 88,
+          "page_number": 3,
+          "content": "Phytoplankton biomass and zooplankton abundance changed significantly (2015-2019), most likely drive...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 89,
+          "page_number": 3,
+          "content": "by climate change and nutrients. Both components decreased in oceanic habitats (Bay of Biscay), and",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 90,
+          "page_number": 3,
+          "content": "variable salinity and shelf habitats (Greater North Sea, Celtic Seas).",
+          "full_length": 70
+        },
+        {
+          "sentence_id": 91,
+          "page_number": 3,
+          "content": "Plankton experienced contrasting trends",
+          "full_length": 39
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 1989,
+      "end_sentence": 2003,
+      "sentence_count": 15,
+      "page_range": "26-26",
+      "sentences": [
+        {
+          "sentence_id": 1989,
+          "page_number": 26,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1990,
+          "page_number": 26,
+          "content": "This assessment identifies changes in phytoplankton biomass and zooplankton abundance at regional",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 1991,
+          "page_number": 26,
+          "content": "(COMP4 assessment units) and local (discrete monitoring stations) scales.",
+          "full_length": 73
+        },
+        {
+          "sentence_id": 1992,
+          "page_number": 26,
+          "content": "The results highlight a general",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 1993,
+          "page_number": 26,
+          "content": "decrease in phytoplankton biomass and zooplankton abundance at the regional scale.",
+          "full_length": 82
+        }
+      ],
+      "total_sentences_in_section": 15
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 2004,
+      "end_sentence": 2018,
+      "sentence_count": 15,
+      "page_range": "26-26",
+      "sentences": [
+        {
+          "sentence_id": 2004,
+          "page_number": 26,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2005,
+          "page_number": 26,
+          "content": "This assessment identifies changes in phytoplankton biomass and zooplankton abundance at regional",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 2006,
+          "page_number": 26,
+          "content": "(COMP4 assessment units) and local (discrete monitoring stations) scales.",
+          "full_length": 73
+        },
+        {
+          "sentence_id": 2007,
+          "page_number": 26,
+          "content": "The results highlight a general",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 2008,
+          "page_number": 26,
+          "content": "decrease in phytoplankton biomass and zooplankton abundance at the regional scale.",
+          "full_length": 82
+        }
+      ],
+      "total_sentences_in_section": 15
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2185,
+      "end_sentence": 2357,
+      "sentence_count": 173,
+      "page_range": "28-31",
+      "sentences": [
+        {
+          "sentence_id": 2185,
+          "page_number": 28,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2186,
+          "page_number": 28,
+          "content": "Aardema, H. M., Rijkeboer, M., Lefebvre, A., Veen, A., & Kromkamp, J. C. (2019).",
+          "full_length": 80
+        },
+        {
+          "sentence_id": 2187,
+          "page_number": 28,
+          "content": "High-resolution underway",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 2188,
+          "page_number": 28,
+          "content": "measurements of phytoplankton photosynthesis and abundance as an innovative addition to water qualit...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 2189,
+          "page_number": 28,
+          "content": "monitoring programs.",
+          "full_length": 20
+        }
+      ],
+      "total_sentences_in_section": 173
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2426,
+    "chunks_selected": 97,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 87,
+        "end_sentence": 92,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 1989,
+        "end_sentence": 2003,
+        "sentence_count": 15
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 2004,
+        "end_sentence": 2018,
+        "sentence_count": 15
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2185,
+        "end_sentence": 2357,
+        "sentence_count": 173
+      }
+    ],
+    "total_excluded_sentences": 209
+  }
+}

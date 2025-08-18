@@ -1,0 +1,1867 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "global warming. The",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The Ocean Acidification Other Assessment found a pattern of widespread decline in pH",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Due to the high complexity of ocean acidification dynamics, it is important",
+      "context_window": "At a more localised scale, trends in pH can show greater variation, and increasing pH trends still persist. Due to the high complexity of ocean acidification dynamics, it is important for future assessments to focus on untangling the primary drivers responsible for the net decline in pH, and to determine how their influence varies across OSPAR Regions and pelagic habitat types.",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification in pelagic habitats",
+      "context_window": "Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification.",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much",
+      "context_window": "The increase in atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013; Beaugrand et al., 2013).",
+      "page_number": 69,
+      "keyword_hits": {
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "and a decrease in pH due to ocean acidification.",
+      "context_window": "Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013;",
+      "context_window": "atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013; Beaugrand et al., 2013). Climate change is also altering local climate conditions such as wind speed (e.g.,",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change",
+      "context_window": "Climate Change Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "Changes in the physicochemical conditions of the water column as a",
+      "context_window": "It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near future and persist for the longer term. Changes in the physicochemical conditions of the water column as a result of these pressures are likely to disturb plankton communities, impacting the relative abundance of plankton functional groups (e.g., diatoms vs dinoflagellates, holoplankton vs meroplankton) as well as the",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal",
+      "context_window": "for future assessments to focus on untangling the primary drivers responsible for the net decline in pH, and to determine how their influence varies across OSPAR Regions and pelagic habitat types. Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton diversity is not affected (",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Elevated sea surface temperature has impacted seasonal",
+      "context_window": "All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of pelagic food webs towards a less desirable state.",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean",
+      "context_window": "2015) is an important climate change-related stressor impacting plankton communities. The increase in atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013;",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic",
+      "context_window": "refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "There was high confidence for all time-series assessed and high spatial representation of assessment units. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "context_window": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The OSPAR",
+      "page_number": 38,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of",
+      "page_number": 71,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "pH measurements from long-term monitoring programmes, will help improve scientific understanding",
+      "context_window": "in situ pH measurements from long-term monitoring programmes, will help improve scientific understanding about the impacts of decreasing pH on the plankton community. Pelagic habitats in the Bay of Biscay and Iberian coast (Region IV)",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which",
+      "context_window": "For a detailed description of methods, please refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats.",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Open ocean areas are experiencing rates of pH decline between -0,001 to -0,002",
+      "context_window": "Other Assessment found a pattern of widespread decline in pH across all OSPAR Regions. Open ocean areas are experiencing rates of pH decline between -0,001 to -0,002 yr -1",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and oceanographic circulation, and pH (ocean acidification). See:",
+      "context_window": "Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change ,",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric",
+      "context_window": "Climate change Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystem resilience, including to the consequences of climate change and ocean acidification.",
+      "context_window": "S11.O1 : By 2025 OSPAR will develop a coordinated management approach to strengthening ecosystem resilience, including to the consequences of climate change and ocean acidification. There are several linkages to other thematic assessments, including Food webs",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "observed decline in pH.",
+      "context_window": "reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column (to be confirmed by the primary productivity food web indicator FW2), which could contribute to the observed decline in pH. Figure CC.3: PH3 indicator results displaying the most important environmental variable linked to trends in",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The Ocean Acidification Other Assessment found a pattern of widespread decline in pH across all OSPAR Regions.",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "refer to the PH2 indicator assessment",
+      "context_window": "phytoplankton biomass (A) and zooplankton abundance (B). For a detailed description of methods, please refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes",
+      "context_window": "Most importantly, pressures on pelagic systems are increased by Climate change Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See:",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "about the impacts of decreasing pH on the plankton community.",
+      "context_window": "situ pH measurements from long-term monitoring programmes, will help improve scientific understanding about the impacts of decreasing pH on the plankton community. Pelagic habitats in the Bay of Biscay and Iberian coast (Region IV) No determination could be made for variable salinity habitats in Region IV since they were not assessed by",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel",
+      "context_window": "habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The",
+      "page_number": 71,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make",
+      "context_window": "holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make them more vulnerable to food limitation (Mayor et al., 2015; Pedersen et al., 2014). The confidence assessment for the PH1/FW5 indicator revealed generally high spatial and temporal confidence among the",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton",
+      "context_window": "to determine how their influence varies across OSPAR Regions and pelagic habitat types. Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton diversity is not affected ( Figure CC.3A",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reductions in pH may have also been a factor within coastal and shelf habitats; however, it is important to",
+      "context_window": "It is likely that larval fish are also currently at levels below those required to become a limiting influence on zooplankton abundance. Reductions in pH may have also been a factor within coastal and shelf habitats; however, it is important to note that this inference was based solely on modelled data. This result should be interpreted with caution,",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Assessment , Ocean Acidification Input of nutrients - diffuse sources, point sources, atmospheric deposition [Substances, litter and energy]:",
+      "page_number": 12,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in",
+      "context_window": "PH2 indicator.  It is important to note that pH is not an independent variable. Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of",
+      "context_window": "et al ., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Further investigation, taking advantage of",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The climate change pressures",
+      "context_window": "the current available evidence were filtered out from the relevant Sankey diagram; the activity-pressure links listed below relate to the unfiltered outputs used in the Exposure assessment. The climate change pressures are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in upwelling intensity.",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest",
+      "context_window": "(Beare et al ., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming.",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "carbon dioxide from the atmosphere (Tweddle et al., 2018).",
+      "context_window": "Phytoplankton are also a major contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing carbon dioxide from the atmosphere (Tweddle et al., 2018). At the same time, as a food source for pelagic herbivores (including larval stages), phytoplankton also form the basis of marine food webs (‘regulation and",
+      "page_number": 50,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "trend in phytoplankton biomass detected by the PH2 indicator.",
+      "context_window": "-1 within OSPAR Region III. This decreasing trend in pH was strongly linked with the decreasing trend in phytoplankton biomass detected by the PH2 indicator. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column",
+      "context_window": "Figure CC.2B ) within shelf habitats of the Celtic Seas. A reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column (to be confirmed by the primary productivity food web indicator FW2), which could contribute to the observed decline in pH.",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea water.",
+      "context_window": "indicator.  It is important to note that pH is not an independent variable. Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased primary productivity reduces DIC concentrations and potentially increases pH.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Climate Change Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change and the Ocean Acidification Other Assessment describe the pressures on pelagic habitats.",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in",
+      "context_window": "listed below relate to the unfiltered outputs used in the Exposure assessment. The climate change pressures are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in upwelling intensity. •",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide, the main driver of global warming.",
+      "context_window": "., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Further investigation, taking advantage of in",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "It is likely that this apparent relationship between pH and holoplankton abundance is",
+      "context_window": "a large proportion of holoplankton abundance and are therefore unlikely to be responsible for driving net decreasing trends. It is likely that this apparent relationship between pH and holoplankton abundance is driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013).",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean warming due to",
+      "context_window": "In addition, through processes of ocean-atmosphere gas exchange regulation, the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats (Dickey-Collas et al., 2017).",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change , Climate Change Thematic",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification (",
+      "context_window": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification ( Climate Change Thematic Assessment ,",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 4,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "of atmospheric carbon dioxide.",
+      "context_window": "along the near-shore coastline of the English Channel and Bay of Biscay. The rate of change also varies with depth, with the fastest decline occurring at the surface, due primarily to the influence of atmospheric carbon dioxide. At a more localised scale, trends in pH can show greater variation, and increasing pH trends still persist.",
+      "page_number": 71,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near",
+      "context_window": "warming, nutrients), and when there was high spatial and temporal confidence among the evaluated time-series. It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near future and persist for the longer term. Changes in the physicochemical conditions of the water column as a",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification, the input of nutrients and organic",
+      "context_window": "pelagic habitats and associated ecosystem services (with consequences for societal drivers, e.g., food, energy, space, health, biodiversity). Climate change and ocean acidification, the input of nutrients and organic matter, and changes to hydrological conditions are the predominant pressures. Following a Driver-Activity-",
+      "page_number": 62,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean",
+      "context_window": "Climate Change Thematic Assessment , Ocean Acidification .",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The OSPAR Ocean Acidification Other Assessment measured a significant decrease in pH at a rate of -0,0019 yr",
+      "page_number": 38,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating",
+      "context_window": "addition, zooplankton, through processes such as the export of particles by grazing, the fractioning of sinking particles, and the transport of particulate organic carbon at depth through their diel vertical migration, play a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Regarding plankton",
+      "context_window": "a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton diversity, species composition and abundance are influenced by changes in physical and chemical environmental conditions.",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "pelagic gastropods and other calcareous zooplankton (Beare et al., 2013), these organisms do not contribute",
+      "context_window": "lifeform is primarily composed of copepods. While negative changes in pH can inhibit shell formation in pelagic gastropods and other calcareous zooplankton (Beare et al., 2013), these organisms do not contribute a large proportion of holoplankton abundance and are therefore unlikely to be responsible for driving net decreasing trends.",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats",
+      "context_window": "the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats (Dickey-Collas et al., 2017). Other ecosystem services that are underpinned by the physical and biological processes taking place in the",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "planktonic lifeforms have experienced decreasing long-term abundance trends, indicating a reduction in the",
+      "context_window": "zooplankton abundance within shelf and oceanic pelagic habitats. Within these offshore areas nearly all planktonic lifeforms have experienced decreasing long-term abundance trends, indicating a reduction in the energy available to sustain higher trophic levels. Unfortunately, no data were available to evaluate any",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate",
+      "context_window": "• Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification ( Climate Change Thematic Assessment",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 4,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change Thematic Assessment , Ocean Acidification – Other Assessment).",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively.",
+      "context_window": "reduction in anthropogenic nutrient inputs, more so for phosphate than for nitrate. For meroplankton and holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary productivity reduces DIC concentrations and potentially increases pH.",
+      "context_window": "sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased primary productivity reduces DIC concentrations and potentially increases pH. From the analysis performed here it is not possible to determine if the net change in phytoplankton biomass is the result of changes in pH.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PH3 indicator results displaying the most important environmental variable linked to trends in",
+      "context_window": "observed decline in pH. Figure CC.3: PH3 indicator results displaying the most important environmental variable linked to trends in phytoplankton diversity (A) and zooplankton diversity (B). For a detailed description of methods, please refer",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reductions in pH were also associated with the decreasing trajectories detected for both phytoplankton and",
+      "context_window": "No data were available to assess gelatinous zooplankton. Reductions in pH were also associated with the decreasing trajectories detected for both phytoplankton and zooplankton components of the PH2",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Downward trends in shelf and offshore areas",
+      "context_window": "Linkage between trends in the indicator and pressures showed some variability among lifeforms but was mostly consistent within pelagic habitats. Downward trends in shelf and offshore areas were supported by literature (e.g., Edwards et al",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Eutrophication and Climate Change and the Ocean Acidification",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is",
+      "context_window": "trend in phytoplankton biomass detected by the PH2 indicator. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. This general statement also applies to",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For meroplankton and",
+      "context_window": "OSPAR Commission reduction in anthropogenic nutrient inputs, more so for phosphate than for nitrate. For meroplankton and holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic habitats, and the planktonic organisms they support, provide most of the energy responsible for",
+      "context_window": "ecosystem productivity in shelf areas. Q4. How does this field affect the overall quality status? Pelagic habitats, and the planktonic organisms they support, provide most of the energy responsible for sustaining marine food webs. Therefore, large-scale shifts in plankton have the potential to impact entire",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "necessary to quantify phytoplankton’s contribution to pH variability.",
+      "context_window": "However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. This general statement also applies to the other OSPAR Regions. The second plankton component of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by",
+      "context_window": "decreasing trends. It is likely that this apparent relationship between pH and holoplankton abundance is driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013). In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light",
+      "page_number": 72,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "the marine sediment.",
+      "context_window": "changes in the timing and decrease in the magnitude of phytoplankton blooms, which in turn may lead to a decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from the marine sediment. Changes in coupling between pelagic and benthic systems can in turn lead to a decrease in benthic productivity and reproduction.",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light",
+      "context_window": "driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013). In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light attenuation. However, climate change is not always responsible for driving changes in these variables.",
+      "page_number": 72,
+      "keyword_hits": {
+        "climate change": 2,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "changes in the abundance of important plankton functional groups, the abundance of copepods and biomass",
+      "context_window": "quality status of marine ecosystems. The assessments presented in the current edition of the QSR report on changes in the abundance of important plankton functional groups, the abundance of copepods and biomass of phytoplankton, and finally changes in phytoplankton and zooplankton community composition through species turnover and changes in dominance.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sequestration. Many oceanic ecosystem services are mediated by plankton (both phytoplankton and",
+      "context_window": "the fluxes of matter and energy that sustain food webs, the interactions between different habitats (e.g., benthic-pelagic coupling), climate regulation through atmospheric oxygen production, and carbon sequestration. Many oceanic ecosystem services are mediated by plankton (both phytoplankton and zooplankton) and thus plankton are also used to track changes in upper trophic levels and top-down and bottom-up pressures.",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing",
+      "context_window": "dimethyl sulphide (DMS), important for the process of cloud formation. Phytoplankton are also a major contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing carbon dioxide from the atmosphere (Tweddle et al., 2018). At the same time, as a food source for pelagic",
+      "page_number": 50,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "results from the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater",
+      "context_window": "and the Bay of Biscay and Iberian Coast (OSPAR Regions II and IV, respectively). This is a hybrid figure showing results from the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. In the Bay of Biscay and Iberian Coast Region, shelf areas exhibited declining holoplankton abundance from",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment describe the pressures on pelagic habitats.",
+      "context_window": "Ocean Acidification Other Assessment describe the pressures on pelagic habitats. The Radioactive Substances Thematic Assessment identifies inputs of radionuclides from a range of human activities but has concluded that their current levels",
+      "page_number": 65,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton",
+      "context_window": "et al ., 2013). Over the five-year assessment period for the QSR, the PH2 indicator, Changes in Phytoplankton Biomass and Zooplankton Abundance , also detected this decline in phytoplankton biomass. Within variable",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "the context of climate change.",
+      "context_window": "declines in phytoplankton detected throughout much of the OSPAR Maritime Area, it is increasingly important for future assessments to consider the links between trends in phytoplankton and zooplankton in the context of climate change. Global efforts to slow climate change will probably be the best mechanism to counter widespread changes in plankton communities occurring across these offshore pelagic habitats.",
+      "page_number": 73,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "described in detail below. For further information, please consult the PH3 indicator assessment,",
+      "context_window": "A pilot assessment of the PH3 indicator was also produced for the Greater North Sea (OSPAR Region II). However, since the PH3 indicator is only a candidate indicator in the present region, the results are not described in detail below. For further information, please consult the PH3 indicator assessment, Changes in Plankton Diversity",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduction in the concentration of dissolved oxygen leading to negative change in plankton",
+      "context_window": "OSPAR Commission • Reduction in the concentration of dissolved oxygen leading to negative change in plankton functional groups or lifeforms; •",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alterations in pelagic habitats and marine ecosystem functioning (OSPAR, 2017i).",
+      "context_window": "Additionally, OSPAR assessments of planktonic lifeforms (functional groups) showed that plankton communities (phytoplankton and zooplankton) had experienced significant changes, indicating possible alterations in pelagic habitats and marine ecosystem functioning (OSPAR, 2017i). However, although these assessments demonstrated that important changes had occurred, they were only preliminary assessments,",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation).",
+      "context_window": "materials) (Hays et al., 2005). In addition, through processes of ocean-atmosphere gas exchange regulation, the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Climate Change and ocean acidification pressures, inputs of nutrients and organic matter, input of",
+      "context_window": "identifies inputs of radionuclides from a range of human activities but has concluded that their current levels do not exert significant radiological impacts on biodiversity. Climate Change and ocean acidification pressures, inputs of nutrients and organic matter, input of radionuclides and changes to hydrological conditions have some of the highest exposure scores, demonstrating the ubiquitous nature of some of these pressures in the North-East Atlantic.",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the",
+      "context_window": "For the PH2 indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing concentrations of dissolved inorganic phosphate.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which can have a top-down impact on plankton.",
+      "context_window": "of change, such as the management of carbon emissions, nutrient inputs (including through the WFD, MSFD, UWWTD and Nitrates Directive) as well as fisheries management measures at the regional and national scales which can have a top-down impact on plankton. Many of the policies are applicable to EU waters, although some such as the WFD are limited to the coastal zone.",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the increasing trend in sea surface temperature.",
+      "context_window": "The current assessment has identified changes in plankton community composition which are strongly linked with the increasing trend in sea surface temperature. The results from the pilot assessment of the PH3 candidate indicator in the Greater North Sea also support this conclusion.",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing",
+      "context_window": "PH2 indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing concentrations of dissolved inorganic phosphate. The PH2 indicator also detected a significant downward",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). The decrease in pH also co-occurred with a decline in phytoplankton",
+      "context_window": "diversity is not affected ( Figure CC.3A ). The decrease in pH also co-occurred with a decline in phytoplankton 72 of 76 OSPAR Commission",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere interface, such as photochemical and hydrolytic degeneration reactions. Phytoplankton,",
+      "context_window": "include remineralisation by pelagic communities of microbes and accumulation in biomass. As for more persistent contaminants, their toxicity can be reduced through abiotic processes occurring at the ocean- atmosphere interface, such as photochemical and hydrolytic degeneration reactions. Phytoplankton, zooplankton and fish also contribute, albeit to a lesser extent, to further waste degradation in the water column.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021).",
+      "context_window": "particles, and the transport of particulate organic carbon at depth through their diel vertical migration, play a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton diversity, species composition and abundance are influenced by changes in physical and chemical",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Quantify the effects of pressures on plankton as natural capital and integrate into policy",
+      "context_window": "(OSPAR Science Agenda/ OSA / Knowledge gap); • Quantify the effects of pressures on plankton as natural capital and integrate into policy development (OSPAR Science Agenda/ OSA / Knowledge gap); •",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regulation. Some phytoplankton species produce dimethylsulphoniopropionate (DMSP), a precursor to",
+      "context_window": "cycle and functions of the marine ecosystem and beyond. Phytoplankton are one of the main marine ecosystem components that contribute most to providing the ecosystem service of (global) climate regulation. Some phytoplankton species produce dimethylsulphoniopropionate (DMSP), a precursor to dimethyl sulphide (DMS), important for the process of cloud formation. Phytoplankton are also a major",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This section evaluates the impact that changes in the environmental state of pelagic habitats, as described in",
+      "context_window": "between physical and biological systems that characterise pelagic habitats means that adverse changes in pelagic characteristics can affect the provision of ecosystem services to the entire marine ecosystem. This section evaluates the impact that changes in the environmental state of pelagic habitats, as described in the State",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This human-induced climate change has affected pelagic systems through pressures in the",
+      "context_window": "from the burning of fossil fuels (for energy and transport), industrialised farming practices and deforestation. This human-induced climate change has affected pelagic systems through pressures in the physical and chemical ocean climate at multiple scales. See: Climate Change Thematic Assessment",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification",
+      "context_window": "activities. The relative ranking of pressures changes when impact is considered. Climate change and ocean acidification pressures rank highly (see the Climate Change Thematic Assessment",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from",
+      "context_window": "A climate change-related increase in water temperature may cause changes in the timing and decrease in the magnitude of phytoplankton blooms, which in turn may lead to a decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from the marine sediment. Changes in coupling between pelagic and benthic systems can in turn lead to a decrease",
+      "page_number": 50,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "holoplankton, to pH.",
+      "context_window": "indicator showed that dinoflagellates, holoplankton, large copepods, and small copepods all underwent significant downward trends linked to rising sea surface temperature, and, for holoplankton, to pH. No data were available for gelatinous zooplankton. There was high confidence for all",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "in Phytoplankton Biomass and Zooplankton Abundance and PH3 Changes in Plankton Diversity also concluded that climate change has impacted benthic-pelagic coupling in coastal and shelf areas over the past",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Considering the influence of climate change on nutrient availability in stratified waters and the co-occurring",
+      "context_window": "Indicator assessment results reveal that climate change is probably the most important pressure currently impacting plankton communities, with the strongest effects detected in shelf and oceanic habitats. Considering the influence of climate change on nutrient availability in stratified waters and the co-occurring declines in phytoplankton detected throughout much of the OSPAR Maritime Area, it is increasingly important for future assessments to consider the links between trends in phytoplankton and zooplankton in",
+      "page_number": 73,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Biodiversity indicators have revealed changes in sea surface",
+      "context_window": "stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of pelagic food webs towards a less desirable state. Biodiversity indicators have revealed changes in sea surface temperature from 1960 to 2019 linked to widespread declines in the biomass and abundance of phytoplankton and zooplankton, particularly for shelf and oceanic / beyond shelf areas.",
+      "page_number": 68,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "global warming. The",
+      "context_window": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The Ocean Acidification Other Assessment found a pattern of widespread decline in pH",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification in pelagic habitats",
+      "context_window": "Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification.",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "and a decrease in pH due to ocean acidification.",
+      "context_window": "Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change",
+      "context_window": "Climate Change Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 2
+      }
+    },
+    {
+      "core_sentence": "Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal",
+      "context_window": "for future assessments to focus on untangling the primary drivers responsible for the net decline in pH, and to determine how their influence varies across OSPAR Regions and pelagic habitat types. Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton diversity is not affected (",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean",
+      "context_window": "2015) is an important climate change-related stressor impacting plankton communities. The increase in atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013;",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "There was high confidence for all time-series assessed and high spatial representation of assessment units. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "context_window": "probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of",
+      "page_number": 71,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which",
+      "context_window": "For a detailed description of methods, please refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats.",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and oceanographic circulation, and pH (ocean acidification). See:",
+      "context_window": "Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change ,",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystem resilience, including to the consequences of climate change and ocean acidification.",
+      "context_window": "S11.O1 : By 2025 OSPAR will develop a coordinated management approach to strengthening ecosystem resilience, including to the consequences of climate change and ocean acidification. There are several linkages to other thematic assessments, including Food webs",
+      "page_number": 54,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The Ocean Acidification Other Assessment found a pattern of widespread decline in pH across all OSPAR Regions.",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes",
+      "context_window": "Most importantly, pressures on pelagic systems are increased by Climate change Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See:",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel",
+      "context_window": "habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The",
+      "page_number": 71,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton",
+      "context_window": "to determine how their influence varies across OSPAR Regions and pelagic habitat types. Indicator assessment results suggest that in the Celtic Seas, declining abundance of holoplankton in coastal and shelf areas between 1960 and 2019 may also be linked to effects of decreasing pH, while phytoplankton diversity is not affected ( Figure CC.3A",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Assessment , Ocean Acidification Input of nutrients - diffuse sources, point sources, atmospheric deposition [Substances, litter and energy]:",
+      "page_number": 12,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of",
+      "context_window": "et al ., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Further investigation, taking advantage of",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest",
+      "context_window": "(Beare et al ., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming.",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "trend in phytoplankton biomass detected by the PH2 indicator.",
+      "context_window": "-1 within OSPAR Region III. This decreasing trend in pH was strongly linked with the decreasing trend in phytoplankton biomass detected by the PH2 indicator. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sea water.",
+      "context_window": "indicator.  It is important to note that pH is not an independent variable. Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased primary productivity reduces DIC concentrations and potentially increases pH.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change and the Ocean Acidification Other Assessment describe the pressures on pelagic habitats.",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "It is likely that this apparent relationship between pH and holoplankton abundance is",
+      "context_window": "a large proportion of holoplankton abundance and are therefore unlikely to be responsible for driving net decreasing trends. It is likely that this apparent relationship between pH and holoplankton abundance is driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013).",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change , Climate Change Thematic",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "of atmospheric carbon dioxide.",
+      "context_window": "along the near-shore coastline of the English Channel and Bay of Biscay. The rate of change also varies with depth, with the fastest decline occurring at the surface, due primarily to the influence of atmospheric carbon dioxide. At a more localised scale, trends in pH can show greater variation, and increasing pH trends still persist.",
+      "page_number": 71,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification, the input of nutrients and organic",
+      "context_window": "pelagic habitats and associated ecosystem services (with consequences for societal drivers, e.g., food, energy, space, health, biodiversity). Climate change and ocean acidification, the input of nutrients and organic matter, and changes to hydrological conditions are the predominant pressures. Following a Driver-Activity-",
+      "page_number": 62,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The OSPAR Ocean Acidification Other Assessment measured a significant decrease in pH at a rate of -0,0019 yr",
+      "page_number": 38,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Regarding plankton",
+      "context_window": "a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton diversity, species composition and abundance are influenced by changes in physical and chemical environmental conditions.",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats",
+      "context_window": "the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats (Dickey-Collas et al., 2017). Other ecosystem services that are underpinned by the physical and biological processes taking place in the",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate",
+      "context_window": "• Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification ( Climate Change Thematic Assessment",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 4,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively.",
+      "context_window": "reduction in anthropogenic nutrient inputs, more so for phosphate than for nitrate. For meroplankton and holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PH3 indicator results displaying the most important environmental variable linked to trends in",
+      "context_window": "observed decline in pH. Figure CC.3: PH3 indicator results displaying the most important environmental variable linked to trends in phytoplankton diversity (A) and zooplankton diversity (B). For a detailed description of methods, please refer",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Downward trends in shelf and offshore areas",
+      "context_window": "Linkage between trends in the indicator and pressures showed some variability among lifeforms but was mostly consistent within pelagic habitats. Downward trends in shelf and offshore areas were supported by literature (e.g., Edwards et al",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is",
+      "context_window": "trend in phytoplankton biomass detected by the PH2 indicator. However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. This general statement also applies to",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pelagic habitats, and the planktonic organisms they support, provide most of the energy responsible for",
+      "context_window": "ecosystem productivity in shelf areas. Q4. How does this field affect the overall quality status? Pelagic habitats, and the planktonic organisms they support, provide most of the energy responsible for sustaining marine food webs. Therefore, large-scale shifts in plankton have the potential to impact entire",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by",
+      "context_window": "decreasing trends. It is likely that this apparent relationship between pH and holoplankton abundance is driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013). In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light",
+      "page_number": 72,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light",
+      "context_window": "driven by the decline in phytoplankton biomass and the resulting decrease in the uptake of DIC by phytoplankton, or by the combined effects of other climatic, chemical, and biotic drivers (Beare et al., 2013). In addition to driving ocean warming, climate change can lead to changes in sea surface salinity and light attenuation. However, climate change is not always responsible for driving changes in these variables.",
+      "page_number": 72,
+      "keyword_hits": {
+        "climate change": 2,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "sequestration. Many oceanic ecosystem services are mediated by plankton (both phytoplankton and",
+      "context_window": "the fluxes of matter and energy that sustain food webs, the interactions between different habitats (e.g., benthic-pelagic coupling), climate regulation through atmospheric oxygen production, and carbon sequestration. Many oceanic ecosystem services are mediated by plankton (both phytoplankton and zooplankton) and thus plankton are also used to track changes in upper trophic levels and top-down and bottom-up pressures.",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "results from the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater",
+      "context_window": "and the Bay of Biscay and Iberian Coast (OSPAR Regions II and IV, respectively). This is a hybrid figure showing results from the common indicator assessment for the Celtic Seas and for the pilot assessment for the Greater North Sea and the Bay of Biscay and Iberian Coast. In the Bay of Biscay and Iberian Coast Region, shelf areas exhibited declining holoplankton abundance from",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Changes in Phytoplankton",
+      "context_window": "et al ., 2013). Over the five-year assessment period for the QSR, the PH2 indicator, Changes in Phytoplankton Biomass and Zooplankton Abundance , also detected this decline in phytoplankton biomass. Within variable",
+      "page_number": 30,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the context of climate change.",
+      "context_window": "declines in phytoplankton detected throughout much of the OSPAR Maritime Area, it is increasingly important for future assessments to consider the links between trends in phytoplankton and zooplankton in the context of climate change. Global efforts to slow climate change will probably be the best mechanism to counter widespread changes in plankton communities occurring across these offshore pelagic habitats.",
+      "page_number": 73,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Reduction in the concentration of dissolved oxygen leading to negative change in plankton",
+      "context_window": "OSPAR Commission • Reduction in the concentration of dissolved oxygen leading to negative change in plankton functional groups or lifeforms; •",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation).",
+      "context_window": "materials) (Hays et al., 2005). In addition, through processes of ocean-atmosphere gas exchange regulation, the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the",
+      "context_window": "For the PH2 indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing concentrations of dissolved inorganic phosphate.",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with the increasing trend in sea surface temperature.",
+      "context_window": "The current assessment has identified changes in plankton community composition which are strongly linked with the increasing trend in sea surface temperature. The results from the pilot assessment of the PH3 candidate indicator in the Greater North Sea also support this conclusion.",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). The decrease in pH also co-occurred with a decline in phytoplankton",
+      "context_window": "diversity is not affected ( Figure CC.3A ). The decrease in pH also co-occurred with a decline in phytoplankton 72 of 76 OSPAR Commission",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021).",
+      "context_window": "particles, and the transport of particulate organic carbon at depth through their diel vertical migration, play a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton diversity, species composition and abundance are influenced by changes in physical and chemical",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "regulation. Some phytoplankton species produce dimethylsulphoniopropionate (DMSP), a precursor to",
+      "context_window": "cycle and functions of the marine ecosystem and beyond. Phytoplankton are one of the main marine ecosystem components that contribute most to providing the ecosystem service of (global) climate regulation. Some phytoplankton species produce dimethylsulphoniopropionate (DMSP), a precursor to dimethyl sulphide (DMS), important for the process of cloud formation. Phytoplankton are also a major",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This human-induced climate change has affected pelagic systems through pressures in the",
+      "context_window": "from the burning of fossil fuels (for energy and transport), industrialised farming practices and deforestation. This human-induced climate change has affected pelagic systems through pressures in the physical and chemical ocean climate at multiple scales. See: Climate Change Thematic Assessment",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from",
+      "context_window": "A climate change-related increase in water temperature may cause changes in the timing and decrease in the magnitude of phytoplankton blooms, which in turn may lead to a decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from the marine sediment. Changes in coupling between pelagic and benthic systems can in turn lead to a decrease",
+      "page_number": 50,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in Plankton Diversity",
+      "context_window": "in Phytoplankton Biomass and Zooplankton Abundance and PH3 Changes in Plankton Diversity also concluded that climate change has impacted benthic-pelagic coupling in coastal and shelf areas over the past",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Biodiversity indicators have revealed changes in sea surface",
+      "context_window": "stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of pelagic food webs towards a less desirable state. Biodiversity indicators have revealed changes in sea surface temperature from 1960 to 2019 linked to widespread declines in the biomass and abundance of phytoplankton and zooplankton, particularly for shelf and oceanic / beyond shelf areas.",
+      "page_number": 68,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Considering the influence of climate change on nutrient availability in stratified waters and the co-occurring",
+      "context_window": "Indicator assessment results reveal that climate change is probably the most important pressure currently impacting plankton communities, with the strongest effects detected in shelf and oceanic habitats. Considering the influence of climate change on nutrient availability in stratified waters and the co-occurring declines in phytoplankton detected throughout much of the OSPAR Maritime Area, it is increasingly important for future assessments to consider the links between trends in phytoplankton and zooplankton in",
+      "page_number": 73,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "holoplankton, to pH.",
+      "context_window": "indicator showed that dinoflagellates, holoplankton, large copepods, and small copepods all underwent significant downward trends linked to rising sea surface temperature, and, for holoplankton, to pH. No data were available for gelatinous zooplankton. There was high confidence for all",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification",
+      "context_window": "activities. The relative ranking of pressures changes when impact is considered. Climate change and ocean acidification pressures rank highly (see the Climate Change Thematic Assessment",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 2,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "This section evaluates the impact that changes in the environmental state of pelagic habitats, as described in",
+      "context_window": "between physical and biological systems that characterise pelagic habitats means that adverse changes in pelagic characteristics can affect the provision of ecosystem services to the entire marine ecosystem. This section evaluates the impact that changes in the environmental state of pelagic habitats, as described in the State",
+      "page_number": 46,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Quantify the effects of pressures on plankton as natural capital and integrate into policy",
+      "context_window": "(OSPAR Science Agenda/ OSA / Knowledge gap); • Quantify the effects of pressures on plankton as natural capital and integrate into policy development (OSPAR Science Agenda/ OSA / Knowledge gap); •",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "atmosphere interface, such as photochemical and hydrolytic degeneration reactions. Phytoplankton,",
+      "context_window": "include remineralisation by pelagic communities of microbes and accumulation in biomass. As for more persistent contaminants, their toxicity can be reduced through abiotic processes occurring at the ocean- atmosphere interface, such as photochemical and hydrolytic degeneration reactions. Phytoplankton, zooplankton and fish also contribute, albeit to a lesser extent, to further waste degradation in the water column.",
+      "page_number": 49,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing",
+      "context_window": "PH2 indicator, a strong decreasing trend in phytoplankton biomass was observed. Modelling of the linkage between environmental pressures and phytoplankton biomass attributed this change to decreasing concentrations of dissolved inorganic phosphate. The PH2 indicator also detected a significant downward",
+      "page_number": 36,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which can have a top-down impact on plankton.",
+      "context_window": "of change, such as the management of carbon emissions, nutrient inputs (including through the WFD, MSFD, UWWTD and Nitrates Directive) as well as fisheries management measures at the regional and national scales which can have a top-down impact on plankton. Many of the policies are applicable to EU waters, although some such as the WFD are limited to the coastal zone.",
+      "page_number": 59,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change and ocean acidification pressures, inputs of nutrients and organic matter, input of",
+      "context_window": "identifies inputs of radionuclides from a range of human activities but has concluded that their current levels do not exert significant radiological impacts on biodiversity. Climate Change and ocean acidification pressures, inputs of nutrients and organic matter, input of radionuclides and changes to hydrological conditions have some of the highest exposure scores, demonstrating the ubiquitous nature of some of these pressures in the North-East Atlantic.",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "alterations in pelagic habitats and marine ecosystem functioning (OSPAR, 2017i).",
+      "context_window": "Additionally, OSPAR assessments of planktonic lifeforms (functional groups) showed that plankton communities (phytoplankton and zooplankton) had experienced significant changes, indicating possible alterations in pelagic habitats and marine ecosystem functioning (OSPAR, 2017i). However, although these assessments demonstrated that important changes had occurred, they were only preliminary assessments,",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "described in detail below. For further information, please consult the PH3 indicator assessment,",
+      "context_window": "A pilot assessment of the PH3 indicator was also produced for the Greater North Sea (OSPAR Region II). However, since the PH3 indicator is only a candidate indicator in the present region, the results are not described in detail below. For further information, please consult the PH3 indicator assessment, Changes in Plankton Diversity",
+      "page_number": 26,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 77,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Assessment describe the pressures on pelagic habitats.",
+      "context_window": "Ocean Acidification Other Assessment describe the pressures on pelagic habitats. The Radioactive Substances Thematic Assessment identifies inputs of radionuclides from a range of human activities but has concluded that their current levels",
+      "page_number": 65,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing",
+      "context_window": "dimethyl sulphide (DMS), important for the process of cloud formation. Phytoplankton are also a major contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing carbon dioxide from the atmosphere (Tweddle et al., 2018). At the same time, as a food source for pelagic",
+      "page_number": 50,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "changes in the abundance of important plankton functional groups, the abundance of copepods and biomass",
+      "context_window": "quality status of marine ecosystems. The assessments presented in the current edition of the QSR report on changes in the abundance of important plankton functional groups, the abundance of copepods and biomass of phytoplankton, and finally changes in phytoplankton and zooplankton community composition through species turnover and changes in dominance.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the marine sediment.",
+      "context_window": "changes in the timing and decrease in the magnitude of phytoplankton blooms, which in turn may lead to a decrease in the transport of organic matter to the benthos and reduce the release of inorganic nutrients from the marine sediment. Changes in coupling between pelagic and benthic systems can in turn lead to a decrease in benthic productivity and reproduction.",
+      "page_number": 50,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "necessary to quantify phytoplankton’s contribution to pH variability.",
+      "context_window": "However, for reasons described above, the relationship between pH and phytoplankton biomass should be evaluated cautiously and further analysis is necessary to quantify phytoplankton’s contribution to pH variability. This general statement also applies to the other OSPAR Regions. The second plankton component of the",
+      "page_number": 38,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For meroplankton and",
+      "context_window": "OSPAR Commission reduction in anthropogenic nutrient inputs, more so for phosphate than for nitrate. For meroplankton and holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Eutrophication and Climate Change and the Ocean Acidification",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Reductions in pH were also associated with the decreasing trajectories detected for both phytoplankton and",
+      "context_window": "No data were available to assess gelatinous zooplankton. Reductions in pH were also associated with the decreasing trajectories detected for both phytoplankton and zooplankton components of the PH2",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "primary productivity reduces DIC concentrations and potentially increases pH.",
+      "context_window": "sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased primary productivity reduces DIC concentrations and potentially increases pH. From the analysis performed here it is not possible to determine if the net change in phytoplankton biomass is the result of changes in pH.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change Thematic Assessment , Ocean Acidification – Other Assessment).",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "planktonic lifeforms have experienced decreasing long-term abundance trends, indicating a reduction in the",
+      "context_window": "zooplankton abundance within shelf and oceanic pelagic habitats. Within these offshore areas nearly all planktonic lifeforms have experienced decreasing long-term abundance trends, indicating a reduction in the energy available to sustain higher trophic levels. Unfortunately, no data were available to evaluate any",
+      "page_number": 34,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic gastropods and other calcareous zooplankton (Beare et al., 2013), these organisms do not contribute",
+      "context_window": "lifeform is primarily composed of copepods. While negative changes in pH can inhibit shell formation in pelagic gastropods and other calcareous zooplankton (Beare et al., 2013), these organisms do not contribute a large proportion of holoplankton abundance and are therefore unlikely to be responsible for driving net decreasing trends.",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating",
+      "context_window": "addition, zooplankton, through processes such as the export of particles by grazing, the fractioning of sinking particles, and the transport of particulate organic carbon at depth through their diel vertical migration, play a crucial role in the functioning of the oceanic biological carbon pump that contributes to regulating atmospheric carbon dioxide levels ((Global) climate regulation) (Lomartire et al., 2021). Regarding plankton",
+      "page_number": 51,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean",
+      "context_window": "Climate Change Thematic Assessment , Ocean Acidification .",
+      "page_number": 11,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near",
+      "context_window": "warming, nutrients), and when there was high spatial and temporal confidence among the evaluated time-series. It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near future and persist for the longer term. Changes in the physicochemical conditions of the water column as a",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification (",
+      "context_window": "Strategic Objectives 10 to raise awareness of climate change and ocean acidification; 11 to facilitate adaptation to the impacts of climate change and ocean acidification; and 12 to mitigate climate change and ocean acidification ( Climate Change Thematic Assessment ,",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 4,
+        "ocean acidification": 3
+      }
+    },
+    {
+      "core_sentence": "Ocean warming due to",
+      "context_window": "In addition, through processes of ocean-atmosphere gas exchange regulation, the ocean is a net sink of atmospheric carbon dioxide ((global) climate regulation). Ocean warming due to climate change pressures is expected to reduce the provision of this ecosystem service by pelagic habitats (Dickey-Collas et al., 2017).",
+      "page_number": 49,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "atmospheric carbon dioxide, the main driver of global warming.",
+      "context_window": "., 2013). Changes in pH can be linked to changes in primary production, since phytoplankton ingest Dissolved Inorganic Carbon (DIC) to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. Further investigation, taking advantage of in",
+      "page_number": 32,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in",
+      "context_window": "listed below relate to the unfiltered outputs used in the Exposure assessment. The climate change pressures are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in upwelling intensity. •",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate Change",
+      "context_window": "Climate Change Climate change and ocean acidification in pelagic habitats All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column",
+      "context_window": "Figure CC.2B ) within shelf habitats of the Celtic Seas. A reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column (to be confirmed by the primary productivity food web indicator FW2), which could contribute to the observed decline in pH.",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "carbon dioxide from the atmosphere (Tweddle et al., 2018).",
+      "context_window": "Phytoplankton are also a major contributor to the carbon fixation process and its sequestration in sediments and ocean depths, capturing carbon dioxide from the atmosphere (Tweddle et al., 2018). At the same time, as a food source for pelagic herbivores (including larval stages), phytoplankton also form the basis of marine food webs (‘regulation and",
+      "page_number": 50,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "The climate change pressures",
+      "context_window": "the current available evidence were filtered out from the relevant Sankey diagram; the activity-pressure links listed below relate to the unfiltered outputs used in the Exposure assessment. The climate change pressures are increased sea temperatures, open ocean stratification, acidification, changes in nutrients and changes in upwelling intensity.",
+      "page_number": 66,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in",
+      "context_window": "PH2 indicator.  It is important to note that pH is not an independent variable. Dissolved Inorganic Carbon (DIC) levels from both natural and anthropogenic sources influence pH levels in sea water. Autotrophic phytoplankton take up DIC during the process of photosynthesis, and the increased",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reductions in pH may have also been a factor within coastal and shelf habitats; however, it is important to",
+      "context_window": "It is likely that larval fish are also currently at levels below those required to become a limiting influence on zooplankton abundance. Reductions in pH may have also been a factor within coastal and shelf habitats; however, it is important to note that this inference was based solely on modelled data. This result should be interpreted with caution,",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make",
+      "context_window": "holoplankton, changes were linked to increasing sea surface temperature and reductions in pH, respectively. Rising temperatures may increase the reproductive output of benthic invertebrates (Kirby et al., 2007; Kirby et al., 2008) and reductions in pH can affect reproduction in copepods (Vehmaa et al., 2016) and can make them more vulnerable to food limitation (Mayor et al., 2015; Pedersen et al., 2014). The confidence assessment for the PH1/FW5 indicator revealed generally high spatial and temporal confidence among the",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "about the impacts of decreasing pH on the plankton community.",
+      "context_window": "situ pH measurements from long-term monitoring programmes, will help improve scientific understanding about the impacts of decreasing pH on the plankton community. Pelagic habitats in the Bay of Biscay and Iberian coast (Region IV) No determination could be made for variable salinity habitats in Region IV since they were not assessed by",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "refer to the PH2 indicator assessment",
+      "context_window": "phytoplankton biomass (A) and zooplankton abundance (B). For a detailed description of methods, please refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed decline in pH.",
+      "context_window": "reduction in phytoplankton biomass would also cause a reduction in the uptake of DIC from the water column (to be confirmed by the primary productivity food web indicator FW2), which could contribute to the observed decline in pH. Figure CC.3: PH3 indicator results displaying the most important environmental variable linked to trends in",
+      "page_number": 72,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric",
+      "context_window": "Climate change Human-induced climate change is likely to create the greatest pressures on pelagic systems through changes in ocean temperature, stratification/mixing regimes, potential oxygen depletion, upwellings, atmospheric and oceanographic circulation, and pH (ocean acidification). See: Climate Change",
+      "page_number": 12,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Open ocean areas are experiencing rates of pH decline between -0,001 to -0,002",
+      "context_window": "Other Assessment found a pattern of widespread decline in pH across all OSPAR Regions. Open ocean areas are experiencing rates of pH decline between -0,001 to -0,002 yr -1",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pH measurements from long-term monitoring programmes, will help improve scientific understanding",
+      "context_window": "in situ pH measurements from long-term monitoring programmes, will help improve scientific understanding about the impacts of decreasing pH on the plankton community. Pelagic habitats in the Bay of Biscay and Iberian coast (Region IV)",
+      "page_number": 32,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and",
+      "context_window": "The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC). Changes in pH can be linked to changes in phytoplankton activity, since phytoplankton ingest DIC to fuel growth and reproduction, but also to the concentration of atmospheric carbon dioxide, the main driver of global warming. The OSPAR",
+      "page_number": 38,
+      "keyword_hits": {
+        "warming": 1,
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic",
+      "context_window": "refer to the PH2 indicator assessment The pelagic habitats indicator assessments have collectively identified modelled pH as another factor which probably relates to the changes occurring in plankton communities, particularly within shelf and oceanic habitats. The pH level of seawater is controlled by the concentration of dissolved inorganic carbon (DIC).",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Elevated sea surface temperature has impacted seasonal",
+      "context_window": "All OSPAR Regions are currently experiencing an increase in sea surface temperature due to climate change and a decrease in pH due to ocean acidification. Elevated sea surface temperature has impacted seasonal stratification patterns, causing greater nutrient depletion in the growing season and shifting the base of pelagic food webs towards a less desirable state.",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Changes in the physicochemical conditions of the water column as a",
+      "context_window": "It is expected that pressures from climate change (and also from ocean acidification) will intensify in the near future and persist for the longer term. Changes in the physicochemical conditions of the water column as a result of these pressures are likely to disturb plankton communities, impacting the relative abundance of plankton functional groups (e.g., diatoms vs dinoflagellates, holoplankton vs meroplankton) as well as the",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013;",
+      "context_window": "atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013; Beaugrand et al., 2013). Climate change is also altering local climate conditions such as wind speed (e.g.,",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much",
+      "context_window": "The increase in atmospheric carbon dioxide, which is primarily responsible for driving this warming, is also generating ocean acidification by increasing the flux of carbon dioxide across the ocean surface; however, there is still much uncertainty around the effects of ocean acidification on plankton communities (e.g., Beare et al., 2013; Beaugrand et al., 2013).",
+      "page_number": 69,
+      "keyword_hits": {
+        "ocean acidification": 2,
+        "warming": 1,
+        "carbon dioxide": 2
+      }
+    },
+    {
+      "core_sentence": "Due to the high complexity of ocean acidification dynamics, it is important",
+      "context_window": "At a more localised scale, trends in pH can show greater variation, and increasing pH trends still persist. Due to the high complexity of ocean acidification dynamics, it is important for future assessments to focus on untangling the primary drivers responsible for the net decline in pH, and to determine how their influence varies across OSPAR Regions and pelagic habitat types.",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 6,
+    "keyword_counts": {
+      "climate change": 94,
+      "ocean acidification": 25,
+      "warming": 36,
+      "temperature increase": 1,
+      "carbon dioxide": 9,
+      "greenhouse gas": 4
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 94,
+      "end_sentence": 128,
+      "sentence_count": 35,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 3,
+          "content": "Pelagic habitats are open-water environments occupied by floating and suspended organisms, or simply",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 96,
+          "page_number": 3,
+          "content": "plankton, which occupy the lower tiers of the food web and are the main source of marine production.",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 97,
+          "page_number": 3,
+          "content": "Short",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 98,
+          "page_number": 3,
+          "content": "generational times, small size and, for phytoplankton, direct dependence on dissolved nutrients, mak...",
+          "full_length": 101
+        }
+      ],
+      "total_sentences_in_section": 35
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2029,
+      "end_sentence": 2284,
+      "sentence_count": 256,
+      "page_range": "41-46",
+      "sentences": [
+        {
+          "sentence_id": 2029,
+          "page_number": 41,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2030,
+          "page_number": 41,
+          "content": "Aarflot, J.M., Skjoldal, H.R., Dalpadado, P. and Skern-Mauritzen, M.",
+          "full_length": 68
+        },
+        {
+          "sentence_id": 2031,
+          "page_number": 41,
+          "content": "(2018.)",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 2032,
+          "page_number": 41,
+          "content": "Contribution of Calanus species",
+          "full_length": 31
+        },
+        {
+          "sentence_id": 2033,
+          "page_number": 41,
+          "content": "to the mesozooplankton biomass in the Barents Sea. ICES J. Mar. Sci. 75, 2342–",
+          "full_length": 78
+        }
+      ],
+      "total_sentences_in_section": 256
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2564,
+      "end_sentence": 2638,
+      "sentence_count": 75,
+      "page_range": "51-53",
+      "sentences": [
+        {
+          "sentence_id": 2564,
+          "page_number": 51,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2565,
+          "page_number": 51,
+          "content": "Bedford, J., Ostle, C., Johns, D. G., Atkinson, A., Best, M., Bresnan, E. and McQuatters‐Gollop, A.",
+          "full_length": 99
+        },
+        {
+          "sentence_id": 2566,
+          "page_number": 51,
+          "content": "(2020).",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 2567,
+          "page_number": 51,
+          "content": "Lifeform indicators reveal large‐scale shifts in plankton across the North‐West European shelf.",
+          "full_length": 95
+        },
+        {
+          "sentence_id": 2568,
+          "page_number": 51,
+          "content": "Global",
+          "full_length": 6
+        }
+      ],
+      "total_sentences_in_section": 75
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3140,
+      "end_sentence": 3217,
+      "sentence_count": 78,
+      "page_range": "61-62",
+      "sentences": [
+        {
+          "sentence_id": 3140,
+          "page_number": 61,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3141,
+          "page_number": 61,
+          "content": "Deltares (2018).",
+          "full_length": 16
+        },
+        {
+          "sentence_id": 3142,
+          "page_number": 61,
+          "content": "Assessment of system effects of large-scale implementation of offshore wind in the southern",
+          "full_length": 91
+        },
+        {
+          "sentence_id": 3143,
+          "page_number": 61,
+          "content": "North Sea",
+          "full_length": 9
+        },
+        {
+          "sentence_id": 3144,
+          "page_number": 61,
+          "content": ".  Available at:",
+          "full_length": 16
+        }
+      ],
+      "total_sentences_in_section": 78
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3578,
+      "end_sentence": 3612,
+      "sentence_count": 35,
+      "page_range": "68-68",
+      "sentences": [
+        {
+          "sentence_id": 3578,
+          "page_number": 68,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3579,
+          "page_number": 68,
+          "content": "Cormier, R., Elliott, M.",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 3580,
+          "page_number": 68,
+          "content": "and",
+          "full_length": 3
+        },
+        {
+          "sentence_id": 3581,
+          "page_number": 68,
+          "content": "Rice, J. (2019). Putting on a Bow-tie to sort out who does what and why in the",
+          "full_length": 78
+        },
+        {
+          "sentence_id": 3582,
+          "page_number": 68,
+          "content": "complex arena of marine policy and management.",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 35
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3825,
+      "end_sentence": 3896,
+      "sentence_count": 72,
+      "page_range": "73-75",
+      "sentences": [
+        {
+          "sentence_id": 3825,
+          "page_number": 73,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3826,
+          "page_number": 73,
+          "content": "Beare, D., McQuatters-Gollop, A., van der Hammen, T., Machiels, M., Teoh, S. J. and  Hall-Spencer, J...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 3827,
+          "page_number": 73,
+          "content": "(2013). Long-term trends in calcifying plankton and pH in the North Sea. PLoS One, 8(5), e61175.",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 3828,
+          "page_number": 73,
+          "content": "Beaugrand, G., McQuatters-Gollop, A., Edwards, M. and  Goberville, E. (2013).",
+          "full_length": 77
+        },
+        {
+          "sentence_id": 3829,
+          "page_number": 73,
+          "content": "Long-term responses of North",
+          "full_length": 28
+        }
+      ],
+      "total_sentences_in_section": 72
+    }
+  ],
+  "metadata": {
+    "total_sentences": 3991,
+    "chunks_selected": 103,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 94,
+        "end_sentence": 128,
+        "sentence_count": 35
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2029,
+        "end_sentence": 2284,
+        "sentence_count": 256
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2564,
+        "end_sentence": 2638,
+        "sentence_count": 75
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3140,
+        "end_sentence": 3217,
+        "sentence_count": 78
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3578,
+        "end_sentence": 3612,
+        "sentence_count": 35
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3825,
+        "end_sentence": 3896,
+        "sentence_count": 72
+      }
+    ],
+    "total_excluded_sentences": 551
+  }
+}

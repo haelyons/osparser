@@ -1,0 +1,1259 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "FEQGs are used to assess the status of both sediment and biota (fish and shellfish).",
+      "context_window": "testing of whether observed concentrations could be considered to be near zero. BACs are calculated according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant",
+      "context_window": "seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year. This could indicate that, as concentrations are getting lower in these areas, it",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted",
+      "context_window": "Similar analyses explored status at the assessment area scale. Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "concentration in the last monitoring year to the BAC.",
+      "context_window": "Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease of < 10% per year.",
+      "context_window": "in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year. This could indicate that, as concentrations are getting lower in these areas, it gets harder to see the trends or that the concentrations are stabilising (input closer to output).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Concentrations",
+      "context_window": "PBDE concentrations in sediments and fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG means that there should be no chronic effects on marine organisms. FEQGs are given for",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "testing of whether observed concentrations could be considered to be near zero. BACs are calculated",
+      "context_window": "BACs are statistical tools that for synthetic substances are defined in relation to low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near zero. BACs are calculated according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analyses.",
+      "context_window": "concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses. Finally, concentration profiles across congeners at the assessment area scale were explored using the fitted log concentration in the last monitoring year.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more",
+      "context_window": "consider both the estimate of trend or status in each time series and the uncertainty in that estimate. This was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below",
+      "context_window": "according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the Canadian Environmental Protection Act from 1999",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The presence of PBDEs in air",
+      "context_window": "Leakage of PBDE occurs during production, use, or disposal of products, and PBDEs are mainly transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009). The presence of PBDEs in air samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002). The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below the FEQG",
+      "context_window": "PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no",
+      "context_window": "For sediments, a similar change in the rate of decrease is seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should not cause any chronic effects on marine organisms.",
+      "context_window": "Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the BAC for each assessment area are shown in",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the FEQGs should not cause any chronic effects on marine organisms. They were developed under the",
+      "context_window": "FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the Canadian Environmental Protection Act from 1999 ,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sediment",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment OSPAR Commission 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They do not dissolve in water but",
+      "context_window": "PBDEs was banned in 2009 by 180 countries that are signatories to the Stockholm Convention. The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The spatial distribution of PBDEs in the marine environment is variable.",
+      "context_window": "Further, production of some groups of PBDEs was banned in 2009 by 180 countries that are signatories to the Stockholm Convention. The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG).",
+      "context_window": "ODIMS. PBDE concentrations in sediments and fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG means that there should be no chronic effects on marine organisms.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bind strongly to soil and sediment.",
+      "context_window": "The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile. Some PBDE congeners",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status at each monitoring site was presented.",
+      "context_window": "was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented. In the QSR 2023 FEQGs are used to assess the status of both sediment and biota ( Table a",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend",
+      "context_window": "the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota. When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend for the English Channel and Iberian Sea is seen. In the Intermediate Assessment 2017 these areas showed",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the general decline for most assessment areas suggest that PBDE concentrations are on their way down",
+      "context_window": "trends were observed for the averaged PBDE data. The average yearly decline is up to 12% (the Irish Sea) and the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota. When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment OSPAR Commission 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "PBDEs may enter the environment through emissions from manufacturing processes, evaporation from products that contain PBDEs, recycling wastes and leachate from waste disposal sites ( Figure 2 ). They are widespread and have been detected in air, sediments, surface waters, and fish and other marine animals.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Results (brief) Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 6",
+      "context_window": "Figure 5 and Figure 6 ). Therefore, adverse biological effects in marine species are unlikely.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "trends and status were assessed using the methods described in the contaminants’ online assessment tool ( http://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from the site-specific analyses were then synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of temporal trend and a calculation of status at the assessment area level. Meta-analyses",
+      "context_window": "Assessment 2017 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of temporal trend and a calculation of status at the assessment area level. Meta-analyses consider both the estimate of trend or status in each time series and the uncertainty in that estimate. This",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they",
+      "context_window": "samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002). The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment persist for a very long time. Increased concentrations of these compounds have been measured in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data have been collected",
+      "context_window": "Confidence Assessment There is high confidence in the quality of the data used for this assessment. The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For sediments, a similar change in the rate of decrease is",
+      "context_window": "OSPAR Commission year with the confidence interval overlapping zero. For sediments, a similar change in the rate of decrease is seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the",
+      "context_window": "Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the BAC for each assessment area are shown in Figure a",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR",
+      "context_window": "http://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from the site-specific analyses were then synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR contaminant assessment areas. The temporal trend assessments included data from those monitoring sites that were representative of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2006-2020 with data from at least one station.",
+      "context_window": "trends. Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To make an overview assessment of the status of PBDEs, the mean concentration relative to the FEQG or BAC",
+      "context_window": "individual congeners and only a few congeners are missing FEQG assessment criteria. Status Assessment To make an overview assessment of the status of PBDEs, the mean concentration relative to the FEQG or BAC across all PBDE congeners was used. Mean PBDE concentrations in sediment and biota (fish and shellfish) are",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the QSR 2023 FEQGs are used to assess the status of both sediment and biota (",
+      "context_window": "objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented. In the QSR 2023 FEQGs are used to assess the status of both sediment and biota ( Table a ). No assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the QSR 2023 compared with the QSR 2010 and the Intermediate",
+      "context_window": "explored by plotting the predicted trend for each congener and for each congener / assessment area combination with point-wise 95% confidence intervals. Differences in methodology used for the QSR 2023 compared with the QSR 2010 and the Intermediate Assessment 2017 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations in sediments are lowest",
+      "context_window": "). Therefore, adverse biological effects in marine species are unlikely. Concentrations in sediments are lowest in the Channel and in biota in the Northern Bay of Biscay. No assessment area had background concentrations",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Figure 3",
+      "context_window": "monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only) (Figure 3 and Figure 4)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period",
+      "context_window": "monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends. Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure b",
+      "context_window": "BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b ), the mean concentration of only two congeners (BDE153 and BDE28) were below BAC in only one assessment area (the Northern Bay of Biscay).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG).",
+      "context_window": "2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine",
+      "context_window": "Soere nsen and Rob Fryer Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment (TG-HASTA) and Hazardous Substances and Eutrophication Committee (HASEC).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(PBDEs) in Biota and Sediment",
+      "context_window": "OSPAR Commission Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment",
+      "context_window": "Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment",
+      "context_window": "The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment persist for a very long time. Increased concentrations of these compounds have been measured in environmental samples since the 1970s (de Wit, 2002).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment",
+      "context_window": "nsen and Rob Fryer Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment (TG-HASTA) and Hazardous Substances and Eutrophication Committee (HASEC). Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The average yearly decline is up to 12% (the Irish Sea) and",
+      "context_window": "In the other areas assessed no statistically significant trends were observed for the averaged PBDE data. The average yearly decline is up to 12% (the Irish Sea) and the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sediment, fish, and shellfish status",
+      "context_window": "). Denmark has reservations regarding the FEQG threshold values. Sediment, fish, and shellfish status Similar analyses explored status at the assessment area scale. Two summary measures were considered: the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed",
+      "context_window": "Maritime Area as a whole. Cooperation between OSPAR and the Arctic Monitoring and Assessment Programme (AMAP) could improve access to data for Region I. PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay",
+      "context_window": "Results (brief) Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only) (Figure 3",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Irish Sea. For fish and shellfish (",
+      "context_window": ". Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b ), the mean concentration of only two congeners (BDE153 and",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009).",
+      "context_window": ", 2003). Leakage of PBDE occurs during production, use, or disposal of products, and PBDEs are mainly transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009). The presence of PBDEs in air samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Diphenyl Ethers (PBDEs) in Biota and",
+      "context_window": "2022 Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included in the sediment assessment.",
+      "context_window": "For sediment, the PBDE concentrations are normalised to account for changes in the bulk physical composition of the sediment, such as particle size distribution or organic carbon content, for all areas included in the sediment assessment. The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Biota and Sediment",
+      "context_window": "Soerensen, A.L., and Fryer, R. 2022. Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28)",
+      "context_window": "concentrations in each OSPAR contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant. For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28) and the Irish Sea. There are also downward trends for some congeners and areas: Skagerrak and Kattegat",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d: Percentage annual change in PBDE congener concentration in fish, shellfish and bird egg",
+      "context_window": "contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant. Figure d: Percentage annual change in PBDE congener concentration in fish, shellfish and bird egg concentrations in each OSPAR contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European",
+      "context_window": "PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea",
+      "context_window": "Figure a . Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual",
+      "context_window": "composition of the sediment, such as particle size distribution or organic carbon content, for all areas included in the sediment assessment. The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a result, PBDEs in sediment are not very mobile.",
+      "context_window": "They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile. Some PBDE congeners tend to accumulate in fish and shellfish more than others.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "close to zero - the ultimate aim of the OSPAR Hazardous Substances Strategy 2010-2020.",
+      "context_window": "assessment concentrations (BACs) and Federal Environmental Quality Guidelines (FEQGs). BACs were developed by OSPAR and for synthetic substances used for testing whether concentrations are close to zero - the ultimate aim of the OSPAR Hazardous Substances Strategy 2010-2020. BACs are statistical tools that for synthetic substances are defined in relation to low concentrations, which enable statistical",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d",
+      "context_window": "c and Figure d . In most regions trends were stable or downwards. For sediments all PBDE congeners show a downward trend in the Irish Sea.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental concentrations in biota (even for pristine areas).",
+      "context_window": "Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported environmental concentrations in biota (even for pristine areas). It therefore requires further investigation before it can be used in the OSPAR Maritime Area.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(PBDEs) in sediment and biota (fish and shellfish)",
+      "context_window": "Table a: Background assessment criteria (BACs), Federal Environmental Quality Guidelines (FEQGs) and EU EQS for polybrominated diphenyl ethers (PBDEs) in sediment and biota (fish and shellfish) BAC FEQG",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "downward trend in the Irish Sea.",
+      "context_window": "Figure d . In most regions trends were stable or downwards. For sediments all PBDE congeners show a downward trend in the Irish Sea. Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Figure c Percentage annual change in PBDE congener concentration in sediment in each OSPAR",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental Quality Standards (EQS).",
+      "context_window": "in detail in the OSPAR (2020b) background document for sediment and biota. An alternative to the use of the FEQGs for biota could be the Water Framework Directive (WFD) Environmental Quality Standards (EQS). The EQS is based on the human health QS (which was the lower of OSPAR Commission 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hazardous Substances",
+      "context_window": "Thematic Activity List Hazardous Substances Relevant OSPAR",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stockholm Convention on Persistent Organic Pollutants (POPs) as amended in",
+      "context_window": "14740727. Stockholm Convention (2009). Stockholm Convention on Persistent Organic Pollutants (POPs) as amended in 2009. http://www.pops.int/documents/convtext/convtext_en.pdf",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to make data from different monitoring species, such as shellfish and different trophic level fish, comparable.",
+      "context_window": "Programme (AMAP) could improve access to data for Region I. PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 6: Mean PBDE concentrations (averaged over PBDEs) in fish and shellfish in each OSPAR",
+      "context_window": "assessment area, relative to the Federal Environmental Quality Guidelines (FEQG) (with 95% upper confidence limits). Green indicates concentrations significantly (p<0.05) below FEQG but above BAC. Figure 6: Mean PBDE concentrations (averaged over PBDEs) in fish and shellfish in each OSPAR contaminants assessment area, relative to the Federal Environmental Quality Guidelines (FEQG) (with 95% upper confidence limits).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in",
+      "context_window": "to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported environmental concentrations in biota (even for pristine areas).",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "few additional time series from marine mammals and bird eggs (only used for the trend analysis) in northerly",
+      "context_window": "Figure 4) . Biota is mostly fish and shellfish but with a few additional time series from marine mammals and bird eggs (only used for the trend analysis) in northerly regions. For biota there is thus a good coverage with status and trends for all OSPAR Regions and most OSPAR",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are also downward trends for some congeners and areas: Skagerrak and Kattegat",
+      "context_window": "For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28) and the Irish Sea. There are also downward trends for some congeners and areas: Skagerrak and Kattegat (BDE47), Southern North Sea (BDE153, BDE100, BDE99, BDE47 and BDE28), Channel (BDE47 and BDE28), Irish and Scottish West Coast (BDE154, BDE100, BDE99 and BDE47), Celtic Seas (BDE100 and BDE47),",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean sediment concentration relative to Background Concentration (BAC) with 95% confidence limits.",
+      "context_window": "Figure b: Mean PBDE fish and shellfish concentration shellfish in each OSPAR contaminants assessment area, relative to the Background Assessment Concentration (BAC) (with 95% upper confidence limits). Mean sediment concentration relative to Background Concentration (BAC) with 95% confidence limits. Blue indicates concentrations significantly (p<0,05) below BAC, green indicates concentrations significantly (p<0.05) below FEQG but above BAC, yellow indicates that no FEQG exists for the congener",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Mean congener sediment concentrations are above",
+      "context_window": "BAC for each assessment area are shown in Figure a . Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are few monitoring sites for the assessment of temporal trends and status of PBDE in sediment apart",
+      "context_window": "The EU-EQS requires further investigation before being used in OSPAR Maritime Area. Knowledge Gaps (extended) There are few monitoring sites for the assessment of temporal trends and status of PBDE in sediment apart from Regions II and III. This means the assessment cannot be considered representative for the OSPAR Maritime Area as a whole. Cooperation between OSPAR and the Arctic Monitoring and Assessment",
+      "page_number": 16,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant",
+      "context_window": "seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year. This could indicate that, as concentrations are getting lower in these areas, it",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "decrease of < 10% per year.",
+      "context_window": "in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year. This could indicate that, as concentrations are getting lower in these areas, it gets harder to see the trends or that the concentrations are stabilising (input closer to output).",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations",
+      "context_window": "PBDE concentrations in sediments and fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG means that there should be no chronic effects on marine organisms. FEQGs are given for",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "analyses.",
+      "context_window": "concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses. Finally, concentration profiles across congeners at the assessment area scale were explored using the fitted log concentration in the last monitoring year.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below",
+      "context_window": "according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the Canadian Environmental Protection Act from 1999",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations below the FEQG",
+      "context_window": "PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "should not cause any chronic effects on marine organisms.",
+      "context_window": "Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the BAC for each assessment area are shown in",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sediment",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment OSPAR Commission 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The spatial distribution of PBDEs in the marine environment is variable.",
+      "context_window": "Further, production of some groups of PBDEs was banned in 2009 by 180 countries that are signatories to the Stockholm Convention. The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bind strongly to soil and sediment.",
+      "context_window": "The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile. Some PBDE congeners",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend",
+      "context_window": "the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota. When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend for the English Channel and Iberian Sea is seen. In the Intermediate Assessment 2017 these areas showed",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the general decline for most assessment areas suggest that PBDE concentrations are on their way down",
+      "context_window": "trends were observed for the averaged PBDE data. The average yearly decline is up to 12% (the Irish Sea) and the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota. When compared to the Intermediate Assessment 2017 (OSPAR 2017) biota assessment, a change in the trend",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "PBDEs may enter the environment through emissions from manufacturing processes, evaporation from products that contain PBDEs, recycling wastes and leachate from waste disposal sites ( Figure 2 ). They are widespread and have been detected in air, sediments, surface waters, and fish and other marine animals.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 6",
+      "context_window": "Figure 5 and Figure 6 ). Therefore, adverse biological effects in marine species are unlikely.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of temporal trend and a calculation of status at the assessment area level. Meta-analyses",
+      "context_window": "Assessment 2017 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an assessment of temporal trend and a calculation of status at the assessment area level. Meta-analyses consider both the estimate of trend or status in each time series and the uncertainty in that estimate. This",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and nutrient pollution",
+      "context_window": "14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution Thematic Activity List",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For sediments, a similar change in the rate of decrease is",
+      "context_window": "OSPAR Commission year with the confidence interval overlapping zero. For sediments, a similar change in the rate of decrease is seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR",
+      "context_window": "http://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from the site-specific analyses were then synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR contaminant assessment areas. The temporal trend assessments included data from those monitoring sites that were representative of",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To make an overview assessment of the status of PBDEs, the mean concentration relative to the FEQG or BAC",
+      "context_window": "individual congeners and only a few congeners are missing FEQG assessment criteria. Status Assessment To make an overview assessment of the status of PBDEs, the mean concentration relative to the FEQG or BAC across all PBDE congeners was used. Mean PBDE concentrations in sediment and biota (fish and shellfish) are",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Differences in methodology used for the QSR 2023 compared with the QSR 2010 and the Intermediate",
+      "context_window": "explored by plotting the predicted trend for each congener and for each congener / assessment area combination with point-wise 95% confidence intervals. Differences in methodology used for the QSR 2023 compared with the QSR 2010 and the Intermediate Assessment 2017 For the QSR 2023, a meta-analysis is used to synthesise the individual time series results and provide an",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations in sediments are lowest",
+      "context_window": "). Therefore, adverse biological effects in marine species are unlikely. Concentrations in sediments are lowest in the Channel and in biota in the Northern Bay of Biscay. No assessment area had background concentrations",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period",
+      "context_window": "monitoring sites and a reasonable geographic spread were included in the assessment of status and temporal trends. Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG).",
+      "context_window": "2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG should not cause any chronic effects on marine organisms.",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(PBDEs) in Biota and Sediment",
+      "context_window": "OSPAR Commission Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment OSPAR Convention The Convention for the Protection of the Marine",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at: https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment",
+      "context_window": "nsen and Rob Fryer Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment (TG-HASTA) and Hazardous Substances and Eutrophication Committee (HASEC). Citation",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sediment, fish, and shellfish status",
+      "context_window": "). Denmark has reservations regarding the FEQG threshold values. Sediment, fish, and shellfish status Similar analyses explored status at the assessment area scale. Two summary measures were considered: the",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay",
+      "context_window": "Results (brief) Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only) (Figure 3",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009).",
+      "context_window": ", 2003). Leakage of PBDE occurs during production, use, or disposal of products, and PBDEs are mainly transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009). The presence of PBDEs in air samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "included in the sediment assessment.",
+      "context_window": "For sediment, the PBDE concentrations are normalised to account for changes in the bulk physical composition of the sediment, such as particle size distribution or organic carbon content, for all areas included in the sediment assessment. The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28)",
+      "context_window": "concentrations in each OSPAR contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant. For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28) and the Irish Sea. There are also downward trends for some congeners and areas: Skagerrak and Kattegat",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European",
+      "context_window": "PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual",
+      "context_window": "composition of the sediment, such as particle size distribution or organic carbon content, for all areas included in the sediment assessment. The temporal trend for each PBDE congener at each monitoring site was summarised by the estimated annual change in log concentration, with its associated standard error. The annual change in log concentration was",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "close to zero - the ultimate aim of the OSPAR Hazardous Substances Strategy 2010-2020.",
+      "context_window": "assessment concentrations (BACs) and Federal Environmental Quality Guidelines (FEQGs). BACs were developed by OSPAR and for synthetic substances used for testing whether concentrations are close to zero - the ultimate aim of the OSPAR Hazardous Substances Strategy 2010-2020. BACs are statistical tools that for synthetic substances are defined in relation to low concentrations, which enable statistical",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental concentrations in biota (even for pristine areas).",
+      "context_window": "Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported environmental concentrations in biota (even for pristine areas). It therefore requires further investigation before it can be used in the OSPAR Maritime Area.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "downward trend in the Irish Sea.",
+      "context_window": "Figure d . In most regions trends were stable or downwards. For sediments all PBDE congeners show a downward trend in the Irish Sea. Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Figure c Percentage annual change in PBDE congener concentration in sediment in each OSPAR",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Hazardous Substances",
+      "context_window": "Thematic Activity List Hazardous Substances Relevant OSPAR",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to make data from different monitoring species, such as shellfish and different trophic level fish, comparable.",
+      "context_window": "Programme (AMAP) could improve access to data for Region I. PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in",
+      "context_window": "to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European Union to protect marine and freshwater ecosystems as well as humans from adverse effects of chemicals in the aquatic environments has resulted in a value for PBDE that is very low compared to typically reported environmental concentrations in biota (even for pristine areas).",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are also downward trends for some congeners and areas: Skagerrak and Kattegat",
+      "context_window": "For fish and shellfish all PBDE congeners show a downward trend in Northern North Sea (except for BDE28) and the Irish Sea. There are also downward trends for some congeners and areas: Skagerrak and Kattegat (BDE47), Southern North Sea (BDE153, BDE100, BDE99, BDE47 and BDE28), Channel (BDE47 and BDE28), Irish and Scottish West Coast (BDE154, BDE100, BDE99 and BDE47), Celtic Seas (BDE100 and BDE47),",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ". Mean congener sediment concentrations are above",
+      "context_window": "BAC for each assessment area are shown in Figure a . Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish (",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are few monitoring sites for the assessment of temporal trends and status of PBDE in sediment apart",
+      "context_window": "The EU-EQS requires further investigation before being used in OSPAR Maritime Area. Knowledge Gaps (extended) There are few monitoring sites for the assessment of temporal trends and status of PBDE in sediment apart from Regions II and III. This means the assessment cannot be considered representative for the OSPAR Maritime Area as a whole. Cooperation between OSPAR and the Arctic Monitoring and Assessment",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean sediment concentration relative to Background Concentration (BAC) with 95% confidence limits.",
+      "context_window": "Figure b: Mean PBDE fish and shellfish concentration shellfish in each OSPAR contaminants assessment area, relative to the Background Assessment Concentration (BAC) (with 95% upper confidence limits). Mean sediment concentration relative to Background Concentration (BAC) with 95% confidence limits. Blue indicates concentrations significantly (p<0,05) below BAC, green indicates concentrations significantly (p<0.05) below FEQG but above BAC, yellow indicates that no FEQG exists for the congener",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "few additional time series from marine mammals and bird eggs (only used for the trend analysis) in northerly",
+      "context_window": "Figure 4) . Biota is mostly fish and shellfish but with a few additional time series from marine mammals and bird eggs (only used for the trend analysis) in northerly regions. For biota there is thus a good coverage with status and trends for all OSPAR Regions and most OSPAR",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 6: Mean PBDE concentrations (averaged over PBDEs) in fish and shellfish in each OSPAR",
+      "context_window": "assessment area, relative to the Federal Environmental Quality Guidelines (FEQG) (with 95% upper confidence limits). Green indicates concentrations significantly (p<0.05) below FEQG but above BAC. Figure 6: Mean PBDE concentrations (averaged over PBDEs) in fish and shellfish in each OSPAR contaminants assessment area, relative to the Federal Environmental Quality Guidelines (FEQG) (with 95% upper confidence limits).",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stockholm Convention on Persistent Organic Pollutants (POPs) as amended in",
+      "context_window": "14740727. Stockholm Convention (2009). Stockholm Convention on Persistent Organic Pollutants (POPs) as amended in 2009. http://www.pops.int/documents/convtext/convtext_en.pdf",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental Quality Standards (EQS).",
+      "context_window": "in detail in the OSPAR (2020b) background document for sediment and biota. An alternative to the use of the FEQGs for biota could be the Water Framework Directive (WFD) Environmental Quality Standards (EQS). The EQS is based on the human health QS (which was the lower of OSPAR Commission 2022",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(PBDEs) in sediment and biota (fish and shellfish)",
+      "context_window": "Table a: Background assessment criteria (BACs), Federal Environmental Quality Guidelines (FEQGs) and EU EQS for polybrominated diphenyl ethers (PBDEs) in sediment and biota (fish and shellfish) BAC FEQG",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d",
+      "context_window": "c and Figure d . In most regions trends were stable or downwards. For sediments all PBDE congeners show a downward trend in the Irish Sea.",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As a result, PBDEs in sediment are not very mobile.",
+      "context_window": "They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile. Some PBDE congeners tend to accumulate in fish and shellfish more than others.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea",
+      "context_window": "Figure a . Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure d: Percentage annual change in PBDE congener concentration in fish, shellfish and bird egg",
+      "context_window": "contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant. Figure d: Percentage annual change in PBDE congener concentration in fish, shellfish and bird egg concentrations in each OSPAR contaminants assessment area (with 95% confidence limits). A circle indicates that the trend is not significant, a triangle indicates that the trend is significant.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Biota and Sediment",
+      "context_window": "Soerensen, A.L., and Fryer, R. 2022. Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Diphenyl Ethers (PBDEs) in Biota and",
+      "context_window": "2022 Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Irish Sea. For fish and shellfish (",
+      "context_window": ". Mean congener sediment concentrations are above BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b ), the mean concentration of only two congeners (BDE153 and",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed",
+      "context_window": "Maritime Area as a whole. Cooperation between OSPAR and the Arctic Monitoring and Assessment Programme (AMAP) could improve access to data for Region I. PBDE bioaccumulate, some congeners more than others (Environment Canada, 2013). A strategy is needed to make data from different monitoring species, such as shellfish and different trophic level fish, comparable. The method used to assign the biota Environmental Quality Standard (EQS) that is derived within European",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The average yearly decline is up to 12% (the Irish Sea) and",
+      "context_window": "In the other areas assessed no statistically significant trends were observed for the averaged PBDE data. The average yearly decline is up to 12% (the Irish Sea) and the general decline for most assessment areas suggest that PBDE concentrations are on their way down across the OSPAR Maritime Area especially in biota.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment",
+      "context_window": "The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment persist for a very long time. Increased concentrations of these compounds have been measured in environmental samples since the 1970s (de Wit, 2002).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment",
+      "context_window": "Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine",
+      "context_window": "Soere nsen and Rob Fryer Supported by: Working Group for Monitoring and on Trends and Effects of Substances in the Marine Environment (MIME), Task Group for the development of the Hazardous Substances Thematic Assessment (TG-HASTA) and Hazardous Substances and Eutrophication Committee (HASEC).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure b",
+      "context_window": "BAC except for BDE154 in the Irish and Scottish West coast and BDE85 and BDE28 in the Northern North Sea and Irish Sea. For fish and shellfish ( Figure b ), the mean concentration of only two congeners (BDE153 and BDE28) were below BAC in only one assessment area (the Northern Bay of Biscay).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(Figure 3",
+      "context_window": "monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only) (Figure 3 and Figure 4)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR’s Quality Status Report",
+      "context_window": "OSPAR’s Quality Status Report 2023 2022",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the QSR 2023 FEQGs are used to assess the status of both sediment and biota (",
+      "context_window": "objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented. In the QSR 2023 FEQGs are used to assess the status of both sediment and biota ( Table a ). No assessment",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2006-2020 with data from at least one station.",
+      "context_window": "trends. Observations for PBDE in biota spanned the period 1999-2020 and for PBDE in sediment the period 2006-2020 with data from at least one station. PBDE concentrations in sediment, fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and Federal Environmental Quality Guidelines (FEQG).",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the",
+      "context_window": "Concentrations below the FEQG should not cause any chronic effects on marine organisms. Mean sediment PBDE concentration for the various congeners (normalised to organic carbon) relative to the BAC for each assessment area are shown in Figure a",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The data have been collected",
+      "context_window": "Confidence Assessment There is high confidence in the quality of the data used for this assessment. The data have been collected over many years using established sampling methodologies. There is sufficient temporal and spatial coverage",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they",
+      "context_window": "samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002). The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and reducing and oxidising compounds. However, this becomes a disadvantage in the environment where they Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment persist for a very long time. Increased concentrations of these compounds have been measured in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "http://dome.ices.dk/ohat/?assessmentperiod=2022",
+      "context_window": "trends and status were assessed using the methods described in the contaminants’ online assessment tool ( http://dome.ices.dk/ohat/?assessmentperiod=2022 ). The results from the site-specific analyses were then synthesised to create a regional assessment based on mean concentration and trends within the 14 OSPAR",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from",
+      "context_window": "Status and Trends of Polybrominated Diphenyl Ethers (PBDEs) in Biota and Sediment Results (brief) Polybrominated Diphenyl Ether (PBDE) concentrations were measured in sediment and biota from monitoring sites throughout much of the Arctic waters (biota only), Greater North Sea, Celtic Seas, and Bay of Biscay and Iberian Coast (biota only)",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Common Indicator Assessment",
+      "context_window": "Diphenyl Ethers (PBDEs) in Biota and Sediment Common Indicator Assessment OSPAR Commission 2022 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.1 By 2025, prevent and significantly reduce marine pollution of all",
+      "context_window": "SDG Indicator List 14.1 By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status at each monitoring site was presented.",
+      "context_window": "was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented. In the QSR 2023 FEQGs are used to assess the status of both sediment and biota ( Table a",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG).",
+      "context_window": "ODIMS. PBDE concentrations in sediments and fish and shellfish were compared to the OSPAR Background Assessment Concentrations (BAC) and the Federal Environmental Quality Guidelines (FEQG). Concentrations below the FEQG means that there should be no chronic effects on marine organisms.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "They do not dissolve in water but",
+      "context_window": "PBDEs was banned in 2009 by 180 countries that are signatories to the Stockholm Convention. The spatial distribution of PBDEs in the marine environment is variable. They do not dissolve in water but bind strongly to soil and sediment. As a result, PBDEs in sediment are not very mobile.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the FEQGs should not cause any chronic effects on marine organisms. They were developed under the",
+      "context_window": "FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the Canadian Environmental Protection Act from 1999 ,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no",
+      "context_window": "For sediments, a similar change in the rate of decrease is seen between the Intermediate Assessment 2017 and the current analysis for the two areas that are included in both assessments. The Northern North Sea goes from a significant decrease of > 5% per year to no significant decrease, and the Irish Sea goes from a significant decrease of > 10% per years to a significant decrease of < 10% per year.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The presence of PBDEs in air",
+      "context_window": "Leakage of PBDE occurs during production, use, or disposal of products, and PBDEs are mainly transferred to the ocean via rivers and atmospheric transport (OSPAR, 2009). The presence of PBDEs in air samples from Arctic Canada, for example, provides evidence of their long-range transport (de Wit, 2002). The advantage of these compounds for industry is their high resistance to acids, bases, heat, light, and",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more",
+      "context_window": "consider both the estimate of trend or status in each time series and the uncertainty in that estimate. This was the same method used in the Intermediate Assessment 2017 (OSPAR 2017) while they provide a more objective regional assessment than was possible in the QSR2010, where a simple tabulation of the trend and status at each monitoring site was presented.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "testing of whether observed concentrations could be considered to be near zero. BACs are calculated",
+      "context_window": "BACs are statistical tools that for synthetic substances are defined in relation to low concentrations, which enable statistical testing of whether observed concentrations could be considered to be near zero. BACs are calculated according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 19,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "concentration in the last monitoring year to the BAC.",
+      "context_window": "Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these analyses.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted",
+      "context_window": "Similar analyses explored status at the assessment area scale. Two summary measures were considered: the log ratio of the fitted concentration in the last monitoring year to the FEQG; and the log ratio of the fitted concentration in the last monitoring year to the BAC. Impacted monitoring sites were also included in these",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "FEQGs are used to assess the status of both sediment and biota (fish and shellfish).",
+      "context_window": "testing of whether observed concentrations could be considered to be near zero. BACs are calculated according to the method set out in OSPAR (2020a; 2021). FEQGs are used to assess the status of both sediment and biota (fish and shellfish). Concentrations below the FEQGs should not cause any chronic effects on marine organisms. They were developed under the",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 1,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 62,
+      "end_sentence": 68,
+      "sentence_count": 7,
+      "page_range": "2-2",
+      "sentences": [
+        {
+          "sentence_id": 62,
+          "page_number": 2,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 63,
+          "page_number": 2,
+          "content": "Biota sites have good geographical coverage, sediment sites are more limited.",
+          "full_length": 77
+        },
+        {
+          "sentence_id": 64,
+          "page_number": 2,
+          "content": "PBDEs in sediment and biota",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 65,
+          "page_number": 2,
+          "content": "have been stable (54% of assessed areas) or declining (46%) for the past 20 years.",
+          "full_length": 82
+        },
+        {
+          "sentence_id": 66,
+          "page_number": 2,
+          "content": "Concentrations are below",
+          "full_length": 24
+        }
+      ],
+      "total_sentences_in_section": 7
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 747,
+      "end_sentence": 752,
+      "sentence_count": 6,
+      "page_range": "15-15",
+      "sentences": [
+        {
+          "sentence_id": 747,
+          "page_number": 15,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 748,
+          "page_number": 15,
+          "content": "PBDE concentrations are stable or declining across the OSPAR assessment area.",
+          "full_length": 77
+        },
+        {
+          "sentence_id": 749,
+          "page_number": 15,
+          "content": "While the concentrations are",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 750,
+          "page_number": 15,
+          "content": "still above the BAC, they are, in general below the FEQG.",
+          "full_length": 57
+        },
+        {
+          "sentence_id": 751,
+          "page_number": 15,
+          "content": "PBDE concentrations should therefore not cause",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 6
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 753,
+      "end_sentence": 771,
+      "sentence_count": 19,
+      "page_range": "15-15",
+      "sentences": [
+        {
+          "sentence_id": 753,
+          "page_number": 15,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 754,
+          "page_number": 15,
+          "content": "PBDE concentrations in both sediment and biota have in general been stable (54% of assessed areas) o...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 755,
+          "page_number": 15,
+          "content": "declining (46% of assessed areas) across the OSPAR assessment area for the past 20 years.",
+          "full_length": 89
+        },
+        {
+          "sentence_id": 756,
+          "page_number": 15,
+          "content": "Within the areas assessed, there is no reason to suspect general chronic effects on marine organisms...",
+          "full_length": 103
+        },
+        {
+          "sentence_id": 757,
+          "page_number": 15,
+          "content": "concentrations are in general below the FEQG.",
+          "full_length": 45
+        }
+      ],
+      "total_sentences_in_section": 19
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 797,
+      "end_sentence": 894,
+      "sentence_count": 98,
+      "page_range": "16-17",
+      "sentences": [
+        {
+          "sentence_id": 797,
+          "page_number": 16,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 798,
+          "page_number": 16,
+          "content": "Alaee M., Arias P., Sjödin A., Bergman Å. (2003). An overview of commercially used brominated flame-",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 799,
+          "page_number": 16,
+          "content": "retardants, their applications, their use patterns in different countries/regions and possible modes...",
+          "full_length": 112
+        },
+        {
+          "sentence_id": 800,
+          "page_number": 16,
+          "content": "Environment International, 29: 6, pp. 683–689.",
+          "full_length": 46
+        },
+        {
+          "sentence_id": 801,
+          "page_number": 16,
+          "content": "de Wit CA. (2002). An overview of brominated flame-retardants in the environment. Chemosphere, 46:5,",
+          "full_length": 100
+        }
+      ],
+      "total_sentences_in_section": 98
+    }
+  ],
+  "metadata": {
+    "total_sentences": 990,
+    "chunks_selected": 86,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 62,
+        "end_sentence": 68,
+        "sentence_count": 7
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 747,
+        "end_sentence": 752,
+        "sentence_count": 6
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 753,
+        "end_sentence": 771,
+        "sentence_count": 19
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 797,
+        "end_sentence": 894,
+        "sentence_count": 98
+      }
+    ],
+    "total_excluded_sentences": 130
+  }
+}
