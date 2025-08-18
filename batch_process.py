@@ -18,12 +18,21 @@ QUESTIONS = [
 SOURCE_DIR = 'sources'
 OUTPUT_DIR = 'new_outputs'
 
+def trim_question_for_filename(question: str, max_words: int = 8) -> str:
+    """
+    Simple word count cap for filename generation.
+    """
+    words = question.split()
+    if len(words) > max_words:
+        return ' '.join(words[:max_words])
+    return question
+
 def sanitize_filename(name: str) -> str:
     """
-    Sanitizes a string to be used as a valid filename by replacing
-    special characters with underscores.
+    Simple filename sanitization - keep only letters, digits, and spaces, then replace spaces with underscores.
     """
-    return "".join([c for c in name if c.isalpha() or c.isdigit() or c in (' ', '_')]).rstrip().replace(' ', '_')
+    clean = ''.join(c for c in name if c.isalnum() or c.isspace())
+    return clean.strip().replace(' ', '_')
 
 def find_pdfs(start_path: str):
     """
@@ -70,10 +79,9 @@ def main():
         for j, question in enumerate(QUESTIONS):
             print(f"  - Running question {j+1}/{total_questions}: '{question[:50]}...'")
 
-            # Sanitize the question to create a valid filename
-            question_filename = sanitize_filename(question)
-            
-            # Define output paths with question number prefix
+            # Trim question to max 8 words for filename
+            trimmed_question = trim_question_for_filename(question)
+            question_filename = sanitize_filename(trimmed_question)
             output_filename_base = f"q{j+1:02d}_{question_filename}"
             output_pdf = os.path.join(doc_output_dir, f"{output_filename_base}.pdf")
             output_json = os.path.join(doc_output_dir, f"{output_filename_base}.json")
