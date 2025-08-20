@@ -20,13 +20,12 @@ except LookupError:
     nltk.download('punkt')
     # nltk.download('punkt/tab')
 
-# For accuracy, we select top-tier models from the MTEB leaderboard.
-# NV-Embed-v2 and BAAI/bge-large-en-v1.5 are SOTA embedding models.
-# We will use bge-large-en-v1.5 for this implementation.
+# For accuracy, we select top-tier models from the MTEB leaderboard
+# NV-Embed-v2 and BAAI/bge-large-en-v1.5 are SOTA embedding models
 BI_ENCODER_MODEL = 'BAAI/bge-large-en-v1.5'
 
-# For the re-ranking step, we use a powerful cross-encoder.
-# mixedbread-ai/mxbai-rerank-large-v1 is a top open-source performer.
+# For the re-ranking step, we use a powerful cross-encoder
+# mixedbread-ai/mxbai-rerank-large-v1 is a top open-source performer
 CROSS_ENCODER_MODEL = 'mixedbread-ai/mxbai-rerank-large-v1'
 
 # Keywords for sparse retrieval and highlighting
@@ -45,9 +44,9 @@ EXCLUDED_SECTIONS = [
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(f"Using device: {device}")
 
-# The bi-encoder is used to create vector embeddings for sentences.
+# The bi-encoder is used to create vector embeddings for sentences
 bi_encoder = SentenceTransformer(BI_ENCODER_MODEL, device=device)
-# The cross-encoder is used to re-rank the retrieved sentences for maximum relevance.
+# The cross-encoder is used to re-rank the retrieved sentences for maximum relevance
 cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL, device=device)
 print("Models initialized successfully.")
 
@@ -94,11 +93,11 @@ def find_excluded_sections_by_style(pdf_path: str) -> Tuple[List[Tuple[int, int,
     """
     styled_blocks = extract_text_with_styles(pdf_path)
     
-    # First, identify all potential headers by finding unique header styles
+    # Identify all potential headers by finding unique header styles
     header_styles = set()
     potential_headers = []
     
-    # Look for text that could be headers (short, potentially capitalized, etc.)
+    # Look for text that could be headers (short, potentially capitalized)
     for i, block in enumerate(styled_blocks):
         text = block['text'].strip()
         if (len(text) < 100 and  # Not too long
@@ -575,12 +574,10 @@ def highlight_relevant_content_advanced(
     print(f"Selecting final {top_n_final} contexts and preparing for highlighting...")
     final_nodes = [candidate for candidate, score in reranked_candidates[:top_n_final]]
     
-    # Count keyword hits for the entire document
     print("Counting keyword hits across the document...")
     full_text = " ".join([sentence['content'] for sentence in sentences])
     document_keyword_hits = count_keyword_hits(full_text, KEYWORDS)
     
-    # Create standard JSON output
     json_output = []
     for node in final_nodes:
         chunk_hits = count_keyword_hits(node['window'], KEYWORDS)
