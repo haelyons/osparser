@@ -1,0 +1,1074 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "et al",
+      "context_window": "Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death",
+      "context_window": "et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modifications of oceanic physical conditions",
+      "context_window": "Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau",
+      "context_window": "– Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "., 2015), which could have serious effects on",
+      "context_window": "precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction). Regarding migration",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "On the opposite, a further increase in frequency and strength of droughts, induced by climate",
+      "context_window": "Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea, Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "., 2018). In river systems, changing patterns of",
+      "context_window": "appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea,",
+      "context_window": "), there is no evidence that eel distribution has changed in recent years independently of potential local accessibility loss or gain. Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea, Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "– Threats from climate change appear to impact all eel life-stages and all OSPAR Regions.",
+      "context_window": ", 2009). Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "et al. , 2009). Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g.",
+      "context_window": "Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely contributed to the decline.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "stock is facing an unprecedented level of decline. Anthropogenic factors (e.g.",
+      "context_window": ": 2008. OSPAR (2010) concluded that Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change, predation) have likely",
+      "context_window": "stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely contributed to the decline. It is hoped that 2007 EC Eel Regulation (Anon, 2007) should help address the fisheries threat.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "still pose a significant threat to the species.",
+      "context_window": "stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020) IUCN Red List assessment.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "diseases and pathogens, climate change, etc.)",
+      "context_window": "While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching,",
+      "context_window": "Eel is a panmictic species which affects its management. While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa et al ., 2021). Method of assessment: 2 and 5 for Artic waters, Greater North Sea and Celtic Sea; 1 for Bay of Biscay and Iberian coast (Region IV).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France,",
+      "context_window": "2. Legislation and measures (installation of fish passages, removals of dams and habitat restoration) have been introduced to restore habitat accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France, Ireland, Netherlands, Norway, Sweden and UK. 3.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "phenology, an earlier migration period of silver eel is expected in northern Europe due to increased river discharge in summer (Dankers & Feyen, 2008). Contrarily, drought periods in southern Europe are expected to extend into fall and delay migration (Arevalo et al. , 2021). Measures that address key pressures from human activities or conserve the species",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of habitat is still serious in this area where it is linked with drought",
+      "context_window": "subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle et al.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regarding migration",
+      "context_window": "., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction). Regarding migration phenology, an earlier migration period of silver eel is expected in northern Europe due to increased river discharge in summer (Dankers & Feyen, 2008). Contrarily, drought periods in southern Europe are expected to extend into fall and delay migration (Arevalo",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian",
+      "context_window": "Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa et al",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have",
+      "context_window": "In a recent attempt, ICES WGEEL analysed short-term trends of silver eel abundances restricted to the period 2000 to 2019, using 17 time-series available in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account.",
+      "context_window": "Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account. Decline : The decline in glass eel recruitment was first noticed in 1985 (EIFAC, 1985).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While the pressure of commercial fishing on the",
+      "context_window": "a very low level with no clear sign of an upturn. Eel is a panmictic species which affects its management. While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "pollution, climate change, parasites and diseases.",
+      "context_window": "level. The threats include direct exploitation at different stages, blockages to migratory routes by dams and other structures, habitat degradation and loss, pollution, climate change, parasites and diseases. There is insufficient spatial and temporal data coverage to quantitatively assess abundance of silver eels and their condition. Moreover, quantitative data",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "c)    Direct or indirect data",
+      "context_window": "a)    Third party assessment (ICES WGEEL principally) b)    Literature studies c)    Direct or indirect data d)    Expert opinion of national experts ",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This contrasted situation is likely to be related to",
+      "context_window": "While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter",
+      "context_window": "et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle et al. , 2011). However, quantitative data are needed to fully understand the impact and trend of this pressure on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.",
+      "context_window": "National Eel Management plans have been implemented by Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Portugal, Sweden and UK. 2. Legislation and measures (installation of fish passages, removals of dams and habitat restoration) have been introduced to restore habitat accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": "alone will be insufficient, and management measures aimed at other anthropogenic impacts on habitat quality, quantity and accessibility will also be required. This concern has been corroborated by the current assessment. Geographical Range and Distribution The European eel is a panmictic species, with a common spawning area in the Sargasso Sea. Eels undertake long migrations between the spawning areas",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "floodplains and water courses for urban, industrial and agriculture development.",
+      "context_window": "., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "In northern Europe where precipitation seems plentiful and river restoration programs are growing successfully (Peters et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within",
+      "context_window": "current rate of fishing mortality, recovery may take more than 200 years (Astrom & Dekker, 2007). There are however other models (Knights and Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different factors (environmental conditions, anthropogenic pressures, management practices) among river basins.",
+      "context_window": "been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b). Figure 2: Probability of presence of eel based on 21706 electro",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Much progress has been made in most Contracting Parties, as measures to",
+      "context_window": "For instance, river fragmentation by dams is responsible for a 80% loss of historical range of the species in the Iberian Peninsula (Clavero & Hermoso, 2015). Much progress has been made in most Contracting Parties, as measures to improve connectivity are included in both EU Member States Eel Management Plans and river basins policies in the framework of EU Water Framework Directive (WFD).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2021), the threat from habitat loss appears to have decreased. Although now usually",
+      "context_window": "and river restoration programs are growing successfully (Peters et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b).",
+      "context_window": "in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ten years under favourable climatic conditions.",
+      "context_window": "There are however other models (Knights and Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account. Decline",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "( https://www.ospar.org/site/assets/files/1888/european_eel.pdf (https://www.ospar.org/site/assets/files/1888/european_eel.pdf) )",
+      "context_window": "The original evaluation of European eel against the Texel-Faial criteria referred to global/regional importance, sensitivity and decline criteria, with information also provided on threats. ( https://www.ospar.org/site/assets/files/1888/european_eel.pdf (https://www.ospar.org/site/assets/files/1888/european_eel.pdf) ) Summary extracted from the Case report (OSPAR, 2010). Global importance",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "not fully understood.",
+      "context_window": "Anthropogenic pressures and biological factors : Due to its unusual and complex life history, the reasons for the decline of the European eel are not fully understood. However, there are indications of linkages between the declines of eels and human activities, especially fisheries, construction of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "The northward branch of the Gulf Stream seems to be responsible for transporting most European eel larvae found north of about 40°N towards Europe (Miller et al ., 2015). A recent tagging program demonstrated that silver eels in different locations in Europe were capable of long-distance migrations that would converge in the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "However, the impact of this non-indigenous species on diadromous species including European eel is still unknown (Syväranta et al. , 2009). Climate change",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": ", 2021). Current knowledge about",
+      "context_window": "increasing evidence that some silver eels from the Baltic Sea display unexpected migration patterns (Tambets et al. , 2021). Current knowledge about their orientation mechanisms implies that translocated eels will likely have difficulties in finding their spawning area (Durif et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "perform in the future in terms of survival, migratory and reproductive success.",
+      "context_window": "Condition Since the mature oceanic key stage is not accessible, the ‘quality’ of silver eels leaving continental waters could be used as a proxy for how eels will perform in the future in terms of survival, migratory and reproductive success. Ecological and geographical clines, e.g. latitude and longitude, together with",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Europe (ICES, 2020b).",
+      "context_window": "Statistical analyses of the time series from 1980 to 2020 showed that glass eel recruitment remains at very low level (ICES, 2020a). In a recent attempt, ICES WGEEL analysed short-term trends of silver eel abundances restricted to the period 2000 to 2019, using 17 time-series available in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "loss",
+      "context_window": "Freshwater Habitat loss Input or spread of",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "required. This concern has been corroborated by the current assessment.",
+      "context_window": "However, restrictions on fisheries alone will be insufficient, and management measures aimed at other anthropogenic impacts on habitat quality, quantity and accessibility will also be required. This concern has been corroborated by the current assessment. Geographical Range and Distribution The European eel is a panmictic species, with a common spawning area in the Sargasso Sea.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment",
+      "context_window": "However, there are indications of linkages between the declines of eels and human activities, especially fisheries, construction of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats. Last status assessment : 2008. OSPAR (2010) concluded that Anguilla anguilla",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b).",
+      "context_window": "This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b). Figure 2: Probability of presence of eel based on 21706 electro ﬁ",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predictions were",
+      "context_window": "The GLM was fitted to 52 time-series, comprising either pure glass eel or a mixture of glass + yellow eels (24 “North Sea” and 28 “Elsewhere Europe”). The predictions were scaled to the 1960 to 1979 average. Source: ICES (2020a). Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The European eel remains Critically Endangered in latest (2020)",
+      "context_window": "diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020) IUCN Red List assessment. (/en/ospar-assessments/quality-status-reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "However, river fragmentation is not easily reversed as more than 1,2 million instream barriers (with a mean density of 0,74 barriers per kilometer), 68% of which are structures less than two meters in height that are often overlooked, still exist in European rivers (Belletti et al ., 2020). Hydropower turbines and pumping stations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "After a considerable drop in recruitment since the 1980s, glass eel abundance is still at a low level (Bornarel et al ., 2018). Anthropogenic pressures and biological factors",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concerns about the effects of eel stocking practices (e.g.",
+      "context_window": "waters as habitats for eel on the recruitment of eel. Knowledge gaps Concerns about the effects of eel stocking practices (e.g. spread of disease, illegal trade, stocking above dams and hydro barriers) and its effectiveness in contributing to increased silver eel production have been raised.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "recent tagging program demonstrated that silver eels in different locations in Europe were capable of long-distance migrations that would converge in the Azores region on a westerly route to the Sargasso Sea (Righton et al ., 2016). In continental waters, only physical obstacles seem to restrain the eel’s upstream distribution area.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological",
+      "context_window": "eels are migrating and the use of fish friendly designs of turbines and pumps (see ICES, 2019 for review). However, hydropower turbines and pumping stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological developments and the need to produce renewable energy. Effect of contaminants on reproductive potential",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Studies to gain an overview of the prevalence, abundance and condition of the eels over its distribution area and to assess the effects of",
+      "context_window": "of any eel. Increased data collection and development of data collection infrastructure to better acknowledge the impacts of non-fisheries threats on eel status Studies to gain an overview of the prevalence, abundance and condition of the eels over its distribution area and to assess the effects of contaminants and disease factors on lipid metabolism, condition, migration capacities and reproduction; Further research on contribution of marine eels to spawning stocks",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/european-eel/ 4/8 Condition Since the mature oceanic key stage is not accessible, the ‘quality’ of silver eels leaving continental waters could be used as a proxy for how eels will perform in the future in terms of survival, migratory and reproductive success.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe.",
+      "context_window": "The predictions were scaled to the 1960 to 1979 average. Source: ICES (2020a). Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe. The GLM was fitted to 16 yellow eel time-series and scaled to the 1960-1979 average. Source: ICES",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat loss",
+      "context_window": "There is limited information on number of eels captured as by-catch, or on their survival when there are regulations requiring the release of eel captured in other fisheries (for instance by recreational angling). Habitat loss – Aquatic habitat loss has been considerable throughout Europe during the last century, mainly because of wetland reclamation in coastal and estuarine environments but also due to floodplain drainage, dredging, etc.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanic migration routes are poorly understood.",
+      "context_window": "The latter extend to fresh, brackish and coastal waters of coastal countries in Europe, North Africa and Asian coasts of the Mediterranean and Black Sea (Adam, 1997; ICES, 2020b; Moriarty & Dekker, 1997). Oceanic migration routes are poorly understood. The northward branch of the Gulf Stream seems to be responsible for transporting most European eel larvae found north of about 40°N towards Europe (Miller",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantify their effect on the total stock size or status at any level of certainty (ICES, 2020b) and to assess temporal trends at the scale of OSPAR Regions.",
+      "context_window": "et al ., 2020; Shiraishi & Crook, 2015). Unfortunately, there are insufficient data available to quantify their effect on the total stock size or status at any level of certainty (ICES, 2020b) and to assess temporal trends at the scale of OSPAR Regions. By-catch mortality – Most eels are caught in targeted fisheries in coastal waters, transitional (brackish) and freshwater.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve the species",
+      "context_window": "et al. , 2021). Measures that address key pressures from human activities or conserve the species The following list of measures was derived from the Contracting Parties implementation reporting, complemented by national expert additions. 1.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dams, water abstraction structures or other barriers",
+      "context_window": "Obstacles blocking access to migration – Hundreds of years of modifications to water courses, e.g. dams, water abstraction structures or other barriers are major causes of reduced recruitment and spawner escapement. For instance, river fragmentation by dams is responsible for a 80% loss of historical",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "6/8 such as the cormorants, seals or otters (Hansson et al. , 2018) could increase the natural mortality rate in eel populations. Whilst a natural function of a healthy ecosystem, this may hinder the recovery of depleted species such as the European eel.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2015). For many of these pressures the",
+      "context_window": "The eel is exposed to a multitude of pressures because of its diadromy and complex life history (Jacoby et al ., 2015). For many of these pressures the impacts on the stock are difficult to assess and are largely unknown (ICES, 2020b). Many pressures often interact (e.g., blockage of upstream habitats",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developments and the need to produce renewable energy.",
+      "context_window": "However, hydropower turbines and pumping stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological developments and the need to produce renewable energy. Effect of contaminants on reproductive potential – Since eels are benthic carnivores with a high fat content and long life span, they tend to accumulate",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": 2008. OSPAR (2010) concluded that",
+      "context_window": "of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats. Last status assessment : 2008. OSPAR (2010) concluded that Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "., 2021). However, there is also increasing evidence that some silver eels from the Baltic Sea display unexpected migration patterns (Tambets et al. , 2021). Current knowledge about their orientation mechanisms implies that translocated eels will likely have difficulties in finding their spawning area (Durif",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological",
+      "context_window": "change to natural biological communities (predation",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, it was not possible to assess trends and status within",
+      "context_window": "Moreover, quantitative data are needed to fully understand the impacts of the numerous threats on the species. Therefore, it was not possible to assess trends and status within OSPAR Regions with a high level of confidence, except for fisheries exploitation. In line with ICES (2020b), it is of critical importance to better understand",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "Low confidence for others threats as quantitative data are lacking and the understanding of how these threats, individually or synergistically, contribute to decline in abundance is still poor. Background Information Year added to OSPAR List: 2008 (OSPAR Agreement 2008-6).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "The generally recognized Figure 3: Indices, geometric mean of estimated (generalized linear model; GLM) glass eel recruitment for the continental “North Sea” and “Elsewhere Europe” series. The GLM was fitted to 52 time-series, comprising either pure glass eel or a mixture of glass + yellow eels (24 “North Sea” and 28 “Elsewhere Europe”). The predictions were",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conclusion",
+      "context_window": "Additional measures reported by experts: There are fishing regulations in Belgium, Denmark, France, Germany, Iceland, Portugal, Sweden and the UK. Conclusion Despite the measures taken by Contracting Parties to reduce the impact of fishing, hydropower, obstacles to migration and pollution, or to increase eel abundance through restocking, the status of European eel is still very poor in OSPAR Regions I to IV.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Region",
+      "context_window": "Clim chan Region I ←→",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Many pressures often interact (e.g., blockage of upstream habitats",
+      "context_window": "., 2015). For many of these pressures the impacts on the stock are difficult to assess and are largely unknown (ICES, 2020b). Many pressures often interact (e.g., blockage of upstream habitats might increase the density of the eel stock downstream, facilitating predation, fishing or disease transmission), which further complicates their assessment.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.",
+      "context_window": "Measures that address key pressures from human activities or conserve the species The following list of measures was derived from the Contracting Parties implementation reporting, complemented by national expert additions. 1. National Eel Management plans have been implemented by Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Portugal, Sweden and UK.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population/Abundance",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/european-eel/ 3/8 Population/Abundance Indices of both glass and yellow eel recruitment declined strongly from 1980 to 2011. The latest glass eel recruitment in the “North Sea” index area,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source: ICES",
+      "context_window": "Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe. The GLM was fitted to 16 yellow eel time-series and scaled to the 1960-1979 average. Source: ICES (2020a). 31/08/2025, 18:55",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "et al",
+      "context_window": "Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Modifications of oceanic physical conditions",
+      "context_window": "Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "., 2015), which could have serious effects on",
+      "context_window": "precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction). Regarding migration",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2018). In river systems, changing patterns of",
+      "context_window": "appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change",
+      "context_window": "et al. , 2009). Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "stock is facing an unprecedented level of decline. Anthropogenic factors (e.g.",
+      "context_window": ": 2008. OSPAR (2010) concluded that Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "still pose a significant threat to the species.",
+      "context_window": "stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020) IUCN Red List assessment.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching,",
+      "context_window": "Eel is a panmictic species which affects its management. While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France,",
+      "context_window": "2. Legislation and measures (installation of fish passages, removals of dams and habitat restoration) have been introduced to restore habitat accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France, Ireland, Netherlands, Norway, Sweden and UK. 3.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Loss of habitat is still serious in this area where it is linked with drought",
+      "context_window": "subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle et al.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian",
+      "context_window": "Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa et al",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account.",
+      "context_window": "Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account. Decline : The decline in glass eel recruitment was first noticed in 1985 (EIFAC, 1985).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pollution, climate change, parasites and diseases.",
+      "context_window": "level. The threats include direct exploitation at different stages, blockages to migratory routes by dams and other structures, habitat degradation and loss, pollution, climate change, parasites and diseases. There is insufficient spatial and temporal data coverage to quantitatively assess abundance of silver eels and their condition. Moreover, quantitative data",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "This contrasted situation is likely to be related to",
+      "context_window": "While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle et al. , 2011). However, quantitative data are needed to fully understand the impact and trend of this pressure on",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": "alone will be insufficient, and management measures aimed at other anthropogenic impacts on habitat quality, quantity and accessibility will also be required. This concern has been corroborated by the current assessment. Geographical Range and Distribution The European eel is a panmictic species, with a common spawning area in the Sargasso Sea. Eels undertake long migrations between the spawning areas",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "In northern Europe where precipitation seems plentiful and river restoration programs are growing successfully (Peters et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different factors (environmental conditions, anthropogenic pressures, management practices) among river basins.",
+      "context_window": "been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b). Figure 2: Probability of presence of eel based on 21706 electro",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2021), the threat from habitat loss appears to have decreased. Although now usually",
+      "context_window": "and river restoration programs are growing successfully (Peters et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ten years under favourable climatic conditions.",
+      "context_window": "There are however other models (Knights and Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account. Decline",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "not fully understood.",
+      "context_window": "Anthropogenic pressures and biological factors : Due to its unusual and complex life history, the reasons for the decline of the European eel are not fully understood. However, there are indications of linkages between the declines of eels and human activities, especially fisheries, construction of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "However, the impact of this non-indigenous species on diadromous species including European eel is still unknown (Syväranta et al. , 2009). Climate change",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "perform in the future in terms of survival, migratory and reproductive success.",
+      "context_window": "Condition Since the mature oceanic key stage is not accessible, the ‘quality’ of silver eels leaving continental waters could be used as a proxy for how eels will perform in the future in terms of survival, migratory and reproductive success. Ecological and geographical clines, e.g. latitude and longitude, together with",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "loss",
+      "context_window": "Freshwater Habitat loss Input or spread of",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment",
+      "context_window": "However, there are indications of linkages between the declines of eels and human activities, especially fisheries, construction of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats. Last status assessment : 2008. OSPAR (2010) concluded that Anguilla anguilla",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The predictions were",
+      "context_window": "The GLM was fitted to 52 time-series, comprising either pure glass eel or a mixture of glass + yellow eels (24 “North Sea” and 28 “Elsewhere Europe”). The predictions were scaled to the 1960 to 1979 average. Source: ICES (2020a). Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "However, river fragmentation is not easily reversed as more than 1,2 million instream barriers (with a mean density of 0,74 barriers per kilometer), 68% of which are structures less than two meters in height that are often overlooked, still exist in European rivers (Belletti et al ., 2020). Hydropower turbines and pumping stations",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concerns about the effects of eel stocking practices (e.g.",
+      "context_window": "waters as habitats for eel on the recruitment of eel. Knowledge gaps Concerns about the effects of eel stocking practices (e.g. spread of disease, illegal trade, stocking above dams and hydro barriers) and its effectiveness in contributing to increased silver eel production have been raised.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological",
+      "context_window": "eels are migrating and the use of fish friendly designs of turbines and pumps (see ICES, 2019 for review). However, hydropower turbines and pumping stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological developments and the need to produce renewable energy. Effect of contaminants on reproductive potential",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/european-eel/ 4/8 Condition Since the mature oceanic key stage is not accessible, the ‘quality’ of silver eels leaving continental waters could be used as a proxy for how eels will perform in the future in terms of survival, migratory and reproductive success.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat loss",
+      "context_window": "There is limited information on number of eels captured as by-catch, or on their survival when there are regulations requiring the release of eel captured in other fisheries (for instance by recreational angling). Habitat loss – Aquatic habitat loss has been considerable throughout Europe during the last century, mainly because of wetland reclamation in coastal and estuarine environments but also due to floodplain drainage, dredging, etc.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "quantify their effect on the total stock size or status at any level of certainty (ICES, 2020b) and to assess temporal trends at the scale of OSPAR Regions.",
+      "context_window": "et al ., 2020; Shiraishi & Crook, 2015). Unfortunately, there are insufficient data available to quantify their effect on the total stock size or status at any level of certainty (ICES, 2020b) and to assess temporal trends at the scale of OSPAR Regions. By-catch mortality – Most eels are caught in targeted fisheries in coastal waters, transitional (brackish) and freshwater.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "dams, water abstraction structures or other barriers",
+      "context_window": "Obstacles blocking access to migration – Hundreds of years of modifications to water courses, e.g. dams, water abstraction structures or other barriers are major causes of reduced recruitment and spawner escapement. For instance, river fragmentation by dams is responsible for a 80% loss of historical",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2015). For many of these pressures the",
+      "context_window": "The eel is exposed to a multitude of pressures because of its diadromy and complex life history (Jacoby et al ., 2015). For many of these pressures the impacts on the stock are difficult to assess and are largely unknown (ICES, 2020b). Many pressures often interact (e.g., blockage of upstream habitats",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": 2008. OSPAR (2010) concluded that",
+      "context_window": "of dams, weirs or embankments in rivers, chemical pollution, entrainment in water abstractions and loss / degradation of eel habitats. Last status assessment : 2008. OSPAR (2010) concluded that Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological",
+      "context_window": "change to natural biological communities (predation",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "Low confidence for others threats as quantitative data are lacking and the understanding of how these threats, individually or synergistically, contribute to decline in abundance is still poor. Background Information Year added to OSPAR List: 2008 (OSPAR Agreement 2008-6).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Conclusion",
+      "context_window": "Additional measures reported by experts: There are fishing regulations in Belgium, Denmark, France, Germany, Iceland, Portugal, Sweden and the UK. Conclusion Despite the measures taken by Contracting Parties to reduce the impact of fishing, hydropower, obstacles to migration and pollution, or to increase eel abundance through restocking, the status of European eel is still very poor in OSPAR Regions I to IV.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Many pressures often interact (e.g., blockage of upstream habitats",
+      "context_window": "., 2015). For many of these pressures the impacts on the stock are difficult to assess and are largely unknown (ICES, 2020b). Many pressures often interact (e.g., blockage of upstream habitats might increase the density of the eel stock downstream, facilitating predation, fishing or disease transmission), which further complicates their assessment.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Population/Abundance",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/european-eel/ 3/8 Population/Abundance Indices of both glass and yellow eel recruitment declined strongly from 1980 to 2011. The latest glass eel recruitment in the “North Sea” index area,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Source: ICES",
+      "context_window": "Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe. The GLM was fitted to 16 yellow eel time-series and scaled to the 1960-1979 average. Source: ICES (2020a). 31/08/2025, 18:55",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1.",
+      "context_window": "Measures that address key pressures from human activities or conserve the species The following list of measures was derived from the Contracting Parties implementation reporting, complemented by national expert additions. 1. National Eel Management plans have been implemented by Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Portugal, Sweden and UK.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Region",
+      "context_window": "Clim chan Region I ←→",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "The generally recognized Figure 3: Indices, geometric mean of estimated (generalized linear model; GLM) glass eel recruitment for the continental “North Sea” and “Elsewhere Europe” series. The GLM was fitted to 52 time-series, comprising either pure glass eel or a mixture of glass + yellow eels (24 “North Sea” and 28 “Elsewhere Europe”). The predictions were",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Therefore, it was not possible to assess trends and status within",
+      "context_window": "Moreover, quantitative data are needed to fully understand the impacts of the numerous threats on the species. Therefore, it was not possible to assess trends and status within OSPAR Regions with a high level of confidence, except for fisheries exploitation. In line with ICES (2020b), it is of critical importance to better understand",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "., 2021). However, there is also increasing evidence that some silver eels from the Baltic Sea display unexpected migration patterns (Tambets et al. , 2021). Current knowledge about their orientation mechanisms implies that translocated eels will likely have difficulties in finding their spawning area (Durif",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "developments and the need to produce renewable energy.",
+      "context_window": "However, hydropower turbines and pumping stations are still a key sources of eel mortality (ICES, 2018) which is likely to have increased in recent years, stimulated by both recent technological developments and the need to produce renewable energy. Effect of contaminants on reproductive potential – Since eels are benthic carnivores with a high fat content and long life span, they tend to accumulate",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "6/8 such as the cormorants, seals or otters (Hansson et al. , 2018) could increase the natural mortality rate in eel populations. Whilst a natural function of a healthy ecosystem, this may hinder the recovery of depleted species such as the European eel.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve the species",
+      "context_window": "et al. , 2021). Measures that address key pressures from human activities or conserve the species The following list of measures was derived from the Contracting Parties implementation reporting, complemented by national expert additions. 1.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Oceanic migration routes are poorly understood.",
+      "context_window": "The latter extend to fresh, brackish and coastal waters of coastal countries in Europe, North Africa and Asian coasts of the Mediterranean and Black Sea (Adam, 1997; ICES, 2020b; Moriarty & Dekker, 1997). Oceanic migration routes are poorly understood. The northward branch of the Gulf Stream seems to be responsible for transporting most European eel larvae found north of about 40°N towards Europe (Miller",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe.",
+      "context_window": "The predictions were scaled to the 1960 to 1979 average. Source: ICES (2020a). Figure 4: Estimated (GLM) yellow eel recruitment trends for Europe. The GLM was fitted to 16 yellow eel time-series and scaled to the 1960-1979 average. Source: ICES",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Studies to gain an overview of the prevalence, abundance and condition of the eels over its distribution area and to assess the effects of",
+      "context_window": "of any eel. Increased data collection and development of data collection infrastructure to better acknowledge the impacts of non-fisheries threats on eel status Studies to gain an overview of the prevalence, abundance and condition of the eels over its distribution area and to assess the effects of contaminants and disease factors on lipid metabolism, condition, migration capacities and reproduction; Further research on contribution of marine eels to spawning stocks",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "recent tagging program demonstrated that silver eels in different locations in Europe were capable of long-distance migrations that would converge in the Azores region on a westerly route to the Sargasso Sea (Righton et al ., 2016). In continental waters, only physical obstacles seem to restrain the eel’s upstream distribution area.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "After a considerable drop in recruitment since the 1980s, glass eel abundance is still at a low level (Bornarel et al ., 2018). Anthropogenic pressures and biological factors",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The European eel remains Critically Endangered in latest (2020)",
+      "context_window": "diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020) IUCN Red List assessment. (/en/ospar-assessments/quality-status-reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b).",
+      "context_window": "This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins. Method of assessment: 1, 3, 5 – Source: ICES (2020a; 2020b). Figure 2: Probability of presence of eel based on 21706 electro ﬁ",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "required. This concern has been corroborated by the current assessment.",
+      "context_window": "However, restrictions on fisheries alone will be insufficient, and management measures aimed at other anthropogenic impacts on habitat quality, quantity and accessibility will also be required. This concern has been corroborated by the current assessment. Geographical Range and Distribution The European eel is a panmictic species, with a common spawning area in the Sargasso Sea.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Europe (ICES, 2020b).",
+      "context_window": "Statistical analyses of the time series from 1980 to 2020 showed that glass eel recruitment remains at very low level (ICES, 2020a). In a recent attempt, ICES WGEEL analysed short-term trends of silver eel abundances restricted to the period 2000 to 2019, using 17 time-series available in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2021). Current knowledge about",
+      "context_window": "increasing evidence that some silver eels from the Baltic Sea display unexpected migration patterns (Tambets et al. , 2021). Current knowledge about their orientation mechanisms implies that translocated eels will likely have difficulties in finding their spawning area (Durif et al",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "The northward branch of the Gulf Stream seems to be responsible for transporting most European eel larvae found north of about 40°N towards Europe (Miller et al ., 2015). A recent tagging program demonstrated that silver eels in different locations in Europe were capable of long-distance migrations that would converge in the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "( https://www.ospar.org/site/assets/files/1888/european_eel.pdf (https://www.ospar.org/site/assets/files/1888/european_eel.pdf) )",
+      "context_window": "The original evaluation of European eel against the Texel-Faial criteria referred to global/regional importance, sensitivity and decline criteria, with information also provided on threats. ( https://www.ospar.org/site/assets/files/1888/european_eel.pdf (https://www.ospar.org/site/assets/files/1888/european_eel.pdf) ) Summary extracted from the Case report (OSPAR, 2010). Global importance",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b).",
+      "context_window": "in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to different factors (environmental conditions, anthropogenic pressures, management practices) among river basins.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Much progress has been made in most Contracting Parties, as measures to",
+      "context_window": "For instance, river fragmentation by dams is responsible for a 80% loss of historical range of the species in the Iberian Peninsula (Clavero & Hermoso, 2015). Much progress has been made in most Contracting Parties, as measures to improve connectivity are included in both EU Member States Eel Management Plans and river basins policies in the framework of EU Water Framework Directive (WFD).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within",
+      "context_window": "current rate of fishing mortality, recovery may take more than 200 years (Astrom & Dekker, 2007). There are however other models (Knights and Bonhommeau (unpublished data and analyses), in ICES (2009a) predict that a recovery of recruitment patterns to “normal” levels is possible within ten years under favourable climatic conditions. Other (non-natural) causes of mortality (including e.g., turbines) also need to be taken into account.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "floodplains and water courses for urban, industrial and agriculture development.",
+      "context_window": "., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought and rapid economic development (Kettle",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.",
+      "context_window": "National Eel Management plans have been implemented by Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Portugal, Sweden and UK. 2. Legislation and measures (installation of fish passages, removals of dams and habitat restoration) have been introduced to restore habitat accessibility and extent of suitable habitats (in particular in estuaries, lowland rivers, floodplains and backwaters) in Belgium, Denmark, France,",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter",
+      "context_window": "et al ., 2021), the threat from habitat loss appears to have decreased. Although now usually subject to more scrutiny from environmental regulators, there is still pressure in southwestern Europe (France, Spain and Portugal) to develop and alter floodplains and water courses for urban, industrial and agriculture development. Loss of habitat is still serious in this area where it is linked with drought",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "c)    Direct or indirect data",
+      "context_window": "a)    Third party assessment (ICES WGEEL principally) b)    Literature studies c)    Direct or indirect data d)    Expert opinion of national experts ",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While the pressure of commercial fishing on the",
+      "context_window": "a very low level with no clear sign of an upturn. Eel is a panmictic species which affects its management. While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have",
+      "context_window": "In a recent attempt, ICES WGEEL analysed short-term trends of silver eel abundances restricted to the period 2000 to 2019, using 17 time-series available in Europe (ICES, 2020b). While the majority of the time-series indicate a stable or declining trend of abundance, increases of abundance of silver eels have been observed in some river basins and no clear spatial pattern in the trends was observed (ICES, 2020b). This contrasted situation is likely to be related to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regarding migration",
+      "context_window": "., 2015), which could have serious effects on the quality of habitats and eel survival, especially in areas where other threats co-occur (e.g., drought and water abstraction). Regarding migration phenology, an earlier migration period of silver eel is expected in northern Europe due to increased river discharge in summer (Dankers & Feyen, 2008). Contrarily, drought periods in southern Europe are expected to extend into fall and delay migration (Arevalo",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al.",
+      "context_window": "phenology, an earlier migration period of silver eel is expected in northern Europe due to increased river discharge in summer (Dankers & Feyen, 2008). Contrarily, drought periods in southern Europe are expected to extend into fall and delay migration (Arevalo et al. , 2021). Measures that address key pressures from human activities or conserve the species",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "et al",
+      "context_window": "change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa et al ., 2021). Method of assessment: 2 and 5 for Artic waters, Greater North Sea and Celtic Sea; 1 for Bay of Biscay and Iberian coast (Region IV).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "diseases and pathogens, climate change, etc.)",
+      "context_window": "While the pressure of commercial fishing on the stock appears to be decreasing in the current assessment period (2010 to 2021), other pressures (dams, turbines, habitat loss, pollution, poaching, diseases and pathogens, climate change, etc.) still pose a significant threat to the species. The European eel remains Critically Endangered in latest (2020)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change, predation) have likely",
+      "context_window": "stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely contributed to the decline. It is hoped that 2007 EC Eel Regulation (Anon, 2007) should help address the fisheries threat.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g.",
+      "context_window": "Anguilla anguilla stock is facing an unprecedented level of decline. Anthropogenic factors (e.g. exploitation, habitat loss, contamination and transfer of parasites and diseases) as well as natural processes (e.g. climate change, predation) have likely contributed to the decline.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "– Threats from climate change appear to impact all eel life-stages and all OSPAR Regions.",
+      "context_window": ", 2009). Climate change – Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea,",
+      "context_window": "), there is no evidence that eel distribution has changed in recent years independently of potential local accessibility loss or gain. Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea, Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "On the opposite, a further increase in frequency and strength of droughts, induced by climate",
+      "context_window": "Under conditions predicted for twenty-first century climate change, eel is expected to gain suitable basins mainly northward (around Baltic sea, Scandinavia and Arctic regions) (Lassalle & Rochard, 2009). On the opposite, a further increase in frequency and strength of droughts, induced by climate change and other anthropogenic pressures (reduction of flow regime, habitat loss) is likely to strongly impact the species distribution in the Iberian Peninsula (Costa",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau",
+      "context_window": "– Threats from climate change appear to impact all eel life-stages and all OSPAR Regions. Modifications of oceanic physical conditions appear to be impacting hatching, survival and drift of larvae towards European coasts (Drouineau et al ., 2018). In river systems, changing patterns of",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death",
+      "context_window": "et al ., 2018). In river systems, changing patterns of precipitation and temperature are likely to make extreme events (floods, droughts) more common (Death et al ., 2015), which could have serious effects on",
+      "page_number": 6,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 1,
+    "keyword_counts": {
+      "climate change": 7
+    }
+  },
+  "excluded_content_debug": [],
+  "metadata": {
+    "total_sentences": 711,
+    "chunks_selected": 82,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [],
+    "total_excluded_sentences": 0
+  }
+}

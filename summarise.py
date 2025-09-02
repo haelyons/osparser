@@ -2,10 +2,9 @@ import os
 import json
 import csv
 import sys
-import re
-from pathlib import Path
+import glob
 import anthropic
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Optional
 
 # Read API key from .keys file
 def get_api_key() -> str:
@@ -30,6 +29,27 @@ QUESTIONS = [
     "What do they say about ocean acidification",
     "How does Ocean Acidification impact species, habitats and ecosystems?"
 ]
+
+def get_csv_column_name(question_num: int, question_text: str) -> str:
+    """
+    Convert question index and text to the CSV column format: Q{n}: {question_text}
+    """
+    return f"Q{question_num + 1}: {question_text}"
+
+def find_document_json_directory(output_dir: str, doc_name: str) -> Optional[str]:
+    """
+    Find the directory containing JSON files for a given document name.
+    Searches through the output directory structure with case-insensitive matching.
+    """
+    for root, dirs, files in os.walk(output_dir):
+        # Check if this directory name matches the document name (case-insensitive)
+        dir_name = os.path.basename(root)
+        if dir_name.lower() == doc_name.lower():
+            # Verify it contains JSON files
+            json_files = [f for f in files if f.endswith('.json')]
+            if json_files:
+                return root
+    return None
 
 def build_context_from_json(json_data: dict) -> str:
     """
@@ -96,45 +116,7 @@ Context:
         print(f"Error calling Claude API: {e}")
         return f"ERROR: Failed to generate summary - {str(e)}"
 
-def find_matching_csv_entry(pdf_name: str, csv_data: List[Dict]) -> Optional[Dict]:
-    """
-    Find the matching entry in CSV data based on the PDF filename.
-    Handles the truncated names and project codes.
-    """
-    # Remove extension and any project code prefix
-    clean_name = pdf_name.replace('.pdf', '')
-    match = re.match(r'p\d+_(.*)', clean_name)
-    if match:
-        clean_name = match.group(1)
-    
-    for entry in csv_data:
-        filename = entry.get('Filename', '')
-        if filename:
-            # Try exact match first
-            if filename == pdf_name or filename == clean_name:
-                return entry
-            
-            # Try partial matching (for cases where CSV has truncated names)
-            csv_clean = filename.replace('.pdf', '')
-            csv_match = re.match(r'p\d+_(.*)', csv_clean)
-            if csv_match:
-                csv_clean = csv_match.group(1)
-            
-            if csv_clean == clean_name or clean_name in csv_clean or csv_clean in clean_name:
-                return entry
-    
-    return None
 
-def extract_pdf_name_from_path(json_path: str) -> str:
-    """
-    Extract the PDF name from the JSON file path structure.
-    """
-    path_parts = Path(json_path).parts
-    if len(path_parts) >= 3:
-        # Get the directory name which should be the document name
-        doc_dir = path_parts[-2]
-        return doc_dir
-    return ""
 
 def get_keyword_counts(json_data: dict) -> Dict[str, int]:
     """
@@ -143,10 +125,28 @@ def get_keyword_counts(json_data: dict) -> Dict[str, int]:
     keyword_summary = json_data.get("document_keyword_summary", {})
     return keyword_summary.get("keyword_counts", {})
 
-def process_json_files(output_dir: str, csv_file: str, api_key: str, test_mode: bool = False, max_docs: int = None):
+def save_csv_data(csv_data: List[Dict], fieldnames: List[str], csv_file: str):
     """
-    Process all JSON files and update the CSV with summaries and keyword counts.
+    Save CSV data to file.
     """
+    with open(csv_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(csv_data)
+
+def process_csv_documents(output_dir: str, csv_file: str, api_key: str, test_mode: bool = False, max_docs: int = None):
+    """
+    Process documents specified in the CSV file and update with summaries and keyword counts.
+    """
+    # Create backup before processing
+    backup_file = csv_file.replace('.csv', '_backup.csv')
+    if not os.path.exists(backup_file):
+        import shutil
+        shutil.copy2(csv_file, backup_file)
+        print(f"Created backup: {backup_file}")
+    else:
+        print(f"Backup already exists: {backup_file}")
+    
     # Read the existing CSV
     csv_data = []
     with open(csv_file, 'r', encoding='utf-8') as f:
@@ -161,49 +161,41 @@ def process_json_files(output_dir: str, csv_file: str, api_key: str, test_mode: 
             fieldnames.append(col)
     
     # Ensure all question columns exist in fieldnames
-    for question in QUESTIONS:
-        if question not in fieldnames:
-            fieldnames.append(question)
+    for i, question in enumerate(QUESTIONS):
+        column_name = get_csv_column_name(i, question)
+        if column_name not in fieldnames:
+            fieldnames.append(column_name)
     
-    # Process each JSON file
-    json_files = []
-    for root, dirs, files in os.walk(output_dir):
-        for file in files:
-            if file.endswith('.json'):
-                json_files.append(os.path.join(root, file))
-    
-    # Group by document for better processing and resume capability
-    doc_files = {}
-    for json_path in json_files:
-        doc_name = extract_pdf_name_from_path(json_path)
-        if doc_name not in doc_files:
-            doc_files[doc_name] = []
-        doc_files[doc_name].append(json_path)
+    # Filter CSV entries that have filenames and are processable
+    processable_entries = []
+    for entry in csv_data:
+        filename = entry.get('Filename', '').strip()
+        if filename and filename.lower() != 'filename':  # Skip header-like entries
+            processable_entries.append(entry)
     
     # Limit for testing
     if test_mode and max_docs:
-        doc_items = list(doc_files.items())[:max_docs]
-        doc_files = dict(doc_items)
+        processable_entries = processable_entries[:max_docs]
         print(f"TEST MODE: Processing only first {max_docs} documents")
     
-    total_files = sum(len(files) for files in doc_files.values())
-    total_docs = len(doc_files)
-    print(f"Found {total_files} JSON files across {total_docs} documents to process...")
+    print(f"Found {len(processable_entries)} documents in CSV to process...")
     
     processed_count = 0
     skipped_count = 0
+    not_found_count = 0
     
-    for doc_name, doc_json_files in doc_files.items():
-        # Find matching CSV entry
-        matching_entry = find_matching_csv_entry(doc_name, csv_data)
-        if not matching_entry:
-            print(f"Warning: No CSV entry found for {doc_name}")
-            continue
+    for entry in processable_entries:
+        filename = entry.get('Filename', '')
+        doc_name = entry.get('Name', '')
+        
+        # Convert filename to document directory name (remove .pdf extension)
+        doc_dir_name = filename.replace('.pdf', '') if filename.endswith('.pdf') else filename
         
         # Check if this document already has all summaries (for resume capability)
         all_complete = True
-        for question in QUESTIONS:
-            if not matching_entry.get(question, "").strip():
+        for i, question in enumerate(QUESTIONS):
+            column_name = get_csv_column_name(i, question)
+            if not entry.get(column_name, "").strip():
                 all_complete = False
                 break
         
@@ -212,30 +204,38 @@ def process_json_files(output_dir: str, csv_file: str, api_key: str, test_mode: 
             skipped_count += 1
             continue
         
+        # Find the JSON files for this document
+        json_dir_path = find_document_json_directory(output_dir, doc_dir_name)
+        if not json_dir_path:
+            print(f"Warning: No JSON directory found for {doc_name} (looking for {doc_dir_name})")
+            not_found_count += 1
+            continue
+        
         print(f"\nProcessing document: {doc_name}")
         
+        # Track if any changes were made to this document
+        document_updated = False
+        
         # Process each question for this document
-        for json_path in doc_json_files:
+        for i, question in enumerate(QUESTIONS):
+            column_name = get_csv_column_name(i, question)
+            
+            # Check if this specific question already has an answer (for resume)
+            if entry.get(column_name, "").strip():
+                print(f"  Skipping question {i + 1}: already answered")
+                continue
+            
+            # Look for the JSON file for this question
+            json_filename = f"q{i+1:02d}_*.json"
+            json_files = glob.glob(os.path.join(json_dir_path, json_filename))
+            
+            if not json_files:
+                print(f"  Warning: No JSON file found for question {i+1}")
+                continue
+            
+            json_path = json_files[0]  # Take the first match
+            
             try:
-                filename = os.path.basename(json_path)
-                if not filename.startswith('q'):
-                    continue
-                    
-                question_match = re.match(r'q(\d+)_', filename)
-                if not question_match:
-                    continue
-                    
-                question_num = int(question_match.group(1)) - 1  # Convert to 0-indexed
-                if question_num >= len(QUESTIONS):
-                    continue
-                    
-                question = QUESTIONS[question_num]
-                
-                # Check if this specific question already has an answer (for resume)
-                if matching_entry.get(question, "").strip():
-                    print(f"  Skipping question {question_num + 1}: already answered")
-                    continue
-                
                 # Read and process JSON
                 with open(json_path, 'r', encoding='utf-8') as f:
                     json_data = json.load(f)
@@ -245,42 +245,38 @@ def process_json_files(output_dir: str, csv_file: str, api_key: str, test_mode: 
                 if not context.strip():
                     summary = "No relevant context found in the document."
                 else:
-                    print(f"  Processing question {question_num + 1}/{len(QUESTIONS)}: {question[:50]}...")
+                    print(f"  Processing question {i + 1}/{len(QUESTIONS)}: {question[:50]}...")
                     summary = call_claude_api(question, context, api_key)
                 
                 # Update CSV entry with summary
-                matching_entry[question] = summary
+                entry[column_name] = summary
+                document_updated = True
                 
                 # Update keyword counts (only for the first question to avoid duplication)
-                if question_num == 0:
+                if i == 0:
                     keyword_counts = get_keyword_counts(json_data)
-                    matching_entry['climate_change_hits'] = keyword_counts.get('climate change', 0)
-                    matching_entry['ocean_acidification_hits'] = keyword_counts.get('ocean acidification', 0)
-                    matching_entry['total_keyword_hits'] = sum(keyword_counts.values())
+                    entry['climate_change_hits'] = keyword_counts.get('climate change', 0)
+                    entry['ocean_acidification_hits'] = keyword_counts.get('ocean acidification', 0)
+                    entry['total_keyword_hits'] = sum(keyword_counts.values())
                 
                 processed_count += 1
                 
             except Exception as e:
                 print(f"  Error processing {json_path}: {e}")
                 continue
+        
+        # Save CSV after each document to preserve progress
+        if document_updated:
+            save_csv_data(csv_data, fieldnames, csv_file)
+            print(f"  Saved progress for {doc_name}")
     
-    # Write updated CSV
-    backup_file = csv_file.replace('.csv', '_backup.csv')
-    if not os.path.exists(backup_file):
-        import shutil
-        shutil.copy2(csv_file, backup_file)
-        print(f"Created backup: {backup_file}")
-    else:
-        print(f"Backup already exists: {backup_file}")
-    
-    with open(csv_file, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(csv_data)
+    # Final save to ensure all data is written
+    save_csv_data(csv_data, fieldnames, csv_file)
     
     print(f"\nProcessing complete!")
     print(f"Processed: {processed_count} question-document pairs")
     print(f"Skipped: {skipped_count} already completed documents")
+    print(f"Not found: {not_found_count} documents without JSON directories")
     print(f"Updated CSV: {csv_file}")
     print(f"Added keyword count columns: {', '.join(new_columns)}")
 
@@ -328,7 +324,7 @@ def main():
     
     # Process files
     try:
-        process_json_files(output_dir, csv_file, api_key, test_mode=test_mode, max_docs=3 if test_mode else None)
+        process_csv_documents(output_dir, csv_file, api_key, test_mode=test_mode, max_docs=3 if test_mode else None)
     except KeyboardInterrupt:
         print("\nProcess interrupted by user.")
         sys.exit(1)

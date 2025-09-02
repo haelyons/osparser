@@ -1,0 +1,1547 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "Increasing eutrophication-induced hypoxia has led",
+      "context_window": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km 2",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": ", and hypoxia levels will enhance",
+      "context_window": "During future climate change, simultaneous shifts in temperature, CO 2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "and Iberian Coast",
+      "context_window": "bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "context_window": "sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton",
+      "context_window": "Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "cause loss of biodiversity in these impacted ecosystems.",
+      "context_window": "(dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and",
+      "context_window": "( Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may",
+      "context_window": "Hypoxia (dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 2
+      }
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "this warmer water can hold less oxygen.",
+      "context_window": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in",
+      "context_window": "As oxygen consumption is significantly driven from the bed, the regions which suffer from low oxygen, are those which have a relatively small volume of water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in many ways. Most evidently via the direct effect on solubility but it can also increase stratification which",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "possible consequence of undesirable disturbance to the balance of organisms in the marine ecosystem",
+      "context_window": "). Excessive enrichment of marine water with nutrients may lead to algal (phytoplankton) blooms, with the possible consequence of undesirable disturbance to the balance of organisms in the marine ecosystem ( Figure 2",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "context_window": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "sensitivity to environmental extremes relative to a change in just one of these variables.",
+      "context_window": "2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "inhibits the supply of oxygenated waters to lower levels. Increased levels of CO",
+      "context_window": "many ways. Most evidently via the direct effect on solubility but it can also increase stratification which inhibits the supply of oxygenated waters to lower levels. Increased levels of CO 2 can promote",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "context_window": "Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief)",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Oxygen depletion may result in behavioural changes",
+      "context_window": "depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Negative effects on the bottom fauna reduce the amount of",
+      "context_window": "Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations. Oxygen concentrations above 6mg/l",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "or death of fish and bottom fauna and flora.",
+      "context_window": "or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase",
+      "context_window": "can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Scientists estimate that between 1960 and 2010, the amount of the",
+      "context_window": "In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the",
+      "context_window": "2 can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "context_window": "The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "During future climate change, simultaneous shifts in temperature, CO",
+      "context_window": "., 1995). N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea. During future climate change, simultaneous shifts in temperature, CO 2 , and hypoxia levels will enhance",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "to hypoxic levels, fish and other marine animals suffocate.",
+      "context_window": "by the respiring algae and by microorganisms that feed on the increasing mass of dead algae. When dissolved oxygen levels decline to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Experimental evidence indicates that as temperatures rise above",
+      "context_window": "Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase in respiratory demand.",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "biological processes.",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and dissolved oxygen",
+      "context_window": "Climate change and dissolved oxygen In European shelf seas, most areas (not Baltic) become vertically well mixed in winter every year, and as such oxygen concentrations are reset to the surface values.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "context_window": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will",
+      "context_window": "Identifying common categories of assessment areas which can align will help both the thematic assessment and the QSR. Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR 2022",
+      "context_window": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31 OSPAR Commission",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase",
+      "context_window": "gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase in respiratory demand. Periods of super saturation can provide additional resources to combat periods of",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "context_window": "low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi et al.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of marine ecosystems worldwide (Diaz and Rosenberg, 2008).",
+      "context_window": "to dead zones affecting more than 245 000km 2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008). It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea.",
+      "context_window": "et al ., 1995). N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea. During future climate change, simultaneous shifts in temperature, CO 2",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "context_window": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022). As there is no single indicator of disturbance caused by marine eutrophication, OSPAR applies",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes",
+      "context_window": "particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temperature, salinity and depth are considered as",
+      "context_window": "disturbances and nutrient enrichment. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "context_window": "current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "impact on marine organisms.",
+      "context_window": "During this decomposition process, dissolved oxygen in the water is consumed, resulting in low oxygen levels that can impact on marine organisms. Low oxygen levels often occur in the bottom of the water column and primarily affect organisms that live in the sediments, though these impacts can reverberate through the marine",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae",
+      "context_window": "co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae (phytoplankton) or seaweed communities. Thus, changes in near-bed oxygen concentration are determined",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food available for fish and hence the productivity of fish populations.",
+      "context_window": "or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations. Oxygen concentrations above 6mg/l are considered to support marine life with minimal problems, while concentrations less than 2mg/l (hypoxia,",
+      "page_number": 3,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "(phytoplankton) or seaweed communities.",
+      "context_window": "can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae (phytoplankton) or seaweed communities. Thus, changes in near-bed oxygen concentration are determined by the quantity of organic matter input to the seafloor, the speed of bacteria decay, and the water renewal",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Low levels of oxygen (hypoxia) or no oxygen levels (anoxia) can occur",
+      "context_window": "The concentration of dissolved oxygen was assessed as an indicator of indirect effects of nutrient enrichment and as one of four common indicators. Low levels of oxygen (hypoxia) or no oxygen levels (anoxia) can occur when excess organic materials, such as large algal blooms, are decomposed by microorganisms. During this",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to",
+      "context_window": "2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008). It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Stratified) and one in oceanic areas (Atlantic).",
+      "context_window": "Areas with decreasing trend for dissolved oxygen include two in river plumes (Meuse Plume, Scheldt Plume 1), two in Shelf areas (Norwegian Trench, Atlantic Seasonally Stratified) and one in oceanic areas (Atlantic). The Thames Plume also showed a decreasing trend but was not significant.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recent work in the Red Sea demonstrates that hyperoxia during the",
+      "context_window": "Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygen) through trend assessments.",
+      "context_window": "In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant decreasing oxygen concentrations.",
+      "context_window": "<0,1). However, in areas which have been classified as good or high, five assessment areas showed statistically significant decreasing oxygen concentrations. These include the Atlantic Region (ATL) Atlantic Seasonally Stratified (ASS), Meuse Plume (MPM), Norwegian Trench (NT) and Scheldt Plume (SCHPM1).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "DO conditions evolved during seasonal stratification (Peeters",
+      "context_window": "constituted key factors in that susceptibility. Different studies showed that these occurrences of low DO conditions evolved during seasonal stratification (Peeters et al. , 1995), driven by eutrophication due to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and the areas impacted (Lehmann",
+      "context_window": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When observing trends in oxygen saturation, which take account of the effect of temperature and",
+      "context_window": "concentrations of dissolved oxygen, temperature, salinity and pressure. When observing trends in oxygen saturation, which take account of the effect of temperature and salinity on oxygen solubility, the Meuse Plume, Atlantic, Norwegian Trench and Scheldt Plume 1 still all show a statistically significant negative trend, however the Northern North Sea (NNS) also now shows a negative",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "context_window": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication indicators",
+      "context_window": "Dissolved oxygen is one of a suite of eutrophication indicators including nutrient inputs and concentrations, chlorophyll and dissolved oxygen. When assessed and considered together, this multi-step method constitutes the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "most susceptible to oxygen depletion as they have a limited volume of water below the thermocline that can",
+      "context_window": "et al. , 2016). Shallow stratified areas are most susceptible to oxygen depletion as they have a limited volume of water below the thermocline that can be oxygen depleted within a summer period, before autumn storms break up the thermocline. Areas such as",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "New areas of hypoxia",
+      "context_window": "., 2002). Large quantities of nutrients have been discharged into the Black Sea with 90% of its volume classified as anoxic (Mee, 1992). New areas of hypoxia are being observed globally (Chan et al.",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "context_window": "to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value.",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2019). The interaction between temperature and oxygen needs to be considered",
+      "context_window": "temperatures (Giomi et al. , 2019). The interaction between temperature and oxygen needs to be considered when assessing long-term changes in offshore waters. However, in coastal waters, biological processes tend",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including nutrient inputs and concentrations, chlorophyll",
+      "context_window": "oxygen is one of a suite of eutrophication indicators including nutrient inputs and concentrations, chlorophyll and dissolved oxygen. When assessed and considered together, this multi-step method constitutes the OSPAR Common Procedure to diagnose eutrophication (",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "context_window": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When dissolved oxygen levels decline",
+      "context_window": "Figure 2: Schematic of eutrophic conditions, dissolved oxygen greatly increases during the day, but is greatly reduced after dark by the respiring algae and by microorganisms that feed on the increasing mass of dead algae. When dissolved oxygen levels decline to hypoxic levels, fish and other marine animals suffocate. Background (Extended)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Areas with decreasing trend for dissolved oxygen include two in",
+      "context_window": "Out of those 52 areas, only one in coastal areas had an increasing trend (Kattegat Coastal). Areas with decreasing trend for dissolved oxygen include two in river plumes (Meuse Plume, Scheldt Plume 1), two in Shelf areas (Norwegian Trench, Atlantic Seasonally Stratified) and one in oceanic areas (Atlantic).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large areas (70 000km",
+      "context_window": "For example, increased dissolved nutrient inputs have resulted in an anthropogenically induced region of dissolved oxygen below 2ml/l (2,9mg/l) in large areas (70 000km 2 ) of the Baltic Sea (Conley",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low oxygen and warmer temperatures.",
+      "context_window": "in respiratory demand. Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic pressures on water bodies may create new areas of oxygen depletion or exacerbate areas",
+      "context_window": "From Ciavatta 2016. Anthropogenic pressures on water bodies may create new areas of oxygen depletion or exacerbate areas which have a natural tendency for low oxygen concentrations. For example, increased dissolved nutrient",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affect organisms that live in the sediments, though these impacts can reverberate through the marine",
+      "context_window": "impact on marine organisms. Low oxygen levels often occur in the bottom of the water column and primarily affect organisms that live in the sediments, though these impacts can reverberate through the marine system. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "context_window": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "levels require oxygen measurements to be paired with temperature and salinity measurements so that",
+      "context_window": "et al. , 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value",
+      "context_window": "oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the North Sea, the hypoxic conditions of the 1980s caused the death of",
+      "context_window": "concentrations in the south-eastern North Sea. In the North Sea, the hypoxic conditions of the 1980s caused the death of benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters et al.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ODI) based on the key parameters of depth, stratification period and net Primary Production can identify",
+      "context_window": "demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse et al.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas which are susceptible to dissolved oxygen depletion (Grosse",
+      "context_window": "Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse et al. , 2016). Shallow stratified areas are",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies,",
+      "context_window": "affect organisms that live in the sediments, though these impacts can reverberate through the marine system. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies, thus isolating water beneath from oxygenated waters above. Although oxygen depletion can be a direct effect of nutrient enrichment, other pressures often complicate the identification of causal links between",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "context_window": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "context_window": "if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fluctuate periodically, seasonally and even as part of the natural daily ecology of the aquatic resource, making",
+      "context_window": "rate, hence the nutrient input can be a key factor in driving oxygen reduction. Dissolved oxygen levels fluctuate periodically, seasonally and even as part of the natural daily ecology of the aquatic resource, making it difficult to monitor and measure acute changes. Declining oxygen (hereafter DO) is a threat to many coastal and marine areas around the world.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "particularly where the water column stratifies seasonally.",
+      "context_window": "effect of nutrient enrichment, other pressures often complicate the identification of causal links between disturbances and nutrient enrichment. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "replicate the observations well, show that regions of low oxygen concentrations are likely to occur over quite",
+      "context_window": "et al. , 2015), which replicate the observations well, show that regions of low oxygen concentrations are likely to occur over quite extensive regions, however not in the regions where sampling presently occurs. Models not only have a role",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "context_window": "in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hypoxia in the 1980s (Brockmann and Eberlein, 1986; Brockmann",
+      "context_window": "Nutrient inputs have always been considered a key driver in oxygen deficiency in the North-East Atlantic. Nutrient inputs from adjacent North Sea regions and North-East Atlantic contributed to the evolution of hypoxia in the 1980s (Brockmann and Eberlein, 1986; Brockmann et al ., 1988; Artioli",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Data from the period 1990–2020 were used to plot trends to identify",
+      "context_window": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "excess riverine nutrient loads (Brockmann and Eberlein, 1986; Brockmann",
+      "context_window": "et al. , 1995), driven by eutrophication due to excess riverine nutrient loads (Brockmann and Eberlein, 1986; Brockmann et al ., 1988; Peeters",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters",
+      "context_window": "the south-eastern North Sea. In the North Sea, the hypoxic conditions of the 1980s caused the death of benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters et al. , 1995).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms able to thrive are bacteria that live on and in the seafloor.",
+      "context_window": ", 2009). Observations from the Baltic Sea show that when the oxygen content in bottom waters is very low, the only organisms able to thrive are bacteria that live on and in the seafloor. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in coastal waters, biological processes tend",
+      "context_window": ", 2019). The interaction between temperature and oxygen needs to be considered when assessing long-term changes in offshore waters. However, in coastal waters, biological processes tend OSPAR 2022 7 of 31",
+      "page_number": 6,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "Increasing eutrophication-induced hypoxia has led",
+      "context_window": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km 2",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "context_window": "sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1
+      }
+    },
+    {
+      "core_sentence": "cause loss of biodiversity in these impacted ecosystems.",
+      "context_window": "(dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led to dead zones affecting more than 245 000km",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and",
+      "context_window": "( Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "this warmer water can hold less oxygen.",
+      "context_window": "dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans. In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "possible consequence of undesirable disturbance to the balance of organisms in the marine ecosystem",
+      "context_window": "). Excessive enrichment of marine water with nutrients may lead to algal (phytoplankton) blooms, with the possible consequence of undesirable disturbance to the balance of organisms in the marine ecosystem ( Figure 2",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sensitivity to environmental extremes relative to a change in just one of these variables.",
+      "context_window": "2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon dioxide is released enhancing the greenhouse effect, much of the heat is absorbed by the oceans.",
+      "page_number": 6,
+      "keyword_hits": {
+        "carbon dioxide": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "It is estimated that the amount of the gas dissolved in the oceans declined by 2% between",
+      "context_window": "Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief)",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Negative effects on the bottom fauna reduce the amount of",
+      "context_window": "Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations. Oxygen concentrations above 6mg/l",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or death of fish and bottom fauna and flora.",
+      "context_window": "or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase",
+      "context_window": "can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the",
+      "context_window": "2 can promote phytoplankton growth above or on the thermocline, which when it decays and is consumed beneath the thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down.",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "to hypoxic levels, fish and other marine animals suffocate.",
+      "context_window": "by the respiring algae and by microorganisms that feed on the increasing mass of dead algae. When dissolved oxygen levels decline to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biological processes.",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring where the minimum DO would be located as the very low DO may not be picked up with current methods.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "context_window": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Further work on the depth of the seabed investigating what is the most appropriate depth level exploring",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust",
+      "context_window": "deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data. Since oxygen deficiency is",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR 2022",
+      "context_window": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31 OSPAR Commission",
+      "page_number": 29,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase",
+      "context_window": "gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase in respiratory demand. Periods of super saturation can provide additional resources to combat periods of",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "of marine ecosystems worldwide (Diaz and Rosenberg, 2008).",
+      "context_window": "to dead zones affecting more than 245 000km 2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008). It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "context_window": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022). As there is no single indicator of disturbance caused by marine eutrophication, OSPAR applies",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temperature, salinity and depth are considered as",
+      "context_window": "disturbances and nutrient enrichment. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact on marine organisms.",
+      "context_window": "During this decomposition process, dissolved oxygen in the water is consumed, resulting in low oxygen levels that can impact on marine organisms. Low oxygen levels often occur in the bottom of the water column and primarily affect organisms that live in the sediments, though these impacts can reverberate through the marine",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food available for fish and hence the productivity of fish populations.",
+      "context_window": "or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of food available for fish and hence the productivity of fish populations. Oxygen concentrations above 6mg/l are considered to support marine life with minimal problems, while concentrations less than 2mg/l (hypoxia,",
+      "page_number": 3,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Low levels of oxygen (hypoxia) or no oxygen levels (anoxia) can occur",
+      "context_window": "The concentration of dissolved oxygen was assessed as an indicator of indirect effects of nutrient enrichment and as one of four common indicators. Low levels of oxygen (hypoxia) or no oxygen levels (anoxia) can occur when excess organic materials, such as large algal blooms, are decomposed by microorganisms. During this",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 1,
+        "anoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Stratified) and one in oceanic areas (Atlantic).",
+      "context_window": "Areas with decreasing trend for dissolved oxygen include two in river plumes (Meuse Plume, Scheldt Plume 1), two in Shelf areas (Norwegian Trench, Atlantic Seasonally Stratified) and one in oceanic areas (Atlantic). The Thames Plume also showed a decreasing trend but was not significant.",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygen) through trend assessments.",
+      "context_window": "In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "DO conditions evolved during seasonal stratification (Peeters",
+      "context_window": "constituted key factors in that susceptibility. Different studies showed that these occurrences of low DO conditions evolved during seasonal stratification (Peeters et al. , 1995), driven by eutrophication due to",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When observing trends in oxygen saturation, which take account of the effect of temperature and",
+      "context_window": "concentrations of dissolved oxygen, temperature, salinity and pressure. When observing trends in oxygen saturation, which take account of the effect of temperature and salinity on oxygen solubility, the Meuse Plume, Atlantic, Norwegian Trench and Scheldt Plume 1 still all show a statistically significant negative trend, however the Northern North Sea (NNS) also now shows a negative",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication indicators",
+      "context_window": "Dissolved oxygen is one of a suite of eutrophication indicators including nutrient inputs and concentrations, chlorophyll and dissolved oxygen. When assessed and considered together, this multi-step method constitutes the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "New areas of hypoxia",
+      "context_window": "., 2002). Large quantities of nutrients have been discharged into the Black Sea with 90% of its volume classified as anoxic (Mee, 1992). New areas of hypoxia are being observed globally (Chan et al.",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value.",
+      "context_window": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including nutrient inputs and concentrations, chlorophyll",
+      "context_window": "oxygen is one of a suite of eutrophication indicators including nutrient inputs and concentrations, chlorophyll and dissolved oxygen. When assessed and considered together, this multi-step method constitutes the OSPAR Common Procedure to diagnose eutrophication (",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When dissolved oxygen levels decline",
+      "context_window": "Figure 2: Schematic of eutrophic conditions, dissolved oxygen greatly increases during the day, but is greatly reduced after dark by the respiring algae and by microorganisms that feed on the increasing mass of dead algae. When dissolved oxygen levels decline to hypoxic levels, fish and other marine animals suffocate. Background (Extended)",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "large areas (70 000km",
+      "context_window": "For example, increased dissolved nutrient inputs have resulted in an anthropogenically induced region of dissolved oxygen below 2ml/l (2,9mg/l) in large areas (70 000km 2 ) of the Baltic Sea (Conley",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic pressures on water bodies may create new areas of oxygen depletion or exacerbate areas",
+      "context_window": "From Ciavatta 2016. Anthropogenic pressures on water bodies may create new areas of oxygen depletion or exacerbate areas which have a natural tendency for low oxygen concentrations. For example, increased dissolved nutrient",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "context_window": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be consistent with MSFD requirements. As with common indicators for nutrients and Chl-1, the DO trend OSPAR 2022",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value",
+      "context_window": "oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded. Additionally, EQRs for finer scale grids within each assessment area were used to look at particular areas in",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ODI) based on the key parameters of depth, stratification period and net Primary Production can identify",
+      "context_window": "demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse et al.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies,",
+      "context_window": "affect organisms that live in the sediments, though these impacts can reverberate through the marine system. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies, thus isolating water beneath from oxygenated waters above. Although oxygen depletion can be a direct effect of nutrient enrichment, other pressures often complicate the identification of causal links between",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient",
+      "context_window": "if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "particularly where the water column stratifies seasonally.",
+      "context_window": "effect of nutrient enrichment, other pressures often complicate the identification of causal links between disturbances and nutrient enrichment. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios",
+      "context_window": "in directing future sampling programmes and strategies to make best use of resources, but in the future may if suitably validated be used as evidence in regions which are poorly sampled at present. Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Data from the period 1990–2020 were used to plot trends to identify",
+      "context_window": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify areas of concern where oxygen levels are declining, even in non-problem areas where the threshold value was not exceeded.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters",
+      "context_window": "the south-eastern North Sea. In the North Sea, the hypoxic conditions of the 1980s caused the death of benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters et al. , 1995).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "organisms able to thrive are bacteria that live on and in the seafloor.",
+      "context_window": ", 2009). Observations from the Baltic Sea show that when the oxygen content in bottom waters is very low, the only organisms able to thrive are bacteria that live on and in the seafloor. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "However, in coastal waters, biological processes tend",
+      "context_window": ", 2019). The interaction between temperature and oxygen needs to be considered when assessing long-term changes in offshore waters. However, in coastal waters, biological processes tend OSPAR 2022 7 of 31",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on",
+      "context_window": "objective to achieve clean seas for the North-East Atlantic by 2030. This includes tackling eutrophication, ‘through limiting inputs of nutrients and organic matter to levels that do not give rise to adverse effects on the marine environment’ (OSPAR, 2021). This strategic objective requires assessment of eutrophication to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "excess riverine nutrient loads (Brockmann and Eberlein, 1986; Brockmann",
+      "context_window": "et al. , 1995), driven by eutrophication due to excess riverine nutrient loads (Brockmann and Eberlein, 1986; Brockmann et al ., 1988; Peeters",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hypoxia in the 1980s (Brockmann and Eberlein, 1986; Brockmann",
+      "context_window": "Nutrient inputs have always been considered a key driver in oxygen deficiency in the North-East Atlantic. Nutrient inputs from adjacent North Sea regions and North-East Atlantic contributed to the evolution of hypoxia in the 1980s (Brockmann and Eberlein, 1986; Brockmann et al ., 1988; Artioli",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "replicate the observations well, show that regions of low oxygen concentrations are likely to occur over quite",
+      "context_window": "et al. , 2015), which replicate the observations well, show that regions of low oxygen concentrations are likely to occur over quite extensive regions, however not in the regions where sampling presently occurs. Models not only have a role",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fluctuate periodically, seasonally and even as part of the natural daily ecology of the aquatic resource, making",
+      "context_window": "rate, hence the nutrient input can be a key factor in driving oxygen reduction. Dissolved oxygen levels fluctuate periodically, seasonally and even as part of the natural daily ecology of the aquatic resource, making it difficult to monitor and measure acute changes. Declining oxygen (hereafter DO) is a threat to many coastal and marine areas around the world.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton",
+      "context_window": "i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos (OSPAR, 2022).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "areas which are susceptible to dissolved oxygen depletion (Grosse",
+      "context_window": "Metrics such as the Oxygen Deficiency Index (ODI) based on the key parameters of depth, stratification period and net Primary Production can identify areas which are susceptible to dissolved oxygen depletion (Grosse et al. , 2016). Shallow stratified areas are",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the North Sea, the hypoxic conditions of the 1980s caused the death of",
+      "context_window": "concentrations in the south-eastern North Sea. In the North Sea, the hypoxic conditions of the 1980s caused the death of benthic and demersal species (von Westernhagen and Dethlefsen, 1983, Peeters et al.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "levels require oxygen measurements to be paired with temperature and salinity measurements so that",
+      "context_window": "et al. , 2013a, 2013b) and assessments based on oxygen saturation levels. Assessments based on saturation levels require oxygen measurements to be paired with temperature and salinity measurements so that percentage saturation can be calculated. Robust assessments of oxygen deficiency require improved availability of suitable data in many of the assessment areas.",
+      "page_number": 29,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 32,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "affect organisms that live in the sediments, though these impacts can reverberate through the marine",
+      "context_window": "impact on marine organisms. Low oxygen levels often occur in the bottom of the water column and primarily affect organisms that live in the sediments, though these impacts can reverberate through the marine system. Seasonal oxygen depletion can be a natural localised process, particularly where the water column stratifies,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "low oxygen and warmer temperatures.",
+      "context_window": "in respiratory demand. Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Areas with decreasing trend for dissolved oxygen include two in",
+      "context_window": "Out of those 52 areas, only one in coastal areas had an increasing trend (Kattegat Coastal). Areas with decreasing trend for dissolved oxygen include two in river plumes (Meuse Plume, Scheldt Plume 1), two in Shelf areas (Norwegian Trench, Atlantic Seasonally Stratified) and one in oceanic areas (Atlantic).",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s",
+      "context_window": "be based on the ecological consequences of nutrient enrichment and not just on nutrient enrichment alone, i.e., finding reliable evidence for accelerated growth of algae and / or macrophytes caused by anthropogenic nutrient enrichment, leading to undesirable disturbance. Eutrophication is diagnosed using OSPAR’s harmonised criteria of nutrient inputs, concentrations and ratios, chlorophyll concentrations, phytoplankton indicator species, macrophytes, dissolved oxygen levels, incidence of fish kills and changes in zoobenthos",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ", 2019). The interaction between temperature and oxygen needs to be considered",
+      "context_window": "temperatures (Giomi et al. , 2019). The interaction between temperature and oxygen needs to be considered when assessing long-term changes in offshore waters. However, in coastal waters, biological processes tend",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North-East Atlantic Environment Strategy (NEAES) 2030",
+      "context_window": "to hypoxic levels, fish and other marine animals suffocate. Background (Extended) The North-East Atlantic Environment Strategy (NEAES) 2030 contains the OSPAR Commission’s strategic objective to achieve clean seas for the North-East Atlantic by 2030.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "most susceptible to oxygen depletion as they have a limited volume of water below the thermocline that can",
+      "context_window": "et al. , 2016). Shallow stratified areas are most susceptible to oxygen depletion as they have a limited volume of water below the thermocline that can be oxygen depleted within a summer period, before autumn storms break up the thermocline. Areas such as",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "statistic for each year were constructed and used to assess the direction of change (increasing or decreasing",
+      "context_window": "Figure c: Calculation of Ecological Quality Scaled Ratio for the final assessment value. In addition, where there was sufficient data from the period 1990–2020, time series of the assessment statistic for each year were constructed and used to assess the direction of change (increasing or decreasing oxygen) through trend assessments. Data from the period 1990–2020 were used to plot trends to identify",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "sources and the areas impacted (Lehmann",
+      "context_window": "Validated biogeochemical models have the capability to assess the impact of targeted reduction scenarios on oxygen concentrations in problem areas, noting that there is often a spatial disconnect between nutrient sources and the areas impacted (Lehmann et al ., 2014). There are also potentially significant time lags in the",
+      "page_number": 28,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "significant decreasing oxygen concentrations.",
+      "context_window": "<0,1). However, in areas which have been classified as good or high, five assessment areas showed statistically significant decreasing oxygen concentrations. These include the Atlantic Region (ATL) Atlantic Seasonally Stratified (ASS), Meuse Plume (MPM), Norwegian Trench (NT) and Scheldt Plume (SCHPM1).",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recent work in the Red Sea demonstrates that hyperoxia during the",
+      "context_window": "Periods of super saturation can provide additional resources to combat periods of low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to",
+      "context_window": "2 of marine ecosystems worldwide (Diaz and Rosenberg, 2008). It is not always easy to show the full extent of declining oxygen, and modelling can be a useful method to demonstrate where depletion of dissolved oxygen may occur. Metrics such as the Oxygen Deficiency Index",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(phytoplankton) or seaweed communities.",
+      "context_window": "can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae (phytoplankton) or seaweed communities. Thus, changes in near-bed oxygen concentration are determined by the quantity of organic matter input to the seafloor, the speed of bacteria decay, and the water renewal",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae",
+      "context_window": "co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae (phytoplankton) or seaweed communities. Thus, changes in near-bed oxygen concentration are determined",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "oxygen deficiency. Improved understanding of the impacts of climate change requires further research",
+      "context_window": "current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022 29 of 31",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes",
+      "context_window": "particularly where the water column stratifies seasonally. Temperature, salinity and depth are considered as co-factors that determine the sensitivity of an area to increases in nutrient input, where the natural processes can be intensified by additional nutrient inputs. Depletion of oxygen is driven by decomposition of accumulated organic material produced by algae",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea.",
+      "context_window": "et al ., 1995). N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea. During future climate change, simultaneous shifts in temperature, CO 2",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "warmest hours of the day enhances the survival scope of marine animals under high to extreme water",
+      "context_window": "low oxygen and warmer temperatures. Recent work in the Red Sea demonstrates that hyperoxia during the warmest hours of the day enhances the survival scope of marine animals under high to extreme water temperatures (Giomi et al.",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "Development in assessment methods (e.g., including models, looking at number of days below threshold). Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will",
+      "context_window": "Identifying common categories of assessment areas which can align will help both the thematic assessment and the QSR. Four categories of water types (river plumes, coastal areas, shelf areas, and oceanic areas) will be used for the QSR 2023 in associating specific COMP4 assessment units with the integration categories for eutrophication, pelagic habitats and food-webs to ensure coherence across the assessments and to be",
+      "page_number": 24,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in",
+      "context_window": "1960 and 2010, though there are very strong regional variations, with many factors at play. Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and dissolved oxygen",
+      "context_window": "Climate change and dissolved oxygen In European shelf seas, most areas (not Baltic) become vertically well mixed in winter every year, and as such oxygen concentrations are reset to the surface values.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Experimental evidence indicates that as temperatures rise above",
+      "context_window": "Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above thermal optima, oxygen threshold (as % saturation) for hypoxia rises as a consequence of the steep increase in respiratory demand.",
+      "page_number": 6,
+      "keyword_hits": {
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "During future climate change, simultaneous shifts in temperature, CO",
+      "context_window": "., 1995). N sources have a strong influence on the oxygen dynamics in the southern and south-eastern North Sea. During future climate change, simultaneous shifts in temperature, CO 2 , and hypoxia levels will enhance",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    },
+    {
+      "core_sentence": "Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and",
+      "context_window": "The very low DO may not be picked up with the current methods. Key knowledge gaps include understanding of the impacts of climate change on hydrodynamic processes and oxygen deficiency. Improved understanding of the impacts of climate change requires further research OSPAR 2022",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Scientists estimate that between 1960 and 2010, the amount of the",
+      "context_window": "In turn, this warmer water can hold less oxygen. Scientists estimate that between 1960 and 2010, the amount of the gas dissolved in the oceans declined by 2%. Experimental evidence indicates that as temperatures rise above",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (extended) Understanding the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen",
+      "context_window": "Knowledge Gaps (brief) Understanding of the relative importance of biological and physical processes (e.g., mixing and currents) in controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Oxygen depletion may result in behavioural changes",
+      "context_window": "depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes or death of fish and bottom fauna and flora. Negative effects on the bottom fauna reduce the amount of",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "inhibits the supply of oxygenated waters to lower levels. Increased levels of CO",
+      "context_window": "many ways. Most evidently via the direct effect on solubility but it can also increase stratification which inhibits the supply of oxygenated waters to lower levels. Increased levels of CO 2 can promote",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay",
+      "context_window": "thermocline can decrease oxygen concentrations. Increased bottom water temperature can also increase bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in",
+      "context_window": "As oxygen consumption is significantly driven from the bed, the regions which suffer from low oxygen, are those which have a relatively small volume of water beneath the thermocline. Climate change can impact upon the dissolved oxygen concentration in many ways. Most evidently via the direct effect on solubility but it can also increase stratification which",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems.",
+      "context_window": "and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems. It is estimated that the amount of the gas dissolved in the oceans declined by 2% between 1960 and 2010, though there are very strong regional variations, with many factors at play.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may",
+      "context_window": "Hypoxia (dissolved oxygen concentration below 2mg/l) and less severely depleted dissolved oxygen concentrations have the potential to cause lethal and sub-lethal effects to a range of benthic organisms and fish, which may cause loss of biodiversity in these impacted ecosystems. Increasing eutrophication-induced hypoxia has led",
+      "page_number": 5,
+      "keyword_hits": {
+        "hypoxia": 2
+      }
+    },
+    {
+      "core_sentence": "biological processes. Recent studies have focused on distinguishing between the effects of nutrient",
+      "context_window": "controlling near-bed oxygen dynamics, and the impacts of climate change on physical processes, oxygen deficiency and oxygen consumption is complex, with multiple interactions between the physical and biological processes. Recent studies have focused on distinguishing between the effects of nutrient enrichment and changes in seawater temperature as a result of climate change. Furthermore, robust assessments of oxygen deficiency require improved availability of suitable data.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton",
+      "context_window": "Figure 2 ). Undesirable disturbance includes shifts in the composition and extent of flora and fauna, and depletion of oxygen caused by decomposition of accumulated organic material produced by phytoplankton or seaweed communities during their growing seasons. Oxygen depletion may result in behavioural changes",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and Iberian Coast",
+      "context_window": "bacterial consumption enhancing draw down. Concentrations of Dissolved Oxygen Near the Seafloor in the Greater North Sea, Celtic Seas and Bay of Biscay and Iberian Coast Climate and the oceans are very closely linked, with climate change having serious effects on marine ecosystems.",
+      "page_number": 28,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": ", and hypoxia levels will enhance",
+      "context_window": "During future climate change, simultaneous shifts in temperature, CO 2 , and hypoxia levels will enhance sensitivity to environmental extremes relative to a change in just one of these variables. As more carbon",
+      "page_number": 6,
+      "keyword_hits": {
+        "climate change": 1,
+        "hypoxia": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 6,
+    "keyword_counts": {
+      "climate change": 10,
+      "ocean acidification": 1,
+      "warming": 2,
+      "carbon dioxide": 1,
+      "hypoxia": 12,
+      "anoxia": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 100,
+      "end_sentence": 104,
+      "sentence_count": 5,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 100,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 101,
+          "page_number": 3,
+          "content": "In most areas assessed, concentrations of dissolved oxygen near the seafloor are above the threshold...",
+          "full_length": 106
+        },
+        {
+          "sentence_id": 102,
+          "page_number": 3,
+          "content": "of 6mg/l. However, oxygen depletion has been observed in the Eastern North Sea, Kattegat coastal and",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 103,
+          "page_number": 3,
+          "content": "Kattegat Deep, though improvements in levels of dissolved oxygen concentrations have been observed i...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 104,
+          "page_number": 3,
+          "content": "the Kattegat areas.",
+          "full_length": 19
+        }
+      ],
+      "total_sentences_in_section": 5
+    },
+    {
+      "section_name": "Conclusion (brief)",
+      "start_sentence": 2278,
+      "end_sentence": 2285,
+      "sentence_count": 8,
+      "page_range": "27-27",
+      "sentences": [
+        {
+          "sentence_id": 2278,
+          "page_number": 27,
+          "content": "Conclusion (brief)",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 2279,
+          "page_number": 27,
+          "content": "Across most of the assessment areas of the OSPAR COMP regions, there is no widespread oxygen deficie...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 2280,
+          "page_number": 27,
+          "content": "However, localised areas of oxygen deficiency are apparent, particularly in the Eastern North Sea, K...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 2281,
+          "page_number": 27,
+          "content": "and Gulf of Biscay.",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 2282,
+          "page_number": 27,
+          "content": "Oxygen concentrations and percentage saturation are improving in the Kattegat and",
+          "full_length": 81
+        }
+      ],
+      "total_sentences_in_section": 8
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 2286,
+      "end_sentence": 2298,
+      "sentence_count": 13,
+      "page_range": "27-27",
+      "sentences": [
+        {
+          "sentence_id": 2286,
+          "page_number": 27,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 2287,
+          "page_number": 27,
+          "content": "Across most of the assessment areas of the OSPAR COMP regions, there is no widespread oxygen deficie...",
+          "full_length": 104
+        },
+        {
+          "sentence_id": 2288,
+          "page_number": 27,
+          "content": "However, localised areas of oxygen deficiency are apparent, particularly in the Eastern North Sea, K...",
+          "full_length": 107
+        },
+        {
+          "sentence_id": 2289,
+          "page_number": 27,
+          "content": "and Gulf of Biscay.",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 2290,
+          "page_number": 27,
+          "content": "Oxygen concentrations and percentage saturation are improving in the Kattegat and",
+          "full_length": 81
+        }
+      ],
+      "total_sentences_in_section": 13
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 2408,
+      "end_sentence": 2561,
+      "sentence_count": 154,
+      "page_range": "29-31",
+      "sentences": [
+        {
+          "sentence_id": 2408,
+          "page_number": 29,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 2409,
+          "page_number": 29,
+          "content": "Ærtebjerg G, Carstensen J, Axe P, et al (2002) The 2002 Oxygen Depletion Event in the Kattegat, Belt...",
+          "full_length": 116
+        },
+        {
+          "sentence_id": 2410,
+          "page_number": 29,
+          "content": "Baltic. Baltic Sea Environment Proceedings No. 90. Helsinki Comm 66 pp",
+          "full_length": 70
+        },
+        {
+          "sentence_id": 2411,
+          "page_number": 29,
+          "content": "Artioli, Yuri, Jana Friedrich, Alison J. Gilbert, Abigail McQuatters-Gollop, Laurence D. Mee, Jan E....",
+          "full_length": 121
+        },
+        {
+          "sentence_id": 2412,
+          "page_number": 29,
+          "content": "Christoph Humborg, Luca Palmeri, and Falk Pollehne.",
+          "full_length": 51
+        }
+      ],
+      "total_sentences_in_section": 154
+    }
+  ],
+  "metadata": {
+    "total_sentences": 2641,
+    "chunks_selected": 98,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 100,
+        "end_sentence": 104,
+        "sentence_count": 5
+      },
+      {
+        "section_name": "Conclusion (brief)",
+        "start_sentence": 2278,
+        "end_sentence": 2285,
+        "sentence_count": 8
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 2286,
+        "end_sentence": 2298,
+        "sentence_count": 13
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 2408,
+        "end_sentence": 2561,
+        "sentence_count": 154
+      }
+    ],
+    "total_excluded_sentences": 180
+  }
+}

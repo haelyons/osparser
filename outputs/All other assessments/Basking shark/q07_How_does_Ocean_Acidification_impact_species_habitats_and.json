@@ -1,0 +1,918 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "habitat and/or hotspots included in national or regional marine spatial planning frameworks.",
+      "context_window": "iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction.",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "investigated. Special attention should be drawn to any coastal development project, and potential",
+      "context_window": "5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "5/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential",
+      "page_number": 4,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks.",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/",
+      "context_window": "31/08/2025, 18:50 Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be",
+      "page_number": 4,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "and changes in",
+      "context_window": "watching Habitat degradation and changes in zooplankton composition",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.  References Sheet reference:",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate changes (Sims 2008).",
+      "context_window": "food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hypothesis that behavioural responses at small scales are linked by broad-scale responses to",
+      "context_window": "(ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and expert opinion.",
+      "context_window": "Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.  References",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a)",
+      "context_window": "Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the",
+      "context_window": "4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this species underlines the need to strengthen knowledge of its current status.",
+      "context_window": "annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "maritime area the main data sets, which are derived from sighting schemes, indicate large inter-",
+      "context_window": "Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of",
+      "context_window": "clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures Incidental",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment is based on ICES examination of catch and effort data, peer reviewed literature,",
+      "context_window": "the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion. ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual variations in occurrence and relative abundance and they do not allow the identification of",
+      "context_window": "Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR",
+      "context_window": "Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al.",
+      "context_window": "the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009). 31/08/2025, 18:50",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton",
+      "context_window": "Habitat degradation and changes in zooplankton composition Shark",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and",
+      "context_window": "Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suggested that the stock was severely depleted (ICES 2005). No new information has become",
+      "context_window": "basis of this advice was that while there was no information to evaluate the stock status, declining landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and",
+      "context_window": "Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are international measures that address fisheries (EU Prohibited species list), finning (EU",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in Norway, the Isle of Man and the UK (e.g. a designated site for basking sharks has been established",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves",
+      "context_window": "Method of Assessment Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or",
+      "context_window": "hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of",
+      "context_window": "maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coordination of measures is still needed.",
+      "context_window": "compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in",
+      "context_window": "conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in Norway, the Isle of Man and the UK (e.g. a designated site for basking sharks has been established in waters off the west coast of Scotland; STECF 2019).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as",
+      "context_window": "circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the global scale, but they might be associated with critical areas linked to foraging or reproduction.",
+      "context_window": "habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009).",
+      "context_window": "with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009). 31/08/2025, 18:50 Basking shark",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "key pressures",
+      "context_window": "this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures Incidental catch",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in each of the years 2020–2023. Landings declined from the mid-1970s to the mid-1990s. Various",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast",
+      "context_window": "landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "landings (the high price of fins suggest it was not market driven) and anecdotal information",
+      "context_window": "perceived depleted stock status, ICES recommends a zero TAC for the whole distribution area”. The basis of this advice was that while there was no information to evaluate the stock status, declining landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reports/qsr-2023/)",
+      "context_window": "coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": " Method of Assessment Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational",
+      "context_window": "The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational Figure 2: Basking shark landings in the Northeast Atlantic based on ICES landings (tonnes) of basking sharks in subareas 1–14 from 1977 to 2018. (Source: ICES 2019b)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conserve the species/habitat",
+      "context_window": "climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase",
+      "context_window": "Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational Figure 2: Basking shark landings in the Northeast Atlantic based on ICES landings (tonnes) of basking sharks in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES advises that, when the precautionary approach is applied, there should be zero catches in",
+      "context_window": "available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in each of the years 2020–2023. Landings declined from the mid-1970s to the mid-1990s. Various national and EU management measures have restricted landings since 1998 (ICES 2019b).",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The main threat to populations and individuals of this species is accidental bycatch in set nets,",
+      "context_window": "and 2008 (ICES 2019c). There is currently no targeted fishery for basking sharks in the Northeast Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Little is known about the biology of basking sharks. They are plankton feeders and are often",
+      "context_window": "3/7 Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 3/7 Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "Confidence Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly",
+      "context_window": "Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been developed, the current population status is still unknown. Moreover, international",
+      "context_window": "There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status-",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "swimming open-mouthed and continuously filtering the water.",
+      "context_window": "associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water. The species’ reproductive biology is considered to be similar to that of other lamnoid sharks (Kunzlik 1988). Estimates for the gestation period range from 12-36 months (Parker and Stott 1965,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at",
+      "context_window": "investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method used",
+      "context_window": "iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status assessment",
+      "context_window": "productivity Previous OSPAR status assessment Status Region",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by",
+      "context_window": "Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water. The species’ reproductive biology is considered to be similar to that of other lamnoid sharks",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Previous OSPAR",
+      "context_window": "Demographics, e.g. productivity Previous OSPAR status assessment Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Although the level of knowledge has increased in the past 11 years, there are still significant knowledge gaps related to this species:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Medium",
+      "context_window": "1/7 Confidence Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compared to the previous assessment. Although management and conservation measures have",
+      "context_window": "Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "(ICES 2019a). The biomass, and revenue, of fins being landed in Norway decreased between 2005 and 2008 (ICES 2019c). There is currently no targeted fishery for basking sharks in the Northeast Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is no evidence to suggest that the current status of the basking shark has changed as",
+      "context_window": "Status Assessment 2021 - Basking shark Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-",
+      "context_window": "been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2021 - Basking shark Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact",
+      "context_window": "Threat or impact Region I",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 2/7 Figure 1: Geographic range of the basking shark. Source: IUCN (https://www.iucnredlist.org/species/4292/166822294)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status",
+      "context_window": "Previous OSPAR status assessment Status Region I",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of",
+      "context_window": "(/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of Status Distribution",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/",
+      "context_window": "31/08/2025, 18:50 Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 2/7 Figure 1: Geographic range of the basking shark. Source: IUCN",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I",
+      "context_window": "Status Region I ←→ ?",
+      "page_number": 0,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "habitat and/or hotspots included in national or regional marine spatial planning frameworks.",
+      "context_window": "iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction.",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "5/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential",
+      "page_number": 4,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/",
+      "context_window": "31/08/2025, 18:50 Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be",
+      "page_number": 4,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "",
+      "context_window": "The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.  References Sheet reference:",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hypothesis that behavioural responses at small scales are linked by broad-scale responses to",
+      "context_window": "(ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a)",
+      "context_window": "Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this species underlines the need to strengthen knowledge of its current status.",
+      "context_window": "annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of",
+      "context_window": "clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures Incidental",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "annual variations in occurrence and relative abundance and they do not allow the identification of",
+      "context_window": "Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al.",
+      "context_window": "the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009). 31/08/2025, 18:50",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and",
+      "context_window": "Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and",
+      "context_window": "Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves",
+      "context_window": "Method of Assessment Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of",
+      "context_window": "maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of this species underlines the need to strengthen knowledge of its current status. Assessment of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in",
+      "context_window": "conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in Norway, the Isle of Man and the UK (e.g. a designated site for basking sharks has been established in waters off the west coast of Scotland; STECF 2019).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the global scale, but they might be associated with critical areas linked to foraging or reproduction.",
+      "context_window": "habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature,",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "key pressures",
+      "context_window": "this species underlines the need to strengthen knowledge of its current status. Assessment of key pressures Incidental catch",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast",
+      "context_window": "landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reports/qsr-2023/)",
+      "context_window": "coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational",
+      "context_window": "The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational Figure 2: Basking shark landings in the Northeast Atlantic based on ICES landings (tonnes) of basking sharks in subareas 1–14 from 1977 to 2018. (Source: ICES 2019b)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase",
+      "context_window": "Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational Figure 2: Basking shark landings in the Northeast Atlantic based on ICES landings (tonnes) of basking sharks in",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ICES advises that, when the precautionary approach is applied, there should be zero catches in",
+      "context_window": "available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in each of the years 2020–2023. Landings declined from the mid-1970s to the mid-1990s. Various national and EU management measures have restricted landings since 1998 (ICES 2019b).",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Little is known about the biology of basking sharks. They are plankton feeders and are often",
+      "context_window": "3/7 Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "Confidence Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been developed, the current population status is still unknown. Moreover, international",
+      "context_window": "There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status-",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at",
+      "context_window": "investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "status assessment",
+      "context_window": "productivity Previous OSPAR status assessment Status Region",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Previous OSPAR",
+      "context_window": "Demographics, e.g. productivity Previous OSPAR status assessment Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Medium",
+      "context_window": "1/7 Confidence Medium Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There is no evidence to suggest that the current status of the basking shark has changed as",
+      "context_window": "Status Assessment 2021 - Basking shark Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2021 - Basking shark Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 2/7 Figure 1: Geographic range of the basking shark. Source: IUCN (https://www.iucnredlist.org/species/4292/166822294)",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of",
+      "context_window": "(/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of Status Distribution",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I",
+      "context_window": "Status Region I ←→ ?",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/",
+      "context_window": "31/08/2025, 18:50 Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 2/7 Figure 1: Geographic range of the basking shark. Source: IUCN",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status",
+      "context_window": "Previous OSPAR status assessment Status Region I",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact",
+      "context_window": "Threat or impact Region I",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-",
+      "context_window": "been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Assessment of",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "(ICES 2019a). The biomass, and revenue, of fins being landed in Norway decreased between 2005 and 2008 (ICES 2019c). There is currently no targeted fishery for basking sharks in the Northeast Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "compared to the previous assessment. Although management and conservation measures have",
+      "context_window": "Viewing: Latest Version (1.0.1) There is no evidence to suggest that the current status of the basking shark has changed as compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Although the level of knowledge has increased in the past 11 years, there are still significant knowledge gaps related to this species:",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by",
+      "context_window": "Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water. The species’ reproductive biology is considered to be similar to that of other lamnoid sharks",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method used",
+      "context_window": "iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "swimming open-mouthed and continuously filtering the water.",
+      "context_window": "associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water. The species’ reproductive biology is considered to be similar to that of other lamnoid sharks (Kunzlik 1988). Estimates for the gestation period range from 12-36 months (Parker and Stott 1965,",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly",
+      "context_window": "Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly along tidal and shelf-break fronts. They are most often observed when feeding in surface waters by swimming open-mouthed and continuously filtering the water.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Condition",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 3/7 Condition Little is known about the biology of basking sharks. They are plankton feeders and are often associated with high levels of chlorophyll and surface aggregations of zooplankton, particularly",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The main threat to populations and individuals of this species is accidental bycatch in set nets,",
+      "context_window": "and 2008 (ICES 2019c). There is currently no targeted fishery for basking sharks in the Northeast Atlantic. The main threat to populations and individuals of this species is accidental bycatch in set nets, trawls, and entanglement in pot lines. Surface feeding activity and vertical movement increase interactions with boat traffic, wildlife tourism and fishing activities, both industrial and recreational",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "4/7",
+      "context_window": "Basking shark https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conserve the species/habitat",
+      "context_window": "climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": " Method of Assessment Geographical Range and Distribution Basking sharks inhabit boreal to warm-temperate waters of the continental and insular shelves circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "landings (the high price of fins suggest it was not market driven) and anecdotal information",
+      "context_window": "perceived depleted stock status, ICES recommends a zero TAC for the whole distribution area”. The basis of this advice was that while there was no information to evaluate the stock status, declining landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Atlantic.",
+      "context_window": "suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic. ICES advises that, when the precautionary approach is applied, there should be zero catches in each of the years 2020–2023. Landings declined from the mid-1970s to the mid-1990s. Various",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009).",
+      "context_window": "with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009). 31/08/2025, 18:50 Basking shark",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as",
+      "context_window": "circumglobally (Sims 2008). In the Northeast Atlantic, basking sharks are present from Iceland and the southern Barents Sea southwards to the Mediterranean Sea and northwest Africa (ICES 2019a) with aggregation sites around the UK and Ireland. Transatlantic and transequatorial migrations, as well as movements into tropical areas and mesopelagic depths, have been shown (Braun et al. 2018, Dewar et al. 2018, Gore et al. 2008, Skomal et al. 2009).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coordination of measures is still needed.",
+      "context_window": "compared to the previous assessment. Although management and conservation measures have been developed, the current population status is still unknown. Moreover, international coordination of measures is still needed. (/en/ospar-assessments/quality-status- reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or",
+      "context_window": "hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "There are international measures that address fisheries (EU Prohibited species list), finning (EU",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat There are international measures that address fisheries (EU Prohibited species list), finning (EU Finning Regulation), trade (CITES listing) and conservation (CMS), as well as national measures in Norway, the Isle of Man and the UK (e.g. a designated site for basking sharks has been established",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "suggested that the stock was severely depleted (ICES 2005). No new information has become",
+      "context_window": "basis of this advice was that while there was no information to evaluate the stock status, declining landings (the high price of fins suggest it was not market driven) and anecdotal information suggested that the stock was severely depleted (ICES 2005). No new information has become available to alter the ICES advice first adopted in 2005, that the species is depleted in the Northeast Atlantic.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "zooplankton",
+      "context_window": "Habitat degradation and changes in zooplankton composition Shark",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR",
+      "context_window": "Background Information Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment is based on ICES examination of catch and effort data, peer reviewed literature,",
+      "context_window": "the global scale, but they might be associated with critical areas linked to foraging or reproduction. Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion. ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "maritime area the main data sets, which are derived from sighting schemes, indicate large inter-",
+      "context_window": "Basking sharks have been included on the OSPAR List of Threatened and/or Declining Species and Habitats since 2003. Despite targeted fishing of basking sharks having ceased in the OSPAR maritime area the main data sets, which are derived from sighting schemes, indicate large inter- annual variations in occurrence and relative abundance and they do not allow the identification of clear population trends (OSPAR 2009). The pronounced migratory character and vulnerability of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the",
+      "context_window": "4/7 (ICES 2019a). Coastal development, pollution and bottom fishing affect coastal water quality and food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and expert opinion.",
+      "context_window": "Method used The assessment is based on ICES examination of catch and effort data, peer reviewed literature, and expert opinion.  References",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "climate changes (Sims 2008).",
+      "context_window": "food sources of this filter-feeding species (e.g. Beaugrand et al. 2002). Research supports the hypothesis that behavioural responses at small scales are linked by broad-scale responses to climate changes (Sims 2008). Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and changes in",
+      "context_window": "watching Habitat degradation and changes in zooplankton composition",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/basking-shark/ 5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks.",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "investigated. Special attention should be drawn to any coastal development project, and potential",
+      "context_window": "5/7 iii.    Impacts of range shifts in prey species as well as ocean warming and acidification should be investigated. Special attention should be drawn to any coastal development project, and potential habitat and/or hotspots included in national or regional marine spatial planning frameworks. iv.    The importance of individual gatherings of basking sharks in the OSPAR Region is unknown at",
+      "page_number": 5,
+      "keyword_hits": {
+        "warming": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 1,
+    "keyword_counts": {
+      "warming": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Conclusion (including management considerations)",
+      "start_sentence": 200,
+      "end_sentence": 211,
+      "sentence_count": 12,
+      "page_range": "4-4",
+      "sentences": [
+        {
+          "sentence_id": 200,
+          "page_number": 4,
+          "content": "Conclusion (including management considerations)",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 201,
+          "page_number": 4,
+          "content": "There is no evidence to suggest that the current status of the basking shark has changed as",
+          "full_length": 91
+        },
+        {
+          "sentence_id": 202,
+          "page_number": 4,
+          "content": "compared to the previous assessment. Although management and conservation measures have",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 203,
+          "page_number": 4,
+          "content": "been developed, the current population status is still unknown. Moreover, international",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 204,
+          "page_number": 4,
+          "content": "coordination of measures is still needed.",
+          "full_length": 41
+        }
+      ],
+      "total_sentences_in_section": 12
+    }
+  ],
+  "metadata": {
+    "total_sentences": 269,
+    "chunks_selected": 69,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Conclusion (including management considerations)",
+        "start_sentence": 200,
+        "end_sentence": 211,
+        "sentence_count": 12
+      }
+    ],
+    "total_excluded_sentences": 12
+  }
+}

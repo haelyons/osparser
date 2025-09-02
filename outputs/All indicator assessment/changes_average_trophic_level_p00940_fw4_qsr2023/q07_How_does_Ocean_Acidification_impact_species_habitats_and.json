@@ -1,0 +1,1277 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species (",
+      "context_window": "). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species ( Figure 8 ).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). Taking into account all species in the community (MTL2) slope ecosystems",
+      "context_window": "and Figure 7 ). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species (",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf",
+      "context_window": "Figure 7 ). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species ( Figure 8",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "TLs and thus a decline in the MTL of fisheries landings is commonly observed.",
+      "context_window": "availability of predators within the ecosystem. This in turn forces fisheries into targeting species at ever lower TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic species was also apparent (",
+      "context_window": "). Attending to the whole community (MTL2), this change from mostly positive trends to mostly negative trends when excluding the pelagic species was also apparent ( Figure 8 ) suggesting that the pelagic and demersal domains of the",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(benthic invertebrates, cephalopods, elasmobranchs, fish).",
+      "context_window": "In this assessment, the indicator has been calculated taking into consideration as many taxonomic and functional groups of species as possible (benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both depth strata (shelf and deep ecosystems), including and excluding pelagic species (",
+      "context_window": "North Iberian sub-division The indicator MTL4 (including top predators) showed moderate to strong decreasing trends in all scenarios: both depth strata (shelf and deep ecosystems), including and excluding pelagic species ( Figure 3, Table 1 ).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric ranges when excluding the pelagic species from the analyses, which is also associated to a",
+      "context_window": "Figure 7 ). It’s noteworthy the decrease in MTL3.25 in these bathymetric ranges when excluding the pelagic species from the analyses, which is also associated to a change from mostly increasing trends to mostly decreasing trends in the annual values. ( Figure 7",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considering all community and meso + top predators.",
+      "context_window": "apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when",
+      "context_window": "In Portuguese waters a significant decrease of top predators in shelf ecosystems was apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "context_window": "In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") where a decline was evident when considering all community (MTL2) and meso + top predators",
+      "context_window": "Figure 5, Table 1 ) where a decline was evident when considering all community (MTL2) and meso + top predators (MTL3.25), but not for top predators only (MTL4). However, the results from coastal areas should be taken",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to many environmental and anthropogenic pressures that cause alterations on ecosystem components at",
+      "context_window": "OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep ecosystems).",
+      "context_window": "of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method Data sources",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Portuguese shelf and slope.",
+      "context_window": "The indicator including all community showed a high concentration of decreasing values in the northernmost part of the French shelf and North Iberian slope, while showing overall increasing trends in the northern Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected",
+      "context_window": "4 of 26 OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Portuguese waters a significant decrease of top predators in shelf ecosystems was",
+      "context_window": "were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators in all scenarios. In Portuguese waters a significant decrease of top predators in shelf ecosystems was apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the pelagic species, negative trends prevailed in the Southern Irish Sea (",
+      "context_window": "Figure 7 ). Regardless of the pelagic species, negative trends prevailed in the Southern Irish Sea ( Figure 7 ). Attending to the whole",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "context_window": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016). Food webs, also called trophic networks, represent the most elemental structure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf ecosystems with pelagic, where a decreasing trend was detected.",
+      "context_window": "Figure 2 ). No changes are observed when considering the whole community (MTL2) except for shelf ecosystems with pelagic, where a decreasing trend was detected. Attending to the results of the spatio-temporal approach, the MTL of top predators (MTL4) showed no spatial differences with and without pelagic species (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "main pathways of energy flow through ecosystems, from primary producers to top predators.",
+      "context_window": "Food webs, also called trophic networks, represent the most elemental structure of the ecosystem, illustrated by the consumer-resource interactions among organisms and evidencing the main pathways of energy flow through ecosystems, from primary producers to top predators. The knowledge of the functioning of these networks is key for understanding marine ecosystem functioning.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal and shelf areas, but no change in deeper waters.",
+      "context_window": "French sub-division Considering top predators alone (MTL4), the MTL indicator shows significant linear increasing trends in coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been calculated taking into consideration as many taxonomic and functional groups of species as possible",
+      "context_window": "scientific surveys, in combination with the estimated TL of the species. In this assessment, the indicator has been calculated taking into consideration as many taxonomic and functional groups of species as possible (benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic species (",
+      "context_window": "coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species ( Figure 2, Table 1 ). Considering meso + top predators (MTL3.25), the MTL indicator displayed",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, shelf and deep ecosystems show signs of",
+      "context_window": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of an organism is associated with a particular trophic level and the energy is transferred from the lower",
+      "context_window": "of the functioning of these networks is key for understanding marine ecosystem functioning. Each life stage of an organism is associated with a particular trophic level and the energy is transferred from the lower trophic levels to the higher trophic levels following the interconnections between organisms within the food web.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the functioning of these networks is key for understanding marine ecosystem functioning.",
+      "context_window": "main pathways of energy flow through ecosystems, from primary producers to top predators. The knowledge of the functioning of these networks is key for understanding marine ecosystem functioning. Each life stage of an organism is associated with a particular trophic level and the energy is transferred from the lower",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems might become so resilient that no trend means resilience.",
+      "context_window": "decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the Conference of the Parties to the Convention on Biological Diversity as one of eight indicators to monitor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "context_window": "TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected in downward trends of the indicator. Traditionally, the indicator has been calculated using long historical series at large scale (regionally).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including and excluding pelagic species.",
+      "context_window": "Figure 6 ), with almost no apparent differences including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF DEEP",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "account TL thresholds, depth strata and including/excluding pelagic species.",
+      "context_window": "Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species. Positive values indicate increasing trend; negative values indicate decreasing trend.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "displayed in continental shelf and slope which disappeared when the pelagic species were excluded from the",
+      "context_window": "). Considering meso + top predators (MTL3.25), the MTL indicator displayed contrasting responses: no significant trend was identified in coastal areas, but an increasing trend was displayed in continental shelf and slope which disappeared when the pelagic species were excluded from the community ( Figure 2",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), and also more pronounced when pelagic species were excluded from the analysis (",
+      "context_window": "OSPAR Commission 6 ), and also more pronounced when pelagic species were excluded from the analysis ( Figure 6 ). Spatial",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST SHELF",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(coast, shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST SHELF",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "differences with and without pelagic species (",
+      "context_window": "shelf ecosystems with pelagic, where a decreasing trend was detected. Attending to the results of the spatio-temporal approach, the MTL of top predators (MTL4) showed no spatial differences with and without pelagic species ( Figure 6 ). However, patchily distributed increasing trends were",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems",
+      "context_window": "Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems (Table 1",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recovery at all trophic levels.",
+      "context_window": "considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26 OSPAR Commission",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") suggesting that the pelagic and demersal domains of the",
+      "context_window": "pelagic species was also apparent ( Figure 8 ) suggesting that the pelagic and demersal domains of the community are experiencing contrasting evolutions. When looking at the trends, no significant changes were",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated",
+      "context_window": "The main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated with signs of recovery in these ecosystems (Arroyo et al., 2019). The purpose of the present assessment, is to expand the analysis to other sub-divisions (Portuguese shelf",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is",
+      "context_window": "on species TL values). Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the",
+      "context_window": "(benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the continental shelves of OSPAR Region IV and each sub-division. The methodological approach may however",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenarios, and particularly evident in the central part of the Portuguese shelf and deep ecosystems.",
+      "context_window": "Figure 8 ). These results are consistently pronounced in almost all scenarios, and particularly evident in the central part of the Portuguese shelf and deep ecosystems. This sub- division showed little evidence of MTL changes at the local scale in any of the scenarios, with very few cells",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Portuguese shelf ecosystem.",
+      "context_window": "OSPAR Commission The results of mapping the indicator show lower values of MTL in northern areas contrasting with higher MTL in Portuguese shelf ecosystem. When plotting the trends by square, small-scale temporal changes that were masked when the indicator was calculated by sub-division appeared.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elasmobranchs and cephalopods) in the last two decades.",
+      "context_window": "contrasting trends could be detecting a signal of decline in biomass of top predators (some important commercial species) while an apparent improvement of mid trophic level consumers (mainly fish, elasmobranchs and cephalopods) in the last two decades. No changes have been observed when considering all community.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems (",
+      "context_window": "including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems ( Figure 20 of 26",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in coastal and slope areas, respectively). These contrasting trends",
+      "context_window": "strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with caution due to the low number of hauls in comparison with shelf and deep ecosystems.",
+      "context_window": "(MTL3.25), but not for top predators only (MTL4). However, the results from coastal areas should be taken with caution due to the low number of hauls in comparison with shelf and deep ecosystems. It should be noted that the rate of change in MTL across the time series in many of the scenarios was one order of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters.",
+      "context_window": "). In summary, analyses of groundfish data show an apparent improvement in top predators in the French continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters. In the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "context_window": "regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community. Furthermore, detailed information on feeding interactions is strongly needed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf,",
+      "context_window": "OSPAR Commission Figure 3: North Iberian coast, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep), with/without pelagic species.",
+      "context_window": "Figure 3: North Iberian coast, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF DEEP",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing trends in all scenarios excluding pelagic species were observed except for coastal areas (",
+      "context_window": "OSPAR Commission Gulf of Cadiz sub-division Increasing trends in all scenarios excluding pelagic species were observed except for coastal areas ( Figure 5, Table 1",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems (",
+      "context_window": "Portuguese sub-division In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf ecosystems ( Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "especially the case for species at lower trophic levels.",
+      "context_window": "Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continental shelves of OSPAR Region IV and each sub-division.",
+      "context_window": "Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the continental shelves of OSPAR Region IV and each sub-division. The methodological approach may however be transferred to other OSPAR Regions whenever adequate/appropriate data become available.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth).",
+      "context_window": "following section) but based on local TL and biomass data. For each of the sub-divisions, three different bathymetric ranges were considered, assessing independently MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Consumers.",
+      "context_window": "Mendes, H., Le Loc’h, F., Garrido, S., Metaireau, H. and Serre, S., 2023. Changes in Average Trophic Level of Marine Consumers. In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems.",
+      "context_window": "continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters. In the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems. When including mesopredators in the calculations, increasing trends were observed in most of the sub-divisions.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "selection of species.",
+      "context_window": "Before performing the calculations and in order to select a set of species that have been consistently well sampled through the historical series, cumulative curves were applied to the biomass database to make a selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along",
+      "context_window": "For each of the sub-divisions, three different bathymetric ranges were considered, assessing independently MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that inhabiting the deeper area, although both can be summarised into an MTL value. Thus, the bathymetric",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level",
+      "context_window": "This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species ( Figure 1",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different trophic levels are well represented.",
+      "context_window": "Within the scientific community, it is considered that food web status should be based on ecosystem indicators which represent the ecosystem as whole, including as many species as possible and making sure different trophic levels are well represented. The Mean Trophic Level (MTL) indicator meets this requirement because it takes into account food web structure and uses a metric (the TL) that reflects energy transfer",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "these values do not reflect the characteristics of a given region where trophic interactions between species",
+      "context_window": "times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When looking at the trends of top predators, significant decreasing",
+      "context_window": "), with almost no apparent differences including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems ( Figure",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric and ecological scenarios.",
+      "context_window": "increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast,",
+      "context_window": "Figure 2: French continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the depth gradient, and the community inhabiting the coastal area is fundamentally different from that",
+      "context_window": "MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that inhabiting the deeper area, although both can be summarised into an MTL value. Thus, the bathymetric segregation allowed us to explore temporal changes in these communities independently, with the potential",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their",
+      "context_window": "food webs’. This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges",
+      "context_window": "Figure 5: Gulf of Cadiz continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges",
+      "context_window": "Figure 4: Portuguese continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle",
+      "context_window": "assessments/intermediate-assessment-2017/biodiversity-status/fish-and-food-webs/mtl-bay-biscay/). The main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated with signs of recovery in these ecosystems (Arroyo et al., 2019).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "context_window": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny. Large-scale groundfish surveys (such",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species (",
+      "context_window": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species ( Figure 1 ). Thus, this indicator aimed at highlighting the unsustainable fisheries practices of past",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf",
+      "context_window": "). Portuguese sub-division In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf ecosystems ( Figure 4, Table 1",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "commercial species) while an apparent improvement of mid trophic level consumers (mainly fish,",
+      "context_window": "These contrasting trends could be detecting a signal of decline in biomass of top predators (some important commercial species) while an apparent improvement of mid trophic level consumers (mainly fish, elasmobranchs and cephalopods) in the last two decades. No changes have been observed when considering",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characterising systems enduring high and sustained impacts.",
+      "context_window": "Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "French, North Iberian and Gulf of Cádiz continental shelves.",
+      "context_window": "The compilation of TL values by sub-division for calculating MTL was possible for the main representative species in three out of four sub-divisions: French, North Iberian and Gulf of Cádiz continental shelves. The use of regional TLs is expected to improve the robustness of the indicator and reduce the uncertainty around the calculations.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecological constrains resulted in 18 scenarios which are summarised in",
+      "context_window": "and excluding pelagic species, were considered in each sub-division. The combination of this geographic and ecological constrains resulted in 18 scenarios which are summarised in Table a .",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed in the northernmost areas of the shelf ecosystem, around an area of lower mean MTL4 values in",
+      "context_window": "Figure 6 ). However, patchily distributed increasing trends were observed in the northernmost areas of the shelf ecosystem, around an area of lower mean MTL4 values in the Celtic Sea. The spatio-temporal analyses of meso + top predators MTL (MTL3.25), showed generally higher values on the shelf than on the slope (",
+      "page_number": 19,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species (",
+      "context_window": "). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species ( Figure 8 ).",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf",
+      "context_window": "Figure 7 ). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species ( Figure 8",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "TLs and thus a decline in the MTL of fisheries landings is commonly observed.",
+      "context_window": "availability of predators within the ecosystem. This in turn forces fisheries into targeting species at ever lower TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(benthic invertebrates, cephalopods, elasmobranchs, fish).",
+      "context_window": "In this assessment, the indicator has been calculated taking into consideration as many taxonomic and functional groups of species as possible (benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean, which is productive, used sustainably and resilient to climate",
+      "context_window": "être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "considering all community and meso + top predators.",
+      "context_window": "apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "context_window": "In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to many environmental and anthropogenic pressures that cause alterations on ecosystem components at",
+      "context_window": "OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Portuguese shelf and slope.",
+      "context_window": "The indicator including all community showed a high concentration of decreasing values in the northernmost part of the French shelf and North Iberian slope, while showing overall increasing trends in the northern Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Portuguese waters a significant decrease of top predators in shelf ecosystems was",
+      "context_window": "were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators in all scenarios. In Portuguese waters a significant decrease of top predators in shelf ecosystems was apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "context_window": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016). Food webs, also called trophic networks, represent the most elemental structure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "main pathways of energy flow through ecosystems, from primary producers to top predators.",
+      "context_window": "Food webs, also called trophic networks, represent the most elemental structure of the ecosystem, illustrated by the consumer-resource interactions among organisms and evidencing the main pathways of energy flow through ecosystems, from primary producers to top predators. The knowledge of the functioning of these networks is key for understanding marine ecosystem functioning.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "been calculated taking into consideration as many taxonomic and functional groups of species as possible",
+      "context_window": "scientific surveys, in combination with the estimated TL of the species. In this assessment, the indicator has been calculated taking into consideration as many taxonomic and functional groups of species as possible (benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, shelf and deep ecosystems show signs of",
+      "context_window": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the functioning of these networks is key for understanding marine ecosystem functioning.",
+      "context_window": "main pathways of energy flow through ecosystems, from primary producers to top predators. The knowledge of the functioning of these networks is key for understanding marine ecosystem functioning. Each life stage of an organism is associated with a particular trophic level and the energy is transferred from the lower",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "context_window": "TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected in downward trends of the indicator. Traditionally, the indicator has been calculated using long historical series at large scale (regionally).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF DEEP",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "displayed in continental shelf and slope which disappeared when the pelagic species were excluded from the",
+      "context_window": "). Considering meso + top predators (MTL3.25), the MTL indicator displayed contrasting responses: no significant trend was identified in coastal areas, but an increasing trend was displayed in continental shelf and slope which disappeared when the pelagic species were excluded from the community ( Figure 2",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST SHELF",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "differences with and without pelagic species (",
+      "context_window": "shelf ecosystems with pelagic, where a decreasing trend was detected. Attending to the results of the spatio-temporal approach, the MTL of top predators (MTL4) showed no spatial differences with and without pelagic species ( Figure 6 ). However, patchily distributed increasing trends were",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "recovery at all trophic levels.",
+      "context_window": "considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26 OSPAR Commission",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated",
+      "context_window": "The main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated with signs of recovery in these ecosystems (Arroyo et al., 2019). The purpose of the present assessment, is to expand the analysis to other sub-divisions (Portuguese shelf",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the",
+      "context_window": "(benthic invertebrates, cephalopods, elasmobranchs, fish). Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the continental shelves of OSPAR Region IV and each sub-division. The methodological approach may however",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Portuguese shelf ecosystem.",
+      "context_window": "OSPAR Commission The results of mapping the indicator show lower values of MTL in northern areas contrasting with higher MTL in Portuguese shelf ecosystem. When plotting the trends by square, small-scale temporal changes that were masked when the indicator was calculated by sub-division appeared.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems (",
+      "context_window": "including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems ( Figure 20 of 26",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with caution due to the low number of hauls in comparison with shelf and deep ecosystems.",
+      "context_window": "(MTL3.25), but not for top predators only (MTL4). However, the results from coastal areas should be taken with caution due to the low number of hauls in comparison with shelf and deep ecosystems. It should be noted that the rate of change in MTL across the time series in many of the scenarios was one order of",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "context_window": "regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community. Furthermore, detailed information on feeding interactions is strongly needed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep), with/without pelagic species.",
+      "context_window": "Figure 3: North Iberian coast, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF DEEP",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems (",
+      "context_window": "Portuguese sub-division In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf ecosystems ( Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continental shelves of OSPAR Region IV and each sub-division.",
+      "context_window": "Since groundfish trawl surveys target soft-bottom shelf habitats, the present assessment is primarily focused on bentho-demersal communities of the continental shelves of OSPAR Region IV and each sub-division. The methodological approach may however be transferred to other OSPAR Regions whenever adequate/appropriate data become available.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine Consumers.",
+      "context_window": "Mendes, H., Le Loc’h, F., Garrido, S., Metaireau, H. and Serre, S., 2023. Changes in Average Trophic Level of Marine Consumers. In: OSPAR, 2023: The 2023 Quality Status Report for the North-East Atlantic. OSPAR Commission, London. Available at:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "selection of species.",
+      "context_window": "Before performing the calculations and in order to select a set of species that have been consistently well sampled through the historical series, cumulative curves were applied to the biomass database to make a selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level",
+      "context_window": "This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species ( Figure 1",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "these values do not reflect the characteristics of a given region where trophic interactions between species",
+      "context_window": "times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric and ecological scenarios.",
+      "context_window": "increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the depth gradient, and the community inhabiting the coastal area is fundamentally different from that",
+      "context_window": "MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that inhabiting the deeper area, although both can be summarised into an MTL value. Thus, the bathymetric segregation allowed us to explore temporal changes in these communities independently, with the potential",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges",
+      "context_window": "Figure 5: Gulf of Cadiz continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle",
+      "context_window": "assessments/intermediate-assessment-2017/biodiversity-status/fish-and-food-webs/mtl-bay-biscay/). The main results showed no apparent change in the overall food web structure for MTL2,0, whereas a subtle increase in MTL was detected when focusing on the predator community (MTL3,25 and MTL4,0) associated with signs of recovery in these ecosystems (Arroyo et al., 2019).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species (",
+      "context_window": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species ( Figure 1 ). Thus, this indicator aimed at highlighting the unsustainable fisheries practices of past",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "commercial species) while an apparent improvement of mid trophic level consumers (mainly fish,",
+      "context_window": "These contrasting trends could be detecting a signal of decline in biomass of top predators (some important commercial species) while an apparent improvement of mid trophic level consumers (mainly fish, elasmobranchs and cephalopods) in the last two decades. No changes have been observed when considering",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "French, North Iberian and Gulf of Cádiz continental shelves.",
+      "context_window": "The compilation of TL values by sub-division for calculating MTL was possible for the main representative species in three out of four sub-divisions: French, North Iberian and Gulf of Cádiz continental shelves. The use of regional TLs is expected to improve the robustness of the indicator and reduce the uncertainty around the calculations.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecological constrains resulted in 18 scenarios which are summarised in",
+      "context_window": "and excluding pelagic species, were considered in each sub-division. The combination of this geographic and ecological constrains resulted in 18 scenarios which are summarised in Table a .",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "observed in the northernmost areas of the shelf ecosystem, around an area of lower mean MTL4 values in",
+      "context_window": "Figure 6 ). However, patchily distributed increasing trends were observed in the northernmost areas of the shelf ecosystem, around an area of lower mean MTL4 values in the Celtic Sea. The spatio-temporal analyses of meso + top predators MTL (MTL3.25), showed generally higher values on the shelf than on the slope (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut",
+      "context_window": "© OSPAR Commission, 2023. Permission may be granted by the publishers for the report to be wholly or partly reproduced in publications provided that the source of the extract is clearly indicated. © Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "page_number": 27,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characterising systems enduring high and sustained impacts.",
+      "context_window": "Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf",
+      "context_window": "). Portuguese sub-division In Portuguese waters, a moderate decline in MTL4 (top predators including pelagics) was observed in shelf ecosystems ( Figure 4, Table 1",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "context_window": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny. Large-scale groundfish surveys (such",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges",
+      "context_window": "Figure 4: Portuguese continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their",
+      "context_window": "food webs’. This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast,",
+      "context_window": "Figure 2: French continental shelf, groundfish survey data analyses. Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "When looking at the trends of top predators, significant decreasing",
+      "context_window": "), with almost no apparent differences including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems ( Figure",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different trophic levels are well represented.",
+      "context_window": "Within the scientific community, it is considered that food web status should be based on ecosystem indicators which represent the ecosystem as whole, including as many species as possible and making sure different trophic levels are well represented. The Mean Trophic Level (MTL) indicator meets this requirement because it takes into account food web structure and uses a metric (the TL) that reflects energy transfer",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along",
+      "context_window": "For each of the sub-divisions, three different bathymetric ranges were considered, assessing independently MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that inhabiting the deeper area, although both can be summarised into an MTL value. Thus, the bathymetric",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems.",
+      "context_window": "continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters. In the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems. When including mesopredators in the calculations, increasing trends were observed in most of the sub-divisions.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth).",
+      "context_window": "following section) but based on local TL and biomass data. For each of the sub-divisions, three different bathymetric ranges were considered, assessing independently MTL at the coastal (<30 m depth), continental shelf (30-200 m depth) and continental slope (>200 m depth). These bathymetric ranges reflect the fact that communities on regional seas are commonly structured along the depth gradient, and the community inhabiting the coastal area is fundamentally different from that",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "especially the case for species at lower trophic levels.",
+      "context_window": "Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Increasing trends in all scenarios excluding pelagic species were observed except for coastal areas (",
+      "context_window": "OSPAR Commission Gulf of Cadiz sub-division Increasing trends in all scenarios excluding pelagic species were observed except for coastal areas ( Figure 5, Table 1",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf,",
+      "context_window": "OSPAR Commission Figure 3: North Iberian coast, groundfish survey data analyses. Trends in the MTL indicator with 12 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (shelf, deep), with/without pelagic species. SHELF",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters.",
+      "context_window": "). In summary, analyses of groundfish data show an apparent improvement in top predators in the French continental shelf, in contrast to the decrease generally observed in North Iberian and Portuguese waters. In the Gulf of Cadiz however, there were signs of recovery in shelf and deep-sea ecosystems.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in coastal and slope areas, respectively). These contrasting trends",
+      "context_window": "strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "elasmobranchs and cephalopods) in the last two decades.",
+      "context_window": "contrasting trends could be detecting a signal of decline in biomass of top predators (some important commercial species) while an apparent improvement of mid trophic level consumers (mainly fish, elasmobranchs and cephalopods) in the last two decades. No changes have been observed when considering all community.",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenarios, and particularly evident in the central part of the Portuguese shelf and deep ecosystems.",
+      "context_window": "Figure 8 ). These results are consistently pronounced in almost all scenarios, and particularly evident in the central part of the Portuguese shelf and deep ecosystems. This sub- division showed little evidence of MTL changes at the local scale in any of the scenarios, with very few cells",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is",
+      "context_window": "on species TL values). Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") suggesting that the pelagic and demersal domains of the",
+      "context_window": "pelagic species was also apparent ( Figure 8 ) suggesting that the pelagic and demersal domains of the community are experiencing contrasting evolutions. When looking at the trends, no significant changes were",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems",
+      "context_window": "Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems (Table 1",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(coast, shelf, deep), with/without pelagic species.",
+      "context_window": "Trends in the MTL indicator with 18 different scenarios: TL cut-offs (top predators, meso + top predators, all community), depth ranges (coast, shelf, deep), with/without pelagic species. COAST SHELF",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "), and also more pronounced when pelagic species were excluded from the analysis (",
+      "context_window": "OSPAR Commission 6 ), and also more pronounced when pelagic species were excluded from the analysis ( Figure 6 ). Spatial",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "account TL thresholds, depth strata and including/excluding pelagic species.",
+      "context_window": "Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species. Positive values indicate increasing trend; negative values indicate decreasing trend.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "including and excluding pelagic species.",
+      "context_window": "Figure 6 ), with almost no apparent differences including and excluding pelagic species. When looking at the trends of top predators, significant decreasing trends were observed in the westernmost area, more pronounced in shelf than in deep ecosystems (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems might become so resilient that no trend means resilience.",
+      "context_window": "decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the Conference of the Parties to the Convention on Biological Diversity as one of eight indicators to monitor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of an organism is associated with a particular trophic level and the energy is transferred from the lower",
+      "context_window": "of the functioning of these networks is key for understanding marine ecosystem functioning. Each life stage of an organism is associated with a particular trophic level and the energy is transferred from the lower trophic levels to the higher trophic levels following the interconnections between organisms within the food web.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic species (",
+      "context_window": "coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species ( Figure 2, Table 1 ). Considering meso + top predators (MTL3.25), the MTL indicator displayed",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal and shelf areas, but no change in deeper waters.",
+      "context_window": "French sub-division Considering top predators alone (MTL4), the MTL indicator shows significant linear increasing trends in coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shelf ecosystems with pelagic, where a decreasing trend was detected.",
+      "context_window": "Figure 2 ). No changes are observed when considering the whole community (MTL2) except for shelf ecosystems with pelagic, where a decreasing trend was detected. Attending to the results of the spatio-temporal approach, the MTL of top predators (MTL4) showed no spatial differences with and without pelagic species (",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the pelagic species, negative trends prevailed in the Southern Irish Sea (",
+      "context_window": "Figure 7 ). Regardless of the pelagic species, negative trends prevailed in the Southern Irish Sea ( Figure 7 ). Attending to the whole",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected",
+      "context_window": "4 of 26 OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "deep ecosystems).",
+      "context_window": "of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method Data sources",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") where a decline was evident when considering all community (MTL2) and meso + top predators",
+      "context_window": "Figure 5, Table 1 ) where a decline was evident when considering all community (MTL2) and meso + top predators (MTL3.25), but not for top predators only (MTL4). However, the results from coastal areas should be taken",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when",
+      "context_window": "In Portuguese waters a significant decrease of top predators in shelf ecosystems was apparent when including pelagics. In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric ranges when excluding the pelagic species from the analyses, which is also associated to a",
+      "context_window": "Figure 7 ). It’s noteworthy the decrease in MTL3.25 in these bathymetric ranges when excluding the pelagic species from the analyses, which is also associated to a change from mostly increasing trends to mostly decreasing trends in the annual values. ( Figure 7",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "both depth strata (shelf and deep ecosystems), including and excluding pelagic species (",
+      "context_window": "North Iberian sub-division The indicator MTL4 (including top predators) showed moderate to strong decreasing trends in all scenarios: both depth strata (shelf and deep ecosystems), including and excluding pelagic species ( Figure 3, Table 1 ).",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pelagic species was also apparent (",
+      "context_window": "). Attending to the whole community (MTL2), this change from mostly positive trends to mostly negative trends when excluding the pelagic species was also apparent ( Figure 8 ) suggesting that the pelagic and demersal domains of the",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our vision is a clean, healthy and biologically diverse North-East Atlantic",
+      "context_window": "© Commission OSPAR, 2023. La reproduction de tout ou partie de ce rapport dans une publication peut être autorisée par l’Editeur, sous réserve que l’origine de l’extrait soit clairement mentionnée. Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "). Taking into account all species in the community (MTL2) slope ecosystems",
+      "context_window": "and Figure 7 ). Taking into account all species in the community (MTL2) slope ecosystems displayed mostly decreasing trends in the indicator both including and excluding pelagic species, while shelf ecosystems showed mostly increasing trends in the indicator, regardless of the pelagic species (",
+      "page_number": 20,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 78,
+      "end_sentence": 81,
+      "sentence_count": 4,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "The Mean Trophic Level (MTL) showed contrasting trends in the four sub-divisions of the Bay of Bisca...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Iberian Coast over recent decades. Although signs of recovery of top predators and mesopredators are",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "observed in most sub-divisions, there were downward trends in some local areas.",
+          "full_length": 79
+        }
+      ],
+      "total_sentences_in_section": 4
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 883,
+      "end_sentence": 909,
+      "sentence_count": 27,
+      "page_range": "21-22",
+      "sentences": [
+        {
+          "sentence_id": 883,
+          "page_number": 21,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 884,
+          "page_number": 21,
+          "content": "The Mean Trophic Level (MTL) in OSPAR Region IV showed contrasting trends in the overall food web",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 885,
+          "page_number": 21,
+          "content": "structure, depending on the sub-division and the part of the ecosystem studied.",
+          "full_length": 79
+        },
+        {
+          "sentence_id": 886,
+          "page_number": 21,
+          "content": "In northern (French shelf)",
+          "full_length": 26
+        },
+        {
+          "sentence_id": 887,
+          "page_number": 21,
+          "content": "and southern areas (Gulf of Cadiz shelf) there were signs of improvements in the upper trophic level...",
+          "full_length": 105
+        }
+      ],
+      "total_sentences_in_section": 27
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 910,
+      "end_sentence": 959,
+      "sentence_count": 50,
+      "page_range": "22-22",
+      "sentences": [
+        {
+          "sentence_id": 910,
+          "page_number": 22,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 911,
+          "page_number": 22,
+          "content": "The Mean Trophic Level (MTL) in OSPAR Region IV showed an apparent sign of recovery when focusing on",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 912,
+          "page_number": 22,
+          "content": "top predators (MTL4) in the northern and southernmost areas of the region (French continental and Gu...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 913,
+          "page_number": 22,
+          "content": "Cadiz shelves). Nevertheless, when including mesopredators in the indicator (MTL3.25) an overall",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 914,
+          "page_number": 22,
+          "content": "improvement was observed across sub-divisions.",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 50
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 999,
+      "end_sentence": 1148,
+      "sentence_count": 150,
+      "page_range": "23-25",
+      "sentences": [
+        {
+          "sentence_id": 999,
+          "page_number": 23,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1000,
+          "page_number": 23,
+          "content": "Arroyo, N.L., Safi, G., Vouriot, P., López-López L., Niquil, N., Le Loc’h, F., Hattab T., Preciado I...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 1001,
+          "page_number": 23,
+          "content": "2019.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1002,
+          "page_number": 23,
+          "content": "Towards",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 1003,
+          "page_number": 23,
+          "content": "coherent GES assessments at sub-regional level: signs of fisheries expansion processes in the Bay of...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 150
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1217,
+    "chunks_selected": 88,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 78,
+        "end_sentence": 81,
+        "sentence_count": 4
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 883,
+        "end_sentence": 909,
+        "sentence_count": 27
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 910,
+        "end_sentence": 959,
+        "sentence_count": 50
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 999,
+        "end_sentence": 1148,
+        "sentence_count": 150
+      }
+    ],
+    "total_excluded_sentences": 231
+  }
+}

@@ -1,0 +1,1526 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "The negative impacts can include reduced benthic diversity and altered species composition, as well",
+      "context_window": "., 2016). The negative impacts can include reduced benthic diversity and altered species composition, as well as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile species.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impact OSPAR listed threatened and/or declining habitats such as",
+      "context_window": "habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival. This can severely impact OSPAR listed threatened and/or declining habitats such as Lophelia pertusa reefs and maerl beds.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interactions). Ocean changes that lead to altered timing of primary production (Hjerne",
+      "context_window": "Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH, oxygen) interact with other biological changes/interactions (e.g., density dependence, food web interactions). Ocean changes that lead to altered timing of primary production (Hjerne et al ., 2019; Mészáros",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification on fish are less often studied but may impact early life stages (Pimentel",
+      "context_window": "events) and the list of impacts on fish has the potential to expand as more research is done. The impacts of ocean acidification on fish are less often studied but may impact early life stages (Pimentel et al ., 2016).",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH,",
+      "context_window": "et al ., 2022). Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH, oxygen) interact with other biological changes/interactions (e.g., density dependence, food web interactions). Ocean changes that lead to altered timing of primary production (Hjerne",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the",
+      "context_window": "Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the marine ecosystem. Q5. What do we do next?",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and",
+      "context_window": "fisheries. Such shifts can include extra fishing pressure on vulnerable components of the marine ecosystem. Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 80,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Ocean Acidification Other Assessment",
+      "context_window": "Climate Change and the Ocean Acidification Other Assessment describe pressures on fish. The",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "ocean acidification, sea ice changes) will be revealed as further research is done.",
+      "context_window": "Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and changes to primary production.",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "marine ecosystem.",
+      "context_window": "mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the marine ecosystem. Q5. What do we do next? Two of the key objectives under the NEAES 2030 are particularly relevant.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The climate-associated changes in oceans projected by global models include rising sea temperatures and",
+      "context_window": "impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and changes to primary production. Warming in the North Atlantic is expected to continue, with the greatest",
+      "page_number": 69,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience.",
+      "context_window": "Strategic Objective 5 : Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience. S5.O4: By 2025 at the latest OSPAR will take appropriate actions to prevent or reduce pressures to",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile",
+      "context_window": "2016). The negative impacts can include reduced benthic diversity and altered species composition, as well as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile species. Input of litter (solid waste matter, including micro-sized litter)",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacts of other environmental changes associated with emissions of greenhouse gases (e.g.,",
+      "context_window": "• Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "changes in the provision of the ecosystem service of maintenance of food web dynamics.",
+      "context_window": "activities that may lead to physical changes in the water, for example its temperature and chemical conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce changes in the provision of the ecosystem service of maintenance of food web dynamics. Fish, including eggs and larvae, are also a source of food for various species of marine mammals and birds and passively",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Most research on the impacts of climate change on fish has focused on ocean warming. The",
+      "context_window": "and are difficult to disentangle from these. • Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done.",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "on habitats or species that are particularly vulnerable.",
+      "context_window": "Management and conservation of deep-sea fisheries: There are examples of responses to manage impacts on habitats or species that are particularly vulnerable. These measures are informed by ICES scientific advice, and there is strong alignment between its list of vulnerable species and habitats and the deep-sea species",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Cold-water species, like arctic and boreal fish, are predicted to be particularly",
+      "context_window": "juveniles reach a larger size earlier in the year, increasing the survival rate during the subsequent winter months (Ottersen, 2000). Cold-water species, like arctic and boreal fish, are predicted to be particularly impacted (Poloczanska et al",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth",
+      "context_window": "[Physical]: Altering habitat structure can result in loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth and productivity, thus potentially reducing available prey and affecting fish survival (Jennings and Kaiser, 1998; Watling and Norse, 1998; Thrush and Dayton 2002; Gill, 2005; Hiddink",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish are an essential part of the marine ecosystem, providing many ecosystem services.",
+      "context_window": "Fish are an essential part of the marine ecosystem, providing many ecosystem services. This means that the good health of fish communities has a positive effect on the marine food web and, conversely, that poor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extraction of, or mortality to, wild species from fish and shellfish harvesting;",
+      "context_window": "Climate change and ocean acidification pressures; • Extraction of, or mortality to, wild species from fish and shellfish harvesting; • Physical disturbance of the seabed from renewable energy generation; extraction of oil and gas;",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "good health of fish communities has a positive effect on the marine food web and, conversely, that poor",
+      "context_window": "Fish are an essential part of the marine ecosystem, providing many ecosystem services. This means that the good health of fish communities has a positive effect on the marine food web and, conversely, that poor health will have a negative effect. Society has a need for food, and fish are a vital source of protein, which",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Temperature may affect the expansion or contraction of a species due to changes in habitat",
+      "context_window": "The role of temperature in distributional changes is difficult to disentangle from other factors such as the role of stock size. Temperature may affect the expansion or contraction of a species due to changes in habitat suitability or recruitment rate (due to effects on physiology, survival, or impacts on planktonic life stages or planktonic prey), and stock size may enhance or counteract these effects through its role in density-",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Common Indicator ‘Recovery of sensitive fish species’",
+      "context_window": "spp. and sea lamprey) are also assessed by the OSPAR Common Indicator ‘Recovery of sensitive fish species’ , which uses different methods from the",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change and Ocean Acidification pressures have been identified as important for fish. Input of substances, input of litter, input of microbial pathogens, anthropogenic sound, input of radionuclides",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Many fish species have different habitat requirements throughout their life stages.",
+      "context_window": "Consequently, if these traits are adversely affected, for example due to habitat loss or exposure to pollutants, the provision of ecosystem services will also be negatively affected. Many fish species have different habitat requirements throughout their life stages. For example, many spawn offshore and live in inshore or in coastal habitats as juveniles.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to",
+      "context_window": "The current thematic assessment describes the connectivity between the relevant DAPSIR components. Sankey diagrams provide a schematic of potential impact pathways describing cumulative causes and consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services (see",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of",
+      "context_window": "Others include those from climate change  (i.e., changes in temperature regimes, stratification and circulation patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic sound; changes to hydrological condition; input or spread of NIS; input of water and input of nutrients, but",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification pressures;",
+      "context_window": "to the unfiltered outputs used in the Exposure assessment. • Climate change and ocean acidification pressures; • Extraction of, or mortality to, wild species from fish and shellfish harvesting;",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "been linked to changes in the distribution of fish species.",
+      "context_window": "but a moderate increase in the Atlantic-Arctic (Peck and Pinnegar, 2018). Both of these developments have been linked to changes in the distribution of fish species. The research on temperature-related shifts in marine fish has been active for more than a decade (Perry",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change effects on marine fish",
+      "context_window": "acidification was not available in sufficient detail to be utilised in this assessment. Climate Change Climate change effects on marine fish • The previously documented climate change impacts on fish include changes to species",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic",
+      "context_window": "include those from climate change  (i.e., changes in temperature regimes, stratification and circulation patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic sound; changes to hydrological condition; input or spread of NIS; input of water and input of nutrients, but there is lower confidence in ranking their relative importance.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "good representation of species and habitats and that its spatial design and management regime remains",
+      "context_window": "thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.” Understanding the management effectiveness of the MPAs within the network and of the network itself,",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "has important implications for fish communities and stocks, including changes in recruitment",
+      "context_window": "OSPAR Commission Climate change has important implications for fish communities and stocks, including changes in recruitment and productivity and range shifts, with implications for management. The focus for these actions lies outside",
+      "page_number": 60,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "of species and by changing growth and mortality.",
+      "context_window": "seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality. 5 of 79 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "does carbon fixation.",
+      "context_window": "an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation. However, the opposite situation can also take place, contributing to a (local) decrease in carbon fixation by primary producers (phytoplankton).",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The previously documented climate change impacts on fish include changes to species",
+      "context_window": "Climate change effects on marine fish • The previously documented climate change impacts on fish include changes to species distributions, body size, phenology, recruitment and fish biomass. 69 of 79",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "seabed species to the fish that feed upon them.",
+      "context_window": "reefs and maerl beds. Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic",
+      "context_window": "., 2019) was developed to identify and connect all the DAPSIR components, integratsing these into either a pressure-focused (e.g., underwater sound, litter, hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change. For the",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This illustrates how variations in fish populations in",
+      "context_window": "However, the opposite situation can also take place, contributing to a (local) decrease in carbon fixation by primary producers (phytoplankton). This illustrates how variations in fish populations in relation to changes in food web dynamics (‘Regulation and maintenance of marine food webs’) can also contribute to climate regulation through indirect changes in carbon fluxes to the atmosphere (Holmlund and",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It has been observed that decreases in fish body size (due to environmental pressures and impacts associated",
+      "context_window": "39 of 79 OSPAR Commission It has been observed that decreases in fish body size (due to environmental pressures and impacts associated with human activities) can have negative consequences on egg production, nutrient transport and, in turn, on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Altering habitat structure can result in",
+      "context_window": "Physical disturbance to seabed (temporary or reversible) [Physical]: Altering habitat structure can result in loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth and productivity, thus potentially reducing available prey and affecting fish survival (Jennings and Kaiser,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitats are considered to be under threat and/ or in decline.",
+      "context_window": "the 2019 implementation reporting indicates that there is a good level of engagement to implement the national actions within the OSPAR Recommendations, in particular within the areas where the species and habitats are considered to be under threat and/ or in decline. The level of engagement in collective actions is clearly lower, with some of the more complex actions not having been progressed and implemented.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish populations and their changes in abundance can contribute to",
+      "context_window": "The oceans can function both as sinks and as carbon sources. Carbon fixation increases with high primary production. Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive",
+      "context_window": "et al ., 2017). These behavioural impacts can include displacement and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "enable the recovery of marine species and benthic and pelagic habitats in order to reach and",
+      "context_window": "S5.O4: By 2025 at the latest OSPAR will take appropriate actions to prevent or reduce pressures to enable the recovery of marine species and benthic and pelagic habitats in order to reach and maintain good environmental status as reflected in relevant OSPAR status assessments, with action by 2023 to halt the decline of marine birds.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so",
+      "context_window": "Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation. However, the opposite situation can also take place, contributing to a (local) decrease",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish populations will also be expected to experience indirect impacts of climate change, through impacts on",
+      "context_window": "et al. , 2021). Fish populations will also be expected to experience indirect impacts of climate change, through impacts on fisheries. In addition to the obvious changes to fish and fisheries outlined above, future efforts to reduce",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme",
+      "context_window": "Other climate change impacts and concluding statements The most frequently studied climate change impacts are discussed above, but the suite of climate associated changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme events) and the list of impacts on fish has the potential to expand as more research is done. The impacts of",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other",
+      "context_window": "It has been observed that decreases in fish body size (due to environmental pressures and impacts associated with human activities) can have negative consequences on egg production, nutrient transport and, in turn, on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other natural aquatic biomass and related raw materials’ (Oke et al",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns",
+      "context_window": "Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality. 5 of 79",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Disturbances of species",
+      "context_window": "can be particularly important in the short and long term in areas that are routinely used by fish for spawning, feeding and as a nursery ground (see Disturbances of species below). Changes to hydrological conditions",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and",
+      "context_window": "water movement and close proximity to the drivers affecting salinity. Salinity changes can result in mortality or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and ecosystem structure (Crain et al",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification was not available in sufficient detail to be utilised in this assessment.",
+      "context_window": "(Region III). Regional evidence for trends in the intensity of other human activities or for climate change and ocean acidification was not available in sufficient detail to be utilised in this assessment. Climate Change Climate change effects on marine fish",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "knowledge and prevent adverse impacts on VMEs, thus ensuring the long-term conservation of deep-sea fish",
+      "context_window": "international waters of the North-East Atlantic and is known as the Deep-sea Regulation. It aims to improve knowledge and prevent adverse impacts on VMEs, thus ensuring the long-term conservation of deep-sea fish stocks. NEAFC has also implemented a series of recommendations on vulnerable species of concern to OSPAR.",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The increase in average ocean temperatures driven by greenhouse gas-induced climate change can",
+      "context_window": "and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the potential to cause community-level changes (Woods",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "species range shifts under future climate scenarios (Rutterford",
+      "context_window": "et al., 2008) and the availability of suitable habitat at increasing depth may limit species range shifts under future climate scenarios (Rutterford et al., 2015). Food web interactions also play",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Salinity changes can result in mortality",
+      "context_window": "Estuaries are particularly vulnerable to changes in salinity owing to slow water movement and close proximity to the drivers affecting salinity. Salinity changes can result in mortality or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and ecosystem structure (Crain",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity and ecosystem services.",
+      "context_window": "cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services. There are a number of linkages to other thematic assessments, including: Food webs",
+      "page_number": 43,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "strengthen ecosystem resilience to climate change and to safeguard the marine environment, its",
+      "context_window": "regional-scale ecosystem-based management, including through the ‘Collective Arrangement’ and in cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services. There are a number of linkages to other thematic assessments, including:",
+      "page_number": 43,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Atlantic and included in the OSPAR List of Threatened and/or Declining Species and Habitats (",
+      "context_window": "22 fish species that are of particular concern in the North-East Atlantic and included in the OSPAR List of Threatened and/or Declining Species and Habitats ( Agreement 2008-06",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species, habitats, ecosystems or ecological processes in the marine environment.",
+      "context_window": "Within OSPAR, Marine Protected Areas (MPAs) are understood as areas for which protective, conservation, restorative or precautionary measures have been instituted for the purpose of protecting and conserving species, habitats, ecosystems or ecological processes in the marine environment. In 2003, OSPAR adopted Recommendation 2003/03 to establish an ecologically coherent and well managed network of MPAs; this",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2021) may act in tandem with the impact of ocean warming on fish phenology (i.e., change in timing",
+      "context_window": "., 2019; Mészáros et al ., 2021) may act in tandem with the impact of ocean warming on fish phenology (i.e., change in timing of spawning, larval hatching or migration), leading to mismatches between first-feeding fish larvae and their prey (Neuhemier",
+      "page_number": 71,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure",
+      "context_window": "demonstrating the ubiquitous nature of these pressures in the North-East Atlantic. Extraction of species, physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure scores. The exposure scores support the importance that OSPAR places on these pressures in its North-East Atlantic",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pathways of cumulative causes and the consequences of change in the ecosystem, linking these to impacts",
+      "context_window": "CEMP Guideline for details) as a first step to describing the potential pathways of cumulative causes and the consequences of change in the ecosystem, linking these to impacts on ecosystem services. 62 of 79",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": Protect and conserve marine biodiversity, ecosystems and their services to achieve",
+      "context_window": "There are several entry points within the NEAES 2030 for future action relating to fish, in particular: Strategic Objective 5 : Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience. S5.O4:",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce",
+      "context_window": "(Holmlund and Hammer, 1999). For this reason, the environmental pressures associated with human activities that may lead to physical changes in the water, for example its temperature and chemical conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce changes in the provision of the ecosystem service of maintenance of food web dynamics. Fish, including eggs",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a",
+      "context_window": "in place, and the development necessary in order to deliver on NEAES S11.O2: “By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.”",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits",
+      "context_window": "15 of 79 OSPAR Commission availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits of fished populations, and also affect food web dynamics – which may or may not be sustainable – predator- prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The average body size of marine organisms is projected to shrink under ocean warming as a result of direct",
+      "context_window": "et al ., 2022). The average body size of marine organisms is projected to shrink under ocean warming as a result of direct impact, and as an adaptive response, with small-bodied pelagic fish being possibly more resilient to climate change (Lefort",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "and to safeguard the marine environment, its biodiversity and ecosystem services (SX.O2).",
+      "context_window": "management, including through the ‘Collective Arrangement’ and in cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services (SX.O2). In addition, OSPAR will work with relevant competent authorities and other stakeholders to minimise, and where possible eliminate, incidental by-catch of marine mammals, birds, turtles and fish so that it does not",
+      "page_number": 60,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change.",
+      "context_window": "all the DAPSIR components, integratsing these into either a pressure-focused (e.g., underwater sound, litter, hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change. For the biodiversity assessments, the APS connections are weighted to determine the most important, using an",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extraction of species,",
+      "context_window": "and disturbance of species are also important and their exposure scores are among the highest, demonstrating the ubiquitous nature of these pressures in the North-East Atlantic. Extraction of species, physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure scores.",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other climate change impacts and concluding statements",
+      "context_window": "ECO reference points; ICES, 2022). Other climate change impacts and concluding statements The most frequently studied climate change impacts are discussed above, but the suite of climate associated changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "Of these species, improved status is evidenced for",
+      "context_window": "There are OSPAR assessments of five threatened and declining demersal shelf fish: spurdog, angel shark, common skate complex, spotted ray and thornback ray. Of these species, improved status is evidenced for spurdog, spotted ray and thornback ray. Spurdog is a prohibited species for commercial fishing in EU, United Kingdom and Norwegian waters, with",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "‘Regulation and maintenance of marine food webs’ by enhancing primary productivity (Tavares",
+      "context_window": "., 2019). For example, in fish, body mass (trait) is associated with nutrient transport (ecosystem function) which, in turn, facilitates a contribution to the ecosystem service of ‘Regulation and maintenance of marine food webs’ by enhancing primary productivity (Tavares et al ., 2019).",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reefs and maerl beds.",
+      "context_window": "impact OSPAR listed threatened and/or declining habitats such as Lophelia pertusa reefs and maerl beds. Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regulation and maintenance of marine food webs:",
+      "context_window": "This ecosystem service also contributes to activities such as recreational fishing, via biomass provisioning (Holmlund and Hammer, 1999). Regulation and maintenance of marine food webs: Fish consumption of marine organisms plays an important role in regulating trophic structure by influencing the stability, resilience, and dynamics of the",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the",
+      "context_window": "success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the potential to cause community-level changes (Woods et al",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "General trends of ocean warming impacts include distributional shifts towards northern ranges of",
+      "context_window": "OSPAR Commission • General trends of ocean warming impacts include distributional shifts towards northern ranges of fish distributions; larger species decreasing in body size while smaller fish may more readily adapt to the environment; earlier spawning; and changes in fish biomass which may be reflected through",
+      "page_number": 69,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "environments, impacting reproduction, development and/or survival of offspring and causing population",
+      "context_window": "OSPAR Commission metals, persistent organic pollutants and organochlorine contaminants) can adversely affect fish in all aquatic environments, impacting reproduction, development and/or survival of offspring and causing population decline (Hamilton et al",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distributions, body size, phenology, recruitment and fish biomass.",
+      "context_window": "• The previously documented climate change impacts on fish include changes to species distributions, body size, phenology, recruitment and fish biomass. 69 of 79 OSPAR Commission",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "fish stocks and sensitive species of conservation concern.",
+      "context_window": "18 of 79 OSPAR Commission fish stocks and sensitive species of conservation concern. None of the fish groups in any of the regions assessed was found to be in good environmental status.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The impact potential and ecosystem services outputs are combined and presented in Sankey diagrams",
+      "context_window": "The SI (ecosystem services) connections are weighted to determine which are the most important (Cornaccia, 2022). The impact potential and ecosystem services outputs are combined and presented in Sankey diagrams ( Figure CE.1",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": "Food webs , Benthic Habitats , Pelagic Habitats",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services",
+      "context_window": "Sankey diagrams provide a schematic of potential impact pathways describing cumulative causes and consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services (see CEMP Guideline",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush",
+      "context_window": "availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits of fished populations, and also affect food web dynamics – which may or may not be sustainable – predator- prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush and Dayton, 2010; Woods et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts if food web interactions and allometry are ignored.",
+      "context_window": "a role in species range shifts. Predictions of species range shifts have the potential to overestimate range shifts if food web interactions and allometry are ignored. Models show slower range shifts for species experiencing dynamic trophic interactions than for single species (Tekwa",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional",
+      "context_window": "et al ., 2013). Recent assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional shifts for all examined species, the main drivers of which are environmental conditions, principally temperature (Baudron",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The overall situation in which fish groups across the various assessed areas are not in good environmental",
+      "context_window": "OSPAR Commission Q4. How does this field affect the overall quality status? The overall situation in which fish groups across the various assessed areas are not in good environmental status has wider implications for the marine ecosystem. Fish provide many ecosystem services, and consequently the status of fish populations has implications for the wider ecosystem.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton",
+      "context_window": "increases with high primary production. Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequently the status of fish populations has implications for the wider ecosystem.",
+      "context_window": "The overall situation in which fish groups across the various assessed areas are not in good environmental status has wider implications for the marine ecosystem. Fish provide many ecosystem services, and consequently the status of fish populations has implications for the wider ecosystem. Fish play a role in regulating the balance of the food web.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "settlement and growth of benthic species and thus altering prey availability (Jennings and Kaiser, 1998;",
+      "context_window": "infrastructure modify the seabed morphology and may lead to the re-suspension of sediments. Re- suspension and subsequent disposition of sediments in other areas can increase turbidity, inhibiting the settlement and growth of benthic species and thus altering prey availability (Jennings and Kaiser, 1998; Gasparatos et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to influencing microbial communities in marine sediments and other conditions vital to benthic organisms",
+      "context_window": "Sediment quality regulation: When fish spawn, rest or feed on or near the seabed, they can also contribute to influencing microbial communities in marine sediments and other conditions vital to benthic organisms (Holmlund and Hammer, 1999). For example, by excavating sandflats for food, fish such as stingrays cause",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact Potential of Fish to exposure to pressures from human activities in the North-East",
+      "context_window": "OSPAR Commission Figure CE.1: Impact Potential of Fish to exposure to pressures from human activities in the North-East Atlantic. Columns left to right: Activity, Pressure, State, Environmental Impact, Ecosystem Service.",
+      "page_number": 63,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish consumption of marine organisms plays an",
+      "context_window": "(Holmlund and Hammer, 1999). Regulation and maintenance of marine food webs: Fish consumption of marine organisms plays an important role in regulating trophic structure by influencing the stability, resilience, and dynamics of the marine food web.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the listed fish species, consideration of how to strengthen the knowledge base, monitoring and",
+      "context_window": "). The Recommendations are broad in nature, addressing a range of human activities and pressures. The actions to be taken nationally include steps to ensure appropriate national legislation for the protection of the listed fish species, consideration of how to strengthen the knowledge base, monitoring and assessment, steps to manage key human activities, calls for the designation of MPAs, and awareness raising. The collective actions include coordination of monitoring and assessment, enhanced knowledge exchange,",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts for all examined species, the main drivers of which are environmental conditions, principally",
+      "context_window": "., 2013). Recent assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional shifts for all examined species, the main drivers of which are environmental conditions, principally temperature (Baudron et al",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impact on ecosystem service scores to present the Activity, Pressure, State and",
+      "context_window": "Figure CE.1 incorporates the impact on ecosystem service scores to present the Activity, Pressure, State and Impact components of",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regulating the balance of the food web.",
+      "context_window": "consequently the status of fish populations has implications for the wider ecosystem. Fish play a role in regulating the balance of the food web. The degree to which fish influence the regulation of food web dynamics can vary depending on the physical and climatic conditions to which they are subjected.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with substances being introduced to the marine habitats that fish directly depend upon, from a variety of",
+      "context_window": "increased mortality in wild animals (either as target or by-catch). Pollution is the second highest pressure, with substances being introduced to the marine habitats that fish directly depend upon, from a variety of sources like shipping, cities and industrial activities, transport on land and waste treatment and disposal. The",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival.",
+      "context_window": "to the gear used. Fishing methods which contact the seabed cause physical disturbance which can result in habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival. This can severely impact OSPAR listed threatened and/or declining habitats such as",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "The negative impacts can include reduced benthic diversity and altered species composition, as well",
+      "context_window": "., 2016). The negative impacts can include reduced benthic diversity and altered species composition, as well as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile species.",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "interactions). Ocean changes that lead to altered timing of primary production (Hjerne",
+      "context_window": "Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH, oxygen) interact with other biological changes/interactions (e.g., density dependence, food web interactions). Ocean changes that lead to altered timing of primary production (Hjerne et al ., 2019; Mészáros",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH,",
+      "context_window": "et al ., 2022). Impacts may also be cumulative, as when environmental impacts (changes in temperature, salinity, pH, oxygen) interact with other biological changes/interactions (e.g., density dependence, food web interactions). Ocean changes that lead to altered timing of primary production (Hjerne",
+      "page_number": 71,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and",
+      "context_window": "fisheries. Such shifts can include extra fishing pressure on vulnerable components of the marine ecosystem. Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification Other Assessment",
+      "context_window": "Climate Change and the Ocean Acidification Other Assessment describe pressures on fish. The",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "marine ecosystem.",
+      "context_window": "mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the marine ecosystem. Q5. What do we do next? Two of the key objectives under the NEAES 2030 are particularly relevant.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "good status of species and habitats, and thereby maintain and strengthen ecosystem resilience.",
+      "context_window": "Strategic Objective 5 : Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience. S5.O4: By 2025 at the latest OSPAR will take appropriate actions to prevent or reduce pressures to",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "impacts of other environmental changes associated with emissions of greenhouse gases (e.g.,",
+      "context_window": "• Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Most research on the impacts of climate change on fish has focused on ocean warming. The",
+      "context_window": "and are difficult to disentangle from these. • Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done.",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Cold-water species, like arctic and boreal fish, are predicted to be particularly",
+      "context_window": "juveniles reach a larger size earlier in the year, increasing the survival rate during the subsequent winter months (Ottersen, 2000). Cold-water species, like arctic and boreal fish, are predicted to be particularly impacted (Poloczanska et al",
+      "page_number": 70,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish are an essential part of the marine ecosystem, providing many ecosystem services.",
+      "context_window": "Fish are an essential part of the marine ecosystem, providing many ecosystem services. This means that the good health of fish communities has a positive effect on the marine food web and, conversely, that poor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "good health of fish communities has a positive effect on the marine food web and, conversely, that poor",
+      "context_window": "Fish are an essential part of the marine ecosystem, providing many ecosystem services. This means that the good health of fish communities has a positive effect on the marine food web and, conversely, that poor health will have a negative effect. Society has a need for food, and fish are a vital source of protein, which",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Common Indicator ‘Recovery of sensitive fish species’",
+      "context_window": "spp. and sea lamprey) are also assessed by the OSPAR Common Indicator ‘Recovery of sensitive fish species’ , which uses different methods from the",
+      "page_number": 31,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Many fish species have different habitat requirements throughout their life stages.",
+      "context_window": "Consequently, if these traits are adversely affected, for example due to habitat loss or exposure to pollutants, the provision of ecosystem services will also be negatively affected. Many fish species have different habitat requirements throughout their life stages. For example, many spawn offshore and live in inshore or in coastal habitats as juveniles.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of",
+      "context_window": "Others include those from climate change  (i.e., changes in temperature regimes, stratification and circulation patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic sound; changes to hydrological condition; input or spread of NIS; input of water and input of nutrients, but",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "been linked to changes in the distribution of fish species.",
+      "context_window": "but a moderate increase in the Atlantic-Arctic (Peck and Pinnegar, 2018). Both of these developments have been linked to changes in the distribution of fish species. The research on temperature-related shifts in marine fish has been active for more than a decade (Perry",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic",
+      "context_window": "include those from climate change  (i.e., changes in temperature regimes, stratification and circulation patterns, acidification, nutrient enrichment, changes in water chemistry); input of other substances; input of litter; input of microbial pathogens; physical disturbance of the seabed; habitat loss; input of anthropogenic sound; changes to hydrological condition; input or spread of NIS; input of water and input of nutrients, but there is lower confidence in ranking their relative importance.",
+      "page_number": 61,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "has important implications for fish communities and stocks, including changes in recruitment",
+      "context_window": "OSPAR Commission Climate change has important implications for fish communities and stocks, including changes in recruitment and productivity and range shifts, with implications for management. The focus for these actions lies outside",
+      "page_number": 60,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "does carbon fixation.",
+      "context_window": "an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation. However, the opposite situation can also take place, contributing to a (local) decrease in carbon fixation by primary producers (phytoplankton).",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "seabed species to the fish that feed upon them.",
+      "context_window": "reefs and maerl beds. Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "This illustrates how variations in fish populations in",
+      "context_window": "However, the opposite situation can also take place, contributing to a (local) decrease in carbon fixation by primary producers (phytoplankton). This illustrates how variations in fish populations in relation to changes in food web dynamics (‘Regulation and maintenance of marine food webs’) can also contribute to climate regulation through indirect changes in carbon fluxes to the atmosphere (Holmlund and",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Altering habitat structure can result in",
+      "context_window": "Physical disturbance to seabed (temporary or reversible) [Physical]: Altering habitat structure can result in loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth and productivity, thus potentially reducing available prey and affecting fish survival (Jennings and Kaiser,",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish populations and their changes in abundance can contribute to",
+      "context_window": "The oceans can function both as sinks and as carbon sources. Carbon fixation increases with high primary production. Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "enable the recovery of marine species and benthic and pelagic habitats in order to reach and",
+      "context_window": "S5.O4: By 2025 at the latest OSPAR will take appropriate actions to prevent or reduce pressures to enable the recovery of marine species and benthic and pelagic habitats in order to reach and maintain good environmental status as reflected in relevant OSPAR status assessments, with action by 2023 to halt the decline of marine birds.",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish populations will also be expected to experience indirect impacts of climate change, through impacts on",
+      "context_window": "et al. , 2021). Fish populations will also be expected to experience indirect impacts of climate change, through impacts on fisheries. In addition to the obvious changes to fish and fisheries outlined above, future efforts to reduce",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other",
+      "context_window": "It has been observed that decreases in fish body size (due to environmental pressures and impacts associated with human activities) can have negative consequences on egg production, nutrient transport and, in turn, on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other natural aquatic biomass and related raw materials’ (Oke et al",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Disturbances of species",
+      "context_window": "can be particularly important in the short and long term in areas that are routinely used by fish for spawning, feeding and as a nursery ground (see Disturbances of species below). Changes to hydrological conditions",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "acidification was not available in sufficient detail to be utilised in this assessment.",
+      "context_window": "(Region III). Regional evidence for trends in the intensity of other human activities or for climate change and ocean acidification was not available in sufficient detail to be utilised in this assessment. Climate Change Climate change effects on marine fish",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "The increase in average ocean temperatures driven by greenhouse gas-induced climate change can",
+      "context_window": "and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the potential to cause community-level changes (Woods",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "Salinity changes can result in mortality",
+      "context_window": "Estuaries are particularly vulnerable to changes in salinity owing to slow water movement and close proximity to the drivers affecting salinity. Salinity changes can result in mortality or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and ecosystem structure (Crain",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthen ecosystem resilience to climate change and to safeguard the marine environment, its",
+      "context_window": "regional-scale ecosystem-based management, including through the ‘Collective Arrangement’ and in cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services. There are a number of linkages to other thematic assessments, including:",
+      "page_number": 43,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species, habitats, ecosystems or ecological processes in the marine environment.",
+      "context_window": "Within OSPAR, Marine Protected Areas (MPAs) are understood as areas for which protective, conservation, restorative or precautionary measures have been instituted for the purpose of protecting and conserving species, habitats, ecosystems or ecological processes in the marine environment. In 2003, OSPAR adopted Recommendation 2003/03 to establish an ecologically coherent and well managed network of MPAs; this",
+      "page_number": 48,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure",
+      "context_window": "demonstrating the ubiquitous nature of these pressures in the North-East Atlantic. Extraction of species, physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure scores. The exposure scores support the importance that OSPAR places on these pressures in its North-East Atlantic",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": Protect and conserve marine biodiversity, ecosystems and their services to achieve",
+      "context_window": "There are several entry points within the NEAES 2030 for future action relating to fish, in particular: Strategic Objective 5 : Protect and conserve marine biodiversity, ecosystems and their services to achieve good status of species and habitats, and thereby maintain and strengthen ecosystem resilience. S5.O4:",
+      "page_number": 42,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a",
+      "context_window": "in place, and the development necessary in order to deliver on NEAES S11.O2: “By 2023, and every six years thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.”",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The average body size of marine organisms is projected to shrink under ocean warming as a result of direct",
+      "context_window": "et al ., 2022). The average body size of marine organisms is projected to shrink under ocean warming as a result of direct impact, and as an adaptive response, with small-bodied pelagic fish being possibly more resilient to climate change (Lefort",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change.",
+      "context_window": "all the DAPSIR components, integratsing these into either a pressure-focused (e.g., underwater sound, litter, hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change. For the biodiversity assessments, the APS connections are weighted to determine the most important, using an",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other climate change impacts and concluding statements",
+      "context_window": "ECO reference points; ICES, 2022). Other climate change impacts and concluding statements The most frequently studied climate change impacts are discussed above, but the suite of climate associated changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "‘Regulation and maintenance of marine food webs’ by enhancing primary productivity (Tavares",
+      "context_window": "., 2019). For example, in fish, body mass (trait) is associated with nutrient transport (ecosystem function) which, in turn, facilitates a contribution to the ecosystem service of ‘Regulation and maintenance of marine food webs’ by enhancing primary productivity (Tavares et al ., 2019).",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regulation and maintenance of marine food webs:",
+      "context_window": "This ecosystem service also contributes to activities such as recreational fishing, via biomass provisioning (Holmlund and Hammer, 1999). Regulation and maintenance of marine food webs: Fish consumption of marine organisms plays an important role in regulating trophic structure by influencing the stability, resilience, and dynamics of the",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "General trends of ocean warming impacts include distributional shifts towards northern ranges of",
+      "context_window": "OSPAR Commission • General trends of ocean warming impacts include distributional shifts towards northern ranges of fish distributions; larger species decreasing in body size while smaller fish may more readily adapt to the environment; earlier spawning; and changes in fish biomass which may be reflected through",
+      "page_number": 69,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "distributions, body size, phenology, recruitment and fish biomass.",
+      "context_window": "• The previously documented climate change impacts on fish include changes to species distributions, body size, phenology, recruitment and fish biomass. 69 of 79 OSPAR Commission",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The impact potential and ecosystem services outputs are combined and presented in Sankey diagrams",
+      "context_window": "The SI (ecosystem services) connections are weighted to determine which are the most important (Cornaccia, 2022). The impact potential and ecosystem services outputs are combined and presented in Sankey diagrams ( Figure CE.1",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services",
+      "context_window": "Sankey diagrams provide a schematic of potential impact pathways describing cumulative causes and consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services (see CEMP Guideline",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts if food web interactions and allometry are ignored.",
+      "context_window": "a role in species range shifts. Predictions of species range shifts have the potential to overestimate range shifts if food web interactions and allometry are ignored. Models show slower range shifts for species experiencing dynamic trophic interactions than for single species (Tekwa",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The overall situation in which fish groups across the various assessed areas are not in good environmental",
+      "context_window": "OSPAR Commission Q4. How does this field affect the overall quality status? The overall situation in which fish groups across the various assessed areas are not in good environmental status has wider implications for the marine ecosystem. Fish provide many ecosystem services, and consequently the status of fish populations has implications for the wider ecosystem.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "consequently the status of fish populations has implications for the wider ecosystem.",
+      "context_window": "The overall situation in which fish groups across the various assessed areas are not in good environmental status has wider implications for the marine ecosystem. Fish provide many ecosystem services, and consequently the status of fish populations has implications for the wider ecosystem. Fish play a role in regulating the balance of the food web.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to influencing microbial communities in marine sediments and other conditions vital to benthic organisms",
+      "context_window": "Sediment quality regulation: When fish spawn, rest or feed on or near the seabed, they can also contribute to influencing microbial communities in marine sediments and other conditions vital to benthic organisms (Holmlund and Hammer, 1999). For example, by excavating sandflats for food, fish such as stingrays cause",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Fish consumption of marine organisms plays an",
+      "context_window": "(Holmlund and Hammer, 1999). Regulation and maintenance of marine food webs: Fish consumption of marine organisms plays an important role in regulating trophic structure by influencing the stability, resilience, and dynamics of the marine food web.",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shifts for all examined species, the main drivers of which are environmental conditions, principally",
+      "context_window": "., 2013). Recent assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional shifts for all examined species, the main drivers of which are environmental conditions, principally temperature (Baudron et al",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regulating the balance of the food web.",
+      "context_window": "consequently the status of fish populations has implications for the wider ecosystem. Fish play a role in regulating the balance of the food web. The degree to which fish influence the regulation of food web dynamics can vary depending on the physical and climatic conditions to which they are subjected.",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival.",
+      "context_window": "to the gear used. Fishing methods which contact the seabed cause physical disturbance which can result in habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival. This can severely impact OSPAR listed threatened and/or declining habitats such as",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "with substances being introduced to the marine habitats that fish directly depend upon, from a variety of",
+      "context_window": "increased mortality in wild animals (either as target or by-catch). Pollution is the second highest pressure, with substances being introduced to the marine habitats that fish directly depend upon, from a variety of sources like shipping, cities and industrial activities, transport on land and waste treatment and disposal. The",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "the impact on ecosystem service scores to present the Activity, Pressure, State and",
+      "context_window": "Figure CE.1 incorporates the impact on ecosystem service scores to present the Activity, Pressure, State and Impact components of",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the listed fish species, consideration of how to strengthen the knowledge base, monitoring and",
+      "context_window": "). The Recommendations are broad in nature, addressing a range of human activities and pressures. The actions to be taken nationally include steps to ensure appropriate national legislation for the protection of the listed fish species, consideration of how to strengthen the knowledge base, monitoring and assessment, steps to manage key human activities, calls for the designation of MPAs, and awareness raising. The collective actions include coordination of monitoring and assessment, enhanced knowledge exchange,",
+      "page_number": 44,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Impact Potential of Fish to exposure to pressures from human activities in the North-East",
+      "context_window": "OSPAR Commission Figure CE.1: Impact Potential of Fish to exposure to pressures from human activities in the North-East Atlantic. Columns left to right: Activity, Pressure, State, Environmental Impact, Ecosystem Service.",
+      "page_number": 63,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "settlement and growth of benthic species and thus altering prey availability (Jennings and Kaiser, 1998;",
+      "context_window": "infrastructure modify the seabed morphology and may lead to the re-suspension of sediments. Re- suspension and subsequent disposition of sediments in other areas can increase turbidity, inhibiting the settlement and growth of benthic species and thus altering prey availability (Jennings and Kaiser, 1998; Gasparatos et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton",
+      "context_window": "increases with high primary production. Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation.",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional",
+      "context_window": "et al ., 2013). Recent assessments of the long-term distributional shifts of key commercial fish stocks in Europe find distributional shifts for all examined species, the main drivers of which are environmental conditions, principally temperature (Baudron",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush",
+      "context_window": "availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits of fished populations, and also affect food web dynamics – which may or may not be sustainable – predator- prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush and Dayton, 2010; Woods et al",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Benthic Habitats",
+      "context_window": "Food webs , Benthic Habitats , Pelagic Habitats",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fish stocks and sensitive species of conservation concern.",
+      "context_window": "18 of 79 OSPAR Commission fish stocks and sensitive species of conservation concern. None of the fish groups in any of the regions assessed was found to be in good environmental status.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environments, impacting reproduction, development and/or survival of offspring and causing population",
+      "context_window": "OSPAR Commission metals, persistent organic pollutants and organochlorine contaminants) can adversely affect fish in all aquatic environments, impacting reproduction, development and/or survival of offspring and causing population decline (Hamilton et al",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the",
+      "context_window": "success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can alter growth, reproduction, behaviour, migration patterns, spatial abundance and distribution, with the potential to cause community-level changes (Woods et al",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "reefs and maerl beds.",
+      "context_window": "impact OSPAR listed threatened and/or declining habitats such as Lophelia pertusa reefs and maerl beds. Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Of these species, improved status is evidenced for",
+      "context_window": "There are OSPAR assessments of five threatened and declining demersal shelf fish: spurdog, angel shark, common skate complex, spotted ray and thornback ray. Of these species, improved status is evidenced for spurdog, spotted ray and thornback ray. Spurdog is a prohibited species for commercial fishing in EU, United Kingdom and Norwegian waters, with",
+      "page_number": 35,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extraction of species,",
+      "context_window": "and disturbance of species are also important and their exposure scores are among the highest, demonstrating the ubiquitous nature of these pressures in the North-East Atlantic. Extraction of species, physical disturbance of the seabed, habitat loss, and input of other forms of energy also have high exposure scores.",
+      "page_number": 65,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and to safeguard the marine environment, its biodiversity and ecosystem services (SX.O2).",
+      "context_window": "management, including through the ‘Collective Arrangement’ and in cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services (SX.O2). In addition, OSPAR will work with relevant competent authorities and other stakeholders to minimise, and where possible eliminate, incidental by-catch of marine mammals, birds, turtles and fish so that it does not",
+      "page_number": 60,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits",
+      "context_window": "15 of 79 OSPAR Commission availability in other fish species, multi-level trophic cascades and phenotypic changes in the life history traits of fished populations, and also affect food web dynamics – which may or may not be sustainable – predator- prey relationships and competitive interactions within fish communities (Jennings and Kaiser, 1998; Thrush",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce",
+      "context_window": "(Holmlund and Hammer, 1999). For this reason, the environmental pressures associated with human activities that may lead to physical changes in the water, for example its temperature and chemical conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce changes in the provision of the ecosystem service of maintenance of food web dynamics. Fish, including eggs",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pathways of cumulative causes and the consequences of change in the ecosystem, linking these to impacts",
+      "context_window": "CEMP Guideline for details) as a first step to describing the potential pathways of cumulative causes and the consequences of change in the ecosystem, linking these to impacts on ecosystem services. 62 of 79",
+      "page_number": 61,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "., 2021) may act in tandem with the impact of ocean warming on fish phenology (i.e., change in timing",
+      "context_window": "., 2019; Mészáros et al ., 2021) may act in tandem with the impact of ocean warming on fish phenology (i.e., change in timing of spawning, larval hatching or migration), leading to mismatches between first-feeding fish larvae and their prey (Neuhemier",
+      "page_number": 71,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Atlantic and included in the OSPAR List of Threatened and/or Declining Species and Habitats (",
+      "context_window": "22 fish species that are of particular concern in the North-East Atlantic and included in the OSPAR List of Threatened and/or Declining Species and Habitats ( Agreement 2008-06",
+      "page_number": 43,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "biodiversity and ecosystem services.",
+      "context_window": "cooperation with fisheries management bodies and other competent organisations, in order to strengthen ecosystem resilience to climate change and to safeguard the marine environment, its biodiversity and ecosystem services. There are a number of linkages to other thematic assessments, including: Food webs",
+      "page_number": 43,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species range shifts under future climate scenarios (Rutterford",
+      "context_window": "et al., 2008) and the availability of suitable habitat at increasing depth may limit species range shifts under future climate scenarios (Rutterford et al., 2015). Food web interactions also play",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "knowledge and prevent adverse impacts on VMEs, thus ensuring the long-term conservation of deep-sea fish",
+      "context_window": "international waters of the North-East Atlantic and is known as the Deep-sea Regulation. It aims to improve knowledge and prevent adverse impacts on VMEs, thus ensuring the long-term conservation of deep-sea fish stocks. NEAFC has also implemented a series of recommendations on vulnerable species of concern to OSPAR.",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and",
+      "context_window": "water movement and close proximity to the drivers affecting salinity. Salinity changes can result in mortality or sub-lethal stress in fish and other benthic species and potentially lead to changes in community and ecosystem structure (Crain et al",
+      "page_number": 17,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns",
+      "context_window": "Bottom-trawl and dredge fisheries also cause sediment re-suspension, which can affect the availability of seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality. 5 of 79",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme",
+      "context_window": "Other climate change impacts and concluding statements The most frequently studied climate change impacts are discussed above, but the suite of climate associated changes is broader (e.g., including changes in sea ice, salinity, and oxygen; coastal erosion; and extreme events) and the list of impacts on fish has the potential to expand as more research is done. The impacts of",
+      "page_number": 71,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so",
+      "context_window": "Fish populations and their changes in abundance can contribute to an increase or decrease in carbon fixation by the marine ecosystem. When, for example, zooplankton decrease following an increase in zooplanktivorous fish, primary producers (carbon fixers) increase and so does carbon fixation. However, the opposite situation can also take place, contributing to a (local) decrease",
+      "page_number": 40,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive",
+      "context_window": "et al ., 2017). These behavioural impacts can include displacement and changes in swimming patterns and migration, which in turn affect fitness, survival and reproductive success. The increase in average ocean temperatures driven by greenhouse gas-induced climate change can",
+      "page_number": 17,
+      "keyword_hits": {
+        "climate change": 1,
+        "greenhouse gas": 1
+      }
+    },
+    {
+      "core_sentence": "habitats are considered to be under threat and/ or in decline.",
+      "context_window": "the 2019 implementation reporting indicates that there is a good level of engagement to implement the national actions within the OSPAR Recommendations, in particular within the areas where the species and habitats are considered to be under threat and/ or in decline. The level of engagement in collective actions is clearly lower, with some of the more complex actions not having been progressed and implemented.",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "It has been observed that decreases in fish body size (due to environmental pressures and impacts associated",
+      "context_window": "39 of 79 OSPAR Commission It has been observed that decreases in fish body size (due to environmental pressures and impacts associated with human activities) can have negative consequences on egg production, nutrient transport and, in turn, on ecosystem services such as ‘Regulation and maintenance of marine food webs’ and ‘Wild fish and other",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic",
+      "context_window": "., 2019) was developed to identify and connect all the DAPSIR components, integratsing these into either a pressure-focused (e.g., underwater sound, litter, hazardous substances, eutrophication) or a biodiversity receptor focused (e.g., pelagic habitats, benthic habitats, fish, marine birds, marine mammals) analysis of the causes and consequences of change. For the",
+      "page_number": 64,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The previously documented climate change impacts on fish include changes to species",
+      "context_window": "Climate change effects on marine fish • The previously documented climate change impacts on fish include changes to species distributions, body size, phenology, recruitment and fish biomass. 69 of 79",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "of species and by changing growth and mortality.",
+      "context_window": "seabed species to the fish that feed upon them. Climate change can impact marine fish by altering reproductive output, by changing the distribution patterns of species and by changing growth and mortality. 5 of 79 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "good representation of species and habitats and that its spatial design and management regime remains",
+      "context_window": "thereafter, OSPAR will assess at a regional scale the OSPAR network of marine protected areas in respect of the resilience of marine biodiversity to climate change, with the aim of ensuring that the network provides a good representation of species and habitats and that its spatial design and management regime remains relevant.” Understanding the management effectiveness of the MPAs within the network and of the network itself,",
+      "page_number": 53,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change effects on marine fish",
+      "context_window": "acidification was not available in sufficient detail to be utilised in this assessment. Climate Change Climate change effects on marine fish • The previously documented climate change impacts on fish include changes to species",
+      "page_number": 68,
+      "keyword_hits": {
+        "climate change": 3
+      }
+    },
+    {
+      "core_sentence": "Climate change and ocean acidification pressures;",
+      "context_window": "to the unfiltered outputs used in the Exposure assessment. • Climate change and ocean acidification pressures; • Extraction of, or mortality to, wild species from fish and shellfish harvesting;",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to",
+      "context_window": "The current thematic assessment describes the connectivity between the relevant DAPSIR components. Sankey diagrams provide a schematic of potential impact pathways describing cumulative causes and consequences of change in the ecosystem, demonstrating that multiple human activities are contributing to multiple pressures which can lead to multiple impacts on the state of fish and associated ecosystem services (see",
+      "page_number": 62,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ocean Acidification",
+      "context_window": "Climate Change and Ocean Acidification pressures have been identified as important for fish. Input of substances, input of litter, input of microbial pathogens, anthropogenic sound, input of radionuclides",
+      "page_number": 65,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Temperature may affect the expansion or contraction of a species due to changes in habitat",
+      "context_window": "The role of temperature in distributional changes is difficult to disentangle from other factors such as the role of stock size. Temperature may affect the expansion or contraction of a species due to changes in habitat suitability or recruitment rate (due to effects on physiology, survival, or impacts on planktonic life stages or planktonic prey), and stock size may enhance or counteract these effects through its role in density-",
+      "page_number": 69,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Extraction of, or mortality to, wild species from fish and shellfish harvesting;",
+      "context_window": "Climate change and ocean acidification pressures; • Extraction of, or mortality to, wild species from fish and shellfish harvesting; • Physical disturbance of the seabed from renewable energy generation; extraction of oil and gas;",
+      "page_number": 67,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth",
+      "context_window": "[Physical]: Altering habitat structure can result in loss of habitat, and changes in fish and benthic species diversity, community composition, biomass, growth and productivity, thus potentially reducing available prey and affecting fish survival (Jennings and Kaiser, 1998; Watling and Norse, 1998; Thrush and Dayton 2002; Gill, 2005; Hiddink",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "on habitats or species that are particularly vulnerable.",
+      "context_window": "Management and conservation of deep-sea fisheries: There are examples of responses to manage impacts on habitats or species that are particularly vulnerable. These measures are informed by ICES scientific advice, and there is strong alignment between its list of vulnerable species and habitats and the deep-sea species",
+      "page_number": 58,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the provision of the ecosystem service of maintenance of food web dynamics.",
+      "context_window": "activities that may lead to physical changes in the water, for example its temperature and chemical conditions, may in turn impact fish physically or non-physiologically (environmental impacts) and induce changes in the provision of the ecosystem service of maintenance of food web dynamics. Fish, including eggs and larvae, are also a source of food for various species of marine mammals and birds and passively",
+      "page_number": 39,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile",
+      "context_window": "2016). The negative impacts can include reduced benthic diversity and altered species composition, as well as changes to growth and reproduction, physiological stress and changes to migration patterns in mobile species. Input of litter (solid waste matter, including micro-sized litter)",
+      "page_number": 16,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The climate-associated changes in oceans projected by global models include rising sea temperatures and",
+      "context_window": "impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and changes to primary production. Warming in the North Atlantic is expected to continue, with the greatest",
+      "page_number": 69,
+      "keyword_hits": {
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "ocean acidification, sea ice changes) will be revealed as further research is done.",
+      "context_window": "Most research on the impacts of climate change on fish has focused on ocean warming. The impacts of other environmental changes associated with emissions of greenhouse gases (e.g., ocean acidification, sea ice changes) will be revealed as further research is done. The climate-associated changes in oceans projected by global models include rising sea temperatures and changes to primary production.",
+      "page_number": 69,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1,
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 80,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the",
+      "context_window": "Reduced fish biomass also impacts feeding opportunities for other ecosystem components such as birds and mammals. Reduced fish population abundance and biomass can lead to a decrease in carbon fixation by the marine ecosystem. Q5. What do we do next?",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ocean acidification on fish are less often studied but may impact early life stages (Pimentel",
+      "context_window": "events) and the list of impacts on fish has the potential to expand as more research is done. The impacts of ocean acidification on fish are less often studied but may impact early life stages (Pimentel et al ., 2016).",
+      "page_number": 71,
+      "keyword_hits": {
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "impact OSPAR listed threatened and/or declining habitats such as",
+      "context_window": "habitat loss, impacting fish species diversity, reducing prey, and affecting fish survival. This can severely impact OSPAR listed threatened and/or declining habitats such as Lophelia pertusa reefs and maerl beds.",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 5,
+    "keyword_counts": {
+      "climate change": 65,
+      "ocean acidification": 8,
+      "warming": 20,
+      "greenhouse gas": 2,
+      "hypoxia": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Executive Summary",
+      "start_sentence": 93,
+      "end_sentence": 142,
+      "sentence_count": 50,
+      "page_range": "3-4",
+      "sentences": [
+        {
+          "sentence_id": 93,
+          "page_number": 3,
+          "content": "Executive Summary",
+          "full_length": 17
+        },
+        {
+          "sentence_id": 94,
+          "page_number": 3,
+          "content": "Fish are an essential part of the marine ecosystem, providing many ecosystem functions.",
+          "full_length": 87
+        },
+        {
+          "sentence_id": 95,
+          "page_number": 3,
+          "content": "Society has a need",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 96,
+          "page_number": 3,
+          "content": "for fish as a vital source of food.",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 97,
+          "page_number": 3,
+          "content": "Commercial fishing provides for that societal need.",
+          "full_length": 51
+        }
+      ],
+      "total_sentences_in_section": 50
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 3532,
+      "end_sentence": 4011,
+      "sentence_count": 480,
+      "page_range": "73-79",
+      "sentences": [
+        {
+          "sentence_id": 3532,
+          "page_number": 73,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 3533,
+          "page_number": 73,
+          "content": "Amaral-Zettler, L.A., Zettler, E.R.",
+          "full_length": 35
+        },
+        {
+          "sentence_id": 3534,
+          "page_number": 73,
+          "content": "and Mincer, T.J. (2020).",
+          "full_length": 24
+        },
+        {
+          "sentence_id": 3535,
+          "page_number": 73,
+          "content": "Ecology of the plastisphere.",
+          "full_length": 28
+        },
+        {
+          "sentence_id": 3536,
+          "page_number": 73,
+          "content": "Nature Reviews",
+          "full_length": 14
+        }
+      ],
+      "total_sentences_in_section": 480
+    }
+  ],
+  "metadata": {
+    "total_sentences": 4078,
+    "chunks_selected": 103,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Executive Summary",
+        "start_sentence": 93,
+        "end_sentence": 142,
+        "sentence_count": 50
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 3532,
+        "end_sentence": 4011,
+        "sentence_count": 480
+      }
+    ],
+    "total_excluded_sentences": 530
+  }
+}

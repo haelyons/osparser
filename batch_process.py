@@ -66,8 +66,11 @@ def get_pdfs_from_csv(csv_path: str, source_dir: str):
                 file_path = os.path.join(root, file)
                 file_normalized = normalize_filename(file)
                 
-                # Try to find a match in CSV
+                # Try to find a match in CSV - prioritize exact matches
                 best_match = None
+                partial_matches = []
+                
+                # First pass: look for exact matches
                 for csv_original, csv_norm in csv_normalized:
                     if csv_original in matched_csv_files:
                         continue  # Skip already matched CSV files
@@ -75,27 +78,43 @@ def get_pdfs_from_csv(csv_path: str, source_dir: str):
                     if csv_norm == file_normalized:  # Exact normalized match
                         best_match = csv_original
                         break
-                    elif csv_norm in file_normalized or file_normalized in csv_norm:  # Partial match
-                        best_match = csv_original
-                        break
-                    # Handle cases where CSV has extra timestamp/version info
-                    elif len(csv_norm) > len(file_normalized) and file_normalized in csv_norm:
-                        best_match = csv_original
-                        break
-                    # Handle minor typos and small differences (more conservative)
-                    elif abs(len(csv_norm) - len(file_normalized)) <= 2:
-                        # Use word-based similarity instead of character-based
-                        csv_words = set(csv_norm.split())
-                        file_words = set(file_normalized.split())
+                
+                # Second pass: look for partial matches only if no exact match found
+                if not best_match:
+                    for csv_original, csv_norm in csv_normalized:
+                        if csv_original in matched_csv_files:
+                            continue  # Skip already matched CSV files
                         
-                        if csv_words and file_words:
-                            common_words = csv_words.intersection(file_words)
-                            word_similarity = len(common_words) / len(csv_words)
+                        # More restrictive partial matching - avoid substring matches that are too broad
+                        if len(csv_norm) > 3 and len(file_normalized) > 3:  # Avoid matching very short strings
+                            # Only allow partial matches if they're reasonably similar in length
+                            length_ratio = min(len(csv_norm), len(file_normalized)) / max(len(csv_norm), len(file_normalized))
+                            if length_ratio >= 0.5:  # At least 50% length similarity
+                                if csv_norm in file_normalized or file_normalized in csv_norm:
+                                    partial_matches.append((csv_original, csv_norm))
+                        
+                        # Handle cases where CSV has extra timestamp/version info
+                        elif len(csv_norm) > len(file_normalized) and file_normalized in csv_norm:
+                            length_ratio = len(file_normalized) / len(csv_norm)
+                            if length_ratio >= 0.3:  # File name is at least 30% of CSV name
+                                partial_matches.append((csv_original, csv_norm))
+                    
+                    # If we have partial matches, prefer the one with highest similarity
+                    if partial_matches:
+                        # Use word-based similarity for better matching
+                        best_score = 0
+                        for csv_original, csv_norm in partial_matches:
+                            csv_words = set(csv_norm.split())
+                            file_words = set(file_normalized.split())
                             
-                            # Require high word overlap AND reasonable length similarity
-                            if word_similarity >= 0.6 and len(common_words) >= 2:
-                                best_match = csv_original
-                                break
+                            if csv_words and file_words:
+                                common_words = csv_words.intersection(file_words)
+                                word_similarity = len(common_words) / len(csv_words)
+                                
+                                # Require high word overlap AND reasonable similarity
+                                if word_similarity >= 0.7 and len(common_words) >= 2 and word_similarity > best_score:
+                                    best_match = csv_original
+                                    best_score = word_similarity
                 
                 if best_match:
                     pdf_files.append(file_path)
@@ -177,7 +196,7 @@ def main():
             
             # Halt and resume functionality: skip if output already exists
             if os.path.exists(output_pdf) and os.path.exists(output_json):
-                print(f"    ⏭ Skipping, output already exists.")
+                print(f"    >> Skipping, output already exists.")
                 stats['skipped'] += 1
                 continue
             
@@ -204,14 +223,14 @@ def main():
                 
                 # Verify that output files were actually created
                 if os.path.exists(output_pdf) and os.path.exists(output_json):
-                    print(f"    ✓ Success")
+                    print(f"    >> Success")
                     stats['successful'] += 1
                 else:
-                    print(f"    ✗ Failed - no output files created")
+                    print(f"    >> Failed - no output files created")
                     stats['failed'] += 1
                     
             except subprocess.CalledProcessError as e:
-                print(f"    ✗ Error (exit code {e.returncode})")
+                print(f"    >> Error (exit code {e.returncode})")
                 stats['failed'] += 1
                 # Show key error info only if it's not the common "no text extracted" case
                 if e.returncode != 1:  # 1 is our standard exit code for PDF processing issues
@@ -220,15 +239,15 @@ def main():
                         if error_lines:
                             print(f"    {error_lines[0]}")
             except Exception as e:
-                print(f"    ✗ Unexpected error: {e}")
+                print(f"    >> Unexpected error: {e}")
                 stats['failed'] += 1
 
     print("\nBatch processing complete.")
     print(f"\nSummary:")
-    print(f"  ✓ Successful: {stats['successful']}")
-    print(f"  ⏭ Skipped: {stats['skipped']}")
-    print(f"  ✗ Failed: {stats['failed']}")
-    print(f"  📊 Total processed: {stats['total_tasks']}")
+    print(f"  >> Successful: {stats['successful']}")
+    print(f"  >> Skipped: {stats['skipped']}")
+    print(f"  >> Failed: {stats['failed']}")
+    print(f"  >> Total processed: {stats['total_tasks']}")
     
     if stats['failed'] > 0:
         print(f"\nNote: Failed tasks are typically due to malformed PDFs, missing text, or processing errors.")

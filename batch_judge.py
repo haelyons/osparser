@@ -109,7 +109,7 @@ def process_documents(input_file: str, output_csv: str, output_json: str,
     # Filter out empty rows and get actual document rows
     document_rows = []
     for i, row in enumerate(rows):
-        if len(row) >= 4 and row[0].strip() and row[1].strip() and row[2] == 'OK':
+        if len(row) >= 4 and row[0].strip() and row[1].strip() and row[3].strip():
             document_rows.append((i, row))
     
     print(f"Found {len(document_rows)} document rows to process")

@@ -1,0 +1,1273 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel",
+      "context_window": "A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al, 2020).",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already",
+      "context_window": "choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al,",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "some cases, the bycatch was at levels which threaten the viability of populations.",
+      "context_window": "have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to",
+      "context_window": "environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within safe biological limits, exhibiting a population age and size distribution that is indicative of a healthy stock.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a).",
+      "context_window": "identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to",
+      "context_window": "For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing due to unilaterally set quotas. There is also a projected large increase in the zooplankton",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become",
+      "context_window": "4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep sea fish stocks are highly vulnerable",
+      "context_window": "including low productivity. Damaged environments are unlikely to recover. Deep sea fish stocks are highly vulnerable to over-fishing, and catches have been declining for years. In the oceanic region of the North-East Atlantic,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of",
+      "context_window": "improve monitoring and management advice has been agreed by NEAFC (NEAFC, 2020a). Continuing work by ICES / NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.7   Management of deep sea fisheries can require particular care given the special nature of these environments,",
+      "context_window": "management is still required if TACs are to be brought fully in line with scientific advice (European Commission, 2020b; 2020e). 6.7   Management of deep sea fisheries can require particular care given the special nature of these environments, including low productivity. Damaged environments are unlikely to recover.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing",
+      "context_window": "funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing due to unilaterally set quotas. There is also a projected large increase in the zooplankton Calanus finmarchius",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS",
+      "context_window": "For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS limits in the Bay of Biscay and Iberian Coast ecoregion, the Celtic Seas, the western English Channel and the Greater North Sea; and bycatch also in Icelandic Waters, the Barents Sea and",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are likely to lead to declines in fisheries yield (e.g. Lotze",
+      "context_window": "this segment is not included in the analysis Some other work suggests that primary production and copepod biomass declines consistent with climate change are likely to lead to declines in fisheries yield (e.g. Lotze et al, 2019)",
+      "page_number": 16,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold",
+      "context_window": "Measures 6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans. Actions recommended include designation of protected areas,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR list of threatened and/or declining species, including skates, rays, and sharks.",
+      "context_window": "some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within",
+      "context_window": "Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within safe biological limits, exhibiting a population age and size distribution that is indicative of a healthy stock. Stocks",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, the dynamic nature of marine ecosystems means",
+      "context_window": "FMSY is not the only influence on stocks, which are subject to natural variability that can exceed the influence of fishing. Furthermore, the dynamic nature of marine ecosystems means that MSY itself can change: ICES considers MSY reference points to be valid only in the medium-term and to be subject to regular reviews (ICES, 2019o).",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The fishing mortality",
+      "context_window": "6.3   The assessment of MSY is informed by advice from ICES: evaluating MSY does require good information on the stocks; where that is not possible ICES advice is based on precautionary considerations. The fishing mortality associated with MSY is known as FMSY. FMSY is not the only influence on stocks, which are subject to natural",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In NEAFC waters (high seas) ICES has been assessing and advising on Vulnerable Marine",
+      "context_window": "An ICES working group is developing a framework to assess this, and to apply it to specific regions (ICES, 2020c). In NEAFC waters (high seas) ICES has been assessing and advising on Vulnerable Marine Ecosystems since the early 2000s. 6.12   In the past decade, licences for the use of electricity to catch target species – pulse trawling – have been issued",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities",
+      "context_window": "2020). An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities in the region (IPCC, 2019). FAO reported projected large-scale redistribution of maximum fisheries catch potential in",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of",
+      "context_window": "STECF analysis noted that in the North Sea and in North Western Waters, the pelagic fisheries are not expected to be affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a). The Commission has also emphasised the need for more efforts to increase selectivity in fishing gear and techniques,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vulnerable ecosystems and management tools to protect them (ICES, 2020b).",
+      "context_window": "Continuing work by ICES / NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats What is the issue",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through depletion of key predator and prey",
+      "context_window": "beyond sustainable levels, and concerns about habitat destruction (notably through damage to the seabed through fishing gear) and changes in community structure and foodwebs (e.g. through depletion of key predator and prey species). It noted that measures such as long-term management plans, quota-based systems, closed areas and",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population impacts identified by ICES included potential extinction of the local population of harbour porpoise off",
+      "context_window": "OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS limits in the Bay of Biscay and Iberian Coast ecoregion, the Celtic Seas,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries",
+      "context_window": "to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range. Along with climate change, bycatch has",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "water corals, elasmobranchs, seabirds and cetaceans.",
+      "context_window": "6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans. Actions recommended include designation of protected areas, encouragement for national authorities to adopt and implement fisheries management measures, designation of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have both opportunities and risks for commercial fisheries (Climefish, 2019b);",
+      "context_window": "species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c).",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to",
+      "context_window": "region. As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "environmental changes, and even fisheries collapse.",
+      "context_window": "As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Bycatch and other impacts on species and habitats",
+      "context_window": "NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats What is the issue 6.9   The IA 2017 reported that, in 2013, up to 2 000 harbour porpoise died as a result of entanglement in commercial",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations",
+      "context_window": "distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al, 2020). An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities in the region (IPCC, 2019).",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water",
+      "context_window": "This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of",
+      "context_window": "species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, fish populations are not independent units: they interact",
+      "context_window": "that MSY itself can change: ICES considers MSY reference points to be valid only in the medium-term and to be subject to regular reviews (ICES, 2019o). Furthermore, fish populations are not independent units: they interact through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of 31/08/2025, 19:05",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several species affected are on the",
+      "context_window": "In some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a).",
+      "context_window": "analysis noted that in the North Sea and in North Western Waters, the pelagic fisheries are not expected to be affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a). The Commission has also emphasised the need for more efforts to increase selectivity in fishing gear and techniques, and to address control and enforcement of the landing obligation, through tools such as remote electronic",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protected areas, and information campaigns.",
+      "context_window": "Actions recommended include designation of protected areas, encouragement for national authorities to adopt and implement fisheries management measures, designation of protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species such as cod and haddock.",
+      "context_window": "; 2. the production potential of the Barents Sea is expected to increase to 2050, along with northward shifts of species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b);",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater",
+      "context_window": "fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressure, to address discarding, to take account of the special vulnerability of deep water species and habitats, and",
+      "context_window": "abolition of financial subsidies had been put in place. It called for cooperation to achieve reductions in fishing pressure, to address discarding, to take account of the special vulnerability of deep water species and habitats, and to keep bycatch of marine mammals, sharks, seabirds and turtles to a minimum, and preferably eliminated. 5.2   Assessments for the IA 2017 showed that management measures were beginning to have a positive impact on",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Waters. In these ecoregions:",
+      "context_window": "Arctic Waters region is included in the ICES overviews for the Barents Sea, Norwegian Sea, and Icelandic Waters. In these ecoregions: 1. landings from the Barents Sea have decreased since a peak in 2011. The largest commercial fish stocks",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some other work suggests that primary production and copepod biomass declines consistent with climate change",
+      "context_window": "STECF (2019a) states that not all data were provided for German pelagic trawlers in the North Sea / eastern Arctic; this segment is not included in the analysis Some other work suggests that primary production and copepod biomass declines consistent with climate change are likely to lead to declines in fisheries yield (e.g. Lotze et al,",
+      "page_number": 16,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n).",
+      "context_window": "11/17 6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In some cases, the bycatch was at levels which threaten the viability of populations.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fish communities, with deterioration having been halted and fish communities showing signs of recovery in some",
+      "context_window": "to keep bycatch of marine mammals, sharks, seabirds and turtles to a minimum, and preferably eliminated. 5.2   Assessments for the IA 2017 showed that management measures were beginning to have a positive impact on fish communities, with deterioration having been halted and fish communities showing signs of recovery in some areas. The IA 2017 considered that recovery may continue in most areas provided that fisheries pressures do not",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thresholds (TACs) may decrease for important species; at the same time, some large scale fleets (Denmark, the",
+      "context_window": "conservation objectives. There may also be regional factors: for example, in the North Sea, STECF notes that catch thresholds (TACs) may decrease for important species; at the same time, some large scale fleets (Denmark, the Netherlands and Germany) are investing in new vessels and fishing techniques (STECF 2019a). There may also be new",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven a decline in abundance and a spatial contraction in the range of starry ray",
+      "context_window": "operations and these species have not recovered across their whole range. Along with climate change, bycatch has driven a decline in abundance and a spatial contraction in the range of starry ray Amblyraja radiata , wolf-fish",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and",
+      "context_window": "6.2   As QSR 2010 reported, exploitation of fish stocks beyond sustainable levels has been a problem in the OSPAR region. As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and effective fisheries management.",
+      "context_window": "the Marine Stewardship Council (MSC). This takes account of the sustainability of fish stocks, environmental impacts, and effective fisheries management. For example, a fishery cannot be certified if it causes significant or long-term damage to seafloor habitats or other vulnerable marine ecosystems.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the",
+      "context_window": "trawling (ICES, 2020d). Measures 6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1   QSR 2010 highlighted the continued impact of fishing pressure on the ecosystem, with many stocks still fished",
+      "context_window": "have implications for fisheries; more analysis of the potential interactions is needed (European Commission, 2020d). Quality Status Report 2010 and Intermediate Assessment 2017 5.1   QSR 2010 highlighted the continued impact of fishing pressure on the ecosystem, with many stocks still fished beyond sustainable levels, and concerns about habitat destruction (notably through damage to the seabed through fishing gear) and changes in community structure and foodwebs (e.g.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include measures to be implemented that are relevant to bycatch or habitat damage",
+      "context_window": "protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in Regions I, II, III and IV of the OSPAR maritime area",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena",
+      "context_window": "Recommendation 2013/12 on furthering the protection and conservation of the Steller’s eider (Polysticta stelleri) in Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta)",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecoregion and Azores ecoregion. In these ecoregions:",
+      "context_window": "Wider Atlantic is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although catches are relatively small.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in",
+      "context_window": "Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in Regions I, II, III and IV of the OSPAR maritime area Recommendation 2015/04 on furthering the protection and conservation of the Allis shad (Alosa alosa) in Regions",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which could result in opportunities of increased fishery, but also risks to the food chain such as bycatch of fish",
+      "context_window": "Calanus finmarchius , which could result in opportunities of increased fishery, but also risks to the food chain such as bycatch of fish larvae (Climefish, 2019a) ;",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats",
+      "context_window": "the Greater North Sea and the Celtic Seas were physically disturbed, of which 58% were highly disturbed. Consistent fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This has a potentially negative risk for the associated ecosystem, and may",
+      "context_window": "2. the production potential of the Barents Sea is expected to increase to 2050, along with northward shifts of species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "webs across European seas is affected by a lack of consistent approaches, high uncertainty, or lack of data (European",
+      "context_window": "Analysis of the environmental status of food webs is complex, however: the European Commission has noted that assessment of the state of food webs across European seas is affected by a lack of consistent approaches, high uncertainty, or lack of data (European Commission, 2020e). Changes in fisheries regulation can affect ecosystems: for example, the potential impacts of a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.4   Even at MSY levels, fishing will have impacts on the ecosystem and its food webs.",
+      "context_window": "ICES also provides advice on vulnerable marine environments which would be damaged by fishing activities, notably bottom fishing (e.g. ICES, 2020a). 6.4   Even at MSY levels, fishing will have impacts on the ecosystem and its food webs. Analysis of the environmental status of food webs is complex, however: the European Commission has noted that assessment of the state of food",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of",
+      "context_window": "subject to regular reviews (ICES, 2019o). Furthermore, fish populations are not independent units: they interact through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of 31/08/2025, 19:05 Fisheries",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that",
+      "context_window": "encouragement for national authorities to adopt and implement fisheries management measures, designation of protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species, including cod, several species of diadromous fish and elasmobranchs (sharks, skates and rays).",
+      "context_window": "category were deployed over approximately 73,1% of the ICES ecoregion. 2.8   Several fish species depleted by fishing in the past are now on the OSPAR list of Threatened and/or Declining species, including cod, several species of diadromous fish and elasmobranchs (sharks, skates and rays). 2.9   Within the Celtic Seas",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c).",
+      "context_window": "have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Along with climate change, bycatch has",
+      "context_window": "North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range. Along with climate change, bycatch has driven a decline in abundance and a spatial contraction in the range of starry ray Amblyraja radiata",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR",
+      "context_window": "Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR maritime area Recommendation 2013/02 on furthering the protection and conservation of Sabellaria spinulosa reefs in Regions II",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "funded Climefish programme has looked at scenarios for several areas within the OSPAR region:",
+      "context_window": "assessment of sustainable catch levels and complicating negotiations between coastal states. For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta)",
+      "context_window": "Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analysis of specific pressures, impacts and measures",
+      "context_window": "consistent, particularly in the Greater North Sea. Overall, there were no clear trends across habitats or regions. Analysis of specific pressures, impacts and measures 6.1   A detailed description of the wide range of measures used to manage exploitation of fish stocks in the OSPAR region is beyond the scope of this report.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bycatch of protected, endangered and threatened (PET) species.",
+      "context_window": "ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species. They include graphs or maps on trends in landings, fishing effort, fishing gears, and distribution of activity.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "fishing for deep-sea sharks, selected skates and rays, and chimaeras (rabbit fish).",
+      "context_window": "assessment of sustainability (NEAFC, 2018b). NEAFC has since 2012 also made recommendations which prohibit fishing for deep-sea sharks, selected skates and rays, and chimaeras (rabbit fish). A 2019 review for NEAFC concluded that implementation of its regulation on vulnerable marine environments had been largely effective; further action to",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "assessment of sustainable catch levels and complicating negotiations between coastal states.",
+      "context_window": "4.5   Climate change is a significant uncertainty. Stock distributions and/or sizes may change, potentially affecting assessment of sustainable catch levels and complicating negotiations between coastal states. For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region:",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic",
+      "context_window": "2.15   The Wider Atlantic is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Region I of the OSPAR maritime area",
+      "context_window": "(Acipenser sturio) in Regions II and IV of the OSPAR maritime area Recommendation 2013/12 on furthering the protection and conservation of the Steller’s eider (Polysticta stelleri) in Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys",
+      "context_window": "Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "2/17 2.5   The Arctic Waters region is included in the ICES overviews for the Barents Sea, Norwegian Sea, and Icelandic Waters. In these ecoregions:",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries; and with North Sea cod, where the impact of warming waters may be one reason for the decline in the",
+      "context_window": "suspended: for example, in 2019 this occurred with French and Spanish sardine fisheries in the Bay of Biscay, as it was feared that levels of fishing effort were above those needed to achieve MSY, with North-East Atlantic mackerel fisheries; and with North Sea cod, where the impact of warming waters may be one reason for the decline in the stocks (e.g. Marine Stewardship Council, 2019b; 2019c).",
+      "page_number": 14,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "in Regions IV and V of the OSPAR maritime area",
+      "context_window": "phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "advised measures for the protection of the common dolphin in the Bay of Biscay, through a combination of temporal",
+      "context_window": "cetaceans (STECF, 2019b). There may also be need for specific local measures – for example, ICES has recently advised measures for the protection of the common dolphin in the Bay of Biscay, through a combination of temporal closures and application of pingers on pair trawlers to mitigate bycatch (ICES, 2020e). Litter from fishing operations",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in decrease in effort and less pressure on the benthic habitats.",
+      "context_window": "redfish, herring) have resulted in decreased fishing mortality, close to or at F . This has furthermore resulted in decrease in effort and less pressure on the benthic habitats. Mobile bottom trawls used by commercial fisheries in the 12 m+ vessel category were deployed over approximately 132 485 km  of the ecoregion in 2018,",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2014/16 on furthering the protection and conservation of the Iberian guillemot (Uria aalge) in",
+      "context_window": "Recommendation 2015/03 on furthering the protection and conservation of the sea lamprey (Petromyzon marinus) in Regions I, II, III and IV of the OSPAR maritime area Recommendation 2014/16 on furthering the protection and conservation of the Iberian guillemot (Uria aalge) in Region IV of the OSPAR maritime area Recommendation 2014/08 on furthering the protection and conservation of the thornback ray (Raja clavata) in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phocoena) in Regions II and III of the OSPAR maritime area",
+      "context_window": "Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "II, III and IV of the OSPAR maritime area",
+      "context_window": "Regions I, II, III and IV of the OSPAR maritime area Recommendation 2015/04 on furthering the protection and conservation of the Allis shad (Alosa alosa) in Regions II, III and IV of the OSPAR maritime area Recommendation 2015/03 on furthering the protection and conservation of the sea lamprey (Petromyzon marinus) in Regions I, II, III and IV of the OSPAR maritime area",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a precautionary approach and provides for fisheries to only expand gradually and on the basis of data facilitating",
+      "context_window": "2016). In the NEAFC area, NEAFC’s 2018 recommendation on deep-sea fisheries within its regulatory area is based on a precautionary approach and provides for fisheries to only expand gradually and on the basis of data facilitating assessment of sustainability (NEAFC, 2018b). NEAFC has since 2012 also made recommendations which prohibit",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecoregion in 2018.",
+      "context_window": "gears. Mobile bottom trawls used by the 12 m+ vessel category were deployed over around 19,1% of the ICES ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "2.19   Some highly mobile top predator fish species of the oceanic ecosystems are managed by the International",
+      "context_window": "Nevertheless, challenges remain with some stocks continuing to be overfished and/or outside safe biological limits (European Commission, 2020a; 2020b). 2.19   Some highly mobile top predator fish species of the oceanic ecosystems are managed by the International Commission for the Conservation of Atlantic Tunas (ICCAT), including the blue-fin tuna ( Thunnus thynnus",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although",
+      "context_window": "is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although catches are relatively small. Bottom trawl fisheries are restricted by spatial management plans set by the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This takes account of the sustainability of fish stocks, environmental impacts,",
+      "context_window": "The most widespread scheme is that operated by the Marine Stewardship Council (MSC). This takes account of the sustainability of fish stocks, environmental impacts, and effective fisheries management. For example, a fishery cannot be certified if it causes significant or long-term",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/other-assessments/fisheries/ 11/17 6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change has had impacts on the distribution and timing of some fishing activities, for",
+      "context_window": "Mobile bottom trawls used by the 12 m+ vessel category were deployed over around 19,1% of the ICES ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species. They include graphs or maps on trends in landings,",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "discard ban on populations of seabirds include changes in food supply for scavenger species as well as reduced",
+      "context_window": "Commission, 2020e). Changes in fisheries regulation can affect ecosystems: for example, the potential impacts of a discard ban on populations of seabirds include changes in food supply for scavenger species as well as reduced bycatch if birds are less attracted to fishing gear (e.g. Bicknell et al,",
+      "page_number": 10,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel",
+      "context_window": "A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al, 2020).",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "some cases, the bycatch was at levels which threaten the viability of populations.",
+      "context_window": "have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a).",
+      "context_window": "identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become",
+      "context_window": "4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of",
+      "context_window": "improve monitoring and management advice has been agreed by NEAFC (NEAFC, 2020a). Continuing work by ICES / NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing",
+      "context_window": "funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing due to unilaterally set quotas. There is also a projected large increase in the zooplankton Calanus finmarchius",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "are likely to lead to declines in fisheries yield (e.g. Lotze",
+      "context_window": "this segment is not included in the analysis Some other work suggests that primary production and copepod biomass declines consistent with climate change are likely to lead to declines in fisheries yield (e.g. Lotze et al, 2019)",
+      "page_number": 16,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR list of threatened and/or declining species, including skates, rays, and sharks.",
+      "context_window": "some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, the dynamic nature of marine ecosystems means",
+      "context_window": "FMSY is not the only influence on stocks, which are subject to natural variability that can exceed the influence of fishing. Furthermore, the dynamic nature of marine ecosystems means that MSY itself can change: ICES considers MSY reference points to be valid only in the medium-term and to be subject to regular reviews (ICES, 2019o).",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In NEAFC waters (high seas) ICES has been assessing and advising on Vulnerable Marine",
+      "context_window": "An ICES working group is developing a framework to assess this, and to apply it to specific regions (ICES, 2020c). In NEAFC waters (high seas) ICES has been assessing and advising on Vulnerable Marine Ecosystems since the early 2000s. 6.12   In the past decade, licences for the use of electricity to catch target species – pulse trawling – have been issued",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of",
+      "context_window": "STECF analysis noted that in the North Sea and in North Western Waters, the pelagic fisheries are not expected to be affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a). The Commission has also emphasised the need for more efforts to increase selectivity in fishing gear and techniques,",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through depletion of key predator and prey",
+      "context_window": "beyond sustainable levels, and concerns about habitat destruction (notably through damage to the seabed through fishing gear) and changes in community structure and foodwebs (e.g. through depletion of key predator and prey species). It noted that measures such as long-term management plans, quota-based systems, closed areas and",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries",
+      "context_window": "to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range. Along with climate change, bycatch has",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "have both opportunities and risks for commercial fisheries (Climefish, 2019b);",
+      "context_window": "species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c).",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "environmental changes, and even fisheries collapse.",
+      "context_window": "As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations",
+      "context_window": "distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al, 2020). An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities in the region (IPCC, 2019).",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of",
+      "context_window": "species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of Scotland, North of Scotland, Norwegian Sea and Skagerrak-Kattegat) and several species with potential to become choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a).",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Several species affected are on the",
+      "context_window": "In some cases, the bycatch was at levels which threaten the viability of populations. Several species affected are on the OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protected areas, and information campaigns.",
+      "context_window": "Actions recommended include designation of protected areas, encouragement for national authorities to adopt and implement fisheries management measures, designation of protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater",
+      "context_window": "fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Waters. In these ecoregions:",
+      "context_window": "Arctic Waters region is included in the ICES overviews for the Barents Sea, Norwegian Sea, and Icelandic Waters. In these ecoregions: 1. landings from the Barents Sea have decreased since a peak in 2011. The largest commercial fish stocks",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n).",
+      "context_window": "11/17 6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In some cases, the bycatch was at levels which threaten the viability of populations.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "thresholds (TACs) may decrease for important species; at the same time, some large scale fleets (Denmark, the",
+      "context_window": "conservation objectives. There may also be regional factors: for example, in the North Sea, STECF notes that catch thresholds (TACs) may decrease for important species; at the same time, some large scale fleets (Denmark, the Netherlands and Germany) are investing in new vessels and fishing techniques (STECF 2019a). There may also be new",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and",
+      "context_window": "6.2   As QSR 2010 reported, exploitation of fish stocks beyond sustainable levels has been a problem in the OSPAR region. As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the",
+      "context_window": "trawling (ICES, 2020d). Measures 6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans.",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "include measures to be implemented that are relevant to bycatch or habitat damage",
+      "context_window": "protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in Regions I, II, III and IV of the OSPAR maritime area",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecoregion and Azores ecoregion. In these ecoregions:",
+      "context_window": "Wider Atlantic is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although catches are relatively small.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "which could result in opportunities of increased fishery, but also risks to the food chain such as bycatch of fish",
+      "context_window": "Calanus finmarchius , which could result in opportunities of increased fishery, but also risks to the food chain such as bycatch of fish larvae (Climefish, 2019a) ;",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This has a potentially negative risk for the associated ecosystem, and may",
+      "context_window": "2. the production potential of the Barents Sea is expected to increase to 2050, along with northward shifts of species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "6.4   Even at MSY levels, fishing will have impacts on the ecosystem and its food webs.",
+      "context_window": "ICES also provides advice on vulnerable marine environments which would be damaged by fishing activities, notably bottom fishing (e.g. ICES, 2020a). 6.4   Even at MSY levels, fishing will have impacts on the ecosystem and its food webs. Analysis of the environmental status of food webs is complex, however: the European Commission has noted that assessment of the state of food",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that",
+      "context_window": "encouragement for national authorities to adopt and implement fisheries management measures, designation of protected areas, and information campaigns. Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c).",
+      "context_window": "have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and identified areas likely to have the biggest implications for future management (North Sea, southern areas, West of",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR",
+      "context_window": "Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR maritime area Recommendation 2013/02 on furthering the protection and conservation of Sabellaria spinulosa reefs in Regions II",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta)",
+      "context_window": "Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bycatch of protected, endangered and threatened (PET) species.",
+      "context_window": "ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species. They include graphs or maps on trends in landings, fishing effort, fishing gears, and distribution of activity.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "assessment of sustainable catch levels and complicating negotiations between coastal states.",
+      "context_window": "4.5   Climate change is a significant uncertainty. Stock distributions and/or sizes may change, potentially affecting assessment of sustainable catch levels and complicating negotiations between coastal states. For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region:",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Region I of the OSPAR maritime area",
+      "context_window": "(Acipenser sturio) in Regions II and IV of the OSPAR maritime area Recommendation 2013/12 on furthering the protection and conservation of the Steller’s eider (Polysticta stelleri) in Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Arctic Waters",
+      "context_window": "2/17 2.5   The Arctic Waters region is included in the ICES overviews for the Barents Sea, Norwegian Sea, and Icelandic Waters. In these ecoregions:",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Regions IV and V of the OSPAR maritime area",
+      "context_window": "phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in decrease in effort and less pressure on the benthic habitats.",
+      "context_window": "redfish, herring) have resulted in decreased fishing mortality, close to or at F . This has furthermore resulted in decrease in effort and less pressure on the benthic habitats. Mobile bottom trawls used by commercial fisheries in the 12 m+ vessel category were deployed over approximately 132 485 km  of the ecoregion in 2018,",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "phocoena) in Regions II and III of the OSPAR maritime area",
+      "context_window": "Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a precautionary approach and provides for fisheries to only expand gradually and on the basis of data facilitating",
+      "context_window": "2016). In the NEAFC area, NEAFC’s 2018 recommendation on deep-sea fisheries within its regulatory area is based on a precautionary approach and provides for fisheries to only expand gradually and on the basis of data facilitating assessment of sustainability (NEAFC, 2018b). NEAFC has since 2012 also made recommendations which prohibit",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2.19   Some highly mobile top predator fish species of the oceanic ecosystems are managed by the International",
+      "context_window": "Nevertheless, challenges remain with some stocks continuing to be overfished and/or outside safe biological limits (European Commission, 2020a; 2020b). 2.19   Some highly mobile top predator fish species of the oceanic ecosystems are managed by the International Commission for the Conservation of Atlantic Tunas (ICCAT), including the blue-fin tuna ( Thunnus thynnus",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This takes account of the sustainability of fish stocks, environmental impacts,",
+      "context_window": "The most widespread scheme is that operated by the Marine Stewardship Council (MSC). This takes account of the sustainability of fish stocks, environmental impacts, and effective fisheries management. For example, a fishery cannot be certified if it causes significant or long-term",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change has had impacts on the distribution and timing of some fishing activities, for",
+      "context_window": "Mobile bottom trawls used by the 12 m+ vessel category were deployed over around 19,1% of the ICES ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species. They include graphs or maps on trends in landings,",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "discard ban on populations of seabirds include changes in food supply for scavenger species as well as reduced",
+      "context_window": "Commission, 2020e). Changes in fisheries regulation can affect ecosystems: for example, the potential impacts of a discard ban on populations of seabirds include changes in food supply for scavenger species as well as reduced bycatch if birds are less attracted to fishing gear (e.g. Bicknell et al,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/quality-status-reports/qsr-2023/other-assessments/fisheries/ 11/17 6.10   The 2019 series of ICES ecosystem assessments concluded that, in many areas, fisheries activities continue to have an impact through bycatch on marine mammals, seabirds and vulnerable species of fish (ICES, 2019a-n). In",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although",
+      "context_window": "is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although catches are relatively small. Bottom trawl fisheries are restricted by spatial management plans set by the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecoregion in 2018.",
+      "context_window": "gears. Mobile bottom trawls used by the 12 m+ vessel category were deployed over around 19,1% of the ICES ecoregion in 2018. Climate change has had impacts on the distribution and timing of some fishing activities, for bycatch of protected, endangered and threatened (PET) species.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "II, III and IV of the OSPAR maritime area",
+      "context_window": "Regions I, II, III and IV of the OSPAR maritime area Recommendation 2015/04 on furthering the protection and conservation of the Allis shad (Alosa alosa) in Regions II, III and IV of the OSPAR maritime area Recommendation 2015/03 on furthering the protection and conservation of the sea lamprey (Petromyzon marinus) in Regions I, II, III and IV of the OSPAR maritime area",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2014/16 on furthering the protection and conservation of the Iberian guillemot (Uria aalge) in",
+      "context_window": "Recommendation 2015/03 on furthering the protection and conservation of the sea lamprey (Petromyzon marinus) in Regions I, II, III and IV of the OSPAR maritime area Recommendation 2014/16 on furthering the protection and conservation of the Iberian guillemot (Uria aalge) in Region IV of the OSPAR maritime area Recommendation 2014/08 on furthering the protection and conservation of the thornback ray (Raja clavata) in the",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "advised measures for the protection of the common dolphin in the Bay of Biscay, through a combination of temporal",
+      "context_window": "cetaceans (STECF, 2019b). There may also be need for specific local measures – for example, ICES has recently advised measures for the protection of the common dolphin in the Bay of Biscay, through a combination of temporal closures and application of pingers on pair trawlers to mitigate bycatch (ICES, 2020e). Litter from fishing operations",
+      "page_number": 13,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries; and with North Sea cod, where the impact of warming waters may be one reason for the decline in the",
+      "context_window": "suspended: for example, in 2019 this occurred with French and Spanish sardine fisheries in the Bay of Biscay, as it was feared that levels of fishing effort were above those needed to achieve MSY, with North-East Atlantic mackerel fisheries; and with North Sea cod, where the impact of warming waters may be one reason for the decline in the stocks (e.g. Marine Stewardship Council, 2019b; 2019c).",
+      "page_number": 14,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys",
+      "context_window": "Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta) in Regions IV and V of the OSPAR maritime area Recommendation 2013/06 on furthering the protection and conservation of the leatherback turtle (Dermochelys coriacea) in the OSPAR maritime area Recommendation 2013/03 on furthering the protection and recovery of Modiolus modiolus beds in the OSPAR",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic",
+      "context_window": "2.15   The Wider Atlantic is included within the ICES ecosystem overviews for the Oceanic North-East Atlantic ecoregion and Azores ecoregion. In these ecoregions: 1. there are some pelagic and demersal fisheries in the ICES Oceanic North-East Atlantic ecoregion, although",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fishing for deep-sea sharks, selected skates and rays, and chimaeras (rabbit fish).",
+      "context_window": "assessment of sustainability (NEAFC, 2018b). NEAFC has since 2012 also made recommendations which prohibit fishing for deep-sea sharks, selected skates and rays, and chimaeras (rabbit fish). A 2019 review for NEAFC concluded that implementation of its regulation on vulnerable marine environments had been largely effective; further action to",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Analysis of specific pressures, impacts and measures",
+      "context_window": "consistent, particularly in the Greater North Sea. Overall, there were no clear trends across habitats or regions. Analysis of specific pressures, impacts and measures 6.1   A detailed description of the wide range of measures used to manage exploitation of fish stocks in the OSPAR region is beyond the scope of this report.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "funded Climefish programme has looked at scenarios for several areas within the OSPAR region:",
+      "context_window": "assessment of sustainable catch levels and complicating negotiations between coastal states. For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Along with climate change, bycatch has",
+      "context_window": "North Sea and the Celtic Seas, but individual non-target sensitive fish species are caught by routine fisheries operations and these species have not recovered across their whole range. Along with climate change, bycatch has driven a decline in abundance and a spatial contraction in the range of starry ray Amblyraja radiata",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species, including cod, several species of diadromous fish and elasmobranchs (sharks, skates and rays).",
+      "context_window": "category were deployed over approximately 73,1% of the ICES ecoregion. 2.8   Several fish species depleted by fishing in the past are now on the OSPAR list of Threatened and/or Declining species, including cod, several species of diadromous fish and elasmobranchs (sharks, skates and rays). 2.9   Within the Celtic Seas",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of",
+      "context_window": "subject to regular reviews (ICES, 2019o). Furthermore, fish populations are not independent units: they interact through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of 31/08/2025, 19:05 Fisheries",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "webs across European seas is affected by a lack of consistent approaches, high uncertainty, or lack of data (European",
+      "context_window": "Analysis of the environmental status of food webs is complex, however: the European Commission has noted that assessment of the state of food webs across European seas is affected by a lack of consistent approaches, high uncertainty, or lack of data (European Commission, 2020e). Changes in fisheries regulation can affect ecosystems: for example, the potential impacts of a",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats",
+      "context_window": "the Greater North Sea and the Celtic Seas were physically disturbed, of which 58% were highly disturbed. Consistent fishing pressure occurred in 74% of all assessed areas, and was considered very likely to affect the ability of habitats to recover. 2.17   IA 2017 found that the further decline of sensitive species overall was halted, where assessed in the Greater",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in",
+      "context_window": "Table 4: Examples of OSPAR Recommendations for the protection and conservation of species and habitats that include measures to be implemented that are relevant to bycatch or habitat damage Recommendation 2016/03 on furthering the protection and conservation of the Atlantic salmon (Salmo salar) in Regions I, II, III and IV of the OSPAR maritime area Recommendation 2015/04 on furthering the protection and conservation of the Allis shad (Alosa alosa) in Regions",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena",
+      "context_window": "Recommendation 2013/12 on furthering the protection and conservation of the Steller’s eider (Polysticta stelleri) in Region I of the OSPAR maritime area Recommendation 2013/11 on furthering the protection and restoration of the harbour porpoise (Phocoena phocoena) in Regions II and III of the OSPAR maritime area Recommendation 2013/07 on furthering the protection and conservation of the loggerhead turtle (Caretta caretta)",
+      "page_number": 12,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5.1   QSR 2010 highlighted the continued impact of fishing pressure on the ecosystem, with many stocks still fished",
+      "context_window": "have implications for fisheries; more analysis of the potential interactions is needed (European Commission, 2020d). Quality Status Report 2010 and Intermediate Assessment 2017 5.1   QSR 2010 highlighted the continued impact of fishing pressure on the ecosystem, with many stocks still fished beyond sustainable levels, and concerns about habitat destruction (notably through damage to the seabed through fishing gear) and changes in community structure and foodwebs (e.g.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and effective fisheries management.",
+      "context_window": "the Marine Stewardship Council (MSC). This takes account of the sustainability of fish stocks, environmental impacts, and effective fisheries management. For example, a fishery cannot be certified if it causes significant or long-term damage to seafloor habitats or other vulnerable marine ecosystems.",
+      "page_number": 14,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven a decline in abundance and a spatial contraction in the range of starry ray",
+      "context_window": "operations and these species have not recovered across their whole range. Along with climate change, bycatch has driven a decline in abundance and a spatial contraction in the range of starry ray Amblyraja radiata , wolf-fish",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "fish communities, with deterioration having been halted and fish communities showing signs of recovery in some",
+      "context_window": "to keep bycatch of marine mammals, sharks, seabirds and turtles to a minimum, and preferably eliminated. 5.2   Assessments for the IA 2017 showed that management measures were beginning to have a positive impact on fish communities, with deterioration having been halted and fish communities showing signs of recovery in some areas. The IA 2017 considered that recovery may continue in most areas provided that fisheries pressures do not",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Some other work suggests that primary production and copepod biomass declines consistent with climate change",
+      "context_window": "STECF (2019a) states that not all data were provided for German pelagic trawlers in the North Sea / eastern Arctic; this segment is not included in the analysis Some other work suggests that primary production and copepod biomass declines consistent with climate change are likely to lead to declines in fisheries yield (e.g. Lotze et al,",
+      "page_number": 16,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "pressure, to address discarding, to take account of the special vulnerability of deep water species and habitats, and",
+      "context_window": "abolition of financial subsidies had been put in place. It called for cooperation to achieve reductions in fishing pressure, to address discarding, to take account of the special vulnerability of deep water species and habitats, and to keep bycatch of marine mammals, sharks, seabirds and turtles to a minimum, and preferably eliminated. 5.2   Assessments for the IA 2017 showed that management measures were beginning to have a positive impact on",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species such as cod and haddock.",
+      "context_window": "; 2. the production potential of the Barents Sea is expected to increase to 2050, along with northward shifts of species such as cod and haddock. This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b);",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a).",
+      "context_window": "analysis noted that in the North Sea and in North Western Waters, the pelagic fisheries are not expected to be affected greatly, but there would be more challenges expected for demersal mixed fisheries, including the impact of potential choke species; in South Western Waters, some pelagic species could become choke species (STECF, 2019a). The Commission has also emphasised the need for more efforts to increase selectivity in fishing gear and techniques, and to address control and enforcement of the landing obligation, through tools such as remote electronic",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Furthermore, fish populations are not independent units: they interact",
+      "context_window": "that MSY itself can change: ICES considers MSY reference points to be valid only in the medium-term and to be subject to regular reviews (ICES, 2019o). Furthermore, fish populations are not independent units: they interact through competition for food and habitat, or as predator and prey, and fisheries activity will influence a range of 31/08/2025, 19:05",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water",
+      "context_window": "This has a potentially negative risk for the associated ecosystem, and may have both opportunities and risks for commercial fisheries (Climefish, 2019b); 3. for seas west of Scotland, simulations suggest that warming will negatively affect the abundance of cold-water species such as cod, but might be beneficial to species such as whiting and hake (Climefish, 2019c). 4.6   Further analysis can be found elsewhere; for example work by ICES looked at scenarios for twenty species and",
+      "page_number": 8,
+      "keyword_hits": {
+        "warming": 1
+      }
+    },
+    {
+      "core_sentence": "Bycatch and other impacts on species and habitats",
+      "context_window": "NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats What is the issue 6.9   The IA 2017 reported that, in 2013, up to 2 000 harbour porpoise died as a result of entanglement in commercial",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to",
+      "context_window": "region. As well as the loss of fisheries yield, overfishing can lead to stock depletion, changes in fish communities and marine food webs at various trophic levels, reduction of biological diversity, loss of capacity of fish stocks to adapt to environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "water corals, elasmobranchs, seabirds and cetaceans.",
+      "context_window": "6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans. Actions recommended include designation of protected areas, encouragement for national authorities to adopt and implement fisheries management measures, designation of",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "population impacts identified by ICES included potential extinction of the local population of harbour porpoise off",
+      "context_window": "OSPAR list of threatened and/or declining species, including skates, rays, and sharks. For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS limits in the Bay of Biscay and Iberian Coast ecoregion, the Celtic Seas,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "vulnerable ecosystems and management tools to protect them (ICES, 2020b).",
+      "context_window": "Continuing work by ICES / NAFO’s (Northwest Atlantic Fisheries Organization) joint group on deep-water ecology is improving understanding of vulnerable ecosystems and management tools to protect them (ICES, 2020b). Bycatch and other impacts on species and habitats What is the issue",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities",
+      "context_window": "2020). An Intergovernmental Panel on Climate Change (IPCC) report on oceans refers to changes in fish populations already evident in Arctic regions and the uncertainties around the impact of climate change for fishing opportunities in the region (IPCC, 2019). FAO reported projected large-scale redistribution of maximum fisheries catch potential in",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "The fishing mortality",
+      "context_window": "6.3   The assessment of MSY is informed by advice from ICES: evaluating MSY does require good information on the stocks; where that is not possible ICES advice is based on precautionary considerations. The fishing mortality associated with MSY is known as FMSY. FMSY is not the only influence on stocks, which are subject to natural",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within",
+      "context_window": "Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within safe biological limits, exhibiting a population age and size distribution that is indicative of a healthy stock. Stocks",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold",
+      "context_window": "Measures 6.13   Measures to address bycatch and habitat damage are cited in several OSPAR Recommendations to further the protection and conservation of species and habitats, including sessile organisms such as deep sea sponges or cold water corals, elasmobranchs, seabirds and cetaceans. Actions recommended include designation of protected areas,",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS",
+      "context_window": "For cetaceans, examples of population impacts identified by ICES included potential extinction of the local population of harbour porpoise off Iberia; bycatch mortality of common dolphins or porpoises possibly exceeding ASCOBANS limits in the Bay of Biscay and Iberian Coast ecoregion, the Celtic Seas, the western English Channel and the Greater North Sea; and bycatch also in Icelandic Waters, the Barents Sea and",
+      "page_number": 11,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "6.7   Management of deep sea fisheries can require particular care given the special nature of these environments,",
+      "context_window": "management is still required if TACs are to be brought fully in line with scientific advice (European Commission, 2020b; 2020e). 6.7   Management of deep sea fisheries can require particular care given the special nature of these environments, including low productivity. Damaged environments are unlikely to recover.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Deep sea fish stocks are highly vulnerable",
+      "context_window": "including low productivity. Damaged environments are unlikely to recover. Deep sea fish stocks are highly vulnerable to over-fishing, and catches have been declining for years. In the oceanic region of the North-East Atlantic,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to",
+      "context_window": "For example, the EU- funded Climefish programme has looked at scenarios for several areas within the OSPAR region: 1. for the North-East Atlantic as a whole, changes in stock biomass and feeding distribution are expected to increase complexity in allocations of shared stocks of whiting, mackerel and herring, with the risk of overfishing due to unilaterally set quotas. There is also a projected large increase in the zooplankton",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to",
+      "context_window": "environmental changes, and even fisheries collapse. Returning stocks to favourable level is therefore a key aim of fisheries and environmental policy: for example, the EU’s Marine Strategy Framework Directive’s approach to achieving good environmental status includes populations of all commercially exploited fish and shellfish to be within safe biological limits, exhibiting a population age and size distribution that is indicative of a healthy stock.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already",
+      "context_window": "choke species (anchovy, anglerfish, blue whiting, cod, hake, herring, mackerel, megrims, and plaice) (ICES, 2017a). A report by the United Kingdom’s Marine Climate Change Impacts Partnership highlighted changes that have already occurred, such as the decline in primary productivity in the North Sea over the past 25 years, shifts in mackerel distribution causing issues for quota allocation, and increasing sightings of tuna off the British Isles (Pinnegar et al,",
+      "page_number": 8,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 9,
+      "warming": 2
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Conclusions",
+      "start_sentence": 1174,
+      "end_sentence": 1239,
+      "sentence_count": 66,
+      "page_range": "14-15",
+      "sentences": [
+        {
+          "sentence_id": 1174,
+          "page_number": 14,
+          "content": "Conclusions",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 1175,
+          "page_number": 14,
+          "content": "7.1   Key messages",
+          "full_length": 18
+        },
+        {
+          "sentence_id": 1176,
+          "page_number": 14,
+          "content": "1.",
+          "full_length": 2
+        },
+        {
+          "sentence_id": 1177,
+          "page_number": 14,
+          "content": "While stocks in the OSPAR Maritime Area are increasingly being fished consistently according to the ...",
+          "full_length": 109
+        },
+        {
+          "sentence_id": 1178,
+          "page_number": 14,
+          "content": "level MSY, OSPAR could consider how to improve its understanding of how fishing at these levels infl...",
+          "full_length": 106
+        }
+      ],
+      "total_sentences_in_section": 66
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 1307,
+      "end_sentence": 1322,
+      "sentence_count": 16,
+      "page_range": "16-16",
+      "sentences": [
+        {
+          "sentence_id": 1307,
+          "page_number": 16,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1308,
+          "page_number": 16,
+          "content": "",
+          "full_length": 1
+        },
+        {
+          "sentence_id": 1309,
+          "page_number": 16,
+          "content": "Expand to view references",
+          "full_length": 25
+        },
+        {
+          "sentence_id": 1310,
+          "page_number": 16,
+          "content": "4 MSY",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1311,
+          "page_number": 16,
+          "content": "5",
+          "full_length": 1
+        }
+      ],
+      "total_sentences_in_section": 16
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1346,
+    "chunks_selected": 90,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Conclusions",
+        "start_sentence": 1174,
+        "end_sentence": 1239,
+        "sentence_count": 66
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 1307,
+        "end_sentence": 1322,
+        "sentence_count": 16
+      }
+    ],
+    "total_excluded_sentences": 82
+  }
+}

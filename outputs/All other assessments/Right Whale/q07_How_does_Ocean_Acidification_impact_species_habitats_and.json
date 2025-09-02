@@ -1,0 +1,958 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution,",
+      "context_window": "Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "ecosystem structure is a concern for right whales. Climate change could have profound effects on",
+      "context_window": "Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "underwater noise, pollution and climate change and its direct and indirect consequences.",
+      "context_window": "endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "climate change, including its indirect consequences such as changes in feeding conditions.",
+      "context_window": "underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic",
+      "context_window": "ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic",
+      "context_window": "climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "prey density and distribution; right whales depend heavily on areas with high densities of suitable",
+      "context_window": "important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "important, with the species relying on areas close to shore: Impacts of fishing activities that alter",
+      "context_window": "2001). Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life.",
+      "context_window": "prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a",
+      "context_window": "Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Habitat loss is also",
+      "context_window": "every animal, especially reproducing females, is important (Fujiwara et al. 2001). Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "threats in the small remaining western Atlantic population.",
+      "context_window": "Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reporting against OSPAR actions into account.",
+      "context_window": "The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": "long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pollutants can have important negative effects on the immune system and reproduction, as the",
+      "context_window": "prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this status assessment. Future updates of the status assessment will take implementation",
+      "context_window": "3/5 The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-",
+      "context_window": "change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Northern right whale Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)  References Sheet reference:",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "entanglement and disentanglement action, and measures with regards to shipping (adjustment of",
+      "context_window": "Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions). The western Atlantic population numbers some 400 animals, with at the most 100 reproducing",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Northern right",
+      "context_window": "The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right whale Threats/Impacts",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "effect of extreme population depletion may include reduced genetic diversity.",
+      "context_window": "species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species within its extant range are entanglement and ship strikes. It is unknown how climate",
+      "context_window": "The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Context & Guidelines",
+      "context_window": "Jacobsen et al. 2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the",
+      "context_window": "to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status-",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to individuals from the very small West Atlantic right whale population. Main direct threats to this",
+      "context_window": "Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "remaining in the western part of the species range.",
+      "context_window": "Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right whale",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Right Whale",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The species used to occur in the North Atlantic, with currently only a few hundred individuals",
+      "context_window": "threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "31/08/2025, 19:20",
+      "context_window": "2018), in particular deaths of adult females (Fujiwara et al. 2001). 31/08/2025, 19:20 Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human-caused mortality (Corkeron et al.",
+      "context_window": "Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al. 2001).",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The West Atlantic population consists of around 400 animals and currently is not recovering due to",
+      "context_window": "Condition Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threat or impact",
+      "context_window": "its indirect effects Evidence of threat or impact Region I",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2004).",
+      "context_window": "can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "IMO.",
+      "context_window": "conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)",
+      "context_window": "Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)  References",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Declining Species and Habitats",
+      "context_window": "Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966) ",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Jacobsen et al.",
+      "context_window": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004). Context & Guidelines",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that",
+      "context_window": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "I",
+      "context_window": "Status Region I ←→ 1,2",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can often be attributed to individuals of the western North Atlantic population (e.g.",
+      "context_window": "Knowledge Gaps Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike,",
+      "context_window": "Key criteria: severe decline due to whaling, mainly before 1800. IUCN lists the species as endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution,",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Method of assessment: 1 and 2",
+      "context_window": "The western Atlantic population numbers some 400 animals, with at the most 100 reproducing females. Method of assessment: 1 and 2 Condition Not relevant: East Atlantic population functionally extinct.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The overview assessment of implementation reporting was not available at the time of publishing",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 3/5 The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the western Atlantic population (local, national) measures include those preventing",
+      "context_window": "Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions).",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "shipping lanes and speed restrictions).",
+      "context_window": "For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions). The western Atlantic population numbers some 400 animals, with at the most 100 reproducing females.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2018), in particular deaths of adult females (Fujiwara et al.",
+      "context_window": "The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al. 2001). 31/08/2025, 19:20",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or",
+      "context_window": "2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "every animal, especially reproducing females, is important (Fujiwara et al.",
+      "context_window": "2019). Given the current population size, the survival of every animal, especially reproducing females, is important (Fujiwara et al. 2001). Habitat loss is also",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not relevant: East Atlantic population functionally extinct.",
+      "context_window": "Method of assessment: 1 and 2 Condition Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or",
+      "context_window": "The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2012) and ship strikes (Sharp et al.",
+      "context_window": "however, currently the main direct threats to the species’ survival are entanglement (e.g. Knowlton et al. 2012) and ship strikes (Sharp et al. 2019). Given the current population size, the survival of",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed",
+      "context_window": "Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other relevant competent authorities are IWC and IMO.",
+      "context_window": "Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Evidence of",
+      "context_window": "Climate change and its indirect effects Evidence of threat or impact Region",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "conserve the species/habitat",
+      "context_window": "effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "endangered.",
+      "context_window": "v=7099) Key criteria: severe decline due to whaling, mainly before 1800. IUCN lists the species as endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "←→",
+      "context_window": "Region I ←→ 1,2 ↓",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1",
+      "context_window": "Region I 1 1 2",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/",
+      "context_window": "31/08/2025, 19:20 Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 2/5 Threats and Impacts",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status Assessment 2020 - North Atlantic",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1)",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "short term.",
+      "context_window": "species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status- reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "1,2",
+      "context_window": "V ←→ 1,2 ↓ 1,2",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "5/5",
+      "context_window": "Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 5/5",
+      "page_number": 4,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution,",
+      "context_window": "Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "underwater noise, pollution and climate change and its direct and indirect consequences.",
+      "context_window": "endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic",
+      "context_window": "ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "prey density and distribution; right whales depend heavily on areas with high densities of suitable",
+      "context_window": "important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life.",
+      "context_window": "prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Habitat loss is also",
+      "context_window": "every animal, especially reproducing females, is important (Fujiwara et al. 2001). Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "reporting against OSPAR actions into account.",
+      "context_window": "The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pollutants can have important negative effects on the immune system and reproduction, as the",
+      "context_window": "prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-",
+      "context_window": "change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status- reports/qsr-2023/) Northern right whale Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "entanglement and disentanglement action, and measures with regards to shipping (adjustment of",
+      "context_window": "Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions). The western Atlantic population numbers some 400 animals, with at the most 100 reproducing",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "effect of extreme population depletion may include reduced genetic diversity.",
+      "context_window": "species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Context & Guidelines",
+      "context_window": "Jacobsen et al. 2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to individuals from the very small West Atlantic right whale population. Main direct threats to this",
+      "context_window": "Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "remaining in the western part of the species range.",
+      "context_window": "Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right whale",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The species used to occur in the North Atlantic, with currently only a few hundred individuals",
+      "context_window": "threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "human-caused mortality (Corkeron et al.",
+      "context_window": "Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al. 2001).",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threat or impact",
+      "context_window": "its indirect effects Evidence of threat or impact Region I",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "IMO.",
+      "context_window": "conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species.",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Declining Species and Habitats",
+      "context_window": "Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966) ",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that",
+      "context_window": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "can often be attributed to individuals of the western North Atlantic population (e.g.",
+      "context_window": "Knowledge Gaps Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method of assessment: 1 and 2",
+      "context_window": "The western Atlantic population numbers some 400 animals, with at the most 100 reproducing females. Method of assessment: 1 and 2 Condition Not relevant: East Atlantic population functionally extinct.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the western Atlantic population (local, national) measures include those preventing",
+      "context_window": "Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions).",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "2018), in particular deaths of adult females (Fujiwara et al.",
+      "context_window": "The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al. 2001). 31/08/2025, 19:20",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "every animal, especially reproducing females, is important (Fujiwara et al.",
+      "context_window": "2019). Given the current population size, the survival of every animal, especially reproducing females, is important (Fujiwara et al. 2001). Habitat loss is also",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Not relevant: East Atlantic population functionally extinct.",
+      "context_window": "Method of assessment: 1 and 2 Condition Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2012) and ship strikes (Sharp et al.",
+      "context_window": "however, currently the main direct threats to the species’ survival are entanglement (e.g. Knowlton et al. 2012) and ship strikes (Sharp et al. 2019). Given the current population size, the survival of",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other relevant competent authorities are IWC and IMO.",
+      "context_window": "Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO. Actions of OSPAR related to climate change and pollution might benefit the species. For the western Atlantic population (local, national) measures include those preventing",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "conserve the species/habitat",
+      "context_window": "effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "←→",
+      "context_window": "Region I ←→ 1,2 ↓",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/",
+      "context_window": "31/08/2025, 19:20 Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 2/5 Threats and Impacts",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "short term.",
+      "context_window": "species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status- reports/qsr-2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "5/5",
+      "context_window": "Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 5/5",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1,2",
+      "context_window": "V ←→ 1,2 ↓ 1,2",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Status Assessment 2020 - North Atlantic",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1)",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "1",
+      "context_window": "Region I 1 1 2",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "endangered.",
+      "context_window": "v=7099) Key criteria: severe decline due to whaling, mainly before 1800. IUCN lists the species as endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Evidence of",
+      "context_window": "Climate change and its indirect effects Evidence of threat or impact Region",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed",
+      "context_window": "Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or",
+      "context_window": "The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat Other relevant competent authorities are IWC, NAMMCO, Arctic Council (CAFF in particular) and IMO. Other relevant competent authorities are IWC and IMO.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or",
+      "context_window": "2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "shipping lanes and speed restrictions).",
+      "context_window": "For the western Atlantic population (local, national) measures include those preventing entanglement and disentanglement action, and measures with regards to shipping (adjustment of shipping lanes and speed restrictions). The western Atlantic population numbers some 400 animals, with at the most 100 reproducing females.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The overview assessment of implementation reporting was not available at the time of publishing",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/ 3/5 The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "pollutants can have important negative effects on the immune system and reproduction, as the species is long-lived, has a thick blubber layer and lives close to shore for a large part of its life. The effect of extreme population depletion may include reduced genetic diversity. Measures that address key pressures from human activities or",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike,",
+      "context_window": "Key criteria: severe decline due to whaling, mainly before 1800. IUCN lists the species as endangered. Sensitivity: long-lived species, small population, sensitive to entanglement, ship strike, underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution,",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "I",
+      "context_window": "Status Region I ←→ 1,2",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Jacobsen et al.",
+      "context_window": "Knowledge about the species in the OSPAR area is limited to a very low number of sightings that can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004). Context & Guidelines",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)",
+      "context_window": "Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)  References",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2004).",
+      "context_window": "can often be attributed to individuals of the western North Atlantic population (e.g. Jacobsen et al. 2004). Context & Guidelines Guidance on the Development of Status Assessments for the OSPAR List of Threatened and/or",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The West Atlantic population consists of around 400 animals and currently is not recovering due to",
+      "context_window": "Condition Not relevant: East Atlantic population functionally extinct. The West Atlantic population consists of around 400 animals and currently is not recovering due to human-caused mortality (Corkeron et al. 2018), in particular deaths of adult females (Fujiwara et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "31/08/2025, 19:20",
+      "context_window": "2018), in particular deaths of adult females (Fujiwara et al. 2001). 31/08/2025, 19:20 Right Whale https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/right-whale/",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Right Whale",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2020 - North Atlantic Right Whale Viewing: Latest Version (1.0.1) The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the",
+      "context_window": "to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term. (/en/ospar-assessments/quality-status-",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "species within its extant range are entanglement and ship strikes. It is unknown how climate",
+      "context_window": "The North Atlantic Right whale is extirpated in the OSPAR area, with all confirmed sightingattributed to individuals from the very small West Atlantic right whale population. Main direct threats to this species within its extant range are entanglement and ship strikes. It is unknown how climate change will affect Right whales. Chances of a recovery in the OSPAR area are non-existent in the short term.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Northern right",
+      "context_window": "The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range. Northern right whale Threats/Impacts",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "Declining Species and Habitats OSPAR Agreement 2019-05e (https://www.ospar.org/documents?v=40966)  References Sheet reference:",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "this status assessment. Future updates of the status assessment will take implementation",
+      "context_window": "3/5 The overview assessment of implementation reporting was not available at the time of publishing this status assessment. Future updates of the status assessment will take implementation reporting against OSPAR actions into account.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Geographical Range and Distribution",
+      "context_window": "long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals remaining in the western part of the species range.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "threats in the small remaining western Atlantic population.",
+      "context_window": "Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution The species used to occur in the North Atlantic, with currently only a few hundred individuals",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a",
+      "context_window": "Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "important, with the species relying on areas close to shore: Impacts of fishing activities that alter",
+      "context_window": "2001). Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic",
+      "context_window": "climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic threats in the small remaining western Atlantic population. Geographical Range and Distribution",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change, including its indirect consequences such as changes in feeding conditions.",
+      "context_window": "underwater noise, pollution and climate change and its direct and indirect consequences. Key anthropogenic pressures: entanglement, ship strikes, underwater noise, pollution, climate change, including its indirect consequences such as changes in feeding conditions. Last status assessment and brief outcome: OSPAR (2008; 2010). There is good evidence of a long-term decline in populations in the eastern Atlantic, and good evidence of anthropogenic",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 2
+      }
+    },
+    {
+      "core_sentence": "ecosystem structure is a concern for right whales. Climate change could have profound effects on",
+      "context_window": "Habitat loss is also important, with the species relying on areas close to shore: Impacts of fishing activities that alter ecosystem structure is a concern for right whales. Climate change could have profound effects on prey density and distribution; right whales depend heavily on areas with high densities of suitable prey (mostly calanoid copepods) (e.g. Meyer-Gutbrod 2018, Record et al. 2019). Persistent organic",
+      "page_number": 2,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 1,
+    "keyword_counts": {
+      "climate change": 7
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Conclusion (including management considerations)",
+      "start_sentence": 160,
+      "end_sentence": 166,
+      "sentence_count": 7,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 160,
+          "page_number": 3,
+          "content": "Conclusion (including management considerations)",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 161,
+          "page_number": 3,
+          "content": "The eastern Atlantic right whale population is functionally extinct, and there is no chance of a",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 162,
+          "page_number": 3,
+          "content": "restoration in the short term (e.g. Brown 1986). Measures of OSPAR with regards to pollution and",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 163,
+          "page_number": 3,
+          "content": "climate change may indirectly benefit the species.",
+          "full_length": 50
+        },
+        {
+          "sentence_id": 164,
+          "page_number": 3,
+          "content": "OSPAR recognizes that the IWC is the main international organization in charge of protecting large",
+          "full_length": 98
+        }
+      ],
+      "total_sentences_in_section": 7
+    }
+  ],
+  "metadata": {
+    "total_sentences": 215,
+    "chunks_selected": 67,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Conclusion (including management considerations)",
+        "start_sentence": 160,
+        "end_sentence": 166,
+        "sentence_count": 7
+      }
+    ],
+    "total_excluded_sentences": 7
+  }
+}

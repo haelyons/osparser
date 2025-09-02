@@ -1,0 +1,1002 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "although further evidence is needed.",
+      "context_window": "Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "have prompted an expansion of the species’ range northwards, which might have implications on population dynamics,",
+      "context_window": "negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Regarding new/increasing",
+      "context_window": "effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change has been proposed to",
+      "context_window": "Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on the species, as well as the influence of climate change, should also be addressed.",
+      "context_window": "Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the OSPAR Maritime Area, it is crucial to ensure proper monitoring programmes (census, breeding performance,",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics",
+      "context_window": "Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "According to tracking data (limited to adults), birds do not move",
+      "context_window": "distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move further north than North-Western France, suggesting that birds occurring in South-Western UK and South-Eastern Ireland would be juveniles and immature birds.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven by an increase in sea surface temperatures.",
+      "context_window": "The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move further north than North-Western France, suggesting that birds occurring in South-Western UK and South-Eastern Ireland",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the breeding grounds, outside the",
+      "context_window": "potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the OSPAR Maritime Area, it is crucial to ensure proper monitoring programmes (census, breeding performance, demography), as well as control and biosecurity around invasive mammalian predators.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts",
+      "context_window": "France north to Brittany, and also North-Western Morocco and South-Western UK and South-Eastern Ireland. The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Disturbance caused by sport and leisure nautical activities may also have",
+      "context_window": "Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "been halted in recent years.",
+      "context_window": "Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "during the non-breeding season) is concentrated in Western Iberia, as well as the Western coast of France north to Brittany, and also North-Western Morocco and South-Western UK and South-Eastern Ireland. The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threat or",
+      "context_window": "Climate change Threat or impact Region",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "On the other hand, information from the Western Mediterranean in winter (December to",
+      "context_window": "Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s. 31/08/2025, 18:50",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low",
+      "context_window": "have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is undergoing a severe decline of -14% per year according to modelled",
+      "context_window": "The Balearic shearwater Puffinus mauretanicus is undergoing a severe decline of -14% per year according to modelled demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in the whole OSPAR Maritime Area, are patchy and require more coordinated action.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have",
+      "context_window": "France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal and highly congregatory), and its low resilience",
+      "context_window": ": The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce). Anthropogenic pressures and biological factors",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "other predictive models or extrapolation using less",
+      "context_window": "Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less complete sample of occurrence and environmental data); ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species/habitat",
+      "context_window": "survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of",
+      "context_window": "breeding pairs (a highly conservative approach), demographic models inferred a mean extinction time of 61 years. In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western",
+      "context_window": "major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "major congregation areas between years, presumably linked to changes in prey distribution and availability.",
+      "context_window": "In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "negative effects, due to the highly congregatory, coastal behaviour of the species.",
+      "context_window": "policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics,",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Anthropogenic pressures and biological factors",
+      "context_window": "coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce). Anthropogenic pressures and biological factors : The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "31/08/2025, 18:50",
+      "context_window": "On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s. 31/08/2025, 18:50 Balearic shearwater https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the",
+      "context_window": "From these data, and departing from an hypothetical breeding population of 7 200 breeding pairs (a highly conservative approach), demographic models inferred a mean extinction time of 61 years. In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from human activity, due to its behaviour and ecology (e.g.",
+      "context_window": "Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater",
+      "context_window": "Status Assessment 2022 - Balearic shearwater Viewing: Latest Version (1.0.0) The Balearic shearwater Puffinus mauretanicus is undergoing a severe decline of -14% per year according to modelled",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011). The species is listed in several regional agreements and conventions, such as OSPAR,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "Assessment of key pressures Removal of target and non-target",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These data come from colonies free of predators, suggesting that the",
+      "context_window": "independently, showed very consistent results, in both cases inferring a severe annual decline in abundance of -14%, largely driven by unusually low adult survival (0,81). These data come from colonies free of predators, suggesting that the main drivers of the decline are at sea. From these data, and departing from an hypothetical breeding population of 7 200",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve the",
+      "context_window": "A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The available",
+      "context_window": "OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "France have substantially fluctuated and do not show a clear trend in recent years.",
+      "context_window": "The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "difficult to properly assess trends in the non-breeding range.",
+      "context_window": "Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the colonies and by-catch at sea from fisheries including within the OSPAR Maritime Area (increasing evidence collected in",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/",
+      "context_window": "31/08/2025, 18:50 Balearic shearwater https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/ 3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species action plan (Arcos, 2011).",
+      "context_window": "species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011). The species is listed in several regional agreements and conventions, such as OSPAR, Barcelona Convention, ACAP.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment is based upon:",
+      "context_window": "Main source of information: 2. Assessment derived from third party assessment Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Counts of birds leaving the",
+      "context_window": "information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The identified main threats are introduced predators in the",
+      "context_window": "changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the colonies and by-catch at sea from fisheries including within the OSPAR Maritime Area (increasing evidence collected in the last decade indicates this is a major threat in the OSPAR Maritime area, although information is still incomplete).",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Predation by introduced mammals was",
+      "context_window": ": The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population. Predation by introduced mammals was considered the most severe threat in the colonies, while at sea reductions in prey populations was considered the most relevant threat, while pollution (mainly oil spills) and bycatch could also be relevant.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in",
+      "context_window": "While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in the whole OSPAR Maritime Area, are patchy and require more coordinated action. Information on juvenile distribution",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2. Assessment derived from third party assessment",
+      "context_window": "Method used Main source of information: 2. Assessment derived from third party assessment Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat",
+      "context_window": "Year added to OSPAR list: 2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008). Global/regional importance",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "survival rate of the species by causing habitat loss, and, most severely, collisions.",
+      "context_window": "although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular",
+      "context_window": "Background Information Year added to OSPAR list: 2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding grounds, both impacting the OSPAR (non-breeding) population.",
+      "context_window": "Anthropogenic pressures and biological factors : The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population. Predation by introduced mammals was considered the most severe threat in the colonies, while at sea reductions in prey populations was considered the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries",
+      "context_window": "prevalence of microplastics in the species, although adverse effects have so far only been described in a handful of occasions in relation to ingestion of macroplastics (suffocation). Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause",
+      "context_window": "By-catch in other OSPAR Regions might be easily overlooked, particularly if it is caused by small-scale fisheries, which are difficult to monitor. Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global/regional importance",
+      "context_window": "reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008). Global/regional importance : Although the species breeds in the Mediterranean, practically the whole population disperses into the OSPAR Maritime Area during the post-breeding period, mainly Western Iberia, Western and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "complete sample of occurrence and environmental data);",
+      "context_window": "b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less complete sample of occurrence and environmental data);  References",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "France.",
+      "context_window": "At-sea census data also showed a reduction in numbers in some key non-breeding congregation areas, such as in Western France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change",
+      "context_window": "Litter Climate change Threat or impact",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Information on food availability and its potential impacts on the species is incomplete.",
+      "context_window": "Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overall, observational data also suggest a decline, though",
+      "context_window": "is undergoing a severe decline of -14% per year according to modelled demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and",
+      "context_window": "Information on juvenile distribution patterns is still missing. Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al.",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/ 3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al. 2016) The breeding population is estimated at around 3 000 breeding pairs, restricted to the Balearic Islands (Ruiz & Martí 2004;",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity",
+      "context_window": "data also showed a reduction in numbers in some key non-breeding congregation areas, such as in Western France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations north from the Irish Sea",
+      "context_window": "Given the rather coastal distribution of the species, its occurrence in OSPAR Region V should be considered as marginal. Observations north from the Irish Sea should also be considered as occasional. Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ospar/evaluations-des-",
+      "context_window": "[2] (/en/evaluations- ospar/evaluations-des- comites/biodiversite-et- ecosystemes/evaluations-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These models, conducted",
+      "context_window": "The main trend-based evidence comes from modelling of demographic information from two different colonies (Western Mallorca and Western Ibiza). These models, conducted independently, showed very consistent results, in both cases inferring a severe annual decline in abundance of -14%, largely driven by unusually low adult survival (0,81).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2016)",
+      "context_window": "3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al. 2016) The breeding population is estimated at around 3 000 breeding pairs, restricted to the Balearic Islands (Ruiz & Martí 2004; Arcos",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decline",
+      "context_window": "The Balearic shearwater was first evaluated as Critically Endangered at global level by IUCN in 2004. Decline : Demographic modelling showed a severe population decline, attributed to threats at sea. At-sea census",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plastic pollution also merits attention, given increase of this pollutant and high",
+      "context_window": "severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie. Plastic pollution also merits attention, given increase of this pollutant and high prevalence of microplastics in the species, although adverse effects have so far only been described in a handful of occasions in relation to ingestion of macroplastics (suffocation).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": 2009. OSPAR (2009) assessment was conducted shortly after the species case report, and did",
+      "context_window": "most relevant threat, while pollution (mainly oil spills) and bycatch could also be relevant. Last status assessment : 2009. OSPAR (2009) assessment was conducted shortly after the species case report, and did not propose any relevant changes to it. Assessment",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it",
+      "context_window": "demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The main trend-based evidence comes from modelling of",
+      "context_window": "Whatever is the actual population size, there is direct evidence of declines in the breeding colonies, including the disappearance of a few small colonies in recent decades. The main trend-based evidence comes from modelling of demographic information from two different colonies (Western Mallorca and Western Ibiza). These models, conducted",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater was first evaluated as Critically Endangered",
+      "context_window": "disperses into the OSPAR Maritime Area during the post-breeding period, mainly Western Iberia, Western and North-Western France and South-Western UK. The Balearic shearwater was first evaluated as Critically Endangered at global level by IUCN in 2004. Decline",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules",
+      "context_window": "fisheries, which are difficult to monitor. Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie. Plastic pollution also merits attention, given increase of this pollutant and high",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources",
+      "context_window": "Observations north from the Irish Sea should also be considered as occasional. Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources Population/Abundance 31/08/2025, 18:50",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": The species was considered sensitive at the time of listing due to its low resistance to adverse effects",
+      "context_window": "France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience",
+      "page_number": 1,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "although further evidence is needed.",
+      "context_window": "Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Regarding new/increasing",
+      "context_window": "effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "on the species, as well as the influence of climate change, should also be addressed.",
+      "context_window": "Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the OSPAR Maritime Area, it is crucial to ensure proper monitoring programmes (census, breeding performance,",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "According to tracking data (limited to adults), birds do not move",
+      "context_window": "distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move further north than North-Western France, suggesting that birds occurring in South-Western UK and South-Eastern Ireland would be juveniles and immature birds.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the breeding grounds, outside the",
+      "context_window": "potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the OSPAR Maritime Area, it is crucial to ensure proper monitoring programmes (census, breeding performance, demography), as well as control and biosecurity around invasive mammalian predators.",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Disturbance caused by sport and leisure nautical activities may also have",
+      "context_window": "Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The",
+      "context_window": "during the non-breeding season) is concentrated in Western Iberia, as well as the Western coast of France north to Brittany, and also North-Western Morocco and South-Western UK and South-Eastern Ireland. The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "On the other hand, information from the Western Mediterranean in winter (December to",
+      "context_window": "Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s. 31/08/2025, 18:50",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is undergoing a severe decline of -14% per year according to modelled",
+      "context_window": "The Balearic shearwater Puffinus mauretanicus is undergoing a severe decline of -14% per year according to modelled demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have",
+      "context_window": "France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "other predictive models or extrapolation using less",
+      "context_window": "Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less complete sample of occurrence and environmental data); ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of",
+      "context_window": "breeding pairs (a highly conservative approach), demographic models inferred a mean extinction time of 61 years. In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "major congregation areas between years, presumably linked to changes in prey distribution and availability.",
+      "context_window": "In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic pressures and biological factors",
+      "context_window": "coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce). Anthropogenic pressures and biological factors : The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the",
+      "context_window": "From these data, and departing from an hypothetical breeding population of 7 200 breeding pairs (a highly conservative approach), demographic models inferred a mean extinction time of 61 years. In the OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater",
+      "context_window": "Status Assessment 2022 - Balearic shearwater Viewing: Latest Version (1.0.0) The Balearic shearwater Puffinus mauretanicus is undergoing a severe decline of -14% per year according to modelled",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "Assessment of key pressures Removal of target and non-target",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve the",
+      "context_window": "A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "France have substantially fluctuated and do not show a clear trend in recent years.",
+      "context_window": "The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/",
+      "context_window": "31/08/2025, 18:50 Balearic shearwater https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/ 3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment is based upon:",
+      "context_window": "Main source of information: 2. Assessment derived from third party assessment Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The identified main threats are introduced predators in the",
+      "context_window": "changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the colonies and by-catch at sea from fisheries including within the OSPAR Maritime Area (increasing evidence collected in the last decade indicates this is a major threat in the OSPAR Maritime area, although information is still incomplete).",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in",
+      "context_window": "While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in the whole OSPAR Maritime Area, are patchy and require more coordinated action. Information on juvenile distribution",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat",
+      "context_window": "Year added to OSPAR list: 2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008). Global/regional importance",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular",
+      "context_window": "Background Information Year added to OSPAR list: 2008. The Balearic shearwater was nominated for inclusion on the OSPAR List with particular reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries",
+      "context_window": "prevalence of microplastics in the species, although adverse effects have so far only been described in a handful of occasions in relation to ingestion of macroplastics (suffocation). Reduction of prey, both natural (small pelagic fish) and discards (which have been affected by the common fisheries policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global/regional importance",
+      "context_window": "reference to the global importance, rarity, decline, and sensitivity criteria, with information also provided on threat (OSPAR, 2008). Global/regional importance : Although the species breeds in the Mediterranean, practically the whole population disperses into the OSPAR Maritime Area during the post-breeding period, mainly Western Iberia, Western and",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "France.",
+      "context_window": "At-sea census data also showed a reduction in numbers in some key non-breeding congregation areas, such as in Western France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Information on food availability and its potential impacts on the species is incomplete.",
+      "context_window": "Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and",
+      "context_window": "Information on juvenile distribution patterns is still missing. Regarding threats, there is an urgent need to better understand and address the issue of by-catch, and exhaustive and effective data-collection protocols are needed to provide a clear picture of the situation. Information on food availability and its potential impacts on the species is incomplete.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Sensitivity",
+      "context_window": "data also showed a reduction in numbers in some key non-breeding congregation areas, such as in Western France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ospar/evaluations-des-",
+      "context_window": "[2] (/en/evaluations- ospar/evaluations-des- comites/biodiversite-et- ecosystemes/evaluations-",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2016)",
+      "context_window": "3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al. 2016) The breeding population is estimated at around 3 000 breeding pairs, restricted to the Balearic Islands (Ruiz & Martí 2004; Arcos",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Plastic pollution also merits attention, given increase of this pollutant and high",
+      "context_window": "severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie. Plastic pollution also merits attention, given increase of this pollutant and high prevalence of microplastics in the species, although adverse effects have so far only been described in a handful of occasions in relation to ingestion of macroplastics (suffocation).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it",
+      "context_window": "demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater was first evaluated as Critically Endangered",
+      "context_window": "disperses into the OSPAR Maritime Area during the post-breeding period, mainly Western Iberia, Western and North-Western France and South-Western UK. The Balearic shearwater was first evaluated as Critically Endangered at global level by IUCN in 2004. Decline",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources",
+      "context_window": "Observations north from the Irish Sea should also be considered as occasional. Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources Population/Abundance 31/08/2025, 18:50",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": The species was considered sensitive at the time of listing due to its low resistance to adverse effects",
+      "context_window": "France. Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules",
+      "context_window": "fisheries, which are difficult to monitor. Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie. Plastic pollution also merits attention, given increase of this pollutant and high",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The main trend-based evidence comes from modelling of",
+      "context_window": "Whatever is the actual population size, there is direct evidence of declines in the breeding colonies, including the disappearance of a few small colonies in recent decades. The main trend-based evidence comes from modelling of demographic information from two different colonies (Western Mallorca and Western Ibiza). These models, conducted",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ": 2009. OSPAR (2009) assessment was conducted shortly after the species case report, and did",
+      "context_window": "most relevant threat, while pollution (mainly oil spills) and bycatch could also be relevant. Last status assessment : 2009. OSPAR (2009) assessment was conducted shortly after the species case report, and did not propose any relevant changes to it. Assessment",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decline",
+      "context_window": "The Balearic shearwater was first evaluated as Critically Endangered at global level by IUCN in 2004. Decline : Demographic modelling showed a severe population decline, attributed to threats at sea. At-sea census",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These models, conducted",
+      "context_window": "The main trend-based evidence comes from modelling of demographic information from two different colonies (Western Mallorca and Western Ibiza). These models, conducted independently, showed very consistent results, in both cases inferring a severe annual decline in abundance of -14%, largely driven by unusually low adult survival (0,81).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Observations north from the Irish Sea",
+      "context_window": "Given the rather coastal distribution of the species, its occurrence in OSPAR Region V should be considered as marginal. Observations north from the Irish Sea should also be considered as occasional. Figure 1: Balearic shearwater distribution range, including OSPAR area, combining several information sources",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al.",
+      "context_window": "https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/ 3/7 Figure 2: Balearic shearwater modelled stochastic projections over 100 years under current scenario (Source: Genovart et al. 2016) The breeding population is estimated at around 3 000 breeding pairs, restricted to the Balearic Islands (Ruiz & Martí 2004;",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Overall, observational data also suggest a decline, though",
+      "context_window": "is undergoing a severe decline of -14% per year according to modelled demographic data, largely driven by low adult survival rates. Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change",
+      "context_window": "Litter Climate change Threat or impact",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "complete sample of occurrence and environmental data);",
+      "context_window": "b)    based mainly on extrapolation from a limited amount of data (e.g. other predictive models or extrapolation using less complete sample of occurrence and environmental data);  References",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause",
+      "context_window": "By-catch in other OSPAR Regions might be easily overlooked, particularly if it is caused by small-scale fisheries, which are difficult to monitor. Pollution might also pose a threat for the Balearic shearwater, particularly in the case of oil spills, which could cause severe impact due to the highly congregatory, coastal behaviour of the species; improved protocols and security rules might slightly reduce risks for the specie.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding grounds, both impacting the OSPAR (non-breeding) population.",
+      "context_window": "Anthropogenic pressures and biological factors : The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population. Predation by introduced mammals was considered the most severe threat in the colonies, while at sea reductions in prey populations was considered the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "survival rate of the species by causing habitat loss, and, most severely, collisions.",
+      "context_window": "although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "2. Assessment derived from third party assessment",
+      "context_window": "Method used Main source of information: 2. Assessment derived from third party assessment Assessment is based upon: b)    based mainly on extrapolation from a limited amount of data (e.g.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Predation by introduced mammals was",
+      "context_window": ": The threats identified were both in the breeding and non- breeding grounds, both impacting the OSPAR (non-breeding) population. Predation by introduced mammals was considered the most severe threat in the colonies, while at sea reductions in prey populations was considered the most relevant threat, while pollution (mainly oil spills) and bycatch could also be relevant.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Counts of birds leaving the",
+      "context_window": "information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species action plan (Arcos, 2011).",
+      "context_window": "species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011). The species is listed in several regional agreements and conventions, such as OSPAR, Barcelona Convention, ACAP.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "difficult to properly assess trends in the non-breeding range.",
+      "context_window": "Overall, observational data also suggest a decline, though changes in distribution at small and mid-scale related to prey availability and an overall northward shift in range make it difficult to properly assess trends in the non-breeding range. The identified main threats are introduced predators in the colonies and by-catch at sea from fisheries including within the OSPAR Maritime Area (increasing evidence collected in",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The available",
+      "context_window": "OSPAR Area it’s even more difficult to establish trends due to the wide range occupied by the species and the shift of major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "These data come from colonies free of predators, suggesting that the",
+      "context_window": "independently, showed very consistent results, in both cases inferring a severe annual decline in abundance of -14%, largely driven by unusually low adult survival (0,81). These data come from colonies free of predators, suggesting that the main drivers of the decline are at sea. From these data, and departing from an hypothetical breeding population of 7 200",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International",
+      "context_window": "Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011). The species is listed in several regional agreements and conventions, such as OSPAR,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from human activity, due to its behaviour and ecology (e.g.",
+      "context_window": "Sensitivity : The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce).",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "31/08/2025, 18:50",
+      "context_window": "On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s. 31/08/2025, 18:50 Balearic shearwater https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/balearic-shearwater/",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "negative effects, due to the highly congregatory, coastal behaviour of the species.",
+      "context_window": "policy on landing obligation) is also of concern. Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics,",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western",
+      "context_window": "major congregation areas between years, presumably linked to changes in prey distribution and availability. The available information suggests a deceasing trend according to coastal counts from Portugal, while counts from North-Western France have substantially fluctuated and do not show a clear trend in recent years. Counts of birds leaving the",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "species/habitat",
+      "context_window": "survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the species/habitat The Balearic shearwater is listed in Annex 1 of the EU Birds Directive (2009/147/EC), and has merited an International species action plan (Arcos, 2011).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "coastal and highly congregatory), and its low resilience",
+      "context_window": ": The species was considered sensitive at the time of listing due to its low resistance to adverse effects from human activity, due to its behaviour and ecology (e.g. coastal and highly congregatory), and its low resilience due to its life history traits (long-lived and slow to reproduce). Anthropogenic pressures and biological factors",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps While information on distribution patterns has improved, data on abundance patterns and, most importantly, trends in the whole OSPAR Maritime Area, are patchy and require more coordinated action.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low",
+      "context_window": "have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low survival rate of the species by causing habitat loss, and, most severely, collisions. Measures that address key pressures from human activities or conserve the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threat or",
+      "context_window": "Climate change Threat or impact Region",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "been halted in recent years.",
+      "context_window": "Counts of birds leaving the Mediterranean, through the Gibraltar Strait, showed a decline between 2007 and 2012, although this trend might have been halted in recent years. On the other hand, information from the Western Mediterranean in winter (December to February) also suggests a substantial reduction in numbers since the 1990s.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts",
+      "context_window": "France north to Brittany, and also North-Western Morocco and South-Western UK and South-Eastern Ireland. The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "driven by an increase in sea surface temperatures.",
+      "context_window": "The distribution range was reported to increase northwards in the 1990s and early 2000s, presumably related to prey shifts driven by an increase in sea surface temperatures. According to tracking data (limited to adults), birds do not move further north than North-Western France, suggesting that birds occurring in South-Western UK and South-Eastern Ireland",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics",
+      "context_window": "Information on food availability and its potential impacts on the species is incomplete. Regarding new/increasing potential threats, windfarm development should receive particular attention, while the occurrence and impact of plastics on the species, as well as the influence of climate change, should also be addressed. In the breeding grounds, outside the",
+      "page_number": 5,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change has been proposed to",
+      "context_window": "Disturbance caused by sport and leisure nautical activities may also have negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed.",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "have prompted an expansion of the species’ range northwards, which might have implications on population dynamics,",
+      "context_window": "negative effects, due to the highly congregatory, coastal behaviour of the species. Climate change has been proposed to have prompted an expansion of the species’ range northwards, which might have implications on population dynamics, although further evidence is needed. A potential emerging threat is posed by offshore windfarm development, which could affect negatively the already low",
+      "page_number": 4,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 1,
+    "keyword_counts": {
+      "climate change": 4
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Conclusion (including management considerations)",
+      "start_sentence": 303,
+      "end_sentence": 328,
+      "sentence_count": 26,
+      "page_range": "4-5",
+      "sentences": [
+        {
+          "sentence_id": 303,
+          "page_number": 4,
+          "content": "Conclusion (including management considerations)",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 304,
+          "page_number": 4,
+          "content": "Since the first status assessment, there has been considerable novel information on the Balearic she...",
+          "full_length": 117
+        },
+        {
+          "sentence_id": 305,
+          "page_number": 4,
+          "content": "many knowledge gaps remain.",
+          "full_length": 27
+        },
+        {
+          "sentence_id": 306,
+          "page_number": 4,
+          "content": "Overall, the available information confirms the severe decline and threat of the species,",
+          "full_length": 89
+        },
+        {
+          "sentence_id": 307,
+          "page_number": 4,
+          "content": "although direct information is less sound than demographic models.",
+          "full_length": 66
+        }
+      ],
+      "total_sentences_in_section": 26
+    }
+  ],
+  "metadata": {
+    "total_sentences": 396,
+    "chunks_selected": 74,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Conclusion (including management considerations)",
+        "start_sentence": 303,
+        "end_sentence": 328,
+        "sentence_count": 26
+      }
+    ],
+    "total_excluded_sentences": 26
+  }
+}

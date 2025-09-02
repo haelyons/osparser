@@ -1,0 +1,1006 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "and",
+      "context_window": "Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and Table 1 ). The number",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threats appear to be continuing or increasing in OSPAR region I.",
+      "context_window": "Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The threat from predators in the breeding colonies appear to increase.",
+      "context_window": "Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase. The Lesser black-backed gull",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change, environmental pollution and other anthropogenic stressors, predation, competition, and food",
+      "context_window": "The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Identified threats are climate",
+      "context_window": "). The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "limitation.",
+      "context_window": "Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr- 2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "The trend is in reality most likely flatter during the first half of the study period (1990-2005). Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and Table 1",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate change and environmental pollution",
+      "context_window": "Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "remain serious threats.",
+      "context_window": "Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase. The Lesser",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "The direct causes of the population development are still not fully understood.",
+      "context_window": "Figure 1 ). The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change, environmental pollution, competition with intermedius and the Herring gull, predation,",
+      "context_window": "Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor. Background Information",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Whereas the trends are robust, the actual estimates are more uncertain (",
+      "context_window": "1996-2004. The trend is in reality most likely flatter during the first half of the study period (1990-2005). Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Climate",
+      "context_window": "Food limitations Climate change Predation",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "limitations",
+      "context_window": "Pollution Food limitations Climate change",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "are mistaken for Herring gulls). The general population decline across the entire",
+      "context_window": "immatures, fuscus are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring",
+      "context_window": "Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark. ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "This concern has been corroborated by the current assessment.  Table Legend ",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lower confidence in threat assessment because the understanding of singular as well as interactive effects of",
+      "context_window": "distribution. Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor. Background Information Year added to OSPAR list : 2003 (OSPAR 2003)",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-reports/qsr-",
+      "context_window": "change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr- 2023/) Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared",
+      "context_window": "3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution suggests that the decline might be the result of several anthropogenic stressors and increased",
+      "context_window": "fuscus are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1.",
+      "context_window": "primarily in the lakes in and around the East African Rift (Uganda, Kenya, Tanzania and Ethiopia), but also the southeastern part of the Mediterranean Sea, the Red Sea and the Arabian Sea. Figure 1. A. Breeding distribution and B. main migratory flyways (lines) and wintering areas (end arrows) of the Lesser",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark.  References Sheet reference:",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pollution",
+      "context_window": "Assessment of key pressures Pollution Food limitations",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food",
+      "context_window": "pressures Pollution Food limitations Climate",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Predation",
+      "context_window": "Climate change Predation Threat or impact",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "is potentially still suffering from changes in prey abundance and",
+      "context_window": "black-backed gull Larus fuscus fuscus is potentially still suffering from changes in prey abundance and composition. There is also competition from the larger subspecies intermedius",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve",
+      "context_window": "distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve the species/habitat Russia and Norway have introduced national legislation, as well as the HELCOM countries Denmark, Estonia,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties",
+      "context_window": "Method used Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "31/08/2025, 19:12",
+      "context_window": "from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area. 31/08/2025, 19:12 Lesser black-backed gull https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/lesser-black-backed-gull/",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "NA Assessment of key pressures Pollution Food",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threats and Impacts",
+      "context_window": "adult survival rates. Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "against the Texel-Faial criteria",
+      "context_window": "The original evaluation of the Lesser black-backed gull Larus fuscus fuscus against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment is based upon:",
+      "context_window": "Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our understanding of the population development would benefit",
+      "context_window": "The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") demonstrate a stable trend in the Lesser black-backed gull",
+      "context_window": "Trends in the number of breeding pairs ( Figure 2 ) demonstrate a stable trend in the Lesser black-backed gull Larus fuscus fuscus in OSPAR region I since the last assessment. The seeming population drop in the Baltic Sea",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark.",
+      "context_window": "2/6 Method of assessment: 2b,3b – Source: monitoring programs in Russia and Norway, but also national surveys and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark. The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently not known.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method of assessment: 2b – Source: current literature, expert judgements, and indirect data.",
+      "context_window": "breeding pair per year required to maintain a stable population size (Hario & Nuutinen 2011), given adequate adult survival rates. Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition. There is also competition from the larger subspecies",
+      "context_window": "Larus fuscus fuscus is potentially still suffering from changes in prey abundance and composition. There is also competition from the larger subspecies intermedius and the Herring gull",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predation pressure.",
+      "context_window": "are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the",
+      "context_window": "Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the Herring Gull Larus argentatus.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but",
+      "context_window": "gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and",
+      "context_window": "breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area. 31/08/2025, 19:12",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method used",
+      "context_window": "The assessment of threats suffers from a lack of understanding of the joint impact of the stressors potentially responsible for the continuation of the population decline. Method used Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding colonies within OSPAR region I.",
+      "context_window": "Knowledge Gaps The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 1.",
+      "context_window": "Method of assessment: 3a – Source: national surveys and monitoring programs in Finland, Sweden, Estonia, Russia and Norway Table 1. Predicted number of breeding pairs and relative abundance (a proportion of the baseline in 1990 set at 1,0) of Lesser black-backed gull Larus fuscus fuscus",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic pressures and biological factors:",
+      "context_window": "It was considered especially sensitive to oil pollution, predation and disturbances. Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently",
+      "context_window": "Method of assessment: 2b,3b – Source: monitoring programs in Russia and Norway, but also national surveys and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark. The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently not known. Outside the breeding area the subspecies is challenging to monitor as it is a long-distance migrant wintering",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global/regional importance:",
+      "context_window": "against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance: The entire breeding population of the fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The",
+      "context_window": "Norwegian and Russian coastlines within OSPAR Region I Arctic waters. The rest of the population breeds around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The fuscus subspecies leave the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, Norway has an ongoing",
+      "context_window": "Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing bycatch monitoring project and have implemented actions from the Nordic Action Plan for Seabirds. The Lesser black-backed gull",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This concern has been",
+      "context_window": "OSPAR criteria due to its strong population decline, current small population size, and the limited number of breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment. ",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast",
+      "context_window": "fuscus subspecies leave the OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast Africa, and occasionally northwest Africa. Decline:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "referred to decline, rarity and sensitivity, with information also provided on threat.",
+      "context_window": "Larus fuscus fuscus against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance: The entire breeding population of the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1",
+      "context_window": "The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1 ). The direct causes of the population development are still not fully understood.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence",
+      "context_window": "status assessment Evidence of Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The likely principal threats to the fuscus subspecies were",
+      "context_window": "disturbances. Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the Herring Gull",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The rest of the population breeds",
+      "context_window": "assessment (2009) estimated to be 18 –19 000 pairs, whereof approximately 2500 pairs bred along the Norwegian and Russian coastlines within OSPAR Region I Arctic waters. The rest of the population breeds around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment was based on counts of nests or individuals during the breeding season at two monitored",
+      "context_window": "The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "place, and Norway have undertaken some awareness raising activities.",
+      "context_window": "although none provide the highest level of protection. Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing bycatch monitoring project and have implemented actions from the Nordic Action Plan for Seabirds.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is supposedly no trend in the population size  in OSPAR region I since the last assessment (",
+      "context_window": "Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1 ).",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NA",
+      "context_window": "NA V NA Assessment of key pressures",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of key",
+      "context_window": "V NA Assessment of key pressures Pollution",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2020 - Lesser black-backed gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment (",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution.",
+      "context_window": "Confidence High confidence in the status assessment because of the quantitative data used, across the entire fuscus distribution. Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "corroborated by the current assessment.",
+      "context_window": "breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment.  Table Legend",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decline:",
+      "context_window": "OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast Africa, and occasionally northwest Africa. Decline: The fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment:",
+      "context_window": "Herring Gull Larus argentatus. Last status assessment: 2009. OSPAR (2009) concluded that the subspecies continued to qualify under the OSPAR criteria due to its strong population decline, current small population size, and the limited number of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding localities, uncontrolled threats, and inadequate conservation measures.",
+      "context_window": "2009. OSPAR (2009) concluded that the subspecies continued to qualify under the OSPAR criteria due to its strong population decline, current small population size, and the limited number of breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Russia and Norway have monitoring programmes in",
+      "context_window": "Similarly, there are some MPAs, although none provide the highest level of protection. Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gull",
+      "context_window": "Status Assessment 2020 - Lesser black-backed gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but",
+      "page_number": 0,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "and",
+      "context_window": "Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and Table 1 ). The number",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The threat from predators in the breeding colonies appear to increase.",
+      "context_window": "Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase. The Lesser black-backed gull",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Identified threats are climate",
+      "context_window": "). The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation.",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Figure 2",
+      "context_window": "The trend is in reality most likely flatter during the first half of the study period (1990-2005). Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and Table 1",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "remain serious threats.",
+      "context_window": "Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase. The Lesser",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "climate change, environmental pollution, competition with intermedius and the Herring gull, predation,",
+      "context_window": "Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor. Background Information",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate",
+      "context_window": "Food limitations Climate change Predation",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "are mistaken for Herring gulls). The general population decline across the entire",
+      "context_window": "immatures, fuscus are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "This concern has been corroborated by the current assessment.  Table Legend ",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Background Information",
+      "context_window": "climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor. Background Information Year added to OSPAR list : 2003 (OSPAR 2003)",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared",
+      "context_window": "3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1.",
+      "context_window": "primarily in the lakes in and around the East African Rift (Uganda, Kenya, Tanzania and Ethiopia), but also the southeastern part of the Mediterranean Sea, the Red Sea and the Arabian Sea. Figure 1. A. Breeding distribution and B. main migratory flyways (lines) and wintering areas (end arrows) of the Lesser",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Pollution",
+      "context_window": "Assessment of key pressures Pollution Food limitations",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Predation",
+      "context_window": "Climate change Predation Threat or impact",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Measures that address key pressures from human activities or conserve",
+      "context_window": "distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve the species/habitat Russia and Norway have introduced national legislation, as well as the HELCOM countries Denmark, Estonia,",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "pressures",
+      "context_window": "NA Assessment of key pressures Pollution Food",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "against the Texel-Faial criteria",
+      "context_window": "The original evaluation of the Lesser black-backed gull Larus fuscus fuscus against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Our understanding of the population development would benefit",
+      "context_window": "The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark.",
+      "context_window": "2/6 Method of assessment: 2b,3b – Source: monitoring programs in Russia and Norway, but also national surveys and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark. The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently not known.",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "composition. There is also competition from the larger subspecies",
+      "context_window": "Larus fuscus fuscus is potentially still suffering from changes in prey abundance and composition. There is also competition from the larger subspecies intermedius and the Herring gull",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the",
+      "context_window": "Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the Herring Gull Larus argentatus.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and",
+      "context_window": "breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area. 31/08/2025, 19:12",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding colonies within OSPAR region I.",
+      "context_window": "Knowledge Gaps The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Anthropogenic pressures and biological factors:",
+      "context_window": "It was considered especially sensitive to oil pollution, predation and disturbances. Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Global/regional importance:",
+      "context_window": "against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance: The entire breeding population of the fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition, Norway has an ongoing",
+      "context_window": "Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing bycatch monitoring project and have implemented actions from the Nordic Action Plan for Seabirds. The Lesser black-backed gull",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast",
+      "context_window": "fuscus subspecies leave the OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast Africa, and occasionally northwest Africa. Decline:",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1",
+      "context_window": "The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1 ). The direct causes of the population development are still not fully understood.",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The likely principal threats to the fuscus subspecies were",
+      "context_window": "disturbances. Anthropogenic pressures and biological factors: The likely principal threats to the fuscus subspecies were changes in the abundance of prey species, pollution such as PCBs, and competition with and predation by the Herring Gull",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The assessment was based on counts of nests or individuals during the breeding season at two monitored",
+      "context_window": "The assessment was based on counts of nests or individuals during the breeding season at two monitored breeding colonies within OSPAR region I. Our understanding of the population development would benefit",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "there is supposedly no trend in the population size  in OSPAR region I since the last assessment (",
+      "context_window": "Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1 ).",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment of key",
+      "context_window": "V NA Assessment of key pressures Pollution",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution.",
+      "context_window": "Confidence High confidence in the status assessment because of the quantitative data used, across the entire fuscus distribution. Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Decline:",
+      "context_window": "OSPAR area after breeding and spend the winter in the Middle East, eastern Mediterranean and northeast Africa, and occasionally northwest Africa. Decline: The fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "breeding localities, uncontrolled threats, and inadequate conservation measures.",
+      "context_window": "2009. OSPAR (2009) concluded that the subspecies continued to qualify under the OSPAR criteria due to its strong population decline, current small population size, and the limited number of breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment.",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "gull",
+      "context_window": "Status Assessment 2020 - Lesser black-backed gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Russia and Norway have monitoring programmes in",
+      "context_window": "Similarly, there are some MPAs, although none provide the highest level of protection. Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Last status assessment:",
+      "context_window": "Herring Gull Larus argentatus. Last status assessment: 2009. OSPAR (2009) concluded that the subspecies continued to qualify under the OSPAR criteria due to its strong population decline, current small population size, and the limited number of",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "corroborated by the current assessment.",
+      "context_window": "breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment.  Table Legend",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Viewing: Latest Version (1.0.1)",
+      "context_window": "Status Assessment 2020 - Lesser black-backed gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment (",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "NA",
+      "context_window": "NA V NA Assessment of key pressures",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "place, and Norway have undertaken some awareness raising activities.",
+      "context_window": "although none provide the highest level of protection. Russia and Norway have monitoring programmes in place, and Norway have undertaken some awareness raising activities. In addition, Norway has an ongoing bycatch monitoring project and have implemented actions from the Nordic Action Plan for Seabirds.",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The rest of the population breeds",
+      "context_window": "assessment (2009) estimated to be 18 –19 000 pairs, whereof approximately 2500 pairs bred along the Norwegian and Russian coastlines within OSPAR Region I Arctic waters. The rest of the population breeds around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The fuscus",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Evidence",
+      "context_window": "status assessment Evidence of Status",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "referred to decline, rarity and sensitivity, with information also provided on threat.",
+      "context_window": "Larus fuscus fuscus against the Texel-Faial criteria referred to decline, rarity and sensitivity, with information also provided on threat. Global/regional importance: The entire breeding population of the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "This concern has been",
+      "context_window": "OSPAR criteria due to its strong population decline, current small population size, and the limited number of breeding localities, uncontrolled threats, and inadequate conservation measures. This concern has been corroborated by the current assessment. ",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The",
+      "context_window": "Norwegian and Russian coastlines within OSPAR Region I Arctic waters. The rest of the population breeds around the Northern Baltic Sea in Sweden, Finland, Russia and Estonia. The fuscus subspecies leave the",
+      "page_number": 1,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently",
+      "context_window": "Method of assessment: 2b,3b – Source: monitoring programs in Russia and Norway, but also national surveys and monitoring programs in Finland, Sweden, Estonia, as well as data for Denmark. The geographical breeding range is declining outside the OSPAR area; within the OSPAR area this is presently not known. Outside the breeding area the subspecies is challenging to monitor as it is a long-distance migrant wintering",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 1.",
+      "context_window": "Method of assessment: 3a – Source: national surveys and monitoring programs in Finland, Sweden, Estonia, Russia and Norway Table 1. Predicted number of breeding pairs and relative abundance (a proportion of the baseline in 1990 set at 1,0) of Lesser black-backed gull Larus fuscus fuscus",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method used",
+      "context_window": "The assessment of threats suffers from a lack of understanding of the joint impact of the stressors potentially responsible for the continuation of the population decline. Method used Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but",
+      "context_window": "gull Viewing: Latest Version (1.0.1) The status of the Lesser black-backed gull Larus fuscus fuscus breeding population is still vulnerable, but there is supposedly no trend in the population size  in OSPAR region I since the last assessment ( Figure 1",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "predation pressure.",
+      "context_window": "are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve the species/habitat",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Method of assessment: 2b – Source: current literature, expert judgements, and indirect data.",
+      "context_window": "breeding pair per year required to maintain a stable population size (Hario & Nuutinen 2011), given adequate adult survival rates. Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I.",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": ") demonstrate a stable trend in the Lesser black-backed gull",
+      "context_window": "Trends in the number of breeding pairs ( Figure 2 ) demonstrate a stable trend in the Lesser black-backed gull Larus fuscus fuscus in OSPAR region I since the last assessment. The seeming population drop in the Baltic Sea",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Assessment is based upon:",
+      "context_window": "Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Threats and Impacts",
+      "context_window": "adult survival rates. Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "31/08/2025, 19:12",
+      "context_window": "from inclusion of breeding success, and juvenile and adult survival into the present monitoring programs, and from monitoring also at the wintering grounds outside the OSPAR area. 31/08/2025, 19:12 Lesser black-backed gull https://oap.ospar.org/en/ospar-assessments/committee-assessments/biodiversity-committee/status-assesments/lesser-black-backed-gull/",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties",
+      "context_window": "Method used Main source of information: 3. Assessment derived from a mix of OSPAR data assessment and assessments from third parties Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "is potentially still suffering from changes in prey abundance and",
+      "context_window": "black-backed gull Larus fuscus fuscus is potentially still suffering from changes in prey abundance and composition. There is also competition from the larger subspecies intermedius",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Food",
+      "context_window": "pressures Pollution Food limitations Climate",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "",
+      "context_window": "to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark.  References Sheet reference:",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "distribution suggests that the decline might be the result of several anthropogenic stressors and increased",
+      "context_window": "fuscus are mistaken for Herring gulls). The general population decline across the entire distribution suggests that the decline might be the result of several anthropogenic stressors and increased predation pressure. Measures that address key pressures from human activities or conserve",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "(/en/ospar-assessments/quality-status-reports/qsr-",
+      "context_window": "change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr- 2023/) Assessment",
+      "page_number": 0,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Lower confidence in threat assessment because the understanding of singular as well as interactive effects of",
+      "context_window": "distribution. Confidence in OSPAR region I is slightly lower due to small sample size (two monitored colonies). Lower confidence in threat assessment because the understanding of singular as well as interactive effects of climate change, environmental pollution, competition with intermedius and the Herring gull, predation, fishing, and other threats remains poor.",
+      "page_number": 1,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring",
+      "context_window": "Assessment is based upon: a)    complete survey or a statistically robust estimate: this status assessment was greatly improved compared to the background document (OSPAR 2009), by the inclusion of survey data from the national monitoring programs in Finland, Sweden, Estonia, Russia and Norway, as well as data for Denmark. ",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "limitations",
+      "context_window": "Pollution Food limitations Climate change",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Whereas the trends are robust, the actual estimates are more uncertain (",
+      "context_window": "1996-2004. The trend is in reality most likely flatter during the first half of the study period (1990-2005). Whereas the trends are robust, the actual estimates are more uncertain ( Figure 2 and",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The direct causes of the population development are still not fully understood.",
+      "context_window": "Figure 1 ). The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Climate change and environmental pollution",
+      "context_window": "Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats. The threat from predators in the breeding colonies appear to increase.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "limitation.",
+      "context_window": "Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr- 2023/)",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "change, environmental pollution and other anthropogenic stressors, predation, competition, and food",
+      "context_window": "The direct causes of the population development are still not fully understood. Identified threats are climate change, environmental pollution and other anthropogenic stressors, predation, competition, and food limitation. (/en/ospar-assessments/quality-status-reports/qsr-",
+      "page_number": 0,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Threats appear to be continuing or increasing in OSPAR region I.",
+      "context_window": "Method of assessment: 2b – Source: current literature, expert judgements, and indirect data. Threats and Impacts Threats appear to be continuing or increasing in OSPAR region I. Climate change and environmental pollution remain serious threats.",
+      "page_number": 3,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 1,
+    "keyword_counts": {
+      "climate change": 5
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Conclusion (including management considerations)",
+      "start_sentence": 278,
+      "end_sentence": 308,
+      "sentence_count": 31,
+      "page_range": "4-4",
+      "sentences": [
+        {
+          "sentence_id": 278,
+          "page_number": 4,
+          "content": "Conclusion (including management considerations)",
+          "full_length": 48
+        },
+        {
+          "sentence_id": 279,
+          "page_number": 4,
+          "content": "The present status assessment confirms the vulnerable status by a small population size, but demonst...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 280,
+          "page_number": 4,
+          "content": "no trend in the population size of the Lesser black-backed gull",
+          "full_length": 63
+        },
+        {
+          "sentence_id": 281,
+          "page_number": 4,
+          "content": "Larus fuscus fuscus",
+          "full_length": 19
+        },
+        {
+          "sentence_id": 282,
+          "page_number": 4,
+          "content": "in OSPAR region I since the",
+          "full_length": 27
+        }
+      ],
+      "total_sentences_in_section": 31
+    }
+  ],
+  "metadata": {
+    "total_sentences": 359,
+    "chunks_selected": 73,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Conclusion (including management considerations)",
+        "start_sentence": 278,
+        "end_sentence": 308,
+        "sentence_count": 31
+      }
+    ],
+    "total_excluded_sentences": 31
+  }
+}

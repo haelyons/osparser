@@ -1,0 +1,1281 @@
+{
+  "standard_ranking": [
+    {
+      "core_sentence": "(including climate change), or indicator shows no change",
+      "context_window": "indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change but state is considered unsatisfactory No assessment threshold and/or unclear if change",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "linked to increasing impact of anthropogenic pressures",
+      "context_window": "Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change but state is considered unsatisfactory",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicator represents a declining state, or indicator change is",
+      "context_window": "OSPAR Commission Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicators as well as for models.",
+      "context_window": "Such data would be useful not only for strengthening the MTL indicator, but also for all trophic-level and food-web based indicators as well as for models.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator value is below assessment threshold, or change in",
+      "context_window": "10 of 26 OSPAR Commission Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions, whenever robust data on biomass and TLs of species are available.",
+      "context_window": "Knowledge Gaps Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems might become so resilient that no trend means resilience.",
+      "context_window": "decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the Conference of the Parties to the Convention on Biological Diversity as one of eight indicators to monitor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expert resource, or lack of policy support.",
+      "context_window": "Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support. Results The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub-",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "represents improving state, or indicator shows no change",
+      "context_window": "no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change but state is satisfactory Indicator was not assessed in a region due to lack of data,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves.",
+      "context_window": "OSPAR Commission trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience",
+      "context_window": "of the series do not represent ecological target values. Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "context_window": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011). Analyses of stomach contents can provide accurate information on the species consumed as well as serving",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to",
+      "context_window": "Repeated dietary studies and stable isotope analyses implemented at (sub)regional scale and the computation of TL values would help fill in this gap in knowledge. To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the 23 of 26",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "no change but uncertain if state represented is satisfactory",
+      "context_window": "No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "No assessment threshold and/or unclear if change",
+      "context_window": "(including climate change), or indicator shows no change but state is considered unsatisfactory No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "Environmental or human-induced pressures can trigger changes in prey availability",
+      "context_window": "these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability and predator selectivity, in turn causing variability in the TL values for a given species in space and time or even along ontogeny (Pinnegar et al., 2002; Chassot et al., 2008; Vinagre et al., 2012).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Using the present methodological approach, it is currently possible to apply the MTL indicator in other",
+      "context_window": "Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the",
+      "context_window": "23 of 26 OSPAR Commission trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their",
+      "context_window": "food webs’. This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger",
+      "context_window": "estimates by sub-division are then more relevant to calculate the MTL of such particular sub-division. The TL was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger scale, and making use of the latter only when the former were unavailable, as shown in the following scheme: To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "especially the case for species at lower trophic levels.",
+      "context_window": "Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "Knowledge Gaps (Extended)",
+      "context_window": "trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the",
+      "context_window": "implemented at (sub)regional scale and the computation of TL values would help fill in this gap in knowledge. To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the 23 of 26 OSPAR Commission",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characterising systems enduring high and sustained impacts.",
+      "context_window": "Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nevertheless, these findings need to be taken with caution as they are",
+      "context_window": "highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "categories are shown in",
+      "context_window": "Trends were considered to be increasing or decreasing only when linear models were significant (*p<0.05, **p<0.01, ***p<0.001). The resulting categories are shown in Table b. Please note that the present assessment shows changes in the indicator",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Portuguese shelf ecosystem.",
+      "context_window": "OSPAR Commission The results of mapping the indicator show lower values of MTL in northern areas contrasting with higher MTL in Portuguese shelf ecosystem. When plotting the trends by square, small-scale temporal changes that were masked when the indicator was calculated by sub-division appeared.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species,",
+      "context_window": "concerns around their suitability for describing the ecosystem as a whole, due to the strong discrepancies between biomass caught and biomass landed among other shortcomings and uncertainties. For example, landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species, 5 of 26 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To summarise the results of different scenarios and",
+      "context_window": "Assessment criteria The assessment of the MTL is based on its trend analysis. To summarise the results of different scenarios and show a comprehensive message to the scientific and non-scientific community, the results of the trend analyses were binned into categories after McQuatters-Gollop et al., 2022.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Both approaches provide complementary information about food",
+      "context_window": "Stable isotope analyses indicate trophic level based on a longer feeding signature, and so provide a broader view of feeding strategy of a given species. Both approaches provide complementary information about food web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in",
+      "context_window": "with promising results (Preciado et al., 2019), despite using a shorter time series. In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates",
+      "context_window": "anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial resolution when investigating the effects of spatially heterogeneous pressures, such as fishing. Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates that large fish are no longer available because fisheries have depleted top predators’ stocks. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "context_window": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny. Large-scale groundfish surveys (such",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub-",
+      "context_window": "expert resource, or lack of policy support. Results The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub- division (OSPAR Region IV): French shelf (22 y), North Iberian shelf (22 y), Portuguese shelf (19 y) and Gulf of Cadiz shelf (21 y) (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "context_window": "In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Repeat dietary analyses also provide information on spatial and temporal variability in the",
+      "context_window": "Both approaches provide complementary information about food web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the trophic relationships of the species present in a given ecosystem and thus, of their TL values. Such data would",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight the importance of focusing the assessment by sub-division, and also, the need to consider different",
+      "context_window": "versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is",
+      "context_window": "on species TL values). Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in coastal and slope areas, respectively). These contrasting trends",
+      "context_window": "strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Any positive trend in MTL is therefore considered as",
+      "context_window": "starting in 2000 when the bentho-demersal ecosystems were already overexploited, so the values at the start of the series do not represent ecological target values. Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "context_window": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016). Food webs, also called trophic networks, represent the most elemental structure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial",
+      "context_window": "resolution were detected off the north Iberian coast (Preciado et al., 2019), despite the apparent recovery of top predators observed at a regional scale (Arroyo et al., 2019). The strong local influence of this anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial resolution when investigating the effects of spatially heterogeneous pressures, such as fishing. Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios",
+      "context_window": "scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive Models (GAM). All statistical analyses were performed using R software (R Core Team, 2022). For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios ( Figure b",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic relationships of the species present in a given ecosystem and thus, of their TL values.",
+      "context_window": "web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the trophic relationships of the species present in a given ecosystem and thus, of their TL values. Such data would be useful not only for strengthening the MTL indicator, but also for all trophic-level and food-web based",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "context_window": "regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community. Furthermore, detailed information on feeding interactions is strongly needed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend analysis",
+      "context_window": "characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis (linear model and significant tests) and expert judgement are used to set colours based on the categories proposed by McQuatters-Gollop et al., 2022.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted",
+      "context_window": "). Thus, this indicator aimed at highlighting the unsustainable fisheries practices of past decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different trophic levels are well represented.",
+      "context_window": "Within the scientific community, it is considered that food web status should be based on ecosystem indicators which represent the ecosystem as whole, including as many species as possible and making sure different trophic levels are well represented. The Mean Trophic Level (MTL) indicator meets this requirement because it takes into account food web structure and uses a metric (the TL) that reflects energy transfer",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). However, no changes are observed in the rest of scenarios, with the exception",
+      "context_window": "ecosystems ( Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems (Table",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "between biomass caught and biomass landed among other shortcomings and uncertainties. For example,",
+      "context_window": "To compute the MTL indicator, landings have traditionally been the only source of biomass data, raising many concerns around their suitability for describing the ecosystem as a whole, due to the strong discrepancies between biomass caught and biomass landed among other shortcomings and uncertainties. For example, landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species, 5 of 26",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator was not assessed in a region due to lack of data,",
+      "context_window": "represents improving state, or indicator shows no change but state is satisfactory Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lack of",
+      "context_window": "but state is satisfactory Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support. Results",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "show a comprehensive message to the scientific and non-scientific community, the results of the trend",
+      "context_window": "The assessment of the MTL is based on its trend analysis. To summarise the results of different scenarios and show a comprehensive message to the scientific and non-scientific community, the results of the trend analyses were binned into categories after McQuatters-Gollop et al., 2022. Colours are the result of the linear",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "represents declining or improving state, or indicator shows",
+      "context_window": "but state is considered unsatisfactory No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "context_window": "TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected in downward trends of the indicator. Traditionally, the indicator has been calculated using long historical series at large scale (regionally).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition to the expansion",
+      "context_window": "A case study in the North Iberian coast based on this approach has recently being published with promising results (Preciado et al., 2019), despite using a shorter time series. In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ecological and geographical scenarios",
+      "context_window": "This uncertainty needs to be reported as a standard error for each TL value of a species. Ecological and geographical scenarios Different scenarios were considered for the calculation of MTL and MTL changes across time. Firstly, the MTL",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into",
+      "context_window": "part of the French shelf and North Iberian slope, while showing overall increasing trends in the northern Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species. Positive values indicate",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and predator selectivity, in turn causing variability in the TL values for a given species in space and time or",
+      "context_window": "can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability and predator selectivity, in turn causing variability in the TL values for a given species in space and time or even along ontogeny (Pinnegar et al., 2002; Chassot et al., 2008; Vinagre et al., 2012). Therefore, TL values",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "models showing increase/no-trend/decrease of the indicator.",
+      "context_window": "analyses were binned into categories after McQuatters-Gollop et al., 2022. Colours are the result of the linear models showing increase/no-trend/decrease of the indicator. Trends were considered to be increasing or decreasing only when linear models were significant (*p<0.05, **p<0.01, ***p<0.001). The resulting",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Significant trends are framed in bold.",
+      "context_window": "top 6 maps show mean Trophic Level by square, bottom 6 maps show trend of the MTL by square. Green = increasing trend, Orange-yellow = no trend, Red = decreasing trend. Significant trends are framed in bold. COAST SHELF",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similar responses are observed with and without",
+      "context_window": "Considering top predators alone (MTL4), the MTL indicator shows significant linear increasing trends in coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species ( Figure 2, Table 1",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Filter criteria should be agreed among scientists so that the assessment is consistent",
+      "context_window": "sampled through the historical series, cumulative curves were applied to the biomass database to make a selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions. The following criteria were finally decided, based on the inflection points of species frequency",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strata considered (decrease",
+      "context_window": "of the marine food web displayed no apparent changes when analysing the entire community, with the exception of the Gulf of Cadiz, where contrasting trends were observed in the MTL depending on the depth strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator value is above assessment threshold, or indicator",
+      "context_window": "represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change but state is satisfactory",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (Extended)",
+      "context_window": "Knowledge Gaps 22 Knowledge Gaps (Extended) 23 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to many environmental and anthropogenic pressures that cause alterations on ecosystem components at",
+      "context_window": "OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, data from scientific surveys reflect actual changes in community composition because",
+      "context_window": "or by-catch), and are subject to multiple biases induced by fisheries drivers (Branch et al., 2010; Pauly et al., 2013). In contrast, data from scientific surveys reflect actual changes in community composition because they are not influenced by market forces (i.e., selectively fishing for particular commercial species only) and include all species that fisheries by-catch and are commonly not reported with the landings.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "these values do not reflect the characteristics of a given region where trophic interactions between species",
+      "context_window": "times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In many cases",
+      "context_window": "However, these values might refer to specific populations and sampling times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "across regions.",
+      "context_window": "selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions. The following criteria were finally decided, based on the inflection points of species frequency of occurrence by space and time, and their abundance distribution:",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric and ecological scenarios.",
+      "context_window": "increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "magnitude higher compared to other sub-divisions (",
+      "context_window": "It should be noted that the rate of change in MTL across the time series in many of the scenarios was one order of magnitude higher compared to other sub-divisions ( Table 1 ).",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators",
+      "context_window": "also detected when analysing the meso- and top predators. In the North Iberian coast contrasting results were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators in all scenarios. In Portuguese waters a significant decrease of top predators in shelf ecosystems was",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion (extended) 22 Knowledge Gaps 22 Knowledge Gaps (Extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected",
+      "context_window": "4 of 26 OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment the indicator MTL has been tested in the four sub-divisions within OSPAR Region",
+      "context_window": "p-value for the statistical test of significance (linear model), *: p<0,05, **: p<0,01 ***: p<0,001. Results (extended) In the present assessment the indicator MTL has been tested in the four sub-divisions within OSPAR Region IV: French, North Iberian, Portuguese and Gulf of Cadiz shelves. The compilation of TL values by sub-division",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive",
+      "context_window": "refers to the biomass (Y) of species (group) i in each haul h. The resulting MTL values were explored to identify changes along the historical series in the different scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive Models (GAM). All statistical analyses were performed using R software (R Core Team, 2022). For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, shelf and deep ecosystems show signs of",
+      "context_window": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showing significant trends being scattered across the area (",
+      "context_window": "This sub- division showed little evidence of MTL changes at the local scale in any of the scenarios, with very few cells showing significant trends being scattered across the area ( Figure 6, Figure 7 and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding",
+      "context_window": "was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger scale, and making use of the latter only when the former were unavailable, as shown in the following scheme: To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding taxa identified at low taxonomic resolution (i.e., phylum, sub-phylum, class, superorder, order, suborder and infraorder).",
+      "page_number": 6,
+      "keyword_hits": {}
+    }
+  ],
+  "u_shaped_ranking": [
+    {
+      "core_sentence": "(including climate change), or indicator shows no change",
+      "context_window": "indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change but state is considered unsatisfactory No assessment threshold and/or unclear if change",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicator represents a declining state, or indicator change is",
+      "context_window": "OSPAR Commission Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "indicators as well as for models.",
+      "context_window": "Such data would be useful not only for strengthening the MTL indicator, but also for all trophic-level and food-web based indicators as well as for models.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "regions, whenever robust data on biomass and TLs of species are available.",
+      "context_window": "Knowledge Gaps Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems might become so resilient that no trend means resilience.",
+      "context_window": "decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the Conference of the Parties to the Convention on Biological Diversity as one of eight indicators to monitor",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "represents improving state, or indicator shows no change",
+      "context_window": "no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change but state is satisfactory Indicator was not assessed in a region due to lack of data,",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "ecosystems to avoid significant adverse impacts, including by",
+      "context_window": "List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves.",
+      "context_window": "OSPAR Commission trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "context_window": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011). Analyses of stomach contents can provide accurate information on the species consumed as well as serving",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "no change but uncertain if state represented is satisfactory",
+      "context_window": "No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Environmental or human-induced pressures can trigger changes in prey availability",
+      "context_window": "these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability and predator selectivity, in turn causing variability in the TL values for a given species in space and time or even along ontogeny (Pinnegar et al., 2002; Chassot et al., 2008; Vinagre et al., 2012).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the",
+      "context_window": "23 of 26 OSPAR Commission trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended)",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger",
+      "context_window": "estimates by sub-division are then more relevant to calculate the MTL of such particular sub-division. The TL was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger scale, and making use of the latter only when the former were unavailable, as shown in the following scheme: To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "change and ocean acidification.",
+      "context_window": "Our vision is a clean, healthy and biologically diverse North-East Atlantic Ocean, which is productive, used sustainably and resilient to climate change and ocean acidification.",
+      "page_number": 27,
+      "keyword_hits": {
+        "climate change": 1,
+        "ocean acidification": 1
+      }
+    },
+    {
+      "core_sentence": "incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the",
+      "context_window": "implemented at (sub)regional scale and the computation of TL values would help fill in this gap in knowledge. To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the 23 of 26 OSPAR Commission",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Nevertheless, these findings need to be taken with caution as they are",
+      "context_window": "highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "in Portuguese shelf ecosystem.",
+      "context_window": "OSPAR Commission The results of mapping the indicator show lower values of MTL in northern areas contrasting with higher MTL in Portuguese shelf ecosystem. When plotting the trends by square, small-scale temporal changes that were masked when the indicator was calculated by sub-division appeared.",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To summarise the results of different scenarios and",
+      "context_window": "Assessment criteria The assessment of the MTL is based on its trend analysis. To summarise the results of different scenarios and show a comprehensive message to the scientific and non-scientific community, the results of the trend analyses were binned into categories after McQuatters-Gollop et al., 2022.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in",
+      "context_window": "with promising results (Preciado et al., 2019), despite using a shorter time series. In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems).",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator Assessment",
+      "context_window": "Assessment type List Indicator Assessment Summary Results",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub-",
+      "context_window": "expert resource, or lack of policy support. Results The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub- division (OSPAR Region IV): French shelf (22 y), North Iberian shelf (22 y), Portuguese shelf (19 y) and Gulf of Cadiz shelf (21 y) (",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Repeat dietary analyses also provide information on spatial and temporal variability in the",
+      "context_window": "Both approaches provide complementary information about food web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the trophic relationships of the species present in a given ecosystem and thus, of their TL values. Such data would",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "food webs are currently insufficient for the purposes of conducting this type of assessment, and this is",
+      "context_window": "on species TL values). Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Any positive trend in MTL is therefore considered as",
+      "context_window": "starting in 2000 when the bentho-demersal ecosystems were already overexploited, so the values at the start of the series do not represent ecological target values. Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial",
+      "context_window": "resolution were detected off the north Iberian coast (Preciado et al., 2019), despite the apparent recovery of top predators observed at a regional scale (Arroyo et al., 2019). The strong local influence of this anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial resolution when investigating the effects of spatially heterogeneous pressures, such as fishing. Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "trophic relationships of the species present in a given ecosystem and thus, of their TL values.",
+      "context_window": "web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the trophic relationships of the species present in a given ecosystem and thus, of their TL values. Such data would be useful not only for strengthening the MTL indicator, but also for all trophic-level and food-web based",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Trend analysis",
+      "context_window": "characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis (linear model and significant tests) and expert judgement are used to set colours based on the categories proposed by McQuatters-Gollop et al., 2022.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different trophic levels are well represented.",
+      "context_window": "Within the scientific community, it is considered that food web status should be based on ecosystem indicators which represent the ecosystem as whole, including as many species as possible and making sure different trophic levels are well represented. The Mean Trophic Level (MTL) indicator meets this requirement because it takes into account food web structure and uses a metric (the TL) that reflects energy transfer",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "between biomass caught and biomass landed among other shortcomings and uncertainties. For example,",
+      "context_window": "To compute the MTL indicator, landings have traditionally been the only source of biomass data, raising many concerns around their suitability for describing the ecosystem as a whole, due to the strong discrepancies between biomass caught and biomass landed among other shortcomings and uncertainties. For example, landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species, 5 of 26",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "lack of",
+      "context_window": "but state is satisfactory Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support. Results",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "represents declining or improving state, or indicator shows",
+      "context_window": "but state is considered unsatisfactory No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In addition to the expansion",
+      "context_window": "A case study in the North Iberian coast based on this approach has recently being published with promising results (Preciado et al., 2019), despite using a shorter time series. In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into",
+      "context_window": "part of the French shelf and North Iberian slope, while showing overall increasing trends in the northern Portuguese shelf and slope. Table 1: Summary of the assessment of the different scenarios in the four OSPAR sub- divisions taking into account TL thresholds, depth strata and including/excluding pelagic species. Positive values indicate",
+      "page_number": 18,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "models showing increase/no-trend/decrease of the indicator.",
+      "context_window": "analyses were binned into categories after McQuatters-Gollop et al., 2022. Colours are the result of the linear models showing increase/no-trend/decrease of the indicator. Trends were considered to be increasing or decreasing only when linear models were significant (*p<0.05, **p<0.01, ***p<0.001). The resulting",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Similar responses are observed with and without",
+      "context_window": "Considering top predators alone (MTL4), the MTL indicator shows significant linear increasing trends in coastal and shelf areas, but no change in deeper waters. Similar responses are observed with and without pelagic species ( Figure 2, Table 1",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strata considered (decrease",
+      "context_window": "of the marine food web displayed no apparent changes when analysing the entire community, with the exception of the Gulf of Cadiz, where contrasting trends were observed in the MTL depending on the depth strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (Extended)",
+      "context_window": "Knowledge Gaps 22 Knowledge Gaps (Extended) 23 References",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, data from scientific surveys reflect actual changes in community composition because",
+      "context_window": "or by-catch), and are subject to multiple biases induced by fisheries drivers (Branch et al., 2010; Pauly et al., 2013). In contrast, data from scientific surveys reflect actual changes in community composition because they are not influenced by market forces (i.e., selectively fishing for particular commercial species only) and include all species that fisheries by-catch and are commonly not reported with the landings.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In many cases",
+      "context_window": "However, these values might refer to specific populations and sampling times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific.",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "bathymetric and ecological scenarios.",
+      "context_window": "increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are highly dependent on the length and source of the time series considered.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators",
+      "context_window": "also detected when analysing the meso- and top predators. In the North Iberian coast contrasting results were detected with a decrease in the MTL of top predators while a significant increase of meso- top predators in all scenarios. In Portuguese waters a significant decrease of top predators in shelf ecosystems was",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected",
+      "context_window": "4 of 26 OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive",
+      "context_window": "refers to the biomass (Y) of species (group) i in each haul h. The resulting MTL values were explored to identify changes along the historical series in the different scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive Models (GAM). All statistical analyses were performed using R software (R Core Team, 2022). For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "showing significant trends being scattered across the area (",
+      "context_window": "This sub- division showed little evidence of MTL changes at the local scale in any of the scenarios, with very few cells showing significant trends being scattered across the area ( Figure 6, Figure 7 and",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding",
+      "context_window": "was compiled in three different steps, prioritising in each case local estimates over TL estimated at larger scale, and making use of the latter only when the former were unavailable, as shown in the following scheme: To do this, only taxons at high taxonomic resolution (species, genus or family) were considered, excluding taxa identified at low taxonomic resolution (i.e., phylum, sub-phylum, class, superorder, order, suborder and infraorder).",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In contrast, shelf and deep ecosystems show signs of",
+      "context_window": "In the Gulf of Cadiz, coastal ecosystems show decreasing trends when considering all community and meso + top predators. In contrast, shelf and deep ecosystems show signs of recovery at all trophic levels. 11 of 26",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In the present assessment the indicator MTL has been tested in the four sub-divisions within OSPAR Region",
+      "context_window": "p-value for the statistical test of significance (linear model), *: p<0,05, **: p<0,01 ***: p<0,001. Results (extended) In the present assessment the indicator MTL has been tested in the four sub-divisions within OSPAR Region IV: French, North Iberian, Portuguese and Gulf of Cadiz shelves. The compilation of TL values by sub-division",
+      "page_number": 19,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Conclusion (extended) 22 Knowledge Gaps 22 Knowledge Gaps (Extended)",
+      "page_number": 2,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "magnitude higher compared to other sub-divisions (",
+      "context_window": "It should be noted that the rate of change in MTL across the time series in many of the scenarios was one order of magnitude higher compared to other sub-divisions ( Table 1 ).",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "across regions.",
+      "context_window": "selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions. The following criteria were finally decided, based on the inflection points of species frequency of occurrence by space and time, and their abundance distribution:",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "these values do not reflect the characteristics of a given region where trophic interactions between species",
+      "context_window": "times or be calculated as worldwide averages based on TL data from different ecosystems. In many cases these values do not reflect the characteristics of a given region where trophic interactions between species can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "to many environmental and anthropogenic pressures that cause alterations on ecosystem components at",
+      "context_window": "OSPAR Commission Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016).",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator value is above assessment threshold, or indicator",
+      "context_window": "represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory Indicator value is above assessment threshold, or indicator represents improving state, or indicator shows no change but state is satisfactory",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Filter criteria should be agreed among scientists so that the assessment is consistent",
+      "context_window": "sampled through the historical series, cumulative curves were applied to the biomass database to make a selection of species. Filter criteria should be agreed among scientists so that the assessment is consistent across regions. The following criteria were finally decided, based on the inflection points of species frequency",
+      "page_number": 7,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Significant trends are framed in bold.",
+      "context_window": "top 6 maps show mean Trophic Level by square, bottom 6 maps show trend of the MTL by square. Green = increasing trend, Orange-yellow = no trend, Red = decreasing trend. Significant trends are framed in bold. COAST SHELF",
+      "page_number": 15,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and predator selectivity, in turn causing variability in the TL values for a given species in space and time or",
+      "context_window": "can be region-specific. Environmental or human-induced pressures can trigger changes in prey availability and predator selectivity, in turn causing variability in the TL values for a given species in space and time or even along ontogeny (Pinnegar et al., 2002; Chassot et al., 2008; Vinagre et al., 2012). Therefore, TL values",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Ecological and geographical scenarios",
+      "context_window": "This uncertainty needs to be reported as a standard error for each TL value of a species. Ecological and geographical scenarios Different scenarios were considered for the calculation of MTL and MTL changes across time. Firstly, the MTL",
+      "page_number": 6,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected",
+      "context_window": "TLs and thus a decline in the MTL of fisheries landings is commonly observed. Hypothetically, in those fisheries targeting small pelagics, the decrease of food availability to upper trophic levels could be reflected in downward trends of the indicator. Traditionally, the indicator has been calculated using long historical series at large scale (regionally).",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "show a comprehensive message to the scientific and non-scientific community, the results of the trend",
+      "context_window": "The assessment of the MTL is based on its trend analysis. To summarise the results of different scenarios and show a comprehensive message to the scientific and non-scientific community, the results of the trend analyses were binned into categories after McQuatters-Gollop et al., 2022. Colours are the result of the linear",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator was not assessed in a region due to lack of data,",
+      "context_window": "represents improving state, or indicator shows no change but state is satisfactory Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support.",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "). However, no changes are observed in the rest of scenarios, with the exception",
+      "context_window": "ecosystems ( Figure 4, Table 1 ). However, no changes are observed in the rest of scenarios, with the exception of a slight increase in the indicator including all community (MTL2 with pelagic) in shelf ecosystems (Table",
+      "page_number": 20,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted",
+      "context_window": "). Thus, this indicator aimed at highlighting the unsustainable fisheries practices of past decades. The lack of trends in this indicator does not necessarily indicate no impact, as highly impacted ecosystems might become so resilient that no trend means resilience. The indicator was adopted by the",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "and invertebrates is a limitation to calculate the indicator for the whole community.",
+      "context_window": "regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos and invertebrates is a limitation to calculate the indicator for the whole community. Furthermore, detailed information on feeding interactions is strongly needed.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios",
+      "context_window": "scenarios, by modelling the MTL as a function of year using Linear Models (LM) and/or Generalised Additive Models (GAM). All statistical analyses were performed using R software (R Core Team, 2022). For the spatio-temporal approach, the calculation process follows the next steps for each of the scenarios ( Figure b",
+      "page_number": 8,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et",
+      "context_window": "Marine ecosystem functioning strongly depends on its structure, diversity and integrity, which are subjected to many environmental and anthropogenic pressures that cause alterations on ecosystem components at high, intermediate and low trophic levels (Cury et al., 2005; Bundy et al., 2010; Link et al., 2010; Heymans et al., 2014; Coll et al., 2016). Food webs, also called trophic networks, represent the most elemental structure",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "increase in coastal and slope areas, respectively). These contrasting trends",
+      "context_window": "strata considered (decrease versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios.",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "highlight the importance of focusing the assessment by sub-division, and also, the need to consider different",
+      "context_window": "versus increase in coastal and slope areas, respectively). These contrasting trends highlight the importance of focusing the assessment by sub-division, and also, the need to consider different bathymetric and ecological scenarios. Nevertheless, these findings need to be taken with caution as they are",
+      "page_number": 21,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and",
+      "context_window": "In addition to the expansion of the analyses in space (other sub-divisions) and time (2000-2021), MTL trends are also calculated in different scenarios, in order to identify potential changes of the trends with depth (i.e., coastal, shelf and deep ecosystems). Assessment Method",
+      "page_number": 5,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "In order to establish trophic relationships more accurately so that TL values can be determined, data are",
+      "context_window": "indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny. Large-scale groundfish surveys (such",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates",
+      "context_window": "anthropogenic pressure on bentho-demersal food webs showed the relevance of using local spatial resolution when investigating the effects of spatially heterogeneous pressures, such as fishing. Figure 1: Diagram showing the rationale behind the MTL indicator: if Trophic Levels (TLs) decline it indicates that large fish are no longer available because fisheries have depleted top predators’ stocks. Background (extended)",
+      "page_number": 3,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Both approaches provide complementary information about food",
+      "context_window": "Stable isotope analyses indicate trophic level based on a longer feeding signature, and so provide a broader view of feeding strategy of a given species. Both approaches provide complementary information about food web functioning. Repeat dietary analyses also provide information on spatial and temporal variability in the",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species,",
+      "context_window": "concerns around their suitability for describing the ecosystem as a whole, due to the strong discrepancies between biomass caught and biomass landed among other shortcomings and uncertainties. For example, landings data are incomplete (i.e., they do not take into account illegal, unregulated, and unreported species, 5 of 26 OSPAR Commission",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "categories are shown in",
+      "context_window": "Trends were considered to be increasing or decreasing only when linear models were significant (*p<0.05, **p<0.01, ***p<0.001). The resulting categories are shown in Table b. Please note that the present assessment shows changes in the indicator",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "characterising systems enduring high and sustained impacts.",
+      "context_window": "Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results. Trend analysis",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps (Extended)",
+      "context_window": "trophic level of species with size, iii) to investigate the influence of various anthropogenic pressures on the indicator, iv) to improve the assessment criteria by defining thresholds using pressure-state curves. Knowledge Gaps (Extended) In order to establish trophic relationships more accurately so that TL values can be determined, data are required on species feeding habits and their variations with ontogeny.",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "especially the case for species at lower trophic levels.",
+      "context_window": "Comprehensive datasets on the feeding ecology of many of the key species in marine food webs are currently insufficient for the purposes of conducting this type of assessment, and this is especially the case for species at lower trophic levels. The first step in filling these gaps in knowledge of food web structure and connectivity is to extend data collection on feeding ecology by sub-division (Carafa et al., 2007; Moloney et al., 2010; Rossberg et al., 2011).",
+      "page_number": 23,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their",
+      "context_window": "food webs’. This indicator proved that a decline in the MTL of the global fisheries catch during the 1990s revealed an erosion of the high trophic levels in the ecosystems worldwide, forcing fisheries to shift their pressure from the top predators to lower trophic levels, due to the decline in biomass of high trophic level species (",
+      "page_number": 4,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Using the present methodological approach, it is currently possible to apply the MTL indicator in other",
+      "context_window": "Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available. Lack of biomass data on benthos",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "No assessment threshold and/or unclear if change",
+      "context_window": "(including climate change), or indicator shows no change but state is considered unsatisfactory No assessment threshold and/or unclear if change represents declining or improving state, or indicator shows no change but uncertain if state represented is satisfactory",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    },
+    {
+      "core_sentence": "To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to",
+      "context_window": "Repeated dietary studies and stable isotope analyses implemented at (sub)regional scale and the computation of TL values would help fill in this gap in knowledge. To improve the assessment of the state of the food web, further work on the MTL indicator include: i) to incorporate the interannual variability of the trophic level of species, ii) to incorporate variations of the 23 of 26",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience",
+      "context_window": "of the series do not represent ecological target values. Any positive trend in MTL is therefore considered as a sign of recovery, while a non-significant trend can be considered as a sign of the high resilience characterising systems enduring high and sustained impacts. Table b: Biodiversity status categories and colours used for the interpretation of the results.",
+      "page_number": 9,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "strengthening their resilience, and take action for their restoration in",
+      "context_window": "14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "order to achieve healthy and productive oceans",
+      "context_window": "ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans Thematic Activity List",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "expert resource, or lack of policy support.",
+      "context_window": "Indicator was not assessed in a region due to lack of data, lack of expert resource, or lack of policy support. Results The Mean Trophic Level (MTL) indicator was assessed over a period of 19-22 years depending on the sub-",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Knowledge Gaps",
+      "context_window": "Knowledge Gaps Using the present methodological approach, it is currently possible to apply the MTL indicator in other regions, whenever robust data on biomass and TLs of species are available.",
+      "page_number": 22,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "Indicator value is below assessment threshold, or change in",
+      "context_window": "10 of 26 OSPAR Commission Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures",
+      "page_number": 10,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "14.2 By 2020, sustainably manage and protect marine and coastal",
+      "context_window": "SDG Indicator List 14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in",
+      "page_number": 25,
+      "keyword_hits": {}
+    },
+    {
+      "core_sentence": "linked to increasing impact of anthropogenic pressures",
+      "context_window": "Indicator value is below assessment threshold, or change in indicator represents a declining state, or indicator change is linked to increasing impact of anthropogenic pressures (including climate change), or indicator shows no change but state is considered unsatisfactory",
+      "page_number": 10,
+      "keyword_hits": {
+        "climate change": 1
+      }
+    }
+  ],
+  "document_keyword_summary": {
+    "total_keywords_found": 2,
+    "keyword_counts": {
+      "climate change": 2,
+      "ocean acidification": 1
+    }
+  },
+  "excluded_content_debug": [
+    {
+      "section_name": "Key Message",
+      "start_sentence": 78,
+      "end_sentence": 81,
+      "sentence_count": 4,
+      "page_range": "3-3",
+      "sentences": [
+        {
+          "sentence_id": 78,
+          "page_number": 3,
+          "content": "Key Message",
+          "full_length": 11
+        },
+        {
+          "sentence_id": 79,
+          "page_number": 3,
+          "content": "The Mean Trophic Level (MTL) showed contrasting trends in the four sub-divisions of the Bay of Bisca...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 80,
+          "page_number": 3,
+          "content": "Iberian Coast over recent decades. Although signs of recovery of top predators and mesopredators are",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 81,
+          "page_number": 3,
+          "content": "observed in most sub-divisions, there were downward trends in some local areas.",
+          "full_length": 79
+        }
+      ],
+      "total_sentences_in_section": 4
+    },
+    {
+      "section_name": "Conclusion",
+      "start_sentence": 883,
+      "end_sentence": 909,
+      "sentence_count": 27,
+      "page_range": "21-22",
+      "sentences": [
+        {
+          "sentence_id": 883,
+          "page_number": 21,
+          "content": "Conclusion",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 884,
+          "page_number": 21,
+          "content": "The Mean Trophic Level (MTL) in OSPAR Region IV showed contrasting trends in the overall food web",
+          "full_length": 97
+        },
+        {
+          "sentence_id": 885,
+          "page_number": 21,
+          "content": "structure, depending on the sub-division and the part of the ecosystem studied.",
+          "full_length": 79
+        },
+        {
+          "sentence_id": 886,
+          "page_number": 21,
+          "content": "In northern (French shelf)",
+          "full_length": 26
+        },
+        {
+          "sentence_id": 887,
+          "page_number": 21,
+          "content": "and southern areas (Gulf of Cadiz shelf) there were signs of improvements in the upper trophic level...",
+          "full_length": 105
+        }
+      ],
+      "total_sentences_in_section": 27
+    },
+    {
+      "section_name": "Conclusion (extended)",
+      "start_sentence": 910,
+      "end_sentence": 959,
+      "sentence_count": 50,
+      "page_range": "22-22",
+      "sentences": [
+        {
+          "sentence_id": 910,
+          "page_number": 22,
+          "content": "Conclusion (extended)",
+          "full_length": 21
+        },
+        {
+          "sentence_id": 911,
+          "page_number": 22,
+          "content": "The Mean Trophic Level (MTL) in OSPAR Region IV showed an apparent sign of recovery when focusing on",
+          "full_length": 100
+        },
+        {
+          "sentence_id": 912,
+          "page_number": 22,
+          "content": "top predators (MTL4) in the northern and southernmost areas of the region (French continental and Gu...",
+          "full_length": 105
+        },
+        {
+          "sentence_id": 913,
+          "page_number": 22,
+          "content": "Cadiz shelves). Nevertheless, when including mesopredators in the indicator (MTL3.25) an overall",
+          "full_length": 96
+        },
+        {
+          "sentence_id": 914,
+          "page_number": 22,
+          "content": "improvement was observed across sub-divisions.",
+          "full_length": 46
+        }
+      ],
+      "total_sentences_in_section": 50
+    },
+    {
+      "section_name": "References",
+      "start_sentence": 999,
+      "end_sentence": 1148,
+      "sentence_count": 150,
+      "page_range": "23-25",
+      "sentences": [
+        {
+          "sentence_id": 999,
+          "page_number": 23,
+          "content": "References",
+          "full_length": 10
+        },
+        {
+          "sentence_id": 1000,
+          "page_number": 23,
+          "content": "Arroyo, N.L., Safi, G., Vouriot, P., López-López L., Niquil, N., Le Loc’h, F., Hattab T., Preciado I...",
+          "full_length": 101
+        },
+        {
+          "sentence_id": 1001,
+          "page_number": 23,
+          "content": "2019.",
+          "full_length": 5
+        },
+        {
+          "sentence_id": 1002,
+          "page_number": 23,
+          "content": "Towards",
+          "full_length": 7
+        },
+        {
+          "sentence_id": 1003,
+          "page_number": 23,
+          "content": "coherent GES assessments at sub-regional level: signs of fisheries expansion processes in the Bay of...",
+          "full_length": 107
+        }
+      ],
+      "total_sentences_in_section": 150
+    }
+  ],
+  "metadata": {
+    "total_sentences": 1217,
+    "chunks_selected": 88,
+    "window_size": 2,
+    "bm25_enabled": true,
+    "semantic_weight": 0.7,
+    "excluded_sections": [
+      {
+        "section_name": "Key Message",
+        "start_sentence": 78,
+        "end_sentence": 81,
+        "sentence_count": 4
+      },
+      {
+        "section_name": "Conclusion",
+        "start_sentence": 883,
+        "end_sentence": 909,
+        "sentence_count": 27
+      },
+      {
+        "section_name": "Conclusion (extended)",
+        "start_sentence": 910,
+        "end_sentence": 959,
+        "sentence_count": 50
+      },
+      {
+        "section_name": "References",
+        "start_sentence": 999,
+        "end_sentence": 1148,
+        "sentence_count": 150
+      }
+    ],
+    "total_excluded_sentences": 231
+  }
+}
