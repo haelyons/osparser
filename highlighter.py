@@ -6,6 +6,7 @@ import numpy as np
 import torch
 import nltk
 import os
+import sys
 import argparse
 import json
 import re
@@ -44,11 +45,31 @@ EXCLUDED_SECTIONS = [
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(f"Using device: {device}")
 
-# The bi-encoder is used to create vector embeddings for sentences
-bi_encoder = SentenceTransformer(BI_ENCODER_MODEL, device=device)
-# The cross-encoder is used to re-rank the retrieved sentences for maximum relevance
-cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL, device=device)
-print("Models initialized successfully.")
+# Global variables for models - will be initialized when needed
+bi_encoder = None
+cross_encoder = None
+
+def initialize_models():
+    """Initialize models with proper error handling for network issues."""
+    global bi_encoder, cross_encoder
+    
+    if bi_encoder is not None and cross_encoder is not None:
+        return True
+    
+    try:
+        print("Initializing models...")
+        print(f"Loading bi-encoder: {BI_ENCODER_MODEL}")
+        bi_encoder = SentenceTransformer(BI_ENCODER_MODEL, device=device)
+        
+        print(f"Loading cross-encoder: {CROSS_ENCODER_MODEL}")
+        cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL, device=device)
+        
+        print("Models initialized successfully.")
+        return True
+        
+    except Exception as e:
+        print(f"ERROR: Failed to initialize models")
+        return False
 
 def extract_text_with_styles(pdf_path):
     """Extract all text with complete style information"""
@@ -491,6 +512,11 @@ def highlight_relevant_content_advanced(
         alpha: Weight for combining dense (semantic) and sparse (BM25) scores.
                Higher values favor semantic similarity.
     """
+    # Initialize models first - this is where network issues typically occur
+    if not initialize_models():
+        print("Cannot proceed without models. Exiting.")
+        return None
+    
     print("Loading PDF and splitting into sentences...")
     sentences, excluded_sections = load_and_split_sentences(pdf_path)
     
@@ -505,13 +531,8 @@ def highlight_relevant_content_advanced(
         print("No excluded sections found.")
     
     if not sentences:
-        print("No text could be extracted from the PDF.")
-        return {
-            "standard_ranking": [],
-            "u_shaped_ranking": [],
-            "document_keyword_summary": {"total_keywords_found": 0, "keyword_counts": {}},
-            "metadata": {"total_sentences": 0, "chunks_selected": 0, "window_size": window_size, "bm25_enabled": use_bm25, "semantic_weight": alpha if use_bm25 else 1.0}
-        }
+        print("ERROR: No text could be extracted from the PDF.")
+        return None
 
     total_sentences = len(sentences)
     # Scale selected sentences logarithmically with sensible bounds
@@ -681,7 +702,10 @@ if __name__ == '__main__':
             alpha=args.alpha
         )
 
-        if result and result.get('standard_ranking'):
+        if result is None:
+            print("\nFailed to process PDF - exiting with error code.")
+            sys.exit(1)
+        elif result and result.get('standard_ranking'):
             print(f"\nSaving structured output to {output_json_file}...")
             with open(output_json_file, 'w', encoding='utf-8') as f:
                 json.dump(result, f, indent=2, ensure_ascii=False)
@@ -698,4 +722,5 @@ if __name__ == '__main__':
                 print("- Keyword counts:", keyword_summary['keyword_counts'])
             print(f"- BM25 hybrid retrieval: {'Enabled' if metadata.get('bm25_enabled') else 'Disabled'}")
         else:
-            print("\nNo relevant chunks were found or the PDF could not be processed.")
+            print("\nERROR: No relevant chunks were found or the PDF could not be processed.")
+            sys.exit(1)

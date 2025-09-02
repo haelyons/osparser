@@ -2,6 +2,7 @@ import os
 import subprocess
 import sys
 import re
+import csv
 
 QUESTIONS = [
     "What do they say about climate change",
@@ -16,7 +17,8 @@ QUESTIONS = [
 ]
 
 SOURCE_DIR = 'sources'
-OUTPUT_DIR = 'new_outputs'
+OUTPUT_DIR = 'outputs'
+CSV_TEMPLATE = 'results/analysis_010925_v3_clean.csv'  # Default CSV with PDFs to process
 
 def trim_question_for_filename(question: str, max_words: int = 8) -> str:
     """
@@ -34,6 +36,83 @@ def sanitize_filename(name: str) -> str:
     clean = ''.join(c for c in name if c.isalnum() or c.isspace())
     return clean.strip().replace(' ', '_')
 
+def normalize_filename(filename: str) -> str:
+    """Normalize filename for comparison by removing extension, lowercasing, and standardizing punctuation"""
+    # Remove .pdf extension
+    name = filename.replace('.pdf', '').replace('.PDF', '')
+    # Convert to lowercase
+    name = name.lower()
+    # Normalize spaces and punctuation
+    name = re.sub(r'[^\w\s]', '', name)  # Remove punctuation except spaces
+    name = re.sub(r'\s+', ' ', name).strip()  # Normalize whitespace
+    return name
+
+def get_pdfs_from_csv(csv_path: str, source_dir: str):
+    """Get PDF paths from CSV filenames with improved fuzzy matching"""
+    with open(csv_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        csv_filenames = [row['Filename'].strip() for row in reader if row['Filename'].strip()]
+    
+    # Create normalized versions for matching
+    csv_normalized = [(filename, normalize_filename(filename)) for filename in csv_filenames]
+    
+    pdf_files = []
+    matched_csv_files = set()
+    
+    # Find all PDF files and try to match them
+    for root, _, files in os.walk(source_dir):
+        for file in files:
+            if file.lower().endswith('.pdf'):
+                file_path = os.path.join(root, file)
+                file_normalized = normalize_filename(file)
+                
+                # Try to find a match in CSV
+                best_match = None
+                for csv_original, csv_norm in csv_normalized:
+                    if csv_original in matched_csv_files:
+                        continue  # Skip already matched CSV files
+                    
+                    if csv_norm == file_normalized:  # Exact normalized match
+                        best_match = csv_original
+                        break
+                    elif csv_norm in file_normalized or file_normalized in csv_norm:  # Partial match
+                        best_match = csv_original
+                        break
+                    # Handle cases where CSV has extra timestamp/version info
+                    elif len(csv_norm) > len(file_normalized) and file_normalized in csv_norm:
+                        best_match = csv_original
+                        break
+                    # Handle minor typos and small differences (more conservative)
+                    elif abs(len(csv_norm) - len(file_normalized)) <= 2:
+                        # Use word-based similarity instead of character-based
+                        csv_words = set(csv_norm.split())
+                        file_words = set(file_normalized.split())
+                        
+                        if csv_words and file_words:
+                            common_words = csv_words.intersection(file_words)
+                            word_similarity = len(common_words) / len(csv_words)
+                            
+                            # Require high word overlap AND reasonable length similarity
+                            if word_similarity >= 0.6 and len(common_words) >= 2:
+                                best_match = csv_original
+                                break
+                
+                if best_match:
+                    pdf_files.append(file_path)
+                    matched_csv_files.add(best_match)
+    
+    # Report unmatched files from CSV
+    unmatched_files = [csv_file for csv_file, _ in csv_normalized if csv_file not in matched_csv_files]
+    
+    if unmatched_files:
+        print(f"Warning: {len(unmatched_files)} files from CSV not found:")
+        for missing in unmatched_files[:5]:
+            print(f"  - {missing}")
+        if len(unmatched_files) > 5:
+            print(f"  ... and {len(unmatched_files) - 5} more")
+    
+    return pdf_files
+
 def find_pdfs(start_path: str):
     """
     Recursively finds all PDF files in the given directory.
@@ -47,14 +126,24 @@ def main():
     """
     Main function to orchestrate the batch processing.
     """
+    csv_file = sys.argv[1] if len(sys.argv) > 1 else CSV_TEMPLATE
+    
     if not os.path.isdir(SOURCE_DIR):
         print(f"Error: Source directory '{SOURCE_DIR}' not found.")
         sys.exit(1)
 
-    pdf_files = list(find_pdfs(SOURCE_DIR))
+    pdf_files = get_pdfs_from_csv(csv_file, SOURCE_DIR)
     total_files = len(pdf_files)
     total_questions = len(QUESTIONS)
-    print(f"Found {total_files} PDF files to process against {total_questions} questions.")
+    print(f"Processing {total_files} PDFs from {csv_file}")
+    
+    # Track statistics
+    stats = {
+        'total_tasks': 0,
+        'successful': 0,
+        'skipped': 0,
+        'failed': 0
+    }
 
     for i, pdf_path in enumerate(pdf_files):
         # Create the corresponding output directory structure
@@ -88,8 +177,11 @@ def main():
             
             # Halt and resume functionality: skip if output already exists
             if os.path.exists(output_pdf) and os.path.exists(output_json):
-                print(f"    Skipping, output already exists.")
+                print(f"    ⏭ Skipping, output already exists.")
+                stats['skipped'] += 1
                 continue
+            
+            stats['total_tasks'] += 1
 
             # Construct the command to run highlighter.py
             command = [
@@ -102,18 +194,46 @@ def main():
             ]
 
             try:
-                # Run the command
-                subprocess.run(command, check=True, capture_output=True, text=True, encoding='utf-8')
-                print(f"    Successfully processed. Outputs saved.")
+                # For the first question of the first file, show the loading messages
+                if i == 0 and j == 0:
+                    print(f"    Running first question - showing GPU/model loading messages...")
+                    result = subprocess.run(command, check=True, text=True, encoding='utf-8')
+                else:
+                    # For subsequent questions, capture output to keep it clean
+                    result = subprocess.run(command, check=True, capture_output=True, text=True, encoding='utf-8')
+                
+                # Verify that output files were actually created
+                if os.path.exists(output_pdf) and os.path.exists(output_json):
+                    print(f"    ✓ Success")
+                    stats['successful'] += 1
+                else:
+                    print(f"    ✗ Failed - no output files created")
+                    stats['failed'] += 1
+                    
             except subprocess.CalledProcessError as e:
-                print(f"    Error processing '{pdf_path}' with question '{question[:50]}...':")
-                print(f"    Return code: {e.returncode}")
-                print(f"    Output:\n{e.stdout}")
-                print(f"    Error Output:\n{e.stderr}")
+                print(f"    ✗ Error (exit code {e.returncode})")
+                stats['failed'] += 1
+                # Show key error info only if it's not the common "no text extracted" case
+                if e.returncode != 1:  # 1 is our standard exit code for PDF processing issues
+                    if hasattr(e, 'stderr') and e.stderr and "ERROR:" in e.stderr:
+                        error_lines = [line.strip() for line in e.stderr.split('\n') if line.strip() and 'ERROR:' in line]
+                        if error_lines:
+                            print(f"    {error_lines[0]}")
             except Exception as e:
-                print(f"    An unexpected error occurred: {e}")
+                print(f"    ✗ Unexpected error: {e}")
+                stats['failed'] += 1
 
     print("\nBatch processing complete.")
+    print(f"\nSummary:")
+    print(f"  ✓ Successful: {stats['successful']}")
+    print(f"  ⏭ Skipped: {stats['skipped']}")
+    print(f"  ✗ Failed: {stats['failed']}")
+    print(f"  📊 Total processed: {stats['total_tasks']}")
+    
+    if stats['failed'] > 0:
+        print(f"\nNote: Failed tasks are typically due to malformed PDFs, missing text, or processing errors.")
+        if stats['failed'] > stats['successful']:
+            sys.exit(1)  # Exit with error code if more failures than successes
 
 if __name__ == '__main__':
     main()
