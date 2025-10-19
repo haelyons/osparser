@@ -1,0 +1,37 @@
+run:
+  name: "ecosystem_services_analysis"
+  date: "2025-10-19"
+  description: "Analysis focused on ecosystem services approaches and valuation"
+
+questions:
+  - "How are ecosystem services addressed in this assessment"
+  - "How does this assessment value ecosystem services, if at all?"
+
+keywords:
+  - "ecosystem services"
+  - "ecosystem service"
+  - "benefit"
+  - "economic value"
+  - "natural capital"
+  - "provisioning services"
+  - "regulating services"
+  - "cultural services"
+  - "supporting services"
+  - "monetary value"
+  - "non-market value"
+  - "benefit"
+  - "benefits"
+
+excluded_sections:
+  - "Key Message"
+  - "Executive Summary"
+  - "Conclusion"
+  - "Bibliography"
+  - "References"
+
+paths:
+  source_dir: "sources"
+  output_base_dir: "outputs"
+  csv_template: "results/analysis_010925_v3_clean.csv"
+
+

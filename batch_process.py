@@ -3,22 +3,7 @@ import subprocess
 import sys
 import re
 import csv
-
-QUESTIONS = [
-    "What do they say about climate change",
-    "What do they say about threats or pressures related to climate change",
-    "How does Climate Change impact species, habitats and ecosystems?",
-    "What do they say about gaps in relation to climate change",
-    "What do they recommend in relation to climate change, including issues that require further investigation and/or research?",
-    "What do they say about ocean acidification",
-    "How does Ocean Acidification impact species, habitats and ecosystems?"
-    #"How does CC affect the pressures on the marine environment?",
-    #"How does Ocean Acidification affect the pressures on the marine environment?"
-]
-
-SOURCE_DIR = 'sources'
-OUTPUT_DIR = 'outputs'
-CSV_TEMPLATE = 'results/analysis_010925_v3_clean.csv'  # Default CSV with PDFs to process
+from config import QUESTIONS, SOURCE_DIR, OUTPUT_DIR, CSV_TEMPLATE, RUN_NAME, RUN_DATE
 
 def trim_question_for_filename(question: str, max_words: int = 8) -> str:
     """
@@ -146,6 +131,14 @@ def main():
     Main function to orchestrate the batch processing.
     """
     csv_file = sys.argv[1] if len(sys.argv) > 1 else CSV_TEMPLATE
+    
+    # Display run metadata
+    print(f"=== Batch Processing Configuration ===")
+    print(f"Run Name: {RUN_NAME}")
+    print(f"Run Date: {RUN_DATE}")
+    print(f"Output Directory: {OUTPUT_DIR}")
+    print(f"Questions: {len(QUESTIONS)}")
+    print(f"======================================\n")
     
     if not os.path.isdir(SOURCE_DIR):
         print(f"Error: Source directory '{SOURCE_DIR}' not found.")

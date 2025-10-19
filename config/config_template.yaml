@@ -1,0 +1,27 @@
+run:
+  name: "run_name"
+  date: "YYYY-MM-DD"
+  description: "Description of run"
+
+questions:
+  - "Your question 1"
+  - "Your question n"
+
+keywords:
+  - "keyword1"
+  - "keywordn"
+  # Add more keywords as needed
+
+excluded_sections:
+  - "Key Message"
+  - "Executive Summary"
+  - "Conclusion"
+  - "Bibliography"
+  - "References"
+
+paths:
+  source_dir: "sources"
+  output_base_dir: "outputs"
+  csv_template: "results/analysis_010925_v3_clean.csv"
+
+

@@ -1,4 +1,4 @@
-# pip install PyMuPDF "sentence-transformers>=2.2.0" numpy torch nltk argparse json rank-bm25 
+# pip install PyMuPDF "sentence-transformers>=2.2.0" numpy torch nltk argparse json rank-bm25 PyYAML 
 
 import fitz  # PyMuPDF
 from sentence_transformers import SentenceTransformer, CrossEncoder
@@ -13,6 +13,7 @@ import re
 from rank_bm25 import BM25Okapi
 from typing import List, Dict, Any, Tuple
 from collections import defaultdict
+from config import KEYWORDS, EXCLUDED_SECTIONS
 
 try:
     nltk.data.find('tokenizers/punkt')
@@ -28,19 +29,6 @@ BI_ENCODER_MODEL = 'BAAI/bge-large-en-v1.5'
 # For the re-ranking step, we use a powerful cross-encoder
 # mixedbread-ai/mxbai-rerank-large-v1 is a top open-source performer
 CROSS_ENCODER_MODEL = 'mixedbread-ai/mxbai-rerank-large-v1'
-
-# Keywords for sparse retrieval and highlighting
-KEYWORDS = [
-    "climate change", "ocean acidification", "sea level rise", "warming",
-    "temperature increase", "carbon dioxide", "co2", "greenhouse gas",
-    "extreme weather", "marine heatwave", "hypoxia", "anoxia"
-]
-
-# Sections to exclude from processing
-EXCLUDED_SECTIONS = [
-    "Key Message", "Executive Summary", "Conclusion", 
-    "Bibliography", "References"
-]
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(f"Using device: {device}")

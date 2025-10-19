@@ -5,6 +5,7 @@ import sys
 import glob
 import anthropic
 from typing import Dict, List, Optional
+from config import QUESTIONS
 
 # Read API key from .keys file
 def get_api_key() -> str:
@@ -18,17 +19,6 @@ def get_api_key() -> str:
         raise ValueError("ANTHROPIC_API_KEY not found in .keys file")
     except FileNotFoundError:
         raise FileNotFoundError(".keys file not found. Please create it with your ANTHROPIC_API_KEY.")
-
-# Questions from batch_process.py
-QUESTIONS = [
-    "What do they say about climate change",
-    "What do they say about threats or pressures related to climate change", 
-    "How does Climate Change impact species, habitats and ecosystems?",
-    "What do they say about gaps in relation to climate change",
-    "What do they recommend in relation to climate change, including issues that require further investigation and/or research?",
-    "What do they say about ocean acidification",
-    "How does Ocean Acidification impact species, habitats and ecosystems?"
-]
 
 def get_csv_column_name(question_num: int, question_text: str) -> str:
     """

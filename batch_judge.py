@@ -19,16 +19,13 @@ import os
 from typing import Dict, List, Tuple
 from datetime import datetime
 import argparse
+from config import QUESTIONS as CONFIG_QUESTIONS
 
-# Define the 7 questions and their corresponding column indices
+# Define the questions and their corresponding column indices
+# For the new ecosystem services questions, we'll use columns 4-7
 QUESTIONS = [
-    ("What do they say about climate change", 4, 5),
-    ("What do they say about threats or pressures related to climate change", 6, 7), 
-    ("How does Climate Change impact species, habitats and ecosystems?", 8, 9),
-    ("What do they say about gaps in relation to climate change", 10, 11),
-    ("What do they recommend in relation to climate change, including issues that require further investigation and/or research?", 12, 13),
-    ("What do they say about ocean acidification", 14, 15),
-    ("How does Ocean Acidification impact species, habitats and ecosystems?", 16, 17)
+    (CONFIG_QUESTIONS[0], 4, 5),  # Question 1: approaches
+    (CONFIG_QUESTIONS[1], 6, 7),  # Question 2: valuation
 ]
 
 def load_csv_data(input_file: str) -> Tuple[List[str], List[List[str]]]:
